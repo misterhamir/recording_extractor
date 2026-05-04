@@ -1,0 +1,2769 @@
+[00:00:00 → 00:00:06]
+Mungkin mau ini dulu sih Pak, jadi kan belum kemarin-kemarin ngobrol, belum pengen tau dulu
+
+[00:00:06 → 00:00:10]
+kursi proses di sini seperti apa kan, sekarang kalau secara dokumentasi itu valid kan ya
+
+[00:00:10 → 00:00:17]
+ada banyak dokumentasi, tapi kata orang-orang banyak exceptionnya yaitu apa
+
+[00:00:17 → 00:00:22]
+kalau misal, kalau lancar mah sebenernya nggak masalah, cuma begitu ada perlukan kerenikasi X
+
+[00:00:22 → 00:00:29]
+kerenikasi X itu yang secara peluang mungkin saya mau diajarin dulu ya Pak
+
+[00:00:29 → 00:00:36]
+mungkin nanti begitu, jadi aplikasinya bisa saya bangun sesuai apa, udah cocok sama flow dari SRI
+
+[00:00:37 → 00:00:38]
+oke, jadi..
+
+[00:00:38 → 00:00:40]
+saya mau belajar itu, oke
+
+[00:00:41 → 00:00:46]
+jadi di kita itu kan kalau kaya pinjaman itu kan persis..
+
+[00:00:48 → 00:00:50]
+oke, saya buat ada dua
+
+[00:00:50 → 00:00:55]
+ada yang otomatis, ada yang case by case
+
+[00:00:55 → 00:00:56]
+oke
+
+[00:00:56 → 00:00:58]
+jadi sepemohonan itu ada yang case by case, ada otomatis
+
+[00:00:58 → 00:01:04]
+ini lebih pas kepada yang otomatis, jadi yang sudah baku
+
+[00:01:04 → 00:01:04]
+ya
+
+[00:01:06 → 00:01:08]
+sebentar Pak, askinot itu positioningnya apa ya?
+
+[00:01:08 → 00:01:09]
+sebagai penjamin
+
+[00:01:09 → 00:01:10]
+penjamin
+
+[00:01:10 → 00:01:10]
+ya
+
+[00:01:10 → 00:01:11]
+penjamin itu..
+
+[00:01:12 → 00:01:16]
+jadi penjamin itu kalau bang..
+
+[00:01:19 → 00:01:23]
+bang sama nasabah, nasabah mengajukan
+
+[00:01:23 → 00:01:23]
+ya
+
+[00:01:23 → 00:01:27]
+nasabah mengajukan pinjaman
+
+[00:01:27 → 00:01:31]
+pinjaman ini sebagian dijamin oleh askinot saya
+
+[00:01:31 → 00:01:33]
+oh..
+
+[00:01:34 → 00:01:36]
+jadi kita ini dapat..
+
+[00:01:38 → 00:01:39]
+dapat..
+
+[00:01:39 → 00:01:41]
+dapat..
+
+[00:01:41 → 00:01:42]
+tugas atau..
+
+[00:01:43 → 00:01:45]
+dapat tugas lah atau dapat bisnis
+
+[00:01:45 → 00:01:46]
+hmm..
+
+[00:01:46 → 00:01:48]
+contoh yang gampang itu kur
+
+[00:01:48 → 00:01:49]
+oke
+
+[00:01:50 → 00:01:52]
+kur itu harus dijamin
+
+[00:01:52 → 00:01:52]
+ya
+
+[00:01:53 → 00:01:56]
+karena gunanya kurang dan sebagainya, jadi dijamin lah sama..
+
+[00:01:58 → 00:01:59]
+kan begitu
+
+[00:01:59 → 00:01:59]
+tuh..
+
+[00:02:00 → 00:02:02]
+bayar premium berarti bang kasirin lalu ya?
+
+[00:02:02 → 00:02:04]
+bang harus bayar premium
+
+[00:02:04 → 00:02:07]
+kalau si nasabahnya default
+
+[00:02:07 → 00:02:09]
+tidak, dari awal harus udah harus harus bayar
+
+[00:02:09 → 00:02:13]
+kalau premium nanti akan ditanggung begitu default ya Pak ya?
+
+[00:02:13 → 00:02:13]
+ya
+
+[00:02:13 → 00:02:14]
+oh..
+
+[00:02:19 → 00:02:19]
+jadi..
+
+[00:02:19 → 00:02:20]
+hmm..
+
+[00:02:20 → 00:02:20]
+hmm..
+
+[00:02:21 → 00:02:24]
+ada dua pembayaran premium semua
+
+[00:02:25 → 00:02:26]
+terus..
+
+[00:02:28 → 00:02:31]
+pembayaran apabila ada default
+
+[00:02:31 → 00:02:31]
+hmm..
+
+[00:02:33 → 00:02:37]
+jadi ada dua jenis yang berhubungan
+
+[00:02:37 → 00:02:37]
+oke
+
+[00:02:37 → 00:02:41]
+sekarang Mas Shana mau ambil yang mana ini
+
+[00:02:41 → 00:02:42]
+ya
+
+[00:02:43 → 00:02:47]
+yang permohonan atau yang pembayaran claim
+
+[00:02:47 → 00:02:50]
+ini bagus juga ini kalau yang pembayaran claim ini
+
+[00:02:50 → 00:02:51]
+oh..
+
+[00:02:51 → 00:02:52]
+askinot ini bukan broker Pak ya?
+
+[00:02:52 → 00:02:53]
+broker
+
+[00:02:53 → 00:02:55]
+broker bukan bukan bukan broker
+
+[00:02:55 → 00:02:56]
+bukan broker
+
+[00:02:56 → 00:02:58]
+bukan broker, kalau broker..
+
+[00:02:58 → 00:03:00]
+kayaan medika gitu kaya brisma
+
+[00:03:00 → 00:03:01]
+kaya brisma itu broker
+
+[00:03:01 → 00:03:02]
+oh..
+
+[00:03:02 → 00:03:04]
+ini broker, kalau itu broker
+
+[00:03:04 → 00:03:05]
+kalau broker..
+
+[00:03:05 → 00:03:07]
+kerjanya adalah..
+
+[00:03:07 → 00:03:07]
+hmm..
+
+[00:03:09 → 00:03:10]
+sama..
+
+[00:03:12 → 00:03:13]
+satu-satunya
+
+[00:03:15 → 00:03:16]
+bang dengan nasabah
+
+[00:03:16 → 00:03:17]
+hmm..
+
+[00:03:17 → 00:03:20]
+asuransi itu di belakang broker
+
+[00:03:20 → 00:03:21]
+oh..
+
+[00:03:21 → 00:03:23]
+jadi verifikasi dokumen di broker ya?
+
+[00:03:23 → 00:03:24]
+ya..
+
+[00:03:24 → 00:03:26]
+payoutnya dia di dia
+
+[00:03:26 → 00:03:26]
+ya..
+
+[00:03:26 → 00:03:29]
+ini cuma bilang oh ini verifikasinya seperti ini
+
+[00:03:29 → 00:03:29]
+dia..
+
+[00:03:29 → 00:03:30]
+dia mau tukar..
+
+[00:03:30 → 00:03:32]
+permintaannya seperti apa ini
+
+[00:03:32 → 00:03:33]
+ini kan tinggal copy paste kesini
+
+[00:03:33 → 00:03:34]
+ya..
+
+[00:03:35 → 00:03:36]
+inilah yang dijual
+
+[00:03:36 → 00:03:36]
+oke..
+
+[00:03:39 → 00:03:42]
+kalau yang sifatnya sebut seperti ini
+
+[00:03:42 → 00:03:43]
+harusnya yang case by case
+
+[00:03:43 → 00:03:44]
+eh..
+
+[00:03:44 → 00:03:44]
+saya..
+
+[00:03:44 → 00:03:45]
+automatic cover
+
+[00:03:45 → 00:03:46]
+automatic cover
+
+[00:03:46 → 00:03:47]
+ya..
+
+[00:03:47 → 00:03:48]
+kenapa automatic cover?
+
+[00:03:48 → 00:03:50]
+karena supaya lebih mudah
+
+[00:03:50 → 00:03:51]
+praktis
+
+[00:03:51 → 00:03:51]
+kalau..
+
+[00:03:51 → 00:03:53]
+CBC itu case by case
+
+[00:03:53 → 00:03:54]
+harus pijaman-pijaman per apa..
+
+[00:03:54 → 00:03:55]
+korporasi
+
+[00:03:55 → 00:03:56]
+oke..
+
+[00:03:56 → 00:03:57]
+perorangan..
+
+[00:03:57 → 00:03:58]
+perorangan produktif
+
+[00:03:58 → 00:03:59]
+itu-itu
+
+[00:03:59 → 00:04:00]
+oh..
+
+[00:04:00 → 00:04:02]
+tapi kalau yang..
+
+[00:04:02 → 00:04:03]
+sifatnya tidak masal
+
+[00:04:03 → 00:04:05]
+nah itu pasti case by case
+
+[00:04:05 → 00:04:07]
+nggak lewat broker ya? lewat Sona ya?
+
+[00:04:07 → 00:04:08]
+nggak
+
+[00:04:08 → 00:04:09]
+kalau broker itu semua
+
+[00:04:09 → 00:04:10]
+oh semua
+
+[00:04:10 → 00:04:12]
+semua semua bisa lewat broker
+
+[00:04:12 → 00:04:13]
+oh..
+
+[00:04:13 → 00:04:15]
+mau case by case
+
+[00:04:15 → 00:04:16]
+mau..
+
+[00:04:17 → 00:04:17]
+mau case by case
+
+[00:04:17 → 00:04:19]
+di sini ada case by case
+
+[00:04:19 → 00:04:19]
+ada..
+
+[00:04:20 → 00:04:21]
+automatic..
+
+[00:04:21 → 00:04:22]
+CAC
+
+[00:04:22 → 00:04:23]
+CAC..
+
+[00:04:23 → 00:04:24]
+oh..
+
+[00:04:24 → 00:04:26]
+apa yang membedakan CAC?
+
+[00:04:27 → 00:04:29]
+CAC itu automatic cover
+
+[00:04:29 → 00:04:32]
+kayak kredit-kredit consumer potong gaji itu CAC
+
+[00:04:32 → 00:04:33]
+oh..
+
+[00:04:34 → 00:04:35]
+tapi kalau..
+
+[00:04:35 → 00:04:37]
+kredit-kredit produktif
+
+[00:04:37 → 00:04:37]
+oh..
+
+[00:04:37 → 00:04:40]
+misalnya WA, konstruksi
+
+[00:04:40 → 00:04:42]
+itu nggak bisa automatic cover
+
+[00:04:42 → 00:04:44]
+itu harus case by case, harus ada analisannya
+
+[00:04:44 → 00:04:45]
+iya iya iya iya..
+
+[00:04:45 → 00:04:47]
+nah yang membuat..
+
+[00:04:47 → 00:04:48]
+CBC sama CAC itu
+
+[00:04:48 → 00:04:51]
+adalah simplifikasi saja
+
+[00:04:51 → 00:04:52]
+hmm..
+
+[00:04:52 → 00:04:56]
+baik simplifikasi permohonan maupun simplifikasi claim
+
+[00:04:56 → 00:04:57]
+oke..
+
+[00:04:57 → 00:05:00]
+itu yang membedakan automatic
+
+[00:05:00 → 00:05:01]
+sama..
+
+[00:05:01 → 00:05:02]
+CBC.. case by case
+
+[00:05:02 → 00:05:03]
+iya..
+
+[00:05:04 → 00:05:05]
+mungkin..
+
+[00:05:05 → 00:05:07]
+boleh dijelaskan dulu aja pak, apa flow-nya ya
+
+[00:05:07 → 00:05:08]
+permohonan dan..
+
+[00:05:08 → 00:05:09]
+dan ini ya?
+
+[00:05:09 → 00:05:10]
+baik-baik
+
+[00:05:10 → 00:05:12]
+ini sebagai broker atau mau langsung?
+
+[00:05:12 → 00:05:16]
+mungkin Askrindo dulu kan, setidaknya broker cuma case by case apa cuma..
+
+[00:05:16 → 00:05:17]
+tambahan aja kan
+
+[00:05:17 → 00:05:20]
+jadi mungkin normalnya dulu tanpa broker pak
+
+[00:05:20 → 00:05:21]
+tanpa broker
+
+[00:05:22 → 00:05:26]
+kalau tanpa broker, saya kasih contoh yang paling mudah yang untuk di..
+
+[00:05:26 → 00:05:28]
+bisa dikerjakan adalah..
+
+[00:05:28 → 00:05:29]
+ini CAC?
+
+[00:05:29 → 00:05:30]
+CAC
+
+[00:05:31 → 00:05:34]
+CAC misalnya credit consumer
+
+[00:05:34 → 00:05:35]
+hmm..
+
+[00:05:35 → 00:05:36]
+konsumer apa potong gaji
+
+[00:05:36 → 00:05:37]
+oke..
+
+[00:05:38 → 00:05:42]
+berarti sudah ada dari bank sudah punya standar nih
+
+[00:05:42 → 00:05:43]
+hmm..
+
+[00:05:43 → 00:05:46]
+sorry, dari bank sudah punya ada standar sama..
+
+[00:05:46 → 00:05:48]
+nasabah ini standar nasabah apa
+
+[00:05:48 → 00:05:49]
+iya..
+
+[00:05:50 → 00:05:51]
+formulir..
+
+[00:05:52 → 00:05:53]
+formulirnya misalnya..
+
+[00:05:54 → 00:05:56]
+berperol di bank
+
+[00:05:56 → 00:05:57]
+hmm..
+
+[00:05:57 → 00:06:00]
+ada SK, ada pengangkatan
+
+[00:06:00 → 00:06:02]
+ada PKS
+
+[00:06:02 → 00:06:03]
+iya..
+
+[00:06:03 → 00:06:06]
+mungkin PKS antara instansinya nasabah ini sama..
+
+[00:06:07 → 00:06:07]
+yang..
+
+[00:06:07 → 00:06:08]
+oh oke..
+
+[00:06:10 → 00:06:12]
+istana pengangkatan, oke itu untuk..
+
+[00:06:12 → 00:06:15]
+iya dokumen dan dokumen
+
+[00:06:15 → 00:06:16]
+nanti ada under rating ya pak?
+
+[00:06:16 → 00:06:18]
+hmm..
+
+[00:06:18 → 00:06:21]
+kalau under rating itu, kalau sudah CAC
+
+[00:06:22 → 00:06:25]
+sudah CAC nanti ada under rating sudah tersistem
+
+[00:06:25 → 00:06:27]
+oh jadi nggak ada orang lagi ya?
+
+[00:06:27 → 00:06:28]
+harus mesin
+
+[00:06:28 → 00:06:29]
+dari inputannya udah keluar berapa lah?
+
+[00:06:29 → 00:06:32]
+kalau sudah inputan itu misalnya gajinya sekian
+
+[00:06:32 → 00:06:36]
+dapatnya sekian, verifikasinya sekian
+
+[00:06:36 → 00:06:37]
+nah itu sudah harus
+
+[00:06:37 → 00:06:38]
+baik mesin
+
+[00:06:38 → 00:06:40]
+ini biasanya pinjamannya yang pinjaman cicilan berarti pak?
+
+[00:06:40 → 00:06:41]
+misalnya buat beli hp gitu?
+
+[00:06:41 → 00:06:44]
+iya yang cicilan yang konsumer potong gaji itu kan
+
+[00:06:44 → 00:06:46]
+bukan overdraft yang poiskansing kan?
+
+[00:06:46 → 00:06:47]
+bukan, bukan..
+
+[00:06:47 → 00:06:50]
+jadi kan kita tadi ngomong CAC
+
+[00:06:52 → 00:06:54]
+oleh sebab itu perlu nya..
+
+[00:06:54 → 00:06:56]
+ini nih apa tadi..
+
+[00:06:56 → 00:06:59]
+format yang baku yang disepakati antara..
+
+[00:07:00 → 00:07:02]
+bank sama asuransi
+
+[00:07:02 → 00:07:03]
+oke..
+
+[00:07:03 → 00:07:07]
+ini CAC menentukan pinjaman sekali disbers atau dapat platform juga pak?
+
+[00:07:08 → 00:07:09]
+sekali disbers
+
+[00:07:09 → 00:07:10]
+oh..
+
+[00:07:10 → 00:07:13]
+kan kayak potong gaji kan sekali disbers saja
+
+[00:07:13 → 00:07:14]
+iya iya iya
+
+[00:07:14 → 00:07:15]
+gajinya berapa?
+
+[00:07:15 → 00:07:16]
+berapa misalnya?
+
+[00:07:16 → 00:07:18]
+75% dari gaji maksimum
+
+[00:07:18 → 00:07:20]
+repelman kapasiti, pokok sama bunga
+
+[00:07:20 → 00:07:21]
+sudah
+
+[00:07:22 → 00:07:23]
+tapi nggak ada platform ya?
+
+[00:07:23 → 00:07:25]
+jadi kalau mau ini gajuin lagi dia?
+
+[00:07:25 → 00:07:26]
+sekali aja
+
+[00:07:26 → 00:07:28]
+platformnya cuma sekali
+
+[00:07:28 → 00:07:30]
+ditarik penuh langsung
+
+[00:07:30 → 00:07:31]
+oh gitu ya?
+
+[00:07:31 → 00:07:33]
+jadi bukan..
+
+[00:07:33 → 00:07:34]
+oh nggak?
+
+[00:07:34 → 00:07:37]
+bukan reken itu kan konsumptif itu kan langsung ditarik penuh
+
+[00:07:37 → 00:07:39]
+untuk beli mobil, untuk beli motor
+
+[00:07:39 → 00:07:40]
+jadi nggak bisa..
+
+[00:07:40 → 00:07:42]
+jadi kalau balik nggak nggak disulang?
+
+[00:07:42 → 00:07:43]
+nggak
+
+[00:07:43 → 00:07:45]
+jadi langsung yang turun, turun, turun, turun, turun
+
+[00:07:45 → 00:07:47]
+risikannya makin turun
+
+[00:07:50 → 00:07:54]
+nah sekarang dari dokumen tersebut akan menghasilkan CAC
+
+[00:07:55 → 00:07:58]
+tadi yang saya sampaikan, mulai dari potongga
+
+[00:07:58 → 00:08:00]
+apa slicknya dulu baik, nggak
+
+[00:08:00 → 00:08:01]
+iya
+
+[00:08:01 → 00:08:03]
+kalau slick jelek udah pasti tolak
+
+[00:08:03 → 00:08:04]
+iya
+
+[00:08:05 → 00:08:06]
+slick, slick jelek
+
+[00:08:06 → 00:08:10]
+kalau berapa kena apa itu harus ada dua tabel lah misalnya
+
+[00:08:11 → 00:08:13]
+nomor satu slick, terus
+
+[00:08:13 → 00:08:16]
+ya dokumen yang bisa disampaikan lah
+
+[00:08:18 → 00:08:20]
+ada PKS nggak?
+
+[00:08:20 → 00:08:22]
+nggak ada PKS
+
+[00:08:22 → 00:08:24]
+risikannya berarti agak gede
+
+[00:08:24 → 00:08:26]
+scoring berarti kan harus buat scoring
+
+[00:08:26 → 00:08:28]
+PKSnya PKS dengan bang maksudnya ya?
+
+[00:08:28 → 00:08:29]
+PKSnya PKS dengan bang?
+
+[00:08:29 → 00:08:30]
+iya bang, dengan ini kan?
+
+[00:08:30 → 00:08:31]
+NasaBah
+
+[00:08:31 → 00:08:32]
+NasaBah
+
+[00:08:32 → 00:08:33]
+iya iya iya
+
+[00:08:33 → 00:08:35]
+dengan instansinya, kalau ini kan saya hanya nyanyi amin
+
+[00:08:35 → 00:08:36]
+oh
+
+[00:08:36 → 00:08:37]
+saya kan hanya nyanyi amin
+
+[00:08:38 → 00:08:40]
+PKS antara bang dengan persaannya ya?
+
+[00:08:40 → 00:08:41]
+iya
+
+[00:08:41 → 00:08:42]
+oke oke
+
+[00:08:42 → 00:08:45]
+saya kan hanya nyanyi amin, misalnya bang Raya dengan
+
+[00:08:46 → 00:08:47]
+Telkom lah
+
+[00:08:47 → 00:08:48]
+sama Telkom
+
+[00:08:48 → 00:08:49]
+iya
+
+[00:08:49 → 00:08:50]
+iya kan?
+
+[00:08:50 → 00:08:51]
+iya
+
+[00:08:51 → 00:08:56]
+nah, disini kan bang Raya ngasih sarat tuh dokumennya apa aja kan
+
+[00:08:56 → 00:08:59]
+slick ini gaji dan sebagainya
+
+[00:08:59 → 00:09:00]
+iya
+
+[00:09:00 → 00:09:06]
+nah, terus gaji yang berapa, risikonya berapa misalnya anak punya berapa itu kan nanti CML yang nentuin
+
+[00:09:06 → 00:09:08]
+apa aja yang dinyintin
+
+[00:09:08 → 00:09:10]
+ada PKSnya enggak? kan enggak ada PKSnya
+
+[00:09:10 → 00:09:12]
+harus potongan diri soalnya
+
+[00:09:12 → 00:09:13]
+bukan
+
+[00:09:14 → 00:09:16]
+payroll kan harus di bang Raya
+
+[00:09:16 → 00:09:17]
+harus di bang Raya
+
+[00:09:17 → 00:09:18]
+harus ada PKS enggak?
+
+[00:09:19 → 00:09:21]
+bisa jadi, Telkom ngomong begini
+
+[00:09:21 → 00:09:24]
+ah, loe yang mau kok ngapain buat PKS?
+
+[00:09:24 → 00:09:26]
+terserah, gue enggak mau
+
+[00:09:26 → 00:09:27]
+kalau mau payroll silahkan
+
+[00:09:27 → 00:09:29]
+nah, itu yang seperti gitu kan
+
+[00:09:29 → 00:09:31]
+jadi PKS itu
+
+[00:09:32 → 00:09:34]
+ada yang bisa dilakukan, ada yang tidak
+
+[00:09:34 → 00:09:35]
+ada yang tidak
+
+[00:09:35 → 00:09:36]
+keuntungannya ada PKS apa?
+
+[00:09:36 → 00:09:39]
+kalau ada PKS kan disitu ada keterikatan
+
+[00:09:39 → 00:09:41]
+perusahaan Telkomnya
+
+[00:09:41 → 00:09:44]
+terhadap nasabah, eh, terhadap pegawainya
+
+[00:09:44 → 00:09:46]
+misalnya
+
+[00:09:46 → 00:09:47]
+oh iya
+
+[00:09:47 → 00:09:49]
+kalau pindah
+
+[00:09:49 → 00:09:50]
+misalnya
+
+[00:09:50 → 00:09:52]
+kalau pindah kota, pindah mutasi
+
+[00:09:52 → 00:09:54]
+di informasikan
+
+[00:09:54 → 00:09:55]
+ada resiko itunya
+
+[00:09:55 → 00:09:57]
+iya, ada resiko itu
+
+[00:09:57 → 00:10:00]
+tapi kalau enggak ada di PKS, enggak di bunuhkan
+
+[00:10:00 → 00:10:02]
+ya suka-suka ya kamu cari-cari sendiri gitu
+
+[00:10:02 → 00:10:03]
+iya
+
+[00:10:04 → 00:10:07]
+jadi saya menjaminkan juga beresiko
+
+[00:10:09 → 00:10:10]
+ini sambungannya itu
+
+[00:10:10 → 00:10:11]
+iya, iya, iya
+
+[00:10:13 → 00:10:16]
+nah, dari sini akan menghasilkan CRR kanan
+
+[00:10:16 → 00:10:18]
+resiko enggak masuklah disini
+
+[00:10:18 → 00:10:19]
+clear ya
+
+[00:10:19 → 00:10:20]
+clear
+
+[00:10:20 → 00:10:23]
+saya menjamin juga ngomong
+
+[00:10:25 → 00:10:28]
+kalau payrollnya pindah, aku enggak mau claim
+
+[00:10:29 → 00:10:32]
+kalau payrollnya pindah ke Telkom, mindahin loe ya
+
+[00:10:32 → 00:10:33]
+iya
+
+[00:10:33 → 00:10:34]
+enggak mau
+
+[00:10:35 → 00:10:37]
+misalnya PKS tau-tau
+
+[00:10:37 → 00:10:39]
+perol Telkom enggak mau
+
+[00:10:41 → 00:10:43]
+enggak mau melanjutkan PKS
+
+[00:10:45 → 00:10:46]
+gitu ya
+
+[00:10:46 → 00:10:48]
+seperti bagi itu
+
+[00:10:48 → 00:10:49]
+yang di luar
+
+[00:10:49 → 00:10:51]
+yang harus ada itu
+
+[00:10:51 → 00:10:53]
+nah, timbang mengajukan ke mana ya?
+
+[00:10:54 → 00:10:55]
+dari awal kan
+
+[00:10:55 → 00:10:58]
+ini kan dari awal harus sudah ada PKS semua, oke
+
+[00:10:59 → 00:11:00]
+oke
+
+[00:11:00 → 00:11:01]
+untuk itu kan
+
+[00:11:01 → 00:11:02]
+dia cari
+
+[00:11:02 → 00:11:03]
+bang kan cari
+
+[00:11:03 → 00:11:04]
+siapa yang mau jamin ini?
+
+[00:11:04 → 00:11:06]
+kalau dia nggak bayar
+
+[00:11:07 → 00:11:08]
+nah, cari asuransi kan
+
+[00:11:08 → 00:11:09]
+iya
+
+[00:11:09 → 00:11:11]
+temkondisinya kayak apa?
+
+[00:11:11 → 00:11:12]
+iya
+
+[00:11:12 → 00:11:13]
+di sini lah temkondisinya
+
+[00:11:13 → 00:11:17]
+saya sebagai masamam, sebagai penjamin kan harus
+
+[00:11:17 → 00:11:19]
+tau temkondisinya apa aja pak Eko
+
+[00:11:22 → 00:11:23]
+apa sarat claimnya?
+
+[00:11:23 → 00:11:24]
+iya, iya, iya
+
+[00:11:24 → 00:11:25]
+yang nggak claim seperti apa?
+
+[00:11:25 → 00:11:26]
+yang claim seperti apa?
+
+[00:11:26 → 00:11:27]
+itulah
+
+[00:11:28 → 00:11:31]
+berarti asuransi itu menjaminnya satu produk ya?
+
+[00:11:31 → 00:11:32]
+bukan satu
+
+[00:11:32 → 00:11:33]
+enggak, satu produk aja
+
+[00:11:33 → 00:11:36]
+satu case, satu produk
+
+[00:11:36 → 00:11:37]
+iya kan
+
+[00:11:37 → 00:11:39]
+satu produk dan supnya saja
+
+[00:11:39 → 00:11:40]
+iya, iya, iya
+
+[00:11:41 → 00:11:43]
+jadi nggak usah per ini bikin asuransi baru kan
+
+[00:11:43 → 00:11:44]
+per perlajuannya
+
+[00:11:44 → 00:11:45]
+enggak, enggak
+
+[00:11:45 → 00:11:46]
+udah satu grup kan
+
+[00:11:46 → 00:11:47]
+iya, satu grup produk
+
+[00:11:47 → 00:11:48]
+satu
+
+[00:11:49 → 00:11:51]
+jadi bukan kayak bilet depositus
+
+[00:11:51 → 00:11:53]
+enggak, ini grup kita ada
+
+[00:11:53 → 00:11:54]
+iya, iya
+
+[00:11:54 → 00:11:56]
+selama berapa tahun lah adanya
+
+[00:11:56 → 00:11:57]
+iya
+
+[00:12:00 → 00:12:01]
+kan begini kan
+
+[00:12:01 → 00:12:02]
+iya, iya
+
+[00:12:03 → 00:12:04]
+di sini ada underwriting lagi pak
+
+[00:12:04 → 00:12:06]
+setelah dapat info dari bang
+
+[00:12:06 → 00:12:12]
+nah underwriting saya kan saya membuat tabel CRR sendiri juga kan
+
+[00:12:12 → 00:12:13]
+oke
+
+[00:12:13 → 00:12:16]
+di sini punya CRR, di sini punya CRN
+
+[00:12:16 → 00:12:19]
+nah biasa kita klopkan nih CRN sama CRR-nya nih
+
+[00:12:19 → 00:12:22]
+supaya nggak beda opini
+
+[00:12:23 → 00:12:25]
+menurut dia 5 bagus
+
+[00:12:25 → 00:12:27]
+menurut kita 5 cukup kan nggak
+
+[00:12:27 → 00:12:29]
+iya, iya, iya
+
+[00:12:31 → 00:12:34]
+harus kita dekatkan gitu loh
+
+[00:12:34 → 00:12:35]
+iya
+
+[00:12:35 → 00:12:37]
+jangan terlalu bias gitu loh
+
+[00:12:38 → 00:12:41]
+misalnya usia kurang 5 tahun pensiun
+
+[00:12:41 → 00:12:43]
+beresiko, berarti kreditenya cuma 4 tahun
+
+[00:12:43 → 00:12:45]
+iya, iya, iya
+
+[00:12:46 → 00:12:49]
+preminya itu dibayar sekali di depan?
+
+[00:12:49 → 00:12:50]
+sekali
+
+[00:12:50 → 00:12:51]
+oh bukan bulanan?
+
+[00:12:51 → 00:12:52]
+bukan
+
+[00:12:52 → 00:12:53]
+oke
+
+[00:12:53 → 00:12:54]
+ini saya lihat-lihat
+
+[00:12:54 → 00:12:57]
+tapi di sini nanti pembukuhannya bulanan atau apa saya nggak ngerti
+
+[00:12:57 → 00:12:58]
+iya, iya, iya
+
+[00:12:58 → 00:12:59]
+di asuransinya
+
+[00:12:59 → 00:13:00]
+oke
+
+[00:13:02 → 00:13:03]
+oke
+
+[00:13:03 → 00:13:04]
+gitu ya
+
+[00:13:04 → 00:13:05]
+iya
+
+[00:13:05 → 00:13:08]
+ini saya, ini yang pasti ya seperti ini kalau mau dibuat sistem
+
+[00:13:08 → 00:13:09]
+ini permohonan ya?
+
+[00:13:09 → 00:13:10]
+permohonan
+
+[00:13:10 → 00:13:11]
+oke, kalau claim
+
+[00:13:11 → 00:13:13]
+nah kalau claim
+
+[00:13:16 → 00:13:18]
+claim ini harus masuk di TC kan
+
+[00:13:18 → 00:13:19]
+terdapat kondisinya
+
+[00:13:19 → 00:13:20]
+iya
+
+[00:13:20 → 00:13:21]
+apa syaratnya?
+
+[00:13:21 → 00:13:22]
+payrollnya masih
+
+[00:13:22 → 00:13:23]
+iya
+
+[00:13:23 → 00:13:25]
+semuanya masih
+
+[00:13:26 → 00:13:28]
+loh kok dia nggak bayar? kok nggak bisa ketage?
+
+[00:13:28 → 00:13:30]
+iya, begitu
+
+[00:13:30 → 00:13:31]
+oh
+
+[00:13:31 → 00:13:33]
+karena dia
+
+[00:13:35 → 00:13:36]
+gajinya turun
+
+[00:13:36 → 00:13:41]
+loh kenapa turun? karena dia sudah tidak menjabat fungsional lagi misalnya
+
+[00:13:41 → 00:13:42]
+iya
+
+[00:13:43 → 00:13:44]
+apa gimana ya?
+
+[00:13:44 → 00:13:46]
+masuk nggak di TC kita ini?
+
+[00:13:46 → 00:13:47]
+iya
+
+[00:13:47 → 00:13:48]
+ya itu aja
+
+[00:13:48 → 00:13:49]
+kalau memang
+
+[00:13:49 → 00:13:51]
+kita menjamin turun gaji
+
+[00:13:54 → 00:13:55]
+menunggak
+
+[00:13:55 → 00:13:56]
+ya kita claim
+
+[00:13:57 → 00:13:59]
+kita setuju ya kita terima claim yang kita bayarkan
+
+[00:13:59 → 00:14:00]
+oh iya, iya, iya
+
+[00:14:01 → 00:14:02]
+tetapi
+
+[00:14:03 → 00:14:08]
+kita ini antara ke asuransi dengan bank
+
+[00:14:08 → 00:14:13]
+kalau sudah kita claim, kita bayar claimnya
+
+[00:14:14 → 00:14:15]
+kalau dia ngangsur
+
+[00:14:16 → 00:14:18]
+harus masuk ke sini, ke asuransi
+
+[00:14:19 → 00:14:25]
+karena Mas Hamam sudah atas nunggaknya ayah misalnya
+
+[00:14:26 → 00:14:27]
+claim kan, oke
+
+[00:14:27 → 00:14:28]
+nggak
+
+[00:14:28 → 00:14:29]
+tak bayar
+
+[00:14:29 → 00:14:30]
+oke
+
+[00:14:30 → 00:14:33]
+tapi kalau ayah ngeceli terus ya, belum ya, setelah itu harus balik ke saya
+
+[00:14:33 → 00:14:37]
+oh, berarti claim itu bank yang minta ya?
+
+[00:14:37 → 00:14:39]
+bank yang minta, bank yang ngajuin
+
+[00:14:39 → 00:14:43]
+oh bank ngajuin, tapi begitu ternyata setelah ngajuin, sini masih bayar ngangsurannya
+
+[00:14:43 → 00:14:44]
+masih atau nggak kan? gitu kan
+
+[00:14:44 → 00:14:45]
+iya, iya
+
+[00:14:45 → 00:14:47]
+kalau masih bayar ya, proporsional dong
+
+[00:14:47 → 00:14:48]
+iya, iya
+
+[00:14:48 → 00:14:51]
+atas claim tersebut itu saya mau berapa? gitu kan
+
+[00:14:51 → 00:14:55]
+kenapa bank minta claim padahal masalah masih ngangsur pak?
+
+[00:14:56 → 00:14:57]
+bisa jadi begini
+
+[00:15:01 → 00:15:07]
+masak bank minta, sorry bank minta claim, masih diperan asal perbayar
+
+[00:15:08 → 00:15:09]
+bayarnya kan nggak bisa full
+
+[00:15:09 → 00:15:10]
+oh
+
+[00:15:11 → 00:15:13]
+kan tadi turun penghasil
+
+[00:15:13 → 00:15:15]
+iya, iya, iya, turun ngangsurannya
+
+[00:15:16 → 00:15:23]
+harus yang bayar 120, karena turun tundangan, dia hanya bayar 70
+
+[00:15:23 → 00:15:27]
+lungak-lungak terus kan, claim aja dah, dah, dah
+
+[00:15:27 → 00:15:30]
+ibarat claim itu minta talangan
+
+[00:15:30 → 00:15:31]
+iya, iya, iya
+
+[00:15:31 → 00:15:33]
+kan ditalangi, minta talang hidup
+
+[00:15:34 → 00:15:36]
+dibayarnya full berarti ya?
+
+[00:15:36 → 00:15:40]
+ah, ini tadi kesepakatan kan tadi
+
+[00:15:40 → 00:15:44]
+kesepakatan adalah, ya tentu sisanya
+
+[00:15:45 → 00:15:49]
+nggak boleh dari awal, kan udah dibayar mas amam udah bayar
+
+[00:15:49 → 00:15:50]
+beberapa
+
+[00:15:50 → 00:15:53]
+beberapa, ya claimnya ya sisanya
+
+[00:15:53 → 00:15:59]
+begitu nggak full, yang dibayar, yang didisberas oleh asuransi fullnya apa sisa dari nggak fullnya pak?
+
+[00:15:59 → 00:16:02]
+oh nggak, kalau claim itu sekaligus
+
+[00:16:02 → 00:16:03]
+oh sampai ujung
+
+[00:16:03 → 00:16:05]
+sampai ujung, sampai belakang
+
+[00:16:05 → 00:16:08]
+oh, cuma berarti nanti angsurannya belok
+
+[00:16:08 → 00:16:10]
+iya, angsurannya dibelok
+
+[00:16:11 → 00:16:13]
+terus yang kedua, ini tadi
+
+[00:16:13 → 00:16:18]
+berapa claim, kalau di kami, di penjaminan, claim itu nggak bisa 100%
+
+[00:16:18 → 00:16:19]
+iya, iya, iya
+
+[00:16:19 → 00:16:21]
+penjaminan itu berarti ada resering
+
+[00:16:21 → 00:16:23]
+30, 70
+
+[00:16:23 → 00:16:24]
+iya, iya, iya
+
+[00:16:24 → 00:16:29]
+jadi kalau ada sisa tugaan 1M misalnya
+
+[00:16:29 → 00:16:31]
+saya hanya 700
+
+[00:16:31 → 00:16:33]
+iya, iya, iya
+
+[00:16:35 → 00:16:39]
+kalau dokumennya, berarti apa aja pak yang dicek cerifikasi untuk pemahami dia
+
+[00:16:39 → 00:16:41]
+apa sesuai TNC ya pak?
+
+[00:16:42 → 00:16:43]
+TNC ya
+
+[00:16:43 → 00:16:44]
+ya TNC ya
+
+[00:16:45 → 00:16:50]
+yang pertama, ya ini saya sebagai asuransi
+
+[00:16:50 → 00:16:52]
+sama
+
+[00:16:55 → 00:17:00]
+bang, saya ini minta slicknya call berapa?
+
+[00:17:00 → 00:17:01]
+itu kan di awal pas pengen nanti
+
+[00:17:01 → 00:17:04]
+ya itu kan lancar, kalau claim berarti kan slicknya jelek
+
+[00:17:04 → 00:17:05]
+untuk bukti menunggak
+
+[00:17:05 → 00:17:07]
+iya, iya, oh minta lagi berarti
+
+[00:17:07 → 00:17:08]
+iya
+
+[00:17:08 → 00:17:10]
+minta slick lagi, oke
+
+[00:17:10 → 00:17:12]
+slick bukti nunggak
+
+[00:17:12 → 00:17:15]
+berarti kan slick, sudah berapa lama slicknya, modu atur
+
+[00:17:15 → 00:17:18]
+oh menunggak sudah call berapa? call 5
+
+[00:17:18 → 00:17:19]
+iya, iya, iya
+
+[00:17:19 → 00:17:22]
+claimnya call 5 apa call 2? itu tergantung kesepakatan
+
+[00:17:22 → 00:17:23]
+iya, iya, iya
+
+[00:17:23 → 00:17:25]
+kesepakatan asuransi sama pak
+
+[00:17:25 → 00:17:26]
+oh
+
+[00:17:26 → 00:17:28]
+slick apa lagi pak? misalnya, cuma slick aja?
+
+[00:17:28 → 00:17:30]
+slick terus
+
+[00:17:30 → 00:17:32]
+misalnya
+
+[00:17:32 → 00:17:35]
+kalau tadi turun gaji tidak ada apa?
+
+[00:17:35 → 00:17:39]
+tunjangan fungsinalnya, berarti slick gajinya kan harus dilanggar
+
+[00:17:39 → 00:17:40]
+oh
+
+[00:17:40 → 00:17:42]
+semula menjadi kan
+
+[00:17:42 → 00:17:44]
+iya
+
+[00:17:46 → 00:17:47]
+apa apa?
+
+[00:17:47 → 00:17:51]
+semula menjadi lagi slick, terus misalnya
+
+[00:17:51 → 00:17:54]
+dia menjabatkan, berarti ada SK
+
+[00:17:54 → 00:17:57]
+SK mutasi misalnya
+
+[00:17:57 → 00:17:58]
+iya
+
+[00:17:59 → 00:18:01]
+oke, ini yang CAC semua kan?
+
+[00:18:01 → 00:18:03]
+ini CAC, kita ngomong CAC
+
+[00:18:03 → 00:18:04]
+iya
+
+[00:18:05 → 00:18:08]
+berarti utama yang slick, ini verifikasinya sudah by machine ya?
+
+[00:18:08 → 00:18:10]
+jadi tinggal upload, sudah otomatis
+
+[00:18:10 → 00:18:14]
+iya, iya, harusnya makanya kan harus dibuat
+
+[00:18:14 → 00:18:15]
+oh
+
+[00:18:15 → 00:18:19]
+dibuat rumah gitu, jadi kalau ngajukan terkumpul syaratnya ini
+
+[00:18:19 → 00:18:21]
+ini layak claim, ini layak
+
+[00:18:21 → 00:18:22]
+sekarang pasti belum ada pak?
+
+[00:18:22 → 00:18:23]
+hmm?
+
+[00:18:23 → 00:18:25]
+boy system belum ada?
+
+[00:18:25 → 00:18:27]
+dia sering dodeh
+
+[00:18:28 → 00:18:31]
+untuk memeriksa ketentuan ini dengan
+
+[00:18:31 → 00:18:35]
+dengan TSTC dan dokumen terlambil untuk claim
+
+[00:18:38 → 00:18:41]
+sebentar, ada ya
+
+[00:18:48 → 00:18:50]
+apa pengembangan ya, saya nggak ngerti
+
+[00:18:50 → 00:18:51]
+oh iya
+
+[00:18:51 → 00:18:52]
+aku nggak ngerti
+
+[00:18:52 → 00:18:54]
+tapi kalau yang brisma
+
+[00:18:54 → 00:18:57]
+itu antara BRIN dan BRI
+
+[00:18:57 → 00:18:59]
+itu sudah
+
+[00:18:59 → 00:19:01]
+sudah upload-uploadnya sudah ada
+
+[00:19:01 → 00:19:02]
+oh
+
+[00:19:03 → 00:19:05]
+upload ini, di upload ini ya
+
+[00:19:05 → 00:19:08]
+tinggal persetujuan juga harus ada, disetujuan itu tidak
+
+[00:19:08 → 00:19:09]
+iya, iya
+
+[00:19:09 → 00:19:10]
+itu belum di BRIN?
+
+[00:19:10 → 00:19:11]
+belum
+
+[00:19:12 → 00:19:13]
+yang seperti itu belum
+
+[00:19:13 → 00:19:14]
+iya, iya, iya
+
+[00:19:15 → 00:19:20]
+jadi kalau yang paling menarik adalah
+
+[00:19:21 → 00:19:25]
+dari proses awal ini, harusnya di proses awal ini
+
+[00:19:26 → 00:19:31]
+sampai akhir, akhir itu kalau ada claim itu terus
+
+[00:19:32 → 00:19:33]
+tertres
+
+[00:19:33 → 00:19:34]
+tertres terus, harusnya
+
+[00:19:34 → 00:19:35]
+iya
+
+[00:19:35 → 00:19:39]
+bukan ini sampai ini selesai, oh nanti buat lagi ini kesini
+
+[00:19:39 → 00:19:40]
+orang claim
+
+[00:19:40 → 00:19:41]
+iya
+
+[00:19:41 → 00:19:43]
+jadi kalau saya
+
+[00:19:43 → 00:19:46]
+di, kalau saya apa di temak saya
+
+[00:19:47 → 00:19:49]
+terhadap pinjaman mas amam
+
+[00:19:50 → 00:19:53]
+dari lancar sampai lunas
+
+[00:19:54 → 00:19:55]
+itu ada
+
+[00:19:57 → 00:19:59]
+lancar sampai lunas karena
+
+[00:20:00 → 00:20:01]
+restaurant
+
+[00:20:02 → 00:20:07]
+atau karena sekedar bayar itu terangut dulu
+
+[00:20:07 → 00:20:08]
+oh, case baiknya banyak juga ya
+
+[00:20:08 → 00:20:09]
+apa?
+
+[00:20:09 → 00:20:10]
+ada case, ada case lancar
+
+[00:20:10 → 00:20:13]
+case, case lancarnya itu banyak, macem-macem
+
+[00:20:15 → 00:20:16]
+oke
+
+[00:20:18 → 00:20:19]
+oke
+
+[00:20:23 → 00:20:25]
+oh, claim kan sudah
+
+[00:20:27 → 00:20:29]
+terus bayarnya kemana, butinya apa
+
+[00:20:30 → 00:20:32]
+sudah bayar kan?
+
+[00:20:32 → 00:20:33]
+sudah
+
+[00:20:33 → 00:20:35]
+belum dapat bayar
+
+[00:20:37 → 00:20:39]
+pada waktu
+
+[00:20:39 → 00:20:42]
+dengan nasabah mas amam, nyi jel-nyi jel tadi
+
+[00:20:43 → 00:20:44]
+itu nanya-nanya subru
+
+[00:20:45 → 00:20:47]
+subru gasi atau recovery
+
+[00:20:48 → 00:20:50]
+mana setelahnya
+
+[00:20:50 → 00:20:51]
+iya
+
+[00:20:51 → 00:20:54]
+haknya tadi harus pecah dong 30 bank
+
+[00:20:54 → 00:20:55]
+iya
+
+[00:20:55 → 00:20:56]
+70 saya, iya
+
+[00:20:56 → 00:20:57]
+yang dari start itu itu
+
+[00:20:57 → 00:20:58]
+sampai dengan klop
+
+[00:20:59 → 00:21:00]
+klop itu apa?
+
+[00:21:00 → 00:21:01]
+klop sampai dengan lunas
+
+[00:21:01 → 00:21:02]
+oh lunas
+
+[00:21:02 → 00:21:05]
+saya, claim saya 70% saya terbayar
+
+[00:21:05 → 00:21:06]
+iya, iya, iya
+
+[00:21:08 → 00:21:12]
+nah, jadi dari proses awal, pengajuan
+
+[00:21:12 → 00:21:13]
+pengajuan
+
+[00:21:15 → 00:21:18]
+pengajuan penyaminan sampai dengan
+
+[00:21:20 → 00:21:22]
+clean, pengajuan clean
+
+[00:21:23 → 00:21:25]
+sampai dengan clean
+
+[00:21:27 → 00:21:30]
+terus pengajuan, perlaporan recovery
+
+[00:21:31 → 00:21:33]
+betul ya, sampai dengan lunas
+
+[00:21:34 → 00:21:37]
+nah, itu yang CHC berarti sudah selesai sekelnya pak ya
+
+[00:21:37 → 00:21:38]
+iya
+
+[00:21:38 → 00:21:40]
+nah, sekarang kalau kita tambah brisma yang beda apa pak
+
+[00:21:41 → 00:21:44]
+brisma yang di depan, brismanya di depan
+
+[00:21:44 → 00:21:46]
+ini tinggal kesininya saja
+
+[00:21:47 → 00:21:50]
+dia yang memverifikasi dokumen full
+
+[00:21:50 → 00:21:53]
+dia yang memverifikasi dokumen full
+
+[00:21:53 → 00:21:56]
+permohonan tapi dari bank ke langsung asuransi apa terhadap brisma
+
+[00:21:57 → 00:22:02]
+bisa langsung, bisa, bisa langsung, bisa melalui, tergantung kesepakatan
+
+[00:22:03 → 00:22:04]
+brisma untungnya dari mana pak?
+
+[00:22:05 → 00:22:11]
+untungnya adalah brisma ini dikasih brokerage fee
+
+[00:22:11 → 00:22:12]
+brokerage fee
+
+[00:22:12 → 00:22:13]
+bayarnya per apa pak?
+
+[00:22:13 → 00:22:17]
+bayarnya per police
+
+[00:22:17 → 00:22:18]
+bukan per claim
+
+[00:22:19 → 00:22:20]
+bukan, per pengajuan kan
+
+[00:22:21 → 00:22:25]
+ini hanya broker aja, broker ini cuma lumayan lewat
+
+[00:22:25 → 00:22:27]
+saya dapat brokernya sendiri saja
+
+[00:22:27 → 00:22:30]
+jadi brisma itu jualan juga pak untuk
+
+[00:22:30 → 00:22:31]
+jualan?
+
+[00:22:31 → 00:22:34]
+jualan barangnya dia, barangnya asuransi ini
+
+[00:22:34 → 00:22:35]
+barangnya asuransi
+
+[00:22:35 → 00:22:38]
+tapi dia verifikator juga, kalau
+
+[00:22:38 → 00:22:39]
+iya
+
+[00:22:43 → 00:22:45]
+kalau boleh tahu berapa fee nya?
+
+[00:22:45 → 00:22:47]
+fee nya kalau
+
+[00:22:47 → 00:22:51]
+kalau ya, kalau sekarang ketentuan OJK itu 10%
+
+[00:22:51 → 00:22:52]
+dari total police?
+
+[00:22:52 → 00:22:53]
+premium
+
+[00:22:53 → 00:22:54]
+10% premium?
+
+[00:22:54 → 00:22:55]
+iya
+
+[00:22:57 → 00:22:58]
+maksimum
+
+[00:22:58 → 00:22:59]
+maksimum
+
+[00:22:59 → 00:23:00]
+iya
+
+[00:23:01 → 00:23:04]
+tapi kosnya dia orang gaji biasa, overhead
+
+[00:23:04 → 00:23:06]
+oh iya, orang brokerage
+
+[00:23:06 → 00:23:07]
+fee nya dari
+
+[00:23:08 → 00:23:12]
+tapi kalau brisma berarti cuma produk asuransi bang aja pak ya? dia nggak tersehatan kan?
+
+[00:23:12 → 00:23:13]
+semua
+
+[00:23:13 → 00:23:14]
+semua? semua
+
+[00:23:15 → 00:23:16]
+oh itu beda-beda sama prosesnya?
+
+[00:23:17 → 00:23:19]
+oh prosesnya kurang lebih sama
+
+[00:23:19 → 00:23:21]
+oh itu? prosesnya kurang lebih sama
+
+[00:23:21 → 00:23:22]
+asuransi kesehatan sama pak?
+
+[00:23:22 → 00:23:25]
+asuransi kesehatan kan sama, tinggal formulirnya apa kan?
+
+[00:23:26 → 00:23:32]
+apa perlu lah asuransi keterangan, hasil laboratorium, cek apa laboratorium
+
+[00:23:33 → 00:23:34]
+oh yang beda jenis dokumennya aja pak?
+
+[00:23:34 → 00:23:36]
+iya kan dokumennya aja
+
+[00:23:36 → 00:23:37]
+iya iya iya
+
+[00:23:37 → 00:23:39]
+mau asuransi kebakaran berarti
+
+[00:23:39 → 00:23:45]
+berarti asuransi mobil ya berarti ada objeknya mobil, berarti STMK, ini BKB kan begitu
+
+[00:23:45 → 00:23:46]
+iya iya iya
+
+[00:23:47 → 00:23:48]
+disesuaikan
+
+[00:23:49 → 00:23:52]
+tapi sama ya permohonan, claim udah gitu aja prosesnya
+
+[00:23:52 → 00:23:53]
+permohonan
+
+[00:23:53 → 00:23:54]
+underwriting
+
+[00:23:55 → 00:23:56]
+underwriting
+
+[00:23:57 → 00:23:58]
+claim
+
+[00:23:59 → 00:24:00]
+periksa claim
+
+[00:24:00 → 00:24:01]
+setuju tidak
+
+[00:24:01 → 00:24:02]
+periksa claim itu apa?
+
+[00:24:02 → 00:24:04]
+claim, diperklaimnya, di setuju atau tidak
+
+[00:24:04 → 00:24:05]
+iya iya iya
+
+[00:24:06 → 00:24:10]
+misalnya tadi kesehatan karena dia bunuh diri, sudah enggak kan
+
+[00:24:11 → 00:24:13]
+atau kan minum racon dia, enggak
+
+[00:24:14 → 00:24:18]
+berarti intinya cuma membandingkan, pada intinya membandingkan TC sama dokumen
+
+[00:24:18 → 00:24:20]
+iya itu itu iya itu aja
+
+[00:24:20 → 00:24:21]
+iya itu aja benar juga pak
+
+[00:24:21 → 00:24:22]
+kesepakatan ini apa?
+
+[00:24:22 → 00:24:25]
+nah setelah claim, bayar
+
+[00:24:27 → 00:24:34]
+harus ada pengawasan atau register monitoring terhadap recovery-nya
+
+[00:24:35 → 00:24:37]
+jadi harus satu
+
+[00:24:37 → 00:24:38]
+recovery itu itu apa ya pak?
+
+[00:24:38 → 00:24:41]
+recovery adalah kalau orang yang bayar atau keluarganya bayar
+
+[00:24:41 → 00:24:42]
+oh iya iya
+
+[00:24:42 → 00:24:44]
+tapi kan asuransi kesehatan enggak ada recovery pak?
+
+[00:24:44 → 00:24:47]
+recovery ya asuransi kesehatan ada atau tidak
+
+[00:24:47 → 00:24:52]
+biasanya orang sudah dengan sadar dia asuransi terus dibayar ya udah gitu enggak ada recovery lagi kan
+
+[00:24:54 → 00:24:55]
+paling kopi
+
+[00:24:55 → 00:24:56]
+oh iya iya
+
+[00:24:56 → 00:24:58]
+kalau asuransi jiwa iya
+
+[00:24:58 → 00:25:01]
+kalau kalau asuransi bank ada ya recovery
+
+[00:25:01 → 00:25:02]
+ada
+
+[00:25:02 → 00:25:04]
+oh bedanya itu berarti iya iya pak
+
+[00:25:05 → 00:25:09]
+kalau kapal kerugian ya rugi, enggak ada recovery
+
+[00:25:15 → 00:25:16]
+jadi merger apa hari kemarin?
+
+[00:25:16 → 00:25:17]
+hmm?
+
+[00:25:17 → 00:25:18]
+jadi merger udah?
+
+[00:25:18 → 00:25:19]
+ini kalau
+
+[00:25:19 → 00:25:21]
+nunggu April ini
+
+[00:25:21 → 00:25:22]
+oh jadi April
+
+[00:25:22 → 00:25:23]
+April
+
+[00:25:25 → 00:25:27]
+due diligence-nya April
+
+[00:25:29 → 00:25:32]
+kalau jadi atau enggak, ini punya suka
+
+[00:25:32 → 00:25:34]
+pemerintah kayak gini
+
+[00:25:36 → 00:25:39]
+apa berarti dari 10% premium itu enggak dapat apa lagi udah?
+
+[00:25:39 → 00:25:40]
+enggak dapat
+
+[00:25:40 → 00:25:44]
+oh berarti harus selalu cari kontrak-kontrak baru ya?
+
+[00:25:44 → 00:25:47]
+oh iya kalau promen harus cari kontrak baru, bisnis baru juga
+
+[00:25:48 → 00:25:49]
+iya iya
+
+[00:25:53 → 00:25:55]
+harus harus cari baru juga
+
+[00:25:57 → 00:26:01]
+sorry pak izinkan lo brisma untuk misalnya asuransi jiwa
+
+[00:26:01 → 00:26:03]
+dia berarti dia yang tak tekan dengan rumah sakit ya?
+
+[00:26:03 → 00:26:05]
+kalau ada claim dari
+
+[00:26:05 → 00:26:07]
+tidak tidak
+
+[00:26:07 → 00:26:11]
+kalau asuransi jiwa dia itu
+
+[00:26:11 → 00:26:13]
+sebagai broker
+
+[00:26:13 → 00:26:15]
+eh gini
+
+[00:26:15 → 00:26:17]
+sorry asuransi jiwa
+
+[00:26:17 → 00:26:19]
+kalau brisma menang
+
+[00:26:19 → 00:26:21]
+ya kalau brisma menang
+
+[00:26:23 → 00:26:24]
+dia yang urusin
+
+[00:26:24 → 00:26:26]
+jadi urusin claim
+
+[00:26:26 → 00:26:28]
+jadi ada rip dari
+
+[00:26:28 → 00:26:30]
+kantor misalnya bang agro
+
+[00:26:30 → 00:26:32]
+agro pegawenya
+
+[00:26:33 → 00:26:34]
+itu
+
+[00:26:34 → 00:26:36]
+yang handle
+
+[00:26:37 → 00:26:39]
+yang handle broker
+
+[00:26:39 → 00:26:41]
+jadi dia yang oh brisma tuh jual ke bank ya?
+
+[00:26:41 → 00:26:47]
+bukan ke asuransi kan kalau misalnya kayak artmedica dia jual ke aliansi-nya
+
+[00:26:47 → 00:26:49]
+aliansi-nya iya aliansi-nya
+
+[00:26:50 → 00:26:53]
+saya nyari misalnya dana pensiun
+
+[00:26:53 → 00:26:55]
+atau perusahaannya dana pensiun
+
+[00:26:55 → 00:26:58]
+untuk asuransi kesehatan ya ada, saya cariin
+
+[00:26:59 → 00:27:01]
+saya cari
+
+[00:27:02 → 00:27:05]
+ke asuransi alian semua apa mau
+
+[00:27:06 → 00:27:08]
+tapi kontraknya dengan ini ya?
+
+[00:27:08 → 00:27:13]
+kontraknya brisma atau kontraknya dengan si perusahaan dana pensiun ya?
+
+[00:27:14 → 00:27:16]
+kontraknya
+
+[00:27:16 → 00:27:18]
+dapat uangnya dari dana pensiun kan?
+
+[00:27:18 → 00:27:19]
+oh iya
+
+[00:27:19 → 00:27:21]
+saya dapatnya dari alian
+
+[00:27:21 → 00:27:22]
+oh dari alian
+
+[00:27:22 → 00:27:24]
+karena saya nyariin dia kan?
+
+[00:27:24 → 00:27:26]
+oh
+
+[00:27:28 → 00:27:29]
+iya iya iya
+
+[00:27:29 → 00:27:30]
+kontraknya dengan aliansi juga?
+
+[00:27:30 → 00:27:31]
+apa?
+
+[00:27:31 → 00:27:33]
+kontraknya dengan aliansi juga ya kontraknya?
+
+[00:27:33 → 00:27:34]
+kontraknya
+
+[00:27:34 → 00:27:38]
+enggak kontraknya direct antara alian sama dana pensiun
+
+[00:27:38 → 00:27:40]
+tertanggung dana pensiun
+
+[00:27:40 → 00:27:44]
+oh cuma masalah claim aliansi-nya minta tolong brisma untuk mengurusinya
+
+[00:27:44 → 00:27:47]
+ee bukan aliansi yang minta tolong brisma
+
+[00:27:49 → 00:27:53]
+broker itu ber pihak
+
+[00:27:54 → 00:27:58]
+ke perusahaan
+
+[00:27:58 → 00:28:01]
+perusahaan saya atau tertanggung
+
+[00:28:03 → 00:28:08]
+jadi kalau sampai nggak dibayar-bayar saya harus memperjuangkan supaya dibayar
+
+[00:28:08 → 00:28:11]
+oh saya sebagai broker
+
+[00:28:12 → 00:28:18]
+soalnya kalau admedika kan dia ditunjuk alians untuk bantuin proses claim?
+
+[00:28:18 → 00:28:20]
+oh iya untuk bantu proses claim
+
+[00:28:20 → 00:28:29]
+ya sesuai dengan formula yang diminta sama si artisinya alian apa dengan dana pensiun kan
+
+[00:28:29 → 00:28:36]
+arti kan dia harus murni-murni apa aja formula nya apa surat apa aja nih masukin sini ya kan begitu
+
+[00:28:36 → 00:28:41]
+saya hanya simplifikasi saja apa yang kamu mau
+
+[00:28:41 → 00:28:44]
+rumah sakit misalnya alians misalnya
+
+[00:28:45 → 00:28:52]
+suratnya apa mas aman mau bayar kalau ada ini surat ketera dokternya ada tiketnya ada ini apa eko ya udah
+
+[00:28:52 → 00:28:54]
+mana format mirasi itu saya
+
+[00:28:54 → 00:28:58]
+saya yang minta aliansi
+
+[00:28:58 → 00:29:02]
+kalau alians pun yang perorangan tuh diurusnya sama
+
+[00:29:02 → 00:29:04]
+contoh admedika gitu
+
+[00:29:04 → 00:29:08]
+kalau ini kan tadi ada 3 parti ya yang dana pensiun sama alians
+
+[00:29:08 → 00:29:13]
+dana pensiunnya ngedis berapa dia cuma mengcover pegawainya untuk dapet alians
+
+[00:29:14 → 00:29:15]
+semua
+
+[00:29:15 → 00:29:17]
+maksudnya gini
+
+[00:29:17 → 00:29:22]
+misalnya mas aman nih kita sebagai dana pensiun
+
+[00:29:22 → 00:29:23]
+betul ya
+
+[00:29:23 → 00:29:24]
+pegawain
+
+[00:29:24 → 00:29:25]
+ya pegawain atau pengurus lah kita
+
+[00:29:25 → 00:29:27]
+pengurus dapet
+
+[00:29:27 → 00:29:31]
+kenapa kalau kita pakai asuransi misalnya
+
+[00:29:31 → 00:29:37]
+saya tanya mas aman kita bayar orang sakit berapa nih habisnya setahun
+
+[00:29:37 → 00:29:40]
+biaya penglebatan kita berapa saat gitu
+
+[00:29:41 → 00:29:43]
+1,3 m pak
+
+[00:29:43 → 00:29:45]
+ngomong begitu dan ngomong seperti itu
+
+[00:29:47 → 00:29:51]
+gimana pakai uang kita atau pakai uang asuransi nih
+
+[00:29:54 → 00:29:59]
+begitu ya mas aman menanya pakai uang kita atau pakai asuransi pakai eko
+
+[00:30:00 → 00:30:03]
+halok saya enak asuransi
+
+[00:30:04 → 00:30:10]
+saya kasih 1,3 uang saya yang anggaran saya
+
+[00:30:12 → 00:30:20]
+kalau kurang dari 1,3 asuransi mau ambil
+
+[00:30:21 → 00:30:24]
+kalau lebih dari 1,3 pasti kalah
+
+[00:30:24 → 00:30:26]
+kan begitu aja
+
+[00:30:26 → 00:30:29]
+ya sudah asuransi kan sesekit bergambling kan
+
+[00:30:30 → 00:30:32]
+minta data tahun lalu berapa
+
+[00:30:32 → 00:30:35]
+1,3
+
+[00:30:38 → 00:30:40]
+yang sakit siapa yang paling gede
+
+[00:30:42 → 00:30:44]
+berarti itu bisnisnya alian untuk b2b nya ya pak
+
+[00:30:44 → 00:30:47]
+b2b nya saya nyariin saya broker
+
+[00:30:49 → 00:30:51]
+saya dapet fee dari alian
+
+[00:30:51 → 00:30:52]
+karena saya nemuin ya
+
+[00:30:52 → 00:30:56]
+iya kejuali saya ngomong ke mas aman sebagai dana pensiun
+
+[00:30:56 → 00:30:59]
+ya usah aku kasih management fee setiap dapet fee
+
+[00:30:59 → 00:31:03]
+kasih uang administrasi tepung 1,000
+
+[00:31:03 → 00:31:04]
+oh bisa gitu juga
+
+[00:31:04 → 00:31:06]
+ya itu kan beratus pakatan
+
+[00:31:08 → 00:31:09]
+tapi berarti maksudnya gini
+
+[00:31:09 → 00:31:11]
+kan ada yang case nya bukan b2b ya pak
+
+[00:31:11 → 00:31:12]
+kan ini kan b2b ya
+
+[00:31:12 → 00:31:15]
+dada pen dengan alian
+
+[00:31:15 → 00:31:19]
+kalau kayak atmedika kan dia ngurusin pun administrasi event yang
+
+[00:31:20 → 00:31:21]
+yang sudah dalam tisi
+
+[00:31:21 → 00:31:22]
+yang b2c
+
+[00:31:22 → 00:31:24]
+yang sudah ada dalam tisi
+
+[00:31:25 → 00:31:28]
+jadi saya kan misalnya saya subscribe alian
+
+[00:31:28 → 00:31:30]
+itu nggak lewat perusahaan saya sendiri
+
+[00:31:30 → 00:31:31]
+nah itu tuh
+
+[00:31:31 → 00:31:34]
+serifikasi administrasi saya pun diurusin sama atmedika
+
+[00:31:34 → 00:31:36]
+nah kalau berisma itu main ke sana nggak pak
+
+[00:31:36 → 00:31:37]
+nggak
+
+[00:31:37 → 00:31:39]
+nggak jadi cuma yang b2b aja ya
+
+[00:31:39 → 00:31:41]
+untuk kontrak-kontrak besar
+
+[00:31:41 → 00:31:43]
+iya iya iya
+
+[00:31:43 → 00:31:45]
+oh berat semua ya
+
+[00:31:45 → 00:31:46]
+betul
+
+[00:31:46 → 00:31:48]
+karena atmedika dia
+
+[00:31:48 → 00:31:51]
+on behalf ngurusin semua
+
+[00:31:51 → 00:31:52]
+iya betul
+
+[00:31:52 → 00:31:55]
+jadi saya yang perorangan langsung ke alian semua diurusin
+
+[00:31:55 → 00:31:56]
+iya
+
+[00:31:59 → 00:32:04]
+berarti kan masama harus mendalikan alians kan
+
+[00:32:04 → 00:32:06]
+perusahaan-perusahaan yang seperti itu kan
+
+[00:32:08 → 00:32:10]
+cuma alian semua langsung urusin verifikasinya dia nunjuk sama
+
+[00:32:10 → 00:32:12]
+atmedika
+
+[00:32:12 → 00:32:14]
+tapi proses verifikasi sama ya
+
+[00:32:14 → 00:32:16]
+ngebandingin tisinya dengan
+
+[00:32:16 → 00:32:18]
+iya apa yang diminta kan
+
+[00:32:18 → 00:32:19]
+iya iya
+
+[00:32:19 → 00:32:22]
+jadi frame kerangka berpikirnya sih sama ya
+
+[00:32:22 → 00:32:23]
+iya
+
+[00:32:26 → 00:32:28]
+kalau yang kayak atmedika apa-apa
+
+[00:32:28 → 00:32:29]
+atau bisnis modelnya nggak?
+
+[00:32:29 → 00:32:30]
+biasanya kayak gimana?
+
+[00:32:30 → 00:32:31]
+yang semua diurus
+
+[00:32:31 → 00:32:32]
+apakah perklaim kan?
+
+[00:32:32 → 00:32:33]
+kalau gitu nggak ada kontrak
+
+[00:32:33 → 00:32:34]
+perklaim
+
+[00:32:34 → 00:32:35]
+oh perklaim
+
+[00:32:35 → 00:32:36]
+oh perklaim, nanti dia begitu
+
+[00:32:36 → 00:32:37]
+biasanya berapa pak?
+
+[00:32:39 → 00:32:42]
+nggak lebih dari 5%
+
+[00:32:42 → 00:32:43]
+oh
+
+[00:32:43 → 00:32:44]
+nggak lebih
+
+[00:32:45 → 00:32:46]
+itu nggak lebih
+
+[00:32:46 → 00:32:48]
+nggak lebih, nggak lebih itu mungkin
+
+[00:32:48 → 00:32:53]
+bisa dihitung perjasa, perlem, perklaim itu mungkin dikasih 15.000
+
+[00:32:53 → 00:32:55]
+atau biaya telpon atau apa
+
+[00:32:55 → 00:32:56]
+ini hanya itu
+
+[00:32:59 → 00:33:01]
+kalau di Grisma dulu pak
+
+[00:33:01 → 00:33:03]
+bisnis modelnya yang pernah terjadi apa aja pak?
+
+[00:33:03 → 00:33:04]
+yang mana?
+
+[00:33:04 → 00:33:05]
+kan tadi pertelkan 10.000 ya?
+
+[00:33:05 → 00:33:07]
+oh iya kalau itu nggak ada
+
+[00:33:07 → 00:33:10]
+itu management fee lah kalau kita mau diomong
+
+[00:33:10 → 00:33:12]
+saya hanya mau melolah, membantu melolah
+
+[00:33:12 → 00:33:14]
+saya hanya mau melolah, membantu melolah
+
+[00:33:16 → 00:33:17]
+management fee misalnya
+
+[00:33:17 → 00:33:19]
+oke mas Ammar aku minta management fee ya
+
+[00:33:19 → 00:33:22]
+nanti untuk nilpun-nilpun ini administrasi
+
+[00:33:22 → 00:33:25]
+ngirim apa aku, ngirim, gojek, gosen misalnya
+
+[00:33:27 → 00:33:29]
+dikasih anggaran berapa aku misalnya
+
+[00:33:29 → 00:33:30]
+perklaim, perklaim
+
+[00:33:31 → 00:33:34]
+ya 25.000 lah pak, itu oke misalnya
+
+[00:33:34 → 00:33:36]
+oh tapi janjian-janjian juga ada di sini
+
+[00:33:36 → 00:33:37]
+iya
+
+[00:33:42 → 00:33:43]
+baik pak Eko
+
+[00:33:45 → 00:33:49]
+sepertinya cukup ya pak untuk pembelajaran awalnya ya
+
+[00:33:49 → 00:33:51]
+iya, dikumpulkan
+
+[00:36:12 → 00:36:14]
+alert itu bahasa negara kita itu apa ya?
+
+[00:36:14 → 00:36:15]
+Indonesia ya?
+
+[00:36:17 → 00:36:18]
+alert
+
+[00:36:20 → 00:36:21]
+peringatan?
+
+[00:36:21 → 00:36:22]
+peringatan, betul pak
+
+[00:36:22 → 00:36:25]
+tapi kok peringatan tuh kayaknya nggak, peringat kali ya?
+
+[00:36:25 → 00:36:26]
+oh iya bisa
+
+[00:36:32 → 00:36:33]
+iya
+
+[00:36:33 → 00:36:34]
+iya
+
+[00:36:34 → 00:36:35]
+iya
+
+[00:36:35 → 00:36:36]
+iya
+
+[00:36:36 → 00:36:37]
+iya
+
+[00:36:37 → 00:36:38]
+iya
+
+[00:36:38 → 00:36:39]
+iya
+
+[00:36:39 → 00:36:40]
+iya
+
+[00:36:40 → 00:36:41]
+iya
+
+[00:36:41 → 00:36:42]
+iya
+
+[00:37:11 → 00:37:12]
+iya
+
+[00:37:12 → 00:37:15]
+siap, mamam
+
+[00:37:16 → 00:37:17]
+mau kemana mak?
+
+[00:37:17 → 00:37:19]
+jangan kemana kok
+
+[00:37:19 → 00:37:20]
+jangan kemana
+
+[00:37:20 → 00:37:21]
+jangan kemana
+
+[00:37:21 → 00:37:22]
+bahasa negara ini
+
+[00:37:22 → 00:37:23]
+iya
+
+[00:37:23 → 00:37:24]
+iya
+
+[00:37:24 → 00:37:25]
+iya
+
+[00:37:25 → 00:37:26]
+iya
+
+[00:37:26 → 00:37:27]
+iya
+
+[00:37:27 → 00:37:28]
+iya
+
+[00:37:29 → 00:37:30]
+iya
+
+[00:37:31 → 00:37:32]
+iya
+
+[00:37:32 → 00:37:33]
+iya
+
+[00:37:33 → 00:37:34]
+iya
+
+[00:37:34 → 00:37:35]
+iya
+
+[00:37:35 → 00:37:36]
+iya
+
+[00:37:36 → 00:37:37]
+iya
+
+[00:37:37 → 00:37:38]
+iya
+
+[00:37:38 → 00:37:39]
+iya
+
+[00:37:39 → 00:37:40]
+iya
+
+[00:37:40 → 00:37:41]
+iya
+
+[00:37:41 → 00:37:42]
+mau kemana mah?
+
+[00:37:43 → 00:37:44]
+sekarang tempat mah mah
+
+[00:37:44 → 00:37:44]
+oh siap
+
+[00:37:44 → 00:37:46]
+saya tetap tidak ada tasnya
+
+[00:37:46 → 00:37:47]
+oke
+
+[00:37:50 → 00:37:51]
+aduh, hal yang gila
+
+[00:37:51 → 00:37:52]
+masih ada lagi?
+
+[00:37:52 → 00:37:53]
+cukup pak, cukup ya
+
+[00:37:53 → 00:37:54]
+oke, saya terima kasih banyak pak
+
+[00:37:54 → 00:37:58]
+dapat rokot terus, dua pungkus, dua pungkus, sudah empat pungkus ini
+
+[00:37:59 → 00:38:00]
+tapi nggak bisa di islam
+
+[00:38:00 → 00:38:02]
+iya, nanti ya mah
+
+[00:38:02 → 00:38:03]
+nanti kita mau
+
+[00:38:04 → 00:38:06]
+beliau tau langsung pakai S264
+
+[00:38:06 → 00:38:08]
+oh iya kan, kanan kanan ini
+
+[00:38:08 → 00:38:10]
+kalau nggak, nggak tau pokoknya
+
+[00:38:12 → 00:38:13]
+ada2 lagi
+
+[00:38:13 → 00:38:15]
+iyacoh, bangsung gue juga
+
+[00:38:15 → 00:38:16]
+aduh
+
+[00:38:18 → 00:38:19]
+Hahaha
+
+[00:38:21 → 00:38:27]
+hah?
+
+[00:38:28 → 00:38:30]
+pirospor sebelah katanya
+
+[00:38:30 → 00:38:34]
+nyaproduksional
+
+[00:38:36 → 00:38:38]
+hehehe
+
+[00:42:08 → 00:42:10]
+ыл
+
+[00:43:38 → 00:43:40]
+Terima kasih.
+
+[00:44:08 → 00:44:10]
+Terima kasih.
+
+[00:44:38 → 00:44:40]
+Terima kasih.
+
+[00:45:08 → 00:45:10]
+Terima kasih.
+
+[00:45:38 → 00:45:41]
+Terima kasih.
+
+[00:46:08 → 00:46:10]
+Terima kasih.
+
+[00:46:38 → 00:46:40]
+Terima kasih atas tunjukannya.
+
+[00:46:40 → 00:46:42]
+Hati-hati di jalan.
+

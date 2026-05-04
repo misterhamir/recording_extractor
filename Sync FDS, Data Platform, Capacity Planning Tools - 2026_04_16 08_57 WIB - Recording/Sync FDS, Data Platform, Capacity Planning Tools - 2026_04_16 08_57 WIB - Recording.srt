@@ -1,0 +1,4796 @@
+1
+00:00:00,000 --> 00:00:02,000
+Kalau di Jakarta dimana mas sininya?
+
+2
+00:00:02,000 --> 00:00:04,000
+Di Green Palace mas.
+
+3
+00:00:04,000 --> 00:00:08,000
+Di sewa apartemen disini.
+
+4
+00:00:08,000 --> 00:00:10,000
+Oke.
+
+5
+00:00:10,000 --> 00:00:12,000
+Ijin mas, langsung mulai ya saya ya.
+
+6
+00:00:12,000 --> 00:00:14,000
+Siap mas, sama kamu.
+
+7
+00:00:14,000 --> 00:00:17,000
+Oke. Pertama, Nuhun Pisahan mas.
+
+8
+00:00:17,000 --> 00:00:19,000
+Miskat waktunya pun tenga kalau gak ganggu.
+
+9
+00:00:19,000 --> 00:00:21,000
+Ya.
+
+10
+00:00:21,000 --> 00:00:23,000
+Intinya sih pengen,
+
+11
+00:00:23,000 --> 00:00:26,000
+saya pengen bikin slide khusus untuk FDS-nya ya.
+
+12
+00:00:26,000 --> 00:00:28,000
+Kemarin tuh kayaknya
+
+13
+00:00:28,000 --> 00:00:30,000
+kayaknya nanya temen-temen saya yang
+
+14
+00:00:30,000 --> 00:00:32,000
+kerja di beberapa kantor tuh kayaknya
+
+15
+00:00:32,000 --> 00:00:33,000
+oh ada FDS boleh lihat dong gitu.
+
+16
+00:00:33,000 --> 00:00:35,000
+Kalau misalnya jadi pengen tau sih, terutama.
+
+17
+00:00:35,000 --> 00:00:37,000
+Coba, honest-nya sih sebenarnya
+
+18
+00:00:37,000 --> 00:00:38,000
+bukan cuma FDS ya.
+
+19
+00:00:38,000 --> 00:00:41,000
+Kemarin kayak aku dapatin info dari Butami.
+
+20
+00:00:41,000 --> 00:00:43,000
+Itu ada yang biasanya project based
+
+21
+00:00:43,000 --> 00:00:44,000
+pengen jadi produkan.
+
+22
+00:00:44,000 --> 00:00:46,000
+Mungkin jadi bayar percayaan atau gimana.
+
+23
+00:00:46,000 --> 00:00:49,000
+Nah itu, saya mau coba bantu juga sih ke arah sana mas Miskat.
+
+24
+00:00:49,000 --> 00:00:52,000
+Jadi bukan hanya FDS-nya, tapi memang kalau ada
+
+25
+00:00:52,000 --> 00:00:54,000
+sekarang yang produk-produk yang
+
+26
+00:00:54,000 --> 00:00:56,000
+apa, ada potensi,
+
+27
+00:00:56,000 --> 00:00:58,000
+project yang dulunya project based
+
+28
+00:00:58,000 --> 00:01:00,000
+sekarang mau jadi produk, mau disesuaikan,
+
+29
+00:01:00,000 --> 00:01:02,000
+dibikin kata apa, dibikin semacam slide-nya gitu sih.
+
+30
+00:01:02,000 --> 00:01:04,000
+Iya, iya.
+
+31
+00:01:04,000 --> 00:01:06,000
+Oke, oke.
+
+32
+00:01:06,000 --> 00:01:08,000
+Mungkin izin karena awalnya FDS,
+
+33
+00:01:08,000 --> 00:01:10,000
+saya minta
+
+34
+00:01:10,000 --> 00:01:12,000
+penjelasan terkait FDS dulu ya mas ya.
+
+35
+00:01:12,000 --> 00:01:14,000
+Dia tuh use case-nya apa saja, apakah
+
+36
+00:01:14,000 --> 00:01:16,000
+bank doang, kalau bank
+
+37
+00:01:16,000 --> 00:01:18,000
+FDS di sebelah mana, kalau misalnya
+
+38
+00:01:18,000 --> 00:01:20,000
+misalnya, ini contoh pertama tanyaan aku
+
+39
+00:01:20,000 --> 00:01:22,000
+mungkin untuk nge-trigger mas Miskat,
+
+40
+00:01:22,000 --> 00:01:24,000
+persen-persennya ke arah mana ya.
+
+41
+00:01:24,000 --> 00:01:26,000
+Sama mungkin kalau ada use case
+
+42
+00:01:26,000 --> 00:01:28,000
+di luar banking atau
+
+43
+00:01:28,000 --> 00:01:30,000
+FSI gitu,
+
+44
+00:01:30,000 --> 00:01:32,000
+fasilabel apa, nggak mungkin itu sih
+
+45
+00:01:32,000 --> 00:01:34,000
+kalau saya trigger-trigger question-nya, cuma
+
+46
+00:01:34,000 --> 00:01:36,000
+kalau ada yang mau disampaikan general
+
+47
+00:01:36,000 --> 00:01:38,000
+produknya, mau gue mas Miskat?
+
+48
+00:01:38,000 --> 00:01:40,000
+Iya, FDS ini karena
+
+49
+00:01:40,000 --> 00:01:42,000
+dibanding yang
+
+50
+00:01:42,000 --> 00:01:44,000
+dua lainnya, udah kelihatan
+
+51
+00:01:44,000 --> 00:01:46,000
+barangnya lah ya, ini mungkin
+
+52
+00:01:46,000 --> 00:01:48,000
+better sambil saya show aja
+
+53
+00:01:48,000 --> 00:01:50,000
+mas Amam ya, produk yang sekarang
+
+54
+00:01:50,000 --> 00:01:52,000
+seperti apa dan yang nanti
+
+55
+00:01:52,000 --> 00:01:54,000
+perlu di-develop kedepannya
+
+56
+00:01:54,000 --> 00:01:56,000
+seperti apa gitu ya, biar
+
+57
+00:01:56,000 --> 00:01:58,000
+kebayang, saya
+
+58
+00:01:58,000 --> 00:02:00,000
+run dulu sebentar mas, izin
+
+59
+00:02:00,000 --> 00:02:02,000
+satu menit ya.
+
+60
+00:02:22,000 --> 00:02:24,000
+Terima kasih.
+
+61
+00:02:52,000 --> 00:02:54,000
+Terima kasih.
+
+62
+00:03:22,000 --> 00:03:30,000
+Sudah terlihat screennya mas Amam?
+
+63
+00:03:30,000 --> 00:03:32,000
+Sudah mas.
+
+64
+00:03:32,000 --> 00:03:34,000
+Oke.
+
+65
+00:03:38,000 --> 00:03:40,000
+Oke, pertama
+
+66
+00:03:40,000 --> 00:03:42,000
+kalau di FDS ini
+
+67
+00:03:42,000 --> 00:03:44,000
+role-nya ada dua mas Amam.
+
+68
+00:03:44,000 --> 00:03:46,000
+Yang pertama fraud
+
+69
+00:03:46,000 --> 00:03:48,000
+analis, yang kedua itu
+
+70
+00:03:48,000 --> 00:03:50,000
+customer service.
+
+71
+00:03:50,000 --> 00:03:52,000
+Kalau fraud analis itu ibaratnya
+
+72
+00:03:52,000 --> 00:03:54,000
+admin ya mas, dia bisa melakukan
+
+73
+00:03:54,000 --> 00:03:56,000
+semua fitur lah ya,
+
+74
+00:03:56,000 --> 00:03:58,000
+bisa melakukan
+
+75
+00:03:58,000 --> 00:04:00,000
+semua kapal beri cas FDS, dia bisa
+
+76
+00:04:00,000 --> 00:04:02,000
+akses. Kalau yang tadi customer
+
+77
+00:04:02,000 --> 00:04:04,000
+service itu, dia hanya mencatat
+
+78
+00:04:04,000 --> 00:04:06,000
+laporan fraud dari Nasaba.
+
+79
+00:04:06,000 --> 00:04:08,000
+Nah konteksnya, si
+
+80
+00:04:08,000 --> 00:04:10,000
+fraud yang dimaksud disini itu
+
+81
+00:04:10,000 --> 00:04:12,000
+adalah fraud diperbankan.
+
+82
+00:04:12,000 --> 00:04:14,000
+Fraud diperbankan itu
+
+83
+00:04:14,000 --> 00:04:16,000
+mostly ada
+
+84
+00:04:16,000 --> 00:04:18,000
+dua, dibagi dua
+
+85
+00:04:18,000 --> 00:04:20,000
+atau memang secara umum sih,
+
+86
+00:04:20,000 --> 00:04:22,000
+dibagi dua, ada fraud internal
+
+87
+00:04:22,000 --> 00:04:24,000
+dan fraud external.
+
+88
+00:04:24,000 --> 00:04:26,000
+Fraud internal itu, ya
+
+89
+00:04:26,000 --> 00:04:28,000
+pelakunya
+
+90
+00:04:28,000 --> 00:04:30,000
+karyawan itu istilahnya ya, entah
+
+91
+00:04:30,000 --> 00:04:32,000
+itu terjadi di kantor pusat, entah
+
+92
+00:04:32,000 --> 00:04:34,000
+terjadi di kantor cabang,
+
+93
+00:04:34,000 --> 00:04:36,000
+tapi itu punya lagunaan.
+
+94
+00:04:36,000 --> 00:04:38,000
+Pemenang misalnya, atau
+
+95
+00:04:38,000 --> 00:04:40,000
+tidak sesuai SOP,
+
+96
+00:04:40,000 --> 00:04:42,000
+itu yang fraud internal
+
+97
+00:04:42,000 --> 00:04:44,000
+yang akhirnya menyebabkan
+
+98
+00:04:44,000 --> 00:04:46,000
+kerugian juga.
+
+99
+00:04:46,000 --> 00:04:48,000
+Kalau yang sekarang kita
+
+100
+00:04:48,000 --> 00:04:50,000
+bahas disini, ini fraudnya external
+
+101
+00:04:50,000 --> 00:04:52,000
+jadi pelakunya
+
+102
+00:04:52,000 --> 00:04:54,000
+dari luar entitas
+
+103
+00:04:54,000 --> 00:04:56,000
+bank itu sendiri.
+
+104
+00:04:56,000 --> 00:04:58,000
+Dari luar ini,
+
+105
+00:04:58,000 --> 00:05:00,000
+ada beberapa jenis fraud juga.
+
+106
+00:05:00,000 --> 00:05:02,000
+Fraud yang pertama
+
+107
+00:05:02,000 --> 00:05:04,000
+adalah account takeover.
+
+108
+00:05:04,000 --> 00:05:06,000
+Account takeover itu
+
+109
+00:05:06,000 --> 00:05:08,000
+pengambil alihannya, ini konteksnya
+
+110
+00:05:08,000 --> 00:05:10,000
+mobile banking ya mas Amam ya.
+
+111
+00:05:10,000 --> 00:05:12,000
+Pengambil alihannya
+
+112
+00:05:12,000 --> 00:05:14,000
+akun bank, itu akun
+
+113
+00:05:14,000 --> 00:05:16,000
+akun mobile banking oleh fraudster.
+
+114
+00:05:16,000 --> 00:05:18,000
+Entah itu caranya
+
+115
+00:05:18,000 --> 00:05:20,000
+misalnya dia hack, atau
+
+116
+00:05:20,000 --> 00:05:22,000
+caranya pakai social engineering,
+
+117
+00:05:22,000 --> 00:05:24,000
+pakai cara apapun.
+
+118
+00:05:24,000 --> 00:05:26,000
+Nah, ini yang
+
+119
+00:05:26,000 --> 00:05:28,000
+sekarang kita develop itu untuk
+
+120
+00:05:28,000 --> 00:05:30,000
+mendeteksi kayak tadi mas
+
+121
+00:05:30,000 --> 00:05:32,000
+kejadian fraud account takeover.
+
+122
+00:05:32,000 --> 00:05:34,000
+Jadi mobile bankingnya, mas Ambatu
+
+123
+00:05:34,000 --> 00:05:36,000
+diambil alih.
+
+124
+00:05:36,000 --> 00:05:38,000
+Kalau ada yang kurang jelas boleh
+
+125
+00:05:38,000 --> 00:05:40,000
+langsung ya mas Amam ya.
+
+126
+00:05:40,000 --> 00:05:42,000
+Oke, nah kemudian yang kedua,
+
+127
+00:05:42,000 --> 00:05:44,000
+account takeover, itu ada juga yang
+
+128
+00:05:44,000 --> 00:05:46,000
+namanya onboarding, onboarding
+
+129
+00:05:46,000 --> 00:05:48,000
+fraud. Onboarding fraud itu
+
+130
+00:05:48,000 --> 00:05:50,000
+adalah, nah Sabah yang
+
+131
+00:05:50,000 --> 00:05:52,000
+daftar ke bank, itu
+
+132
+00:05:52,000 --> 00:05:54,000
+nggak legit istilahnya gitu ya.
+
+133
+00:05:54,000 --> 00:05:56,000
+Dia daftar pakai
+
+134
+00:05:56,000 --> 00:05:58,000
+identitas curian misalnya.
+
+135
+00:05:58,000 --> 00:06:00,000
+Jadi kalaupun banknya berhasil
+
+136
+00:06:00,000 --> 00:06:02,000
+terbentuk, ya dia bisa gunakan tuh
+
+137
+00:06:02,000 --> 00:06:04,000
+untuk aktivitas kejahatan,
+
+138
+00:06:04,000 --> 00:06:06,000
+penampungan, dan lain-lain.
+
+139
+00:06:06,000 --> 00:06:08,000
+Misalnya jemir kening judul,
+
+140
+00:06:08,000 --> 00:06:10,000
+dan lain-lain. Nah yang
+
+141
+00:06:10,000 --> 00:06:12,000
+onboarding itu, kita bukan
+
+142
+00:06:12,000 --> 00:06:14,000
+mendeteksi transaksi, tapi mendeteksinya
+
+143
+00:06:14,000 --> 00:06:16,000
+account berarti kan, ini account-nya legit
+
+144
+00:06:16,000 --> 00:06:18,000
+atau nggak sih, gitu.
+
+145
+00:06:18,000 --> 00:06:20,000
+Nah onboarding itu sempat kita
+
+146
+00:06:20,000 --> 00:06:22,000
+kerjakan juga di raya,
+
+147
+00:06:22,000 --> 00:06:24,000
+tapi di produk kita yang ini,
+
+148
+00:06:24,000 --> 00:06:26,000
+belum, kita baru fokus
+
+149
+00:06:26,000 --> 00:06:28,000
+account takeover.
+
+150
+00:06:28,000 --> 00:06:30,000
+Dari sisi fraud-nya.
+
+151
+00:06:30,000 --> 00:06:32,000
+Nah, account takeover itu
+
+152
+00:06:32,000 --> 00:06:34,000
+dia melakukan scoring terhadap apa?
+
+153
+00:06:34,000 --> 00:06:36,000
+Dia melakukan scoring terhadap transaksi.
+
+154
+00:06:36,000 --> 00:06:38,000
+Jadi nanti dashboardnya
+
+155
+00:06:38,000 --> 00:06:40,000
+seperti ini.
+
+156
+00:06:50,000 --> 00:06:52,000
+Jadi untuk setiap
+
+157
+00:06:52,000 --> 00:06:54,000
+transaksi yang terjadi di bank, nanti
+
+158
+00:06:54,000 --> 00:06:56,000
+muncul di sini dia auto update
+
+159
+00:06:56,000 --> 00:06:58,000
+gitu ya live, kalau ada data
+
+160
+00:06:58,000 --> 00:07:00,000
+tersesai, tambah kesini, berapa
+
+161
+00:07:00,000 --> 00:07:02,000
+amount-nya, label-nya,
+
+162
+00:07:02,000 --> 00:07:04,000
+normal atau warning, atau danger.
+
+163
+00:07:04,000 --> 00:07:06,000
+Ini mah summary-nya aja.
+
+164
+00:07:06,000 --> 00:07:08,000
+Kemudian ini ditampilkan juga
+
+165
+00:07:08,000 --> 00:07:10,000
+kalau yang danger itu
+
+166
+00:07:10,000 --> 00:07:12,000
+lokasinya dimana. Dengan catatan
+
+167
+00:07:12,000 --> 00:07:14,000
+bank-nya provide informasi
+
+168
+00:07:14,000 --> 00:07:16,000
+lokasinya gitu ya, Mas.
+
+169
+00:07:18,000 --> 00:07:20,000
+Itu secara umum.
+
+170
+00:07:20,000 --> 00:07:22,000
+Nah kemudian, ada
+
+171
+00:07:22,000 --> 00:07:24,000
+apa lagi fiturnya
+
+172
+00:07:24,000 --> 00:07:26,000
+yang pertama itu, di sini
+
+173
+00:07:26,000 --> 00:07:28,000
+ada yang namanya blacklist, Mas.
+
+174
+00:07:28,000 --> 00:07:30,000
+Kalau DLS itu, seiring-iringan
+
+175
+00:07:30,000 --> 00:07:32,000
+berjalannya waktu, kita
+
+176
+00:07:32,000 --> 00:07:34,000
+biasanya dapat list of
+
+177
+00:07:34,000 --> 00:07:36,000
+device ID
+
+178
+00:07:36,000 --> 00:07:38,000
+punya fraudster, gitu, Mas.
+
+179
+00:07:38,000 --> 00:07:40,000
+Phone number-nya punya fraudster.
+
+180
+00:07:40,000 --> 00:07:42,000
+Phone number, penampungan
+
+181
+00:07:42,000 --> 00:07:44,000
+dari fraudster. Informasi-informasi
+
+182
+00:07:44,000 --> 00:07:46,000
+tersebut kita collect, gitu.
+
+183
+00:07:46,000 --> 00:07:48,000
+Kita inputkan di sini.
+
+184
+00:07:48,000 --> 00:07:50,000
+Jadi bank data, kita bisa
+
+185
+00:07:50,000 --> 00:07:52,000
+inputkan.
+
+186
+00:07:52,000 --> 00:07:54,000
+Data-nya belum ada kayaknya.
+
+187
+00:07:54,000 --> 00:07:56,000
+Kita bisa inputkan sehingga nanti kita
+
+188
+00:07:56,000 --> 00:07:58,000
+manfaatkan kalau muncul lagi device
+
+189
+00:07:58,000 --> 00:08:00,000
+ID-nya, phone number-nya, phone number-nya
+
+190
+00:08:00,000 --> 00:08:02,000
+kita alert, gitu.
+
+191
+00:08:04,000 --> 00:08:06,000
+Dan, menu transaksi
+
+192
+00:08:06,000 --> 00:08:08,000
+yang melihat lebih detail dari
+
+193
+00:08:08,000 --> 00:08:10,000
+transaksi yang di scoring,
+
+194
+00:08:10,000 --> 00:08:12,000
+gitu ya, kalau ini.
+
+195
+00:08:12,000 --> 00:08:14,000
+Kalau misalnya
+
+196
+00:08:14,000 --> 00:08:16,000
+mau cari
+
+197
+00:08:16,000 --> 00:08:18,000
+transaksi
+
+198
+00:08:18,000 --> 00:08:20,000
+dari, misalnya untuk investigasi
+
+199
+00:08:20,000 --> 00:08:22,000
+gitu, si
+
+200
+00:08:22,000 --> 00:08:24,000
+account number ini transaksi yang apain aja?
+
+201
+00:08:24,000 --> 00:08:26,000
+Level-nya seperti apa?
+
+202
+00:08:26,000 --> 00:08:28,000
+Ini bisa di-check di sini.
+
+203
+00:08:28,000 --> 00:08:30,000
+Oke. Kalau yang transaksi
+
+204
+00:08:30,000 --> 00:08:32,000
+yang ini, nyambung sama yang case tadi,
+
+205
+00:08:32,000 --> 00:08:34,000
+account takeover tadi ya, Mas, ya, sebenarnya?
+
+206
+00:08:34,000 --> 00:08:36,000
+Ya, ini semua konteksnya
+
+207
+00:08:36,000 --> 00:08:38,000
+terkait dengan account takeover.
+
+208
+00:08:38,000 --> 00:08:40,000
+Kita baru account takeover.
+
+209
+00:08:40,000 --> 00:08:42,000
+Siap.
+
+210
+00:08:42,000 --> 00:08:44,000
+Sorry, Mas.
+
+211
+00:08:44,000 --> 00:08:46,000
+Account takeover itu sebenarnya nggak harus
+
+212
+00:08:46,000 --> 00:08:48,000
+account-nya benar-benar di takeover, kan? Bisa
+
+213
+00:08:48,000 --> 00:08:50,000
+satu transaksi yang dipake orang lain, ya?
+
+214
+00:08:50,000 --> 00:08:52,000
+Betul, betul.
+
+215
+00:08:52,000 --> 00:08:54,000
+Konteksnya bisa whole account diambil
+
+216
+00:08:54,000 --> 00:08:56,000
+atau satu transaksi, credit card
+
+217
+00:08:56,000 --> 00:08:58,000
+di-copy orang, gitu ya? Itu
+
+218
+00:08:58,000 --> 00:09:00,000
+possible ya, Mas?
+
+219
+00:09:00,000 --> 00:09:02,000
+Oke. Betul. Yang tadi
+
+220
+00:09:02,000 --> 00:09:04,000
+contoh credit card juga itu
+
+221
+00:09:04,000 --> 00:09:06,000
+termasuk ke contact cover. Betul sekali, Mas.
+
+222
+00:09:06,000 --> 00:09:08,000
+Walaupun hanya satu transaksi, gitu ya?
+
+223
+00:09:08,000 --> 00:09:10,000
+Iya, iya. Oke.
+
+224
+00:09:10,000 --> 00:09:12,000
+Jadi, scope-nya
+
+225
+00:09:12,000 --> 00:09:14,000
+nggak
+
+226
+00:09:14,000 --> 00:09:16,000
+spesifik untuk whole account diambil ya?
+
+227
+00:09:16,000 --> 00:09:18,000
+Oke, Mas. Thank you, Mas.
+
+228
+00:09:18,000 --> 00:09:20,000
+Tapi untuk saat ini,
+
+229
+00:09:20,000 --> 00:09:22,000
+sebetulnya kita tuh support
+
+230
+00:09:24,000 --> 00:09:26,000
+support
+
+231
+00:09:26,000 --> 00:09:28,000
+transaksi jenis apapun, entah itu
+
+232
+00:09:28,000 --> 00:09:30,000
+credit card, entah itu transfer,
+
+233
+00:09:30,000 --> 00:09:32,000
+atau apapun, gitu ya? Sebetulnya kita
+
+234
+00:09:32,000 --> 00:09:34,000
+kenapa, Mas?
+
+235
+00:09:34,000 --> 00:09:36,000
+Tiba-tiba ada tarik tunai dari orang
+
+236
+00:09:36,000 --> 00:09:38,000
+tempat lain itu masuk juga, ya?
+
+237
+00:09:38,000 --> 00:09:40,000
+Iya, betul.
+
+238
+00:09:40,000 --> 00:09:42,000
+Sebetulnya kita support. Kenapa support?
+
+239
+00:09:42,000 --> 00:09:44,000
+Karena si
+
+240
+00:09:44,000 --> 00:09:46,000
+rules-nya, nanti kita lihat
+
+241
+00:09:46,000 --> 00:09:48,000
+rules-nya itu generic, kita bisa bikin
+
+242
+00:09:48,000 --> 00:09:50,000
+sedepikian rupa, mau kita
+
+243
+00:09:50,000 --> 00:09:52,000
+kita maunya kayak gimana, istilahnya.
+
+244
+00:09:52,000 --> 00:09:54,000
+Rules-nya.
+
+245
+00:09:54,000 --> 00:09:56,000
+Oke.
+
+246
+00:09:56,000 --> 00:09:58,000
+Oke. Tapi
+
+247
+00:09:58,000 --> 00:10:00,000
+dalam development
+
+248
+00:10:00,000 --> 00:10:02,000
+ini, ini kita bayangkan
+
+249
+00:10:02,000 --> 00:10:04,000
+semua transaksinya dari mobile banking,
+
+250
+00:10:04,000 --> 00:10:06,000
+gitu, Mas. Jadi transaksinya
+
+251
+00:10:06,000 --> 00:10:08,000
+saat ini sih kalau
+
+252
+00:10:08,000 --> 00:10:10,000
+dilihat ada BVAS,
+
+253
+00:10:10,000 --> 00:10:12,000
+gitu ya, transfer, gitu. Belum ada
+
+254
+00:10:12,000 --> 00:10:14,000
+tarik tunai, gitu, Mas.
+
+255
+00:10:14,000 --> 00:10:16,000
+Tapi sebetulnya kedepannya support-support
+
+256
+00:10:16,000 --> 00:10:18,000
+aja. Iya, iya, iya.
+
+257
+00:10:18,000 --> 00:10:20,000
+Oke. Nah, kemudian
+
+258
+00:10:20,000 --> 00:10:22,000
+bagaimana sih
+
+259
+00:10:22,000 --> 00:10:24,000
+bisa menghasilkan label, process
+
+260
+00:10:24,000 --> 00:10:26,000
+scoring-nya bagaimana? Process
+
+261
+00:10:26,000 --> 00:10:28,000
+scoring di pro detection itu
+
+262
+00:10:28,000 --> 00:10:30,000
+terbagi dua. Yang pertama, rule-based.
+
+263
+00:10:30,000 --> 00:10:32,000
+Yang kedua, berbasis
+
+264
+00:10:32,000 --> 00:10:34,000
+machine learning. Yang
+
+265
+00:10:34,000 --> 00:10:36,000
+berbasis machine learning itu, dia sangat
+
+266
+00:10:36,000 --> 00:10:38,000
+mengandalkan data, kan ya, Mas, ya? Karena
+
+267
+00:10:38,000 --> 00:10:40,000
+supervise, ya? Dia perlu
+
+268
+00:10:40,000 --> 00:10:42,000
+label, gitu. Ada data
+
+269
+00:10:42,000 --> 00:10:44,000
+kejadian fraud, dia gunakan
+
+270
+00:10:44,000 --> 00:10:46,000
+sebagai data latih, nanti
+
+271
+00:10:46,000 --> 00:10:48,000
+dia mesinnya belajar.
+
+272
+00:10:48,000 --> 00:10:50,000
+Nah, dalam hal ini,
+
+273
+00:10:50,000 --> 00:10:52,000
+kenyataannya, selama kita
+
+274
+00:10:52,000 --> 00:10:54,000
+ngerjain di Raya,
+
+275
+00:10:54,000 --> 00:10:56,000
+itu belum
+
+276
+00:10:56,000 --> 00:10:58,000
+sebanyak itu data yang bisa digunakan
+
+277
+00:10:58,000 --> 00:11:00,000
+untuk mesin belajar, sebetulnya.
+
+278
+00:11:00,000 --> 00:11:02,000
+Untuk kasus, seperti Kova.
+
+279
+00:11:02,000 --> 00:11:04,000
+Dulu waktu di BRI,
+
+280
+00:11:04,000 --> 00:11:06,000
+kita berhasil buat yang versi
+
+281
+00:11:06,000 --> 00:11:08,000
+machine learning, karena
+
+282
+00:11:08,000 --> 00:11:10,000
+dulu skimming itu cukup banyak,
+
+283
+00:11:10,000 --> 00:11:12,000
+lah. Skimming itu di BRI,
+
+284
+00:11:12,000 --> 00:11:14,000
+sehingga data latihnya
+
+285
+00:11:14,000 --> 00:11:16,000
+memadai, gitu.
+
+286
+00:11:16,000 --> 00:11:18,000
+Nah, ini belum,
+
+287
+00:11:18,000 --> 00:11:20,000
+belum ada lah. Jadi kita
+
+288
+00:11:20,000 --> 00:11:22,000
+propose, yang kita
+
+289
+00:11:22,000 --> 00:11:24,000
+utamakan
+
+290
+00:11:24,000 --> 00:11:26,000
+di sini itu rule-based, dan kita
+
+291
+00:11:26,000 --> 00:11:28,000
+berikan kemudahan.
+
+292
+00:11:28,000 --> 00:11:30,000
+Si Bang itu untuk bikin rules-nya
+
+293
+00:11:30,000 --> 00:11:32,000
+terserah dia, ibaratnya. Mau dia gimana-gimana
+
+294
+00:11:32,000 --> 00:11:34,000
+ya, silahkan. Aku boleh
+
+295
+00:11:34,000 --> 00:11:36,000
+masuk ke lagi nggak, Mas, Miskat?
+
+296
+00:11:36,000 --> 00:11:38,000
+Kan tadi kalau Bang, seharusnya punya
+
+297
+00:11:38,000 --> 00:11:40,000
+ini sendiri, ya. Punya
+
+298
+00:11:40,000 --> 00:11:42,000
+behavior sendiri lah, punya data sendiri
+
+299
+00:11:42,000 --> 00:11:44,000
+kan untuk di-training, ya.
+
+300
+00:11:44,000 --> 00:11:46,000
+Seharusnya kita tuh ada model yang
+
+301
+00:11:46,000 --> 00:11:48,000
+cukup jentrik, nggak, Mas? Misalnya,
+
+302
+00:11:48,000 --> 00:11:50,000
+ya udah, itu model-based dulu.
+
+303
+00:11:50,000 --> 00:11:52,000
+Jadi, apapun, walaupun Bang
+
+304
+00:11:52,000 --> 00:11:54,000
+Raya tadi, case-nya dia nggak bisa,
+
+305
+00:11:54,000 --> 00:11:56,000
+nggak punya data, at least
+
+306
+00:11:56,000 --> 00:11:58,000
+dari model itu udah
+
+307
+00:11:58,000 --> 00:12:00,000
+misalnya, nggak apa-apa
+
+308
+00:12:00,000 --> 00:12:02,000
+nanti banyak false positive-nya
+
+309
+00:12:02,000 --> 00:12:04,000
+gitu, tapi kan lumayan tuh ngamanin ya, Mas, ya.
+
+310
+00:12:04,000 --> 00:12:06,000
+Nanti untuk ngurangin false
+
+311
+00:12:06,000 --> 00:12:08,000
+negative, apa, false positive-nya mungkin
+
+312
+00:12:08,000 --> 00:12:10,000
+baru, sambil
+
+313
+00:12:10,000 --> 00:12:12,000
+berjalan ya, pakai, apa, meningkatin
+
+314
+00:12:12,000 --> 00:12:14,000
+behavioral score-nya gitu. Itu
+
+315
+00:12:14,000 --> 00:12:16,000
+ada nggak, Mas? Perdukannya sepakat
+
+316
+00:12:16,000 --> 00:12:18,000
+itu, sekarang nggak tahu tadi kayak tadi, Mas, Miskat.
+
+317
+00:12:18,000 --> 00:12:20,000
+Memang full rule-based dulu aja, kalau memang
+
+318
+00:12:20,000 --> 00:12:22,000
+pelanggan baru yang datanya sedikit.
+
+319
+00:12:22,000 --> 00:12:24,000
+Oke, notate-notate, Mas.
+
+320
+00:12:24,000 --> 00:12:26,000
+Ke depannya bisa
+
+321
+00:12:26,000 --> 00:12:28,000
+seperti yang Mas Hama pesampaikan tadi
+
+322
+00:12:28,000 --> 00:12:30,000
+dengan catatan, kita sudah punya
+
+323
+00:12:30,000 --> 00:12:32,000
+data awal untuk
+
+324
+00:12:32,000 --> 00:12:34,000
+training. Oke.
+
+325
+00:12:34,000 --> 00:12:36,000
+Untuk bikin model yang jentrik tadi itu kan
+
+326
+00:12:36,000 --> 00:12:38,000
+tetap perlu label untuk training.
+
+327
+00:12:38,000 --> 00:12:40,000
+Kita nggak bisa
+
+328
+00:12:40,000 --> 00:12:42,000
+training tanpa
+
+329
+00:12:42,000 --> 00:12:44,000
+label, gitu ya. Ya, ya, ya.
+
+330
+00:12:44,000 --> 00:12:46,000
+Nah, kalau sudah ada
+
+331
+00:12:46,000 --> 00:12:48,000
+sebetulnya bisa
+
+332
+00:12:48,000 --> 00:12:50,000
+dimanfaatkan di
+
+333
+00:12:50,000 --> 00:12:52,000
+secara jentrik gitu ya, di bank lain
+
+334
+00:12:52,000 --> 00:12:54,000
+gitu, entah itu nanti kompatibel
+
+335
+00:12:54,000 --> 00:12:56,000
+atau tidak, perlu dilihat, gitu.
+
+336
+00:12:56,000 --> 00:12:58,000
+Cuman, memang syarat awalnya
+
+337
+00:12:58,000 --> 00:13:00,000
+itu kita perlu training
+
+338
+00:13:00,000 --> 00:13:02,000
+dan perlu label. Untuk saat ini kita
+
+339
+00:13:02,000 --> 00:13:04,000
+belum punya, sih, Mas.
+
+340
+00:13:04,000 --> 00:13:06,000
+Model yang di-berry kemarin nggak bisa di-berry.
+
+341
+00:13:06,000 --> 00:13:08,000
+Mas, izin sebentar aja.
+
+342
+00:13:08,000 --> 00:13:10,000
+Padi meeting, kita pun. Iya, ya.
+
+343
+00:13:14,000 --> 00:13:16,000
+Nanti nasibnya
+
+344
+00:13:16,000 --> 00:13:18,000
+...
+
+345
+00:13:30,000 --> 00:13:32,000
+Nah, dari violation
+
+346
+00:13:32,000 --> 00:13:34,000
+потерuna antsain.
+
+347
+00:13:38,000 --> 00:13:39,200
+Pada
+
+348
+00:19:09,200 --> 00:19:36,200
+Maafin, ternyata lama, Mas Miskat. Oke, sorry lanjut, Mas.
+
+349
+00:19:36,200 --> 00:19:41,200
+Sama-sama, sama-sama. Tadi juga pasangnya saya ada telepon.
+
+350
+00:19:41,200 --> 00:19:49,200
+Sama-sama, tadi itu terkait dengan model yang di BRI, bisa dipakai nggak gitu ya?
+
+351
+00:19:49,200 --> 00:19:57,200
+Model yang di BRI itu dulu kita developnya untuk mendeteksi skimming.
+
+352
+00:19:57,200 --> 00:20:00,200
+Artinya channelnya ATM gitu ya.
+
+353
+00:20:00,200 --> 00:20:09,200
+Kalau yang sekarang, kita itu fokusnya atau transaksinya kebanyakan dari mobile banking channelnya berbeda.
+
+354
+00:20:09,200 --> 00:20:16,200
+Sebetulnya secara umum itu tuh ada behavior yang mirip-mirip gitu ya, Mas.
+
+355
+00:20:16,200 --> 00:20:29,200
+Misalnya kalau orang yang kena fraud itu, dia sama-sama duitnya ditarik banyak dalam waktu singkat gitu ya.
+
+356
+00:20:29,200 --> 00:20:33,200
+Sebetulnya beberapa rules mirip, tapi ada juga yang spesifik.
+
+357
+00:20:34,200 --> 00:20:45,200
+Misalnya kalau di mobile banking itu, kalau dia transaksinya seaneh apapun, tapi di device-nya milik dia,
+
+358
+00:20:45,200 --> 00:20:53,200
+yaitu legit sih sebenarnya gitu, mau dia seaneh apapun, karena itu device-nya sudah kita ketahui milik dia gitu.
+
+359
+00:20:53,200 --> 00:20:56,200
+WTM mungkin nggak relevan ya.
+
+360
+00:20:56,200 --> 00:21:06,200
+Jadi memang ada beberapa yang sama, ada beberapa yang itu tuh spesifik di masing-masing channel kalau saya bilang.
+
+361
+00:21:06,200 --> 00:21:19,200
+Nah itu mungkin ya, mungkin bisa sih dicoba, at least rules-rules yang tadi genericnya itu mungkin bisa compatible di sini ya.
+
+362
+00:21:19,200 --> 00:21:22,200
+Mungkin bisa dicoba sih.
+
+363
+00:21:23,200 --> 00:21:26,200
+Oke, ntarik-ntarik.
+
+364
+00:21:26,200 --> 00:21:29,200
+Ntarik, aku jadinya pengen ntarik ke kondisi existing.
+
+365
+00:21:29,200 --> 00:21:31,200
+Kalau kondisi existing, tapi masih rule-based itu ya, Mas Misbah.
+
+366
+00:21:31,200 --> 00:21:33,200
+Ya, rule-based.
+
+367
+00:21:33,200 --> 00:21:36,200
+Siap-siap, oke.
+
+368
+00:21:38,200 --> 00:21:40,200
+Oke, boleh lanjut Mas, makin.
+
+369
+00:21:40,200 --> 00:21:46,200
+Kemudian bagaimana cara kita mendefinisikan rules-nya sekarang, Mas.
+
+370
+00:21:47,200 --> 00:21:51,200
+Oke, sebelum ke sana ada satu yang namanya profile.
+
+371
+00:21:51,200 --> 00:22:03,200
+Profile itu, dia digunakan sebagai baseline untuk menentukan account number ini tuh normalnya behavior-nya seperti apa gitu, Mas Amam.
+
+372
+00:22:03,200 --> 00:22:14,200
+Misalnya, account number ini tuh selama 3 bulan terakhir, rata-rata transaksi hariannya 1.500.
+
+373
+00:22:14,200 --> 00:22:17,200
+Mediannya 1.200.
+
+374
+00:22:17,200 --> 00:22:23,200
+Percentil 95-nya selama 3 bulan tuh dia 5 juta gitu.
+
+375
+00:22:23,200 --> 00:22:28,200
+Artinya setiap account itu punya profile-nya masing-masing.
+
+376
+00:22:28,200 --> 00:22:29,200
+Oh, keren ya.
+
+377
+00:22:29,200 --> 00:22:31,200
+Ya, biar tau anomali transaksi ya.
+
+378
+00:22:31,200 --> 00:22:34,200
+Biasanya kok sedih, tiba-tiba ada yang lebih banget gitu.
+
+379
+00:22:34,200 --> 00:22:35,200
+Ya.
+
+380
+00:22:35,200 --> 00:22:36,200
+Ya, ya, ya, ya.
+
+381
+00:22:36,200 --> 00:22:41,200
+Tapi tidak semua account dia punya profile.
+
+382
+00:22:41,200 --> 00:22:45,200
+Profile itu kan perlu waktu untuk membentuk 3 bulan biasanya.
+
+383
+00:22:45,200 --> 00:22:46,200
+Ya, oke.
+
+384
+00:22:46,200 --> 00:22:50,200
+Kalau misalnya dia tidak punya profile, ya ada yang generic-nya gitu.
+
+385
+00:22:50,200 --> 00:22:54,200
+Generic ini nasabah secara umum lah gitu.
+
+386
+00:22:54,200 --> 00:22:59,200
+Ini sebenarnya agak irisan sama AIDM ya, data management.
+
+387
+00:22:59,200 --> 00:23:03,200
+Karena kalau data management juga punya profile-nya, cuma profile keseluruhan ya.
+
+388
+00:23:03,200 --> 00:23:08,200
+Data profiling di data management itu keseluruhan, betul.
+
+389
+00:23:08,200 --> 00:23:09,200
+Ya, ya, ya, ya, oke, oke.
+
+390
+00:23:09,200 --> 00:23:10,200
+Betul banget.
+
+391
+00:23:10,200 --> 00:23:17,200
+Nah kemudian yang tidak kalah penting di profile ini kita catat.
+
+392
+00:23:17,200 --> 00:23:21,200
+Account number ini device-nya mana aja sih yang punya dia gitu mas.
+
+393
+00:23:21,200 --> 00:23:23,200
+Device ID-nya.
+
+394
+00:23:23,200 --> 00:23:30,200
+Karena kalau device ID-nya milik dia tadi mau seaneh apapun ya udah itu mah trusted gitu.
+
+395
+00:23:30,200 --> 00:23:31,200
+Ya, ya.
+
+396
+00:23:31,200 --> 00:23:32,200
+Gitu kan.
+
+397
+00:23:32,200 --> 00:23:34,200
+Oh, pasti juga.
+
+398
+00:23:34,200 --> 00:23:36,200
+Kemudian trusted destination.
+
+399
+00:23:36,200 --> 00:23:39,200
+Trusted destination ini belesarkan pengalaman kita.
+
+400
+00:23:39,200 --> 00:23:47,200
+Kita tahu bahwa kalau sebelumnya dia pernah transfer ke nomor rekening itu,
+
+401
+00:23:47,200 --> 00:23:51,200
+ke depannya dan dia tidak melaporkannya itu sebagai fraud ya.
+
+402
+00:23:51,200 --> 00:23:56,200
+Ke depannya mau seaneh apapun terhasil dia, sebesar apapun, secepat apapun,
+
+403
+00:23:56,200 --> 00:23:59,200
+ke nomor tersebut ya itu mah legit gitu.
+
+404
+00:23:59,200 --> 00:24:01,200
+Ya memang orang itu.
+
+405
+00:24:01,200 --> 00:24:02,200
+Oke.
+
+406
+00:24:03,200 --> 00:24:05,200
+Bukan fraud star.
+
+407
+00:24:05,200 --> 00:24:12,200
+Jadi kita catat mana aja sih destinasi yang pernah dia transfer sebelumnya gitu ya.
+
+408
+00:24:13,200 --> 00:24:14,200
+Oke.
+
+409
+00:24:14,200 --> 00:24:15,200
+Ya gitu.
+
+410
+00:24:15,200 --> 00:24:23,200
+Nah sekarang berbekal informasi profile, kemudian trusted device, trusted destination, blacklist.
+
+411
+00:24:23,200 --> 00:24:26,200
+Berbekal itu kita bisa membangun rules.
+
+412
+00:24:26,200 --> 00:24:30,200
+Nah rules-nya ada di sini scoring engine.
+
+413
+00:24:30,200 --> 00:24:35,200
+Kita bisa bikin rules tadi spesifik per channel misalnya mas.
+
+414
+00:24:35,200 --> 00:24:42,200
+Karena untuk setiap channel itu biasanya tadi ada beda dikit gitu ya.
+
+415
+00:24:42,200 --> 00:24:46,200
+Ada spesifik kalau trustednya di ATM, saya mau deteksinya kayak gini.
+
+416
+00:24:46,200 --> 00:24:49,200
+Kalau trustednya di mobile banking seperti apa.
+
+417
+00:24:49,200 --> 00:24:56,200
+Jadi kita bisa bikin per channel, kita bisa pisahkan scoring engine-nya.
+
+418
+00:24:56,200 --> 00:24:59,200
+Contohnya ini ada satu scoring engine.
+
+419
+00:25:00,200 --> 00:25:07,200
+Nah, yang pertama di scoring engine itu, kita tentukan di sini tentunya namanya.
+
+420
+00:25:07,200 --> 00:25:09,200
+Nama scoring-nya apa?
+
+421
+00:25:09,200 --> 00:25:13,200
+Contact cover rules, misalnya mobile banking lebih tepatnya sih kayak gini.
+
+422
+00:25:13,200 --> 00:25:17,200
+Karena kita idealnya bikin per channel.
+
+423
+00:25:18,200 --> 00:25:23,200
+Kemudian data source-nya apakah kita mau mendeteksi dari transaction atau activity.
+
+424
+00:25:23,200 --> 00:25:27,200
+Sekarang belum bisa activity, activity itu dari clickstream.
+
+425
+00:25:27,200 --> 00:25:30,200
+Waktu di Raya kita pakai IXP.
+
+426
+00:25:30,200 --> 00:25:35,200
+Kalau nggak salah, Brimo juga pakenya sama IXP untuk track behavior-nya nasa bayar.
+
+427
+00:25:35,200 --> 00:25:37,200
+Nggak klik apa, nggak klik apa.
+
+428
+00:25:37,200 --> 00:25:40,200
+Dia nggak transaksi sih, tapi kecatat dia login.
+
+429
+00:25:40,200 --> 00:25:42,200
+Dia klik ganti password gitu ya.
+
+430
+00:25:42,200 --> 00:25:46,200
+Dia klik, misalnya lupa password dan lain-lain.
+
+431
+00:25:46,200 --> 00:25:50,200
+Nah ini bisa kita manfaatkan, cuman saat ini belum.
+
+432
+00:25:50,200 --> 00:25:51,200
+Kita baru dari transaksi.
+
+433
+00:25:51,200 --> 00:25:54,200
+Jadi kalau yang activity-nya case-by-case ya,
+
+434
+00:25:54,200 --> 00:26:00,200
+kalau si company-nya dia memang punya logger baru bisa dipakai ya?
+
+435
+00:26:00,200 --> 00:26:02,200
+Iya, betul.
+
+436
+00:26:04,200 --> 00:26:06,200
+Kemudian apakah real-time atau batching.
+
+437
+00:26:06,200 --> 00:26:10,200
+Batching itu kadang juga, Bang pengennya batching,
+
+438
+00:26:10,200 --> 00:26:15,200
+kadang nggak apa-apa lah, yang penting setiap 3 jam sekali di scoring gitu.
+
+439
+00:26:15,200 --> 00:26:17,200
+Saya nggak mau real-time misalnya.
+
+440
+00:26:17,200 --> 00:26:21,200
+Itu ke depannya kita bisa support, cuman sekarang belum kita support.
+
+441
+00:26:21,200 --> 00:26:26,200
+Pertanyaanku, Mas, ini kan ada variable nih di visual,
+
+442
+00:26:26,200 --> 00:26:28,200
+kan dia no code platform, kalau lihat.
+
+443
+00:26:28,200 --> 00:26:32,200
+Cuman kan kadang variable name di bank-nya sama di kita beda ya.
+
+444
+00:26:32,200 --> 00:26:36,200
+Berarti ada integration effort, ada mapping variable dulu ya?
+
+445
+00:26:36,200 --> 00:26:38,200
+Betul, betul.
+
+446
+00:26:38,200 --> 00:26:42,200
+Ini singkat aja saya bahas, karena tadi Mas Anwar menerima itu,
+
+447
+00:26:42,200 --> 00:26:48,200
+kita coba bayangkan ini flow dari sisi datanya ya, Mas Amam ya.
+
+448
+00:26:48,200 --> 00:26:51,200
+Ini singkat aja.
+
+449
+00:26:58,200 --> 00:27:02,200
+Ini kita bilang PRX yang raw, yang dari bank, gitu Mas Amam.
+
+450
+00:27:02,200 --> 00:27:05,200
+Bang bisa beda-beda.
+
+451
+00:27:05,200 --> 00:27:11,200
+Nah, di sini, ini ada proses yang namanya enrichment dan standarisasi.
+
+452
+00:27:11,200 --> 00:27:25,200
+Nah, setelah melalui tahapan itu baru dia bisa di scoring.
+
+453
+00:27:25,200 --> 00:27:29,200
+Oke.
+
+454
+00:27:29,200 --> 00:27:31,200
+Nah, kenapa ada enrichment?
+
+455
+00:27:31,200 --> 00:27:35,200
+Saya bilang nanti kita lihat ada beberapa fitur yang itu tuh hasil enrichment.
+
+456
+00:27:36,200 --> 00:27:48,200
+Jadi si transaksi itu awalnya dia bisa hanya misalnya 10 fitur atau 10 atribut ya, Mas ya.
+
+457
+00:27:48,200 --> 00:27:50,200
+10 misalnya.
+
+458
+00:27:50,200 --> 00:27:56,200
+Tapi kita akan enrich lagi di feature engineering, kan.
+
+459
+00:27:56,200 --> 00:28:01,200
+Ini kita jadi totalnya di sini bisa jadi 50, gitu.
+
+460
+00:28:01,200 --> 00:28:09,200
+Nah, ini secara teknis sebetulnya Mas, yang berat itu di sini sebetulnya.
+
+461
+00:28:09,200 --> 00:28:19,200
+Enrichment ini yang sebetulnya secara performance berat dan secara engineering,
+
+462
+00:28:19,200 --> 00:28:26,200
+bagaimana supaya kita bisa lakukan itu dengan optimal, challenge-nya itu sebetulnya di sini.
+
+463
+00:28:26,200 --> 00:28:32,200
+Pada scoring kan kita bikin rules, ya sudah silahkan cocokan aja dengan rules-nya gitu ya.
+
+464
+00:28:32,200 --> 00:28:34,200
+Bantaku tip sederhana itu.
+
+465
+00:28:34,200 --> 00:28:40,200
+Tapi challenge kita, kalau kita mau bilang teknisnya, challenge-nya sebenarnya di sini.
+
+466
+00:28:40,200 --> 00:28:44,200
+Bagaimana enrichment dan standarisasi ini bisa dilakukan dengan cepat, karena ini berat.
+
+467
+00:28:44,200 --> 00:28:47,200
+Oke. Aku izin langsung lagi, Mas.
+
+468
+00:28:47,200 --> 00:28:54,200
+Terpengaruh standarisasi apakah dia derivasi dari varian transaksi raw
+
+469
+00:28:54,200 --> 00:28:58,200
+atau kita memang menyambungin pakai data point lain?
+
+470
+00:28:58,200 --> 00:29:02,200
+Kalau mostly sih dari sini, Mas.
+
+471
+00:29:02,200 --> 00:29:03,200
+Dari patient?
+
+472
+00:29:03,200 --> 00:29:07,200
+Ya, karena yang 10 ini itu umum tadi ya.
+
+473
+00:29:07,200 --> 00:29:11,200
+Terus kita sambungin dengan data point lain itu misalnya tadi di sini kita enrich
+
+474
+00:29:11,200 --> 00:29:14,200
+apakah dia ada di backlist atau tidak, gitu, Mas.
+
+475
+00:29:14,200 --> 00:29:17,200
+Terus kita tambahin lagi profile-nya, Mas.
+
+476
+00:29:17,200 --> 00:29:20,200
+50 ini mungkin 10-nya profile-nya dia, gitu, Mas.
+
+477
+00:29:20,200 --> 00:29:22,200
+Bayangin.
+
+478
+00:29:22,200 --> 00:29:23,200
+Ya, ya, ya.
+
+479
+00:29:23,200 --> 00:29:26,200
+Tadi kan kita ada profile, profile-nya kita sambungin di sini.
+
+480
+00:29:26,200 --> 00:29:28,200
+Jadi 10 ini nambah ada informasi programnya.
+
+481
+00:29:28,200 --> 00:29:34,200
+Oh, betul, betul. Jadi tiap transaksi selalu untuk berperfalan sama duplikat gitu ya.
+
+482
+00:29:34,200 --> 00:29:36,200
+Per transaksi di noted ya.
+
+483
+00:29:36,200 --> 00:29:39,200
+Ya, per transaksi itu ditambahin.
+
+484
+00:29:39,200 --> 00:29:44,200
+Misalnya transaksi ini kan ada amount, gitu ya, ada lokasi, kemudian ada channel-nya apa.
+
+485
+00:29:44,200 --> 00:29:47,200
+Terus ditambahin di enrichment ini.
+
+486
+00:29:47,200 --> 00:29:50,200
+Profile-nya dia tuh selama 3 bulan terakhir seperti ini loh.
+
+487
+00:29:50,200 --> 00:29:53,200
+Jadi scoring-nya ini lebih kaya informasinya kan.
+
+488
+00:29:53,200 --> 00:30:01,200
+Kemudian di sini juga dia bandingkan transaksi sebelumnya berapa menit yang lalu, gitu, Mas.
+
+489
+00:30:01,200 --> 00:30:02,200
+Okay.
+
+490
+00:30:02,200 --> 00:30:06,200
+Transaksi sebelumnya dimana, itu kan harus di sini, di enrichment.
+
+491
+00:30:06,200 --> 00:30:07,200
+Oke.
+
+492
+00:30:07,200 --> 00:30:13,200
+Kita look up ke historical-nya, terus dia tambahkan informasinya di 50 fitur ini.
+
+493
+00:30:13,200 --> 00:30:14,200
+Oke.
+
+494
+00:30:14,200 --> 00:30:15,200
+Gitu.
+
+495
+00:30:15,200 --> 00:30:18,200
+Oke. Noted.
+
+496
+00:30:18,200 --> 00:30:23,200
+Sehingga di scoring ini dia sudah punya lengkap, tinggal dia silahkan, rules-nya mau kaya gimana.
+
+497
+00:30:23,200 --> 00:30:27,200
+Nah, pertanyaannya, kalau misalnya, Mas, saya mau bikin rules baru, ya silahkan.
+
+498
+00:30:27,200 --> 00:30:32,200
+Tapi kalau yang kamu butuhkan itu tidak ada, berarti kan harus ada pengembangan lagi di sini.
+
+499
+00:30:32,200 --> 00:30:33,200
+Betul, betul.
+
+500
+00:30:33,200 --> 00:30:34,200
+Gitu.
+
+501
+00:30:34,200 --> 00:30:39,200
+Yang kemarin kita sampaikan, Azizi kan sempat nawarin ke Bang Simpo.
+
+502
+00:30:39,200 --> 00:30:40,200
+Betul.
+
+503
+00:30:40,200 --> 00:30:42,200
+Atau Nindul kalau nggak salah, Azizi.
+
+504
+00:30:42,200 --> 00:30:44,200
+Mas, nanti kalau ada pengembangan rules gimana?
+
+505
+00:30:45,200 --> 00:30:50,200
+Gini aja, kalau pengembangan rules-nya di sini, ya free, silahkan. Ini kan fitur dari aplikasi kita.
+
+506
+00:30:50,200 --> 00:30:58,200
+Tapi kalau misalnya harus sampai nyentuh di sini, ya itung aja main list-nya kita butuh berapa untuk kembangin di sini.
+
+507
+00:30:58,200 --> 00:30:59,200
+Oh, oke.
+
+508
+00:30:59,200 --> 00:31:00,200
+Bisa kaya gitu, gitu.
+
+509
+00:31:00,200 --> 00:31:02,200
+Noted, noted. Siap.
+
+510
+00:31:02,200 --> 00:31:06,200
+Oke, kita lanjut yang tadi.
+
+511
+00:31:06,200 --> 00:31:10,200
+Nah, yang pertama struktur dari scoring engine itu ada filter.
+
+512
+00:31:10,200 --> 00:31:20,200
+Filter ini kita gunakan untuk transaksi seperti apa sih yang mau kita scoring, gitu, Mas.
+
+513
+00:31:20,200 --> 00:31:23,200
+Karena tidak semua transaksi biasanya perlu di-scoring.
+
+514
+00:31:23,200 --> 00:31:27,200
+Misalnya transaksi di bawah 100 ribu, ya udahlah kita anggap normal.
+
+515
+00:31:27,200 --> 00:31:32,200
+Kalau dibayar itu saking banyaknya transaksi, biasanya kita kaya gitu untuk mengurangi transaksi.
+
+516
+00:31:32,200 --> 00:31:38,200
+Kalau dibayar itu saking banyaknya transaksi, biasanya kita kaya gitu untuk mengurangi jumlah transaksi yang di-scoring, ya, Mas.
+
+517
+00:31:38,200 --> 00:31:41,200
+Kalau dibawah 50 ribu, kita anggap normal lah, gitu.
+
+518
+00:31:41,200 --> 00:31:44,200
+Karena itu banyak banget yang dibawah 50 ribu aja.
+
+519
+00:31:44,200 --> 00:31:49,200
+Ini kita menentukan mau yang seperti apa yang kita scoring.
+
+520
+00:31:49,200 --> 00:31:56,200
+Kalau di sini, yang kita scoring itu adalah yang di atas 100 ribu, yang current device is trusted-nya false,
+
+521
+00:31:56,200 --> 00:32:00,200
+artinya device ID-nya itu tidak trusted, gitu, Mas.
+
+522
+00:32:00,200 --> 00:32:04,200
+Tidak trusted itu artinya device baru, tidak ada di profilnya dia.
+
+523
+00:32:04,200 --> 00:32:11,200
+Destination trusted-nya false, artinya ini destinasi baru, kaya gitu.
+
+524
+00:32:11,200 --> 00:32:17,200
+Ini bisa juga kalau lebih nyaman bikinnya pakai kode juga bisa dibikin kaya gini.
+
+525
+00:32:20,200 --> 00:32:26,200
+Kemudian tadi kalau dia nggak lalas filter, udah otomatis dia nanti normal.
+
+526
+00:32:26,200 --> 00:32:31,200
+Nah, terus di sini ada rules-nya. Rules-nya bisa lebih dari satu nih.
+
+527
+00:32:31,200 --> 00:32:34,200
+Yang pertama saya bikin device mencurigakan.
+
+528
+00:32:34,200 --> 00:32:40,200
+Jika current device-nya tidak trusted, maka saya kasih score 30, gitu, Mas.
+
+529
+00:32:40,200 --> 00:32:43,200
+Kalau dia true, ya udah, score-nya 0.
+
+530
+00:32:43,200 --> 00:32:45,200
+Terus destinasi-nya kita cek lagi.
+
+531
+00:32:45,200 --> 00:32:52,200
+Jika destinasi-nya mencurigakan, jika trusted-nya false, artinya destinasi-nya baru,
+
+532
+00:32:52,200 --> 00:32:57,200
+kemudian destinasi-nya itu bukan phone number-nya dia sendiri.
+
+533
+00:32:57,200 --> 00:33:01,200
+Kadang kita top up ke nomor handphone kita sendiri, gitu, kan?
+
+534
+00:33:01,200 --> 00:33:02,200
+Betul.
+
+535
+00:33:02,200 --> 00:33:04,200
+Up up, wallet atau apa, gitu.
+
+536
+00:33:04,200 --> 00:33:06,200
+Iya, iya, iya.
+
+537
+00:33:06,200 --> 00:33:11,200
+Terus nomor tujuannya, namanya tujuannya itu tidak memiliki similarity dengan namanya dia.
+
+538
+00:33:11,200 --> 00:33:15,200
+Kadang kita transfer ke nomor ke-nanya kita di bang lain.
+
+539
+00:33:15,200 --> 00:33:21,200
+Kalau bukan ke-dari-nya sendiri, bukan ke handphone dia, dan tidak pernah dari wire-nya ke sana,
+
+540
+00:33:21,200 --> 00:33:24,200
+kita anggap itu mencurigakan, 30.
+
+541
+00:33:24,200 --> 00:33:26,200
+Iya, iya, iya.
+
+542
+00:33:26,200 --> 00:33:30,200
+Kemudian jika dia ada di blacklist, nah ini udah pasti.
+
+543
+00:33:30,200 --> 00:33:36,200
+Pokoknya kalau ada di blacklist, baik kita device apapun destinasi-nya, dikasih 100 aja langsung, score-nya.
+
+544
+00:33:36,200 --> 00:33:38,200
+Oh, iya, iya, iya.
+
+545
+00:33:38,200 --> 00:33:40,200
+Nah, baru di sini berkaitan dengan nominal.
+
+546
+00:33:40,200 --> 00:33:43,200
+Nominalnya di luar kebiasaan dia, enggak, gitu, Mas.
+
+547
+00:33:43,200 --> 00:33:46,200
+Oh, udah ada ya, ini variable statistiknya, ya?
+
+548
+00:33:46,200 --> 00:33:48,200
+Iya, betul.
+
+549
+00:33:48,200 --> 00:33:50,200
+Ini kan ambil dari profile.
+
+550
+00:33:50,200 --> 00:33:53,200
+Yang ini yang hasil enrichment tadi, Mas.
+
+551
+00:33:53,200 --> 00:33:57,200
+TRXO sum last 24 jam.
+
+552
+00:33:57,200 --> 00:33:59,200
+Ya, ya, iya.
+
+553
+00:33:59,200 --> 00:34:06,200
+Ya, sum dari 24 jam terakhir dia itu melebihi 3 kali mainnya dia selama 3 bulan, enggak?
+
+554
+00:34:06,200 --> 00:34:07,200
+Iya, iya, iya.
+
+555
+00:34:07,200 --> 00:34:10,199
+Kalau iya, dia enggak mencurigakan 30 score-nya.
+
+556
+00:34:10,199 --> 00:34:14,199
+Oh, sorry, Mas Niskat, aku berarti balik ke yang flow tadi.
+
+557
+00:34:14,199 --> 00:34:18,199
+Seharusnya itu udah ada di default feature enrichment, ya, yang pasti ada dari data existing mereka, ya?
+
+558
+00:34:18,199 --> 00:34:20,199
+Betul.
+
+559
+00:34:20,199 --> 00:34:26,199
+Oh, makanya tadi kata Mas Niskat, kalau dia minta feature enrichment tambahan di luar yang kita punya, ada enrichment, ya?
+
+560
+00:34:26,199 --> 00:34:27,199
+Betul.
+
+561
+00:34:27,199 --> 00:34:28,199
+Oh, siap, ya, ya.
+
+562
+00:34:28,199 --> 00:34:30,199
+Aku baru klik, sorry, sorry.
+
+563
+00:34:30,199 --> 00:34:32,199
+Lanjut, Mas.
+
+564
+00:34:32,199 --> 00:34:35,199
+Nanti coba kita lihat fiturnya apa aja ya, Mas, yang kita punya.
+
+565
+00:34:35,199 --> 00:34:36,199
+Siap.
+
+566
+00:34:36,199 --> 00:34:42,199
+Kemudian, mohon kalau dia 3 kali lebih besar, 30 score-nya.
+
+567
+00:34:42,199 --> 00:34:47,199
+Kalau 2 kali, ya udah, misalnya, ini ya, 20, gitu.
+
+568
+00:34:47,199 --> 00:34:51,199
+Ini tergantung nanti dia bikinnya gimana.
+
+569
+00:34:51,199 --> 00:34:59,199
+Velocity, jika interval dari transaksi sebelumnya itu, kurang dari 30 detik, langsung dikasih 20, gitu.
+
+570
+00:34:59,199 --> 00:35:01,199
+Terlalu cepat.
+
+571
+00:35:01,199 --> 00:35:06,199
+Kalau dalam 1 menit dia 3 kali transaksi, 30, gitu, Mas.
+
+572
+00:35:06,199 --> 00:35:11,199
+Dan sebagainya, gitu ya, dari sisi velocity.
+
+573
+00:35:11,199 --> 00:35:13,199
+Nah, nanti dijumlahkan yang tadi itu, Mas.
+
+574
+00:35:13,199 --> 00:35:19,199
+Ini dari sisi waktu, misalnya kalau transaksi tengah malam, dari jam 22 sampai jam 5 subuh, score-nya berapa?
+
+575
+00:35:19,199 --> 00:35:21,199
+Oke.
+
+576
+00:35:21,199 --> 00:35:25,199
+Lokasi, apakah lokasinya ini termasuk lokasinya yang blacklist?
+
+577
+00:35:25,199 --> 00:35:33,199
+Karena kita tuh udah tahu, kalau lokasinya Roadster itu di Indonesia ada 2 yang paling terkenal, lah.
+
+578
+00:35:33,199 --> 00:35:35,199
+Skidrap sama Tulung Selapan.
+
+579
+00:35:35,199 --> 00:35:38,199
+Jadi kita bisa bikin GPS fence, gitu ya.
+
+580
+00:35:38,199 --> 00:35:46,199
+Kalau dia ada di dalam situ, berarti dia GPS-nya kita anggap mencurigakan, gitu.
+
+581
+00:35:46,199 --> 00:35:48,199
+Mas, aku boleh potong nggak?
+
+582
+00:35:48,199 --> 00:35:51,199
+Mas, itu kah kalau rule-nya tabrakan?
+
+583
+00:35:51,199 --> 00:35:55,199
+Trusted Device, ya. Tapi dia di blacklist, itu apa?
+
+584
+00:35:55,199 --> 00:35:57,199
+Oke, nice, nice.
+
+585
+00:35:57,199 --> 00:36:04,199
+Kalau kita lihat di yang sekarang, karena dia Trusted Device, di sini, Mas.
+
+586
+00:36:04,199 --> 00:36:11,199
+Karena dia Trusted Device-nya di awal udah true, berarti dia nggak akan masuk ke filter, Mas.
+
+587
+00:36:11,199 --> 00:36:13,199
+Dia nggak akan diteruskan ke rules.
+
+588
+00:36:13,199 --> 00:36:15,199
+Paham, paham, paham.
+
+589
+00:36:15,199 --> 00:36:20,199
+Karena filter ini benar-benar menentukan apakah dia lanjut atau nggak filter, ya.
+
+590
+00:36:20,199 --> 00:36:23,199
+Karena serial, ya, dia di depan, ya.
+
+591
+00:36:23,199 --> 00:36:25,199
+Kalau di workload itu dia di depan duluan, ya.
+
+592
+00:36:25,199 --> 00:36:27,199
+Ya, kalau filter seperti itu.
+
+593
+00:36:27,199 --> 00:36:30,199
+Tapi kalau rules, nggak masalah, Mas. Ada yang tabrakan.
+
+594
+00:36:30,199 --> 00:36:34,199
+Kalau rules ini, nanti kan ada jumlahnya. Dijumlahin aja.
+
+595
+00:36:34,199 --> 00:36:38,199
+Oh gitu. Ya, ya, ya. Makes sense, makes sense.
+
+596
+00:36:38,199 --> 00:36:41,199
+Nanti dari sisi device-nya dia dapat score berapa?
+
+597
+00:36:41,199 --> 00:36:44,199
+Dari sisi apa, dia dapat score berapa?
+
+598
+00:36:44,199 --> 00:36:46,199
+Oke, oke. Keren, keren.
+
+599
+00:36:46,199 --> 00:36:48,199
+Kalau filter, dia cut off.
+
+600
+00:36:48,199 --> 00:36:50,199
+Kalau nggak sesuai filter, ya udah.
+
+601
+00:36:50,199 --> 00:36:53,199
+Karena tujuannya kan mau mengurangi yang di scoring, ya.
+
+602
+00:36:53,199 --> 00:36:55,199
+Ya.
+
+603
+00:36:55,199 --> 00:36:57,199
+Gitu.
+
+604
+00:36:57,199 --> 00:36:59,199
+Oke.
+
+605
+00:36:59,199 --> 00:37:03,199
+Nah, terakhir kita bisa tentukan nih.
+
+606
+00:37:03,199 --> 00:37:10,199
+Kalau score totalnya di atas 80, kita kasih label dia Danger.
+
+607
+00:37:10,199 --> 00:37:12,199
+Action-nya apa? Ini bisa kita linkan, Mas.
+
+608
+00:37:12,199 --> 00:37:15,199
+Misalnya send notification ke nasabahnya.
+
+609
+00:37:15,199 --> 00:37:18,199
+Kakaun gitu ya. Atau donasing gitu.
+
+610
+00:37:19,199 --> 00:37:23,199
+Kalau di atas berapa, score-nya nanti seperti apa?
+
+611
+00:37:23,199 --> 00:37:25,199
+Ya, ya, ya.
+
+612
+00:37:25,199 --> 00:37:27,199
+Nah, terakhir di sini kita bisa tes.
+
+613
+00:37:27,199 --> 00:37:31,199
+Kalau kita punya data historical tuh, kalau scoring engine udah jalan,
+
+614
+00:37:31,199 --> 00:37:35,199
+kita download aja, Mas, data transaksi yang tadi kita lihat di sini nih.
+
+615
+00:37:35,199 --> 00:37:37,199
+Ya, ya, ya.
+
+616
+00:37:37,199 --> 00:37:39,199
+Kita test aja, gitu.
+
+617
+00:37:39,199 --> 00:37:41,199
+Oke.
+
+618
+00:37:41,199 --> 00:37:44,199
+Sambilnya, aku boleh nanya, Mas?
+
+619
+00:37:44,199 --> 00:37:45,199
+Siap, aman, Mas.
+
+620
+00:37:45,199 --> 00:37:49,199
+Tadi kan ada data transaksi, aku, again, tadi nanya terkait variable name.
+
+621
+00:37:49,199 --> 00:37:51,199
+Itu tuh auto-discover, ya, Mas?
+
+622
+00:37:51,199 --> 00:37:54,199
+Misalnya udah ada data transaksi dari klien,
+
+623
+00:37:54,199 --> 00:37:58,199
+itu apakah di auto-mapping dan auto-discover, oh, variable ini di klien,
+
+624
+00:37:58,199 --> 00:38:00,199
+di FDS-nya ini.
+
+625
+00:38:00,199 --> 00:38:04,199
+Misalnya AMP di bank, kita mount, itu udah auto-discover apa?
+
+626
+00:38:04,199 --> 00:38:06,199
+Tetap manual mapping, Mas?
+
+627
+00:38:06,199 --> 00:38:08,199
+Manual mapping, Mas.
+
+628
+00:38:08,199 --> 00:38:11,199
+Tapi itu perlu kita buat configurable.
+
+629
+00:38:11,199 --> 00:38:13,199
+Dalam arti, nggak perlu coding, ya.
+
+630
+00:38:13,199 --> 00:38:16,199
+Kita kayak bikin mapping-nya aja kayak CSV, gitu, Mas.
+
+631
+00:38:16,199 --> 00:38:18,199
+CSV mapping.
+
+632
+00:38:18,199 --> 00:38:20,199
+Itu perlu kita implementasikan seperti itu.
+
+633
+00:38:20,199 --> 00:38:22,199
+Sekarang sih belum, ya. Sekarang...
+
+634
+00:38:22,199 --> 00:38:25,199
+Upload, ya, misalnya data dictionary-nya kita tinggal assign aja, ya, ke...
+
+635
+00:38:25,199 --> 00:38:26,199
+Iya.
+
+636
+00:38:26,199 --> 00:38:27,199
+Oh, clear, clear.
+
+637
+00:38:27,199 --> 00:38:29,199
+Mapping-nya seperti apa, gitu.
+
+638
+00:38:29,199 --> 00:38:30,199
+Oh, pakai, ini, Mas.
+
+639
+00:38:30,199 --> 00:38:35,199
+Pakai small model auto-discover, tapi nanti tetap kita verify.
+
+640
+00:38:35,199 --> 00:38:37,199
+Oh, bisa, bisa, bisa.
+
+641
+00:38:37,199 --> 00:38:38,199
+Bener.
+
+642
+00:38:38,199 --> 00:38:39,199
+Jadi...
+
+643
+00:38:39,199 --> 00:38:41,199
+Iya, iya, iya.
+
+644
+00:38:41,199 --> 00:38:44,199
+Kita model kecil buat auto-discover dulu, based on existing data.
+
+645
+00:38:44,199 --> 00:38:46,199
+Tapi kan pasti ada salahnya, ya.
+
+646
+00:38:46,199 --> 00:38:49,199
+Nanti baru verifikasinya, jadi orang nggak makan waktu inputnya kali, nggak tahu sih.
+
+647
+00:38:49,199 --> 00:38:51,199
+Nggak tahu sih. Nggak tahu se...
+
+648
+00:38:53,199 --> 00:38:54,199
+Ini apa.
+
+649
+00:38:54,199 --> 00:38:55,199
+Iya, iya.
+
+650
+00:38:55,199 --> 00:38:59,199
+Kalau mau ke arah situ bisa.
+
+651
+00:38:59,199 --> 00:39:01,199
+Tapi kalau pandanganku...
+
+652
+00:39:03,199 --> 00:39:07,199
+Karena bisa, misalnya, karena biasanya basic feature itu kan...
+
+653
+00:39:07,199 --> 00:39:09,199
+Cuma 10, gitu, Mas.
+
+654
+00:39:09,199 --> 00:39:10,199
+Oh, iya, iya, nggak ini, ya.
+
+655
+00:39:10,199 --> 00:39:11,199
+Ya, 10.
+
+656
+00:39:11,199 --> 00:39:12,199
+Betul, betul, betul.
+
+657
+00:39:12,199 --> 00:39:16,199
+Dan perlu dipastikan benar-benar, gitu, ya.
+
+658
+00:39:16,199 --> 00:39:18,199
+Jadi kayaknya...
+
+659
+00:39:18,199 --> 00:39:21,199
+Meskipun selalu auto-discover, tadi kan perlu dicek satu-satu.
+
+660
+00:39:21,199 --> 00:39:24,199
+Itu cuma 10, gitu, misalnya.
+
+661
+00:39:24,199 --> 00:39:25,199
+Iya, iya, iya.
+
+662
+00:39:25,199 --> 00:39:27,199
+Sense, sense, sense. Betul, Mas, betul, betul.
+
+663
+00:39:27,199 --> 00:39:29,199
+Oh, inget nih, 50-nya, betul. Sorry, sorry.
+
+664
+00:39:29,199 --> 00:39:31,199
+Iya.
+
+665
+00:39:31,199 --> 00:39:33,199
+Lupa kalau 50-nya banyak, banyak condition.
+
+666
+00:39:33,199 --> 00:39:35,199
+Iya, benar, benar, benar.
+
+667
+00:39:38,199 --> 00:39:42,199
+Nah, ini kita pilih CSP-nya nanti ke deteksi, Mas.
+
+668
+00:39:43,199 --> 00:39:46,199
+Ini dia, berdasarkan rule sini tadi atas,
+
+669
+00:39:46,199 --> 00:39:49,199
+dapat skor 30 dan dia normal, gitu.
+
+670
+00:39:50,199 --> 00:39:53,199
+Kemudian, misalnya, ini harusnya warna, ya.
+
+671
+00:39:53,199 --> 00:39:56,199
+Normal, warning, danger, ini harusnya ada warnanya,
+
+672
+00:39:56,199 --> 00:39:58,199
+cuma ada bugs, jadi nggak muncul.
+
+673
+00:39:58,199 --> 00:39:59,199
+Oke.
+
+674
+00:39:59,199 --> 00:40:00,199
+Semuanya abu.
+
+675
+00:40:00,199 --> 00:40:02,199
+Misalnya warning, gitu.
+
+676
+00:40:02,199 --> 00:40:03,199
+Ya, kenapa warning?
+
+677
+00:40:03,199 --> 00:40:04,199
+Kita bisa check juga di sini, Mas.
+
+678
+00:40:04,199 --> 00:40:06,199
+Nah, rules apa yang kena?
+
+679
+00:40:06,199 --> 00:40:09,199
+Dia kena device mencurigakan, dapat skor 30.
+
+680
+00:40:09,199 --> 00:40:12,199
+Dia kena waktu mencurigakan, dapat skor 10.
+
+681
+00:40:12,199 --> 00:40:14,199
+Totalnya sekian.
+
+682
+00:40:14,199 --> 00:40:17,199
+Gitu. Yang 100, kenapa sih dia 100?
+
+683
+00:40:17,199 --> 00:40:19,199
+Bisa juga kita lihat kayak gini.
+
+684
+00:40:24,199 --> 00:40:25,199
+Kayak gitu.
+
+685
+00:40:25,199 --> 00:40:28,199
+After itu, ya udah, tinggal di-save, gitu.
+
+686
+00:40:29,199 --> 00:40:32,199
+Mas, kalau, nah, kan udah ada rule nih, Mas.
+
+687
+00:40:32,199 --> 00:40:35,199
+Terus ternyata ada yang kena nih, satu orang.
+
+688
+00:40:35,199 --> 00:40:39,199
+Itu tuh jadi auto-learning buat mesin FDS-nya,
+
+689
+00:40:39,199 --> 00:40:42,199
+atau tetap perlu ada effort training sendiri?
+
+690
+00:40:42,199 --> 00:40:43,199
+Oke.
+
+691
+00:40:44,199 --> 00:40:46,199
+Untuk itu belum auto, Mas.
+
+692
+00:40:47,199 --> 00:40:49,199
+Kalau kita biasanya,
+
+693
+00:40:51,199 --> 00:40:53,199
+atau saya sempat reset, lah ya.
+
+694
+00:40:53,199 --> 00:40:57,199
+Saya sempat reset kalau yang di luaran sana itu,
+
+695
+00:40:57,199 --> 00:41:01,199
+katanya sih arahnya kesana, auto-learning yang tadi kata sama-sama.
+
+696
+00:41:01,199 --> 00:41:06,199
+Tapi tetap melibatkan human ya, kayak validasinya, dia accept atau enggak.
+
+697
+00:41:06,199 --> 00:41:08,199
+Aranya memang kesana.
+
+698
+00:41:08,199 --> 00:41:11,199
+Cuman, kita selama ini belum pernah.
+
+699
+00:41:11,199 --> 00:41:13,199
+Mungkin arahnya kesana sih.
+
+700
+00:41:13,199 --> 00:41:14,199
+Oke.
+
+701
+00:41:17,199 --> 00:41:18,199
+Menarik, menarik.
+
+702
+00:41:19,199 --> 00:41:22,199
+Dan itu ada satu, Mas, yang belum,
+
+703
+00:41:22,199 --> 00:41:25,199
+saya, belum kita implementasikan.
+
+704
+00:41:25,199 --> 00:41:29,199
+Dan itu mungkin di versi selanjutnya.
+
+705
+00:41:29,199 --> 00:41:33,199
+Karena kan ini basicnya udah lah ya.
+
+706
+00:41:33,199 --> 00:41:36,199
+Kita pengen coba release dulu ke Mitra kita, gitu.
+
+707
+00:41:36,199 --> 00:41:38,199
+Biar nanti belajar.
+
+708
+00:41:38,199 --> 00:41:42,199
+Satu fitur yang belum saya, belum kita develop itu adalah,
+
+709
+00:41:42,199 --> 00:41:46,199
+kita mau lihat sebaran dari setiap rules-nya.
+
+710
+00:41:46,199 --> 00:41:49,199
+Artinya gini, rules mana sih yang paling sering kena, gitu, Mas?
+
+711
+00:41:49,199 --> 00:41:50,199
+Oke.
+
+712
+00:41:50,199 --> 00:41:52,199
+Jika kita lihat tuh satu-satu ya.
+
+713
+00:41:52,199 --> 00:41:53,199
+Iya, iya.
+
+714
+00:41:53,199 --> 00:41:55,199
+Terus tanya apa, terasa sih, lu kena.
+
+715
+00:41:55,199 --> 00:41:57,199
+Nah, kita tuh maunya secara keseluruhan,
+
+716
+00:41:57,199 --> 00:42:01,199
+rules apa sih yang sering kena dan trend-nya bagaimana.
+
+717
+00:42:01,199 --> 00:42:04,199
+Karena sebagai fraud analyst itu,
+
+718
+00:42:04,199 --> 00:42:06,199
+dia perlu cari titik tengah.
+
+719
+00:42:06,199 --> 00:42:10,199
+Rules ini nggak boleh terlalu banyak false positives, gitu, misalnya, Mas.
+
+720
+00:42:10,199 --> 00:42:11,199
+Iya, iya, iya, iya.
+
+721
+00:42:11,199 --> 00:42:13,199
+Rules ini, ini terlalu banyak orang kena nih.
+
+722
+00:42:13,199 --> 00:42:17,199
+Rules ini tuh jarang ada yang kena ya, misalnya.
+
+723
+00:42:17,199 --> 00:42:20,199
+Dan itu belum ada helicopter view untuk melihat itu.
+
+724
+00:42:20,199 --> 00:42:26,199
+Sehingga, apa, ya tadi, untuk melakukan
+
+725
+00:42:26,199 --> 00:42:29,199
+maintenance ada rules-nya itu,
+
+726
+00:42:29,199 --> 00:42:33,199
+masih belum bisa dilakukan dengan mudah lah pengambilan keputusannya.
+
+727
+00:42:33,199 --> 00:42:36,199
+Iya, iya, iya, iya.
+
+728
+00:42:36,199 --> 00:42:39,199
+Tapi itu butuh data existing dulu kan, Mas?
+
+729
+00:42:39,199 --> 00:42:40,199
+Nggak ya? Atau setelah itu udah bisa?
+
+730
+00:42:40,199 --> 00:42:42,199
+Betul, butuh data existing.
+
+731
+00:42:42,199 --> 00:42:44,199
+Dijalanin dulu.
+
+732
+00:42:44,199 --> 00:42:46,199
+Berapa, enam, berapa, empat itu kita bikin kan.
+
+733
+00:42:46,199 --> 00:42:47,199
+Kenapa, Mas?
+
+734
+00:42:47,199 --> 00:42:51,199
+Iya, diraning dulu berapa lama, gitu, baru buat kan.
+
+735
+00:42:51,199 --> 00:42:52,199
+Iya, betul, betul.
+
+736
+00:42:52,199 --> 00:42:55,199
+Iya, iya, iya, iya. Menarik, menarik.
+
+737
+00:42:55,199 --> 00:42:56,199
+Oke.
+
+738
+00:42:56,199 --> 00:43:02,199
+Aku mungkin kalau fitur untuk sales deck sih kayaknya cukup, Mas,
+
+739
+00:43:02,199 --> 00:43:04,199
+udah cukup paham, udah cukup daurannya.
+
+740
+00:43:04,199 --> 00:43:08,199
+Aku pengen tahu pricingnya tuh udah ada di quote-nya belum ya, Mas?
+
+741
+00:43:08,199 --> 00:43:13,199
+Nah, mungkin kalau saya, kemarin belum, Mas,
+
+742
+00:43:13,199 --> 00:43:16,199
+belum ke arah sana, fully di technical.
+
+743
+00:43:16,199 --> 00:43:19,199
+Kalau yang sempat ke arah sana tuh Azizi deh.
+
+744
+00:43:19,199 --> 00:43:22,199
+Azizi sempat nawarin ke BPR kan.
+
+745
+00:43:22,199 --> 00:43:26,199
+Jadi dia menyesuaikan pricing BPR, kalau Azizi konteksnya itu.
+
+746
+00:43:26,199 --> 00:43:31,199
+Nah, itu mungkin bisa ke beliau, mungkin.
+
+747
+00:43:31,199 --> 00:43:34,199
+Mungkin beliau kan udah ngobrol juga dengan Mas Ali, mungkin.
+
+748
+00:43:34,199 --> 00:43:36,199
+Iya, iya, iya.
+
+749
+00:43:36,199 --> 00:43:37,199
+Oke deh, kalau gitu.
+
+750
+00:43:37,199 --> 00:43:41,199
+Aku boleh minta nomornya, nanti abis itu aku izin celek buat ini ya,
+
+751
+00:43:41,199 --> 00:43:43,199
+minta nomor Mas Azazi, Mas Miskat.
+
+752
+00:43:43,199 --> 00:43:44,199
+Siap, boleh, boleh.
+
+753
+00:43:44,199 --> 00:43:46,199
+Ini terakhir, Mas. Ini yang belum ke-mention.
+
+754
+00:43:46,199 --> 00:43:48,199
+Kalau di-mention, kira udah beres, maaf, maaf.
+
+755
+00:43:48,199 --> 00:43:51,199
+Aman, aman, Mas. Saya juga lupa nih.
+
+756
+00:43:51,199 --> 00:43:56,199
+Front report ini dia menampilkan laporan dari Nesaba.
+
+757
+00:44:01,199 --> 00:44:08,199
+Nah, ini untuk user, apa namanya, user customer service, gitu ya.
+
+758
+00:44:08,199 --> 00:44:16,199
+Karena si bank itu juga nggak banyak yang dia sudah punya database front gitu, Mas.
+
+759
+00:44:17,199 --> 00:44:24,199
+Waktu dulu kita di BRI, bahkan belum ada, ya kita yang dulu akhirnya bikin gitu,
+
+760
+00:44:24,199 --> 00:44:26,199
+bareng-bareng sama teman-teman BRI.
+
+761
+00:44:26,199 --> 00:44:30,199
+Kalau nggak di-collect, kita susah untuk belajar, betul ya, Mas ya.
+
+762
+00:44:30,199 --> 00:44:35,199
+Nanti data training itu harus nyari manual lagi, mana sih yang throat.
+
+763
+00:44:35,199 --> 00:44:36,199
+Ya, iya, iya.
+
+764
+00:44:36,199 --> 00:44:38,199
+Makanya ini dia otomat kayak gini.
+
+765
+00:44:38,199 --> 00:44:45,199
+Yang pentingnya di sini dia bisa melaporkan lah, nama, misalnya siapa, misalnya yang dilaporkan.
+
+766
+00:44:45,199 --> 00:44:49,199
+Oh, ini buat ini ya, buat L0 langsung laporin ya?
+
+767
+00:44:49,199 --> 00:44:50,199
+Ya, betul.
+
+768
+00:44:50,199 --> 00:44:52,199
+Ya, iya, iya, iya.
+
+769
+00:44:52,199 --> 00:44:57,199
+Tapi berarti L0 mah cuma ini ya, buat dia ter-report database dan dia nginput
+
+770
+00:44:57,199 --> 00:45:00,199
+animal activity yang dia tahu dulu kan, untuk sekarang.
+
+771
+00:45:00,199 --> 00:45:04,199
+Sesuai laporannya aja, Mas, dia terima laporan, dia input kan.
+
+772
+00:45:04,199 --> 00:45:11,199
+Jadi nanti Nesabanya lapor, dia itu kena throat misalnya di jam berapa,
+
+773
+00:45:11,199 --> 00:45:14,199
+terus account yang mana, nanti dipilihin.
+
+774
+00:45:14,199 --> 00:45:17,199
+Krasasinya mana aja yang ternyata itu throat, gitu loh, Mas.
+
+775
+00:45:17,199 --> 00:45:21,199
+Oh, berarti perlu penampingan juga ya untuk bikin SOP ke banknya ya?
+
+776
+00:45:21,199 --> 00:45:24,199
+Ya, betul, betul, betul.
+
+777
+00:45:24,199 --> 00:45:27,199
+Itu perlu ini.
+
+778
+00:45:27,199 --> 00:45:30,199
+Ada training nggak sih, Mas, biasanya kalau implementasi FDS ini?
+
+779
+00:45:30,199 --> 00:45:33,199
+Harusnya ada sih kalau kita product ya.
+
+780
+00:45:33,199 --> 00:45:35,199
+Harusnya ada sih, Mas.
+
+781
+00:45:35,199 --> 00:45:36,199
+Oke, oke.
+
+782
+00:45:36,199 --> 00:45:38,199
+Nah, ini belum jalan ini ya.
+
+783
+00:45:38,199 --> 00:45:42,199
+Cuman intinya nanti dia bisa inputin lah laporan seperti apa gitu ya.
+
+784
+00:45:42,199 --> 00:45:47,199
+Laporan transaksi mana aja yang dilaporkan throat, dia input.
+
+785
+00:45:47,199 --> 00:45:54,199
+Kemudian nanti dari sisi adminnya, si analis tadi, dia bisa ngevalidasi, Mas.
+
+786
+00:45:54,199 --> 00:45:56,199
+Nanti masuk ke sini.
+
+787
+00:45:56,199 --> 00:45:58,199
+Masuk ke throat report, dia validasi.
+
+788
+00:45:58,199 --> 00:46:01,199
+Oh iya, ini benar, diakui sebagai throat.
+
+789
+00:46:01,199 --> 00:46:03,199
+Kalau diakui kan nanti ada tindak selanjutnya ya.
+
+790
+00:46:03,199 --> 00:46:05,199
+Entah itu digantur lagi atau gimana.
+
+791
+00:46:05,199 --> 00:46:07,199
+Iya, iya, iya.
+
+792
+00:46:07,199 --> 00:46:09,199
+Kayak gitu sih.
+
+793
+00:46:09,199 --> 00:46:11,199
+Seru, seru, seru.
+
+794
+00:46:11,199 --> 00:46:15,199
+Aku dulu sempat bikinin screenshot-annya, Mas.
+
+795
+00:46:15,199 --> 00:46:17,199
+Dulu diminta Aziz di sama Mas Waisal.
+
+796
+00:46:17,199 --> 00:46:18,199
+Iya.
+
+797
+00:46:18,199 --> 00:46:20,199
+Minta screenshotnya, nanti aku kirim ke Mas juga ya.
+
+798
+00:46:20,199 --> 00:46:23,199
+Barangkali perlu comot-comot itunya.
+
+799
+00:46:23,199 --> 00:46:25,199
+Oke, siap.
+
+800
+00:46:25,199 --> 00:46:27,199
+Pertunjannya Mas Aziz sudah punya slide-nya lagi.
+
+801
+00:46:27,199 --> 00:46:29,199
+Nanti aku cek dulu deh.
+
+802
+00:46:29,199 --> 00:46:31,199
+Dulu tuh konteksnya mau menawarin.
+
+803
+00:46:31,199 --> 00:46:34,199
+Terus minta tolong, Mas, aku minta screenshotnya aja.
+
+804
+00:46:34,199 --> 00:46:36,199
+Oke, aja kata Aziz.
+
+805
+00:46:36,199 --> 00:46:39,199
+Nanti beliau yang bikin untuk menawaranya.
+
+806
+00:46:39,199 --> 00:46:41,199
+Tapi nggak tahu udah sampai mana.
+
+807
+00:46:41,199 --> 00:46:43,199
+Oke, kalau gitu.
+
+808
+00:46:43,199 --> 00:46:45,199
+Seru.
+
+809
+00:46:45,199 --> 00:46:49,199
+Tapi kalau konteks project-based tuh BRI kan?
+
+810
+00:46:49,199 --> 00:46:51,199
+Customernya sama Bang Raya, ada 2.
+
+811
+00:46:51,199 --> 00:46:53,199
+Iya, 2 itu.
+
+812
+00:46:53,199 --> 00:46:54,199
+Betul.
+
+813
+00:46:54,199 --> 00:46:58,199
+Yang menarik itu, kalau kita mau masuk ke ini Mas,
+
+814
+00:46:58,199 --> 00:47:02,199
+throat internal, itu juga sebetulnya engine-nya kan sama-sama aja.
+
+815
+00:47:02,199 --> 00:47:07,199
+Dan throat internal itu juga sebetulnya dari sisi kerubian itu
+
+816
+00:47:07,199 --> 00:47:10,199
+lumayan sih Mas, kalau pengalaman kita di project ya.
+
+817
+00:47:10,199 --> 00:47:13,199
+Kerubian yang mereka dari itu itu lumayan besar juga.
+
+818
+00:47:13,199 --> 00:47:16,199
+Lo throat internal itu, bahkan bukan banking bisa malah kan Mas ya?
+
+819
+00:47:16,199 --> 00:47:18,199
+Bisa, bener.
+
+820
+00:47:18,199 --> 00:47:20,199
+Kayak di biaya cukai gitu misalnya.
+
+821
+00:47:20,199 --> 00:47:23,199
+Kan kalau non-banking,
+
+822
+00:47:23,199 --> 00:47:25,199
+kalau internal bacanya dokumen kan?
+
+823
+00:47:25,199 --> 00:47:27,199
+Bukan transaksi kan?
+
+824
+00:47:28,199 --> 00:47:33,199
+Itu biasanya dokumen dan log aktivitas itu misalnya.
+
+825
+00:47:33,199 --> 00:47:37,199
+Kalau ada aplikasi nge-log itu misalnya, kita bacanya dari log-nya.
+
+826
+00:47:37,199 --> 00:47:39,199
+Jadi memang,
+
+827
+00:47:39,199 --> 00:47:43,199
+maksud aku kalau internal malah lebih
+
+828
+00:47:45,199 --> 00:47:47,199
+industri agnostik kan?
+
+829
+00:47:47,199 --> 00:47:48,199
+Iya, betul.
+
+830
+00:47:48,199 --> 00:47:51,199
+Cuman, kita ya rules-nya,
+
+831
+00:47:51,199 --> 00:47:55,199
+sorry, penarikan datanya juga akhirnya di kita juga
+
+832
+00:47:55,199 --> 00:47:57,199
+perlu dibikin.
+
+833
+00:47:57,199 --> 00:47:59,199
+Kalau balik lagi ke yang tadi sebentar.
+
+834
+00:48:02,199 --> 00:48:05,199
+Nah, ininya itu juga kan, macem-macem ya.
+
+835
+00:48:05,199 --> 00:48:09,199
+Angka industri agnostik memang heavy di sininya gitu.
+
+836
+00:48:09,199 --> 00:48:11,199
+Tapi kita punya udah default ininya Mas.
+
+837
+00:48:13,199 --> 00:48:15,199
+Hasil enrichment-nya udah ada default belum?
+
+838
+00:48:15,199 --> 00:48:20,199
+Belum, karena kan industri agnostik tadi ya, di perbankan itu yang disebut throat internal itu misalnya
+
+839
+00:48:20,199 --> 00:48:23,199
+kayak tiba-tiba ini ada Menteri
+
+840
+00:48:23,199 --> 00:48:27,199
+yang dia dapat transferan dari nasabah setelah dia cair gitu loh Mas.
+
+841
+00:48:27,199 --> 00:48:31,199
+Itu kan indikasinya dibantu pencairan gitu.
+
+842
+00:48:31,199 --> 00:48:33,199
+Tapi itu ya di bank gitu kan.
+
+843
+00:48:33,199 --> 00:48:36,199
+Kalau di tempat lain kan, nggak mungkin nggak applicable.
+
+844
+00:48:36,199 --> 00:48:40,199
+Tapi secara scoring, ya interface-nya kayak tadi aja gitu kan.
+
+845
+00:48:40,199 --> 00:48:47,199
+Iya, tapi maksudnya, sorry, kalau aku jual, kemarin tuh soalnya ada yang nanyain Mas, misalnya petro si ya.
+
+846
+00:48:48,199 --> 00:48:51,199
+Ada FDS nggak buat internal?
+
+847
+00:48:51,199 --> 00:48:57,199
+Kemarin aku bilangnya buat banking doang, berarti kalau aku cuap-cuap bilang internal bisa tuh oke ya?
+
+848
+00:48:58,199 --> 00:49:04,199
+Oke, dengan catatan tadi produk kita memang bisa, tapi ya perlu customisasi lah.
+
+849
+00:49:04,199 --> 00:49:11,199
+Karena industri-nya lebih beragam gitu kan, kalau internal tuh, kalau bank, relatively sama kan.
+
+850
+00:49:11,199 --> 00:49:14,199
+Tapi kalau transaction financial procurement harusnya sama kan Mas?
+
+851
+00:49:15,199 --> 00:49:18,199
+Ya, kalau itu sama.
+
+852
+00:49:19,199 --> 00:49:21,199
+Kalau procurement.
+
+853
+00:49:21,199 --> 00:49:22,199
+Clear, clear, clear.
+
+854
+00:49:22,199 --> 00:49:24,199
+Menarik Mas, seru-seru.
+
+855
+00:49:27,199 --> 00:49:31,199
+Terus ini fitur yang tadi aku bilang yang di Enrich ada apa aja gitu ya.
+
+856
+00:49:31,199 --> 00:49:33,199
+Ini yang warna biru nih.
+
+857
+00:49:34,199 --> 00:49:36,199
+Ada penjelasannya juga gitu.
+
+858
+00:49:36,199 --> 00:49:38,199
+Itu artinya apa?
+
+859
+00:49:40,199 --> 00:49:42,199
+Gitu sih Mas, lumayan banyak.
+
+860
+00:49:42,199 --> 00:49:44,199
+Oke.
+
+861
+00:49:44,199 --> 00:49:47,199
+Oke, mungkin itu untuk yang FDS.
+
+862
+00:49:48,199 --> 00:49:50,199
+Siap.
+
+863
+00:49:52,199 --> 00:49:55,199
+Apa lagi ya? Berarti lanjut ke ini Mas ya.
+
+864
+00:49:55,199 --> 00:49:57,199
+Mas, Mas, waktunya masih banyak nggak?
+
+865
+00:49:57,199 --> 00:50:02,199
+Aku aman sih Mas, sampai jam setengah 12.
+
+866
+00:50:02,199 --> 00:50:04,199
+Oke.
+
+867
+00:50:06,199 --> 00:50:10,199
+Boleh Mas ke data platform dan capacity planning, eh pertanyaan tuh ntar.
+
+868
+00:50:10,199 --> 00:50:14,199
+Capacity planning tools itu dijual apa untuk bantu consulting Mas?
+
+869
+00:50:15,199 --> 00:50:18,199
+Konceptnya sama seperti tadi.
+
+870
+00:50:18,199 --> 00:50:23,199
+Kita mau jual Mas dari hasil selama kita ngeproject gitu.
+
+871
+00:50:24,199 --> 00:50:25,199
+Oke deh, oke.
+
+872
+00:50:25,199 --> 00:50:30,199
+Nah soalnya kan umurnya Bu Tami sempat mention beberapa poin, tapi sebenarnya bukan untuk directly jualan.
+
+873
+00:50:30,199 --> 00:50:34,199
+Tapi untuk supporting tools kalau mau jual service consultingnya gitu.
+
+874
+00:50:35,199 --> 00:50:40,199
+Berarti kalau ini dua-duanya memang untuk ini ya, external ya, external pake ya.
+
+875
+00:50:42,199 --> 00:50:44,199
+Sorry, sorry, gimana Mas?
+
+876
+00:50:44,199 --> 00:50:48,199
+Kemarin tuh Bu Tami sempat menyebutin beberapa inisiatif untuk dukungan,
+
+877
+00:50:48,199 --> 00:50:52,199
+tapi ada beberapa inisiatif yang sebenarnya bukan untuk dijual ke external, tapi untuk internal.
+
+878
+00:50:52,199 --> 00:50:54,199
+Iya, iya, iya, iya.
+
+879
+00:50:54,199 --> 00:50:55,199
+Kalau gitu.
+
+880
+00:50:55,199 --> 00:50:58,199
+Itu kayaknya tools-tools assessment kalau nggak salah yang seperti itu ya.
+
+881
+00:50:58,199 --> 00:51:00,199
+Iya betul, betul, betul.
+
+882
+00:51:00,199 --> 00:51:02,199
+Kalau dua ini mah untuk external ya?
+
+883
+00:51:02,199 --> 00:51:04,199
+Iya, betul.
+
+884
+00:51:04,199 --> 00:51:06,199
+Oke Mas, selanjutnya beritahannya.
+
+885
+00:51:06,199 --> 00:51:07,199
+Siap.
+
+886
+00:51:07,199 --> 00:51:16,199
+Nah yang major sih memang yang tadi Mas ya, kalau yang dua ini saya baru mau inisiasi.
+
+887
+00:51:16,199 --> 00:51:17,199
+Oke.
+
+888
+00:51:17,199 --> 00:51:21,199
+Kebaik yang sebentar saya cari dulu.
+
+889
+00:51:21,199 --> 00:51:26,199
+Sambil nyari boleh tahu nggak Mas ini inspirasinya dari project sama siapa?
+
+890
+00:51:26,199 --> 00:51:28,199
+Yang capacity planning dulu ya Mas ya.
+
+891
+00:51:28,199 --> 00:51:29,199
+Boleh.
+
+892
+00:51:29,199 --> 00:51:35,199
+Capacity planning ini Mas Street Key tim kita, dia terlibat di pengembangan,
+
+893
+00:51:35,199 --> 00:51:40,199
+di project capacity planning sama Pegadayan dan Brinz.
+
+894
+00:51:40,199 --> 00:51:41,199
+Oke, oh dua, udah dua, oke.
+
+895
+00:51:41,199 --> 00:51:42,199
+Iya, dua.
+
+896
+00:51:42,199 --> 00:51:49,199
+Dan memang, apa namanya, penambahannya dari Pegadayan tuh simpel,
+
+897
+00:51:49,199 --> 00:51:52,199
+sekarang di Brinz ini lebih kompleks lah.
+
+898
+00:51:53,199 --> 00:51:58,199
+Jadi ada listren yang, atau penambahan value yang signifikan dari si ini tuh.
+
+899
+00:51:58,199 --> 00:52:04,199
+Nah tapi saya sendiri belum paham terlalu mendetail sebetulnya.
+
+900
+00:52:04,199 --> 00:52:08,199
+Ini coba saya lihatin aja produk yang sudah dibikin ya Mas ya.
+
+901
+00:52:08,199 --> 00:52:09,199
+Oke.
+
+902
+00:52:15,199 --> 00:52:18,199
+Ini tools yang kemarin kita develop di Brinz Mas.
+
+903
+00:52:19,199 --> 00:52:27,199
+Jadi pada intinya, kalau di Pegadayan itu kita simply hanya collect data,
+
+904
+00:52:27,199 --> 00:52:34,199
+data operasional server, seperti penggunaan dari CPU-nya,
+
+905
+00:52:34,199 --> 00:52:39,199
+kemudian storage-nya gitu ya, kemudian memory usage-nya seperti apa.
+
+906
+00:52:39,199 --> 00:52:46,199
+Kita collect, setelah di collect, kemudian kita lakukan forecasting.
+
+907
+00:52:46,199 --> 00:52:50,199
+Berdasarkan historical, memory segini, CPU-nya segini,
+
+908
+00:52:50,199 --> 00:52:55,199
+berdasarkan setiap itu, before case, nanti memory penggunaannya seperti apa,
+
+909
+00:52:55,199 --> 00:53:00,199
+berapa tahun ke depan, CPU juga sama, sederhana itu.
+
+910
+00:53:00,199 --> 00:53:05,199
+Jadi kita istilahnya meng-automasi yang selama ini mereka lakukan manual,
+
+911
+00:53:05,199 --> 00:53:06,199
+kalau di Pegadayan.
+
+912
+00:53:08,199 --> 00:53:13,199
+Nah di Brinz ada nilai tambahnya adalah, dari data yang kita collect itu,
+
+913
+00:53:13,199 --> 00:53:18,199
+dilakukan analisis, dilakukan analisis lebih mendalam,
+
+914
+00:53:18,199 --> 00:53:23,199
+jadi nggak serta merta langsung ke forecasting, tapi dilakukan analisis.
+
+915
+00:53:23,199 --> 00:53:28,199
+Sebetulnya bottleneck-nya dimana, jangan-jangan CPU-nya aman,
+
+916
+00:53:28,199 --> 00:53:36,199
+memori-nya aman, tapi disk-nya nih yang lambat di situ, gitu misalnya.
+
+917
+00:53:36,199 --> 00:53:42,199
+Oh ternyata ketahuan tuh, disk-nya yang lambat, berarti dia perlu di,
+
+918
+00:53:42,199 --> 00:53:46,199
+apa, dinaik lanjutnya hanya di disk-nya aja, gitu misalnya.
+
+919
+00:53:46,199 --> 00:53:48,199
+Kayak gitu.
+
+920
+00:53:48,199 --> 00:53:52,199
+Nah terus terang ini aku belum terlalu tahu mendalam, mas,
+
+921
+00:53:52,199 --> 00:53:59,199
+gitu-gitu, seperti apa, tapi pada intinya si aplikasi ini itu,
+
+922
+00:53:59,199 --> 00:54:01,199
+tujuannya itu sih, mas.
+
+923
+00:54:01,199 --> 00:54:08,199
+Dan dia propose solution gitu ya, sama forecasting.
+
+924
+00:54:10,199 --> 00:54:13,199
+Ini kalau di IBM digabung sama ini, mas, APM, mas,
+
+925
+00:54:13,199 --> 00:54:15,199
+Application Portfolio Management.
+
+926
+00:54:15,199 --> 00:54:20,199
+Oh, oke, oke, oke, paham, paham.
+
+927
+00:54:20,199 --> 00:54:22,199
+Jadi dia dilihat dari sisi infra-nya juga, gitu ya?
+
+928
+00:54:22,199 --> 00:54:24,199
+Ya, infra-nya ngasih tau usage-nya,
+
+929
+00:54:24,199 --> 00:54:26,199
+cuma kalau IBM tuh ada yang sama penggunaan cloud ya,
+
+930
+00:54:26,199 --> 00:54:28,199
+supaya bisa ngatur penggunaan cloud.
+
+931
+00:54:28,199 --> 00:54:34,199
+Tapi nanti juga ada sisi insight dari sisi aplikasinya mana yang perlu dimatiin, kan?
+
+932
+00:54:34,199 --> 00:54:37,199
+Karena matiin aplikasi ngaruh ke usage, kan, mas?
+
+933
+00:54:37,199 --> 00:54:39,199
+Ya, benar, benar, benar.
+
+934
+00:54:39,199 --> 00:54:42,199
+Cuma nggak tau apakah, tapi oke sih,
+
+935
+00:54:42,199 --> 00:54:44,199
+kalau bisa plug and play, mainnya doang ini,
+
+936
+00:54:44,199 --> 00:54:46,199
+kalau mau dua-duanya boleh, gitu.
+
+937
+00:54:46,199 --> 00:54:49,199
+Iya, iya, iya, iya.
+
+938
+00:54:49,199 --> 00:54:53,199
+Ini tuh konsepnya nanti mau kita bikin generic.
+
+939
+00:54:53,199 --> 00:54:56,199
+Jadi saya bicara teknis aja, mas, ya, karena kemarin
+
+940
+00:54:56,199 --> 00:54:59,199
+saya sama Fidkey lebih diskusi ke teknisnya,
+
+941
+00:54:59,199 --> 00:55:02,199
+saya belum mempelajari sisi aplikasinya.
+
+942
+00:55:02,199 --> 00:55:05,199
+Nanti mau saya pelajari sih, cuman belum sampai.
+
+943
+00:55:05,199 --> 00:55:09,199
+Jadi pada untinya, bottleneck kita itu,
+
+944
+00:55:09,199 --> 00:55:12,199
+atau challenge kita itu,
+
+945
+00:55:12,199 --> 00:55:14,199
+ini kan sumber data infra tuh banyak,
+
+946
+00:55:14,199 --> 00:55:16,199
+pada soalan Ruby ini makin.
+
+947
+00:55:16,199 --> 00:55:20,199
+Mungkin ada juga dari Prometheus, gitu.
+
+948
+00:55:20,199 --> 00:55:25,199
+Mungkin ada juga, ya, ambil dari Zabix, misalnya.
+
+949
+00:55:25,199 --> 00:55:31,199
+Nah, kita tuh pinginnya, pinginnya itu kita,
+
+950
+00:55:31,199 --> 00:55:34,199
+disini tetap satu aja, gitu ya,
+
+951
+00:55:34,199 --> 00:55:36,199
+ini namanya misalnya tadi
+
+952
+00:55:36,199 --> 00:55:40,199
+Dena Application, ya, client, lah.
+
+953
+00:55:40,199 --> 00:55:47,199
+Disini tuh interface, si user-nya tuh satu aja ini,
+
+954
+00:55:47,199 --> 00:55:49,199
+tapi kita kayak bikin adapter, gitu loh, mas.
+
+955
+00:55:49,199 --> 00:55:52,199
+Kita bisa konekin dia ke SolarWind,
+
+956
+00:55:52,199 --> 00:55:54,199
+kita bisa konekin dia ke Prometheus.
+
+957
+00:55:54,199 --> 00:55:59,199
+Jadi, seiring dengan waktu, kita develop-nya develop adapter aja, gitu, mas.
+
+958
+00:55:59,199 --> 00:56:04,199
+Di bagian sini, dibikin generic, ini konsepnya kayak gitu.
+
+959
+00:56:04,199 --> 00:56:09,199
+Jadi kita generikan ke satu tipe data yang disepakati, ya,
+
+960
+00:56:09,199 --> 00:56:10,199
+model data yang disepakati,
+
+961
+00:56:10,199 --> 00:56:13,199
+nanti kita tinggal mapping-mapping aja.
+
+962
+00:56:13,199 --> 00:56:16,199
+Konsepnya pinginnya seperti itu. Sekarang, masih belum.
+
+963
+00:56:16,199 --> 00:56:19,199
+Sekarang itu ketika kita query,
+
+964
+00:56:19,199 --> 00:56:21,199
+mau lihat CPU Utilization,
+
+965
+00:56:21,199 --> 00:56:23,199
+yang disimpan disini tuh,
+
+966
+00:56:23,199 --> 00:56:26,199
+kalau dia dari SolarWind, ya, tabel SolarWind ada disini.
+
+967
+00:56:26,199 --> 00:56:29,199
+Harusnya kita bikin yang generic, gitu, supaya tinggal bikin adapter-nya aja.
+
+968
+00:56:29,199 --> 00:56:35,199
+Pertanyaanku, mas, apa justifikasi perusahaan
+
+969
+00:56:35,199 --> 00:56:40,199
+Paymore untuk suatu interface yang nge-satuin tiga itu, mas?
+
+970
+00:56:40,199 --> 00:56:44,199
+Oke, kalau saat ini,
+
+971
+00:56:44,199 --> 00:56:49,199
+bukan ke arah menyatukannya, mungkinnya yang saya pahami,
+
+972
+00:56:49,199 --> 00:56:51,199
+tapi ada kebutuhan untuk melakukan
+
+973
+00:56:51,199 --> 00:56:56,199
+analysis dan capacity planning yang belum ada disini, gitu, mas.
+
+974
+00:56:56,199 --> 00:57:01,199
+Oke, berarti itu ya si value propositionnya malah disitunya ya
+
+975
+00:57:01,199 --> 00:57:07,199
+untuk capacity planningnya ya setelah melihat
+
+976
+00:57:07,199 --> 00:57:09,199
+current situation seperti apa, gitu ya?
+
+977
+00:57:09,199 --> 00:57:11,199
+Dari tiga data source itu?
+
+978
+00:57:11,199 --> 00:57:15,199
+Iya, jadi biasanya perusahaan itu satu aja sih entah ini atau ini.
+
+979
+00:57:16,199 --> 00:57:20,199
+Entah ini, pokoknya salah satu aja biasanya perusahaan itu, mas.
+
+980
+00:57:20,199 --> 00:57:24,199
+Jadi tools kita tuh disini ya nggak usah ada perubahan lagi, gitu ya.
+
+981
+00:57:24,199 --> 00:57:27,199
+Kalau misalnya ada klien baru yang mau pakai,
+
+982
+00:57:27,199 --> 00:57:29,199
+ya tinggal kita bikin adapter-nya aja.
+
+983
+00:57:29,199 --> 00:57:31,199
+Oke.
+
+984
+00:57:31,199 --> 00:57:33,199
+Oke.
+
+985
+00:57:33,199 --> 00:57:37,199
+Pertanyaan lagi, mas, mas ada data nggak misalnya
+
+986
+00:57:37,199 --> 00:57:40,199
+economically,
+
+987
+00:57:41,199 --> 00:57:44,199
+apapun yang paling gagal tuh kerugian plus sana
+
+988
+00:57:44,199 --> 00:57:46,199
+ada cerita-cerita gitu nggak?
+
+989
+00:57:46,199 --> 00:57:49,199
+Mungkin menarik nih kalau kita tumpahkan ke slide-nya, gitu.
+
+990
+00:57:51,199 --> 00:57:54,199
+Aku terus terang nggak terlibat di project capelin-nya ini, mas.
+
+991
+00:57:54,199 --> 00:58:00,199
+Jadi, situnya belum terlalu mendalami sih sebetulnya, mas.
+
+992
+00:58:00,199 --> 00:58:05,199
+Tapi mungkin bisa diskusi sama tim konsultannya, mas Ofta.
+
+993
+00:58:05,199 --> 00:58:07,199
+Oke.
+
+994
+00:58:07,199 --> 00:58:11,199
+Mas Ofta yang biasanya dari konsultan-nya.
+
+995
+00:58:11,199 --> 00:58:13,199
+Siap.
+
+996
+00:58:14,199 --> 00:58:17,199
+Gitu sih, mas. Jadi yang tadi,
+
+997
+00:58:19,199 --> 00:58:21,199
+ini produknya udah ada,
+
+998
+00:58:21,199 --> 00:58:25,199
+juga saya sebetulnya PR saya itu adalah saya coba pahami dulu nih,
+
+999
+00:58:25,199 --> 00:58:30,199
+sebetulnya fitur ini tuh apa aja supaya saya bisa bikin satu interface yang jenere
+
+1000
+00:58:30,199 --> 00:58:34,199
+supaya ke depannya pengembangannya adapter-based aja.
+
+1001
+00:58:34,199 --> 00:58:36,199
+Oke.
+
+1002
+00:58:36,199 --> 00:58:38,199
+Oh, seru-seru.
+
+1003
+00:58:40,199 --> 00:58:42,199
+Apa lagi ya?
+
+1004
+00:58:44,199 --> 00:58:46,199
+Berarti ini ya sementara, mas,
+
+1005
+00:58:46,199 --> 00:58:50,199
+nanti pelajarin dulu, nanti aku mungkin colek lagi kalau butuh detail lebih lanjut ya.
+
+1006
+00:58:50,199 --> 00:58:53,199
+Iya, mungkin gitu sih. Belum terlalu mendalam.
+
+1007
+00:58:53,199 --> 00:58:55,199
+Oke, aman, mas. Kalau yang satu lagi juga sama?
+
+1008
+00:58:55,199 --> 00:59:00,199
+Yang satu lagi lumayan lah. Saya bisa jelasin lagi, mas.
+
+1009
+00:59:00,199 --> 00:59:02,199
+Sementara.
+
+1010
+00:59:02,199 --> 00:59:04,199
+Itu tuh,
+
+1011
+00:59:07,199 --> 00:59:09,199
+Oke, ntar.
+
+1012
+00:59:09,199 --> 00:59:12,199
+Saya rupa dimana ya?
+
+1013
+00:59:13,199 --> 00:59:15,199
+Hmm, oke.
+
+1014
+00:59:22,199 --> 00:59:24,199
+Hmm, hmm, hmm, hmm.
+
+1015
+00:59:36,199 --> 00:59:40,199
+Nah, untuk yang data platform ini,
+
+1016
+00:59:40,199 --> 00:59:45,199
+kebetulan saya terlibat di projeknya langsung, mas, di Bang Raya.
+
+1017
+00:59:45,199 --> 00:59:53,199
+Jadi bisa, apa namanya, bisa menjelaskan lah tujuannya dan challenge-nya seperti apa.
+
+1018
+00:59:53,199 --> 00:59:57,199
+Jadi, project ini atau produk ini,
+
+1019
+00:59:57,199 --> 01:00:01,199
+itu tuh menjawab tantangan di perusahaan,
+
+1020
+01:00:01,199 --> 01:00:09,199
+data warehouse existing mereka itu bisa dibilang tidak ideal gitu, mas, kondisinya.
+
+1021
+01:00:09,199 --> 01:00:17,199
+Jadi beberapa klien kita itu migrasi, bangun lagi data warehouse dengan arsitektur yang ideal.
+
+1022
+01:00:17,199 --> 01:00:19,199
+Seperti itu.
+
+1023
+01:00:19,199 --> 01:00:22,199
+Nah, contohnya di Bang Raya dia sama.
+
+1024
+01:00:22,199 --> 01:00:24,199
+Sebelumnya kan dia berdasarkan data warehouse,
+
+1025
+01:00:24,199 --> 01:00:26,199
+dia berdasarkan data warehouse,
+
+1026
+01:00:26,199 --> 01:00:28,199
+seperti itu.
+
+1027
+01:00:28,199 --> 01:00:30,199
+Nah, contohnya di Bang Raya dia sama.
+
+1028
+01:00:30,199 --> 01:00:32,199
+Sebelumnya kan dia pakai SQL Server,
+
+1029
+01:00:32,199 --> 01:00:36,199
+dia bangun ulang pakai arsitektur ini yang nanti kita jelaskan.
+
+1030
+01:00:36,199 --> 01:00:40,199
+Di Becukai, Becukai lagi inisiasi RFI.
+
+1031
+01:00:40,199 --> 01:00:44,199
+Dia juga sama data warehouse-nya, belum ideal.
+
+1032
+01:00:44,199 --> 01:00:49,199
+Ada beberapa penpoin, mau dibangun sesuai dengan best practice gitu.
+
+1033
+01:00:49,199 --> 01:00:53,199
+Dan di PNM,
+
+1034
+01:00:53,199 --> 01:00:56,199
+PNM juga mereka lagi mau bangun ulang.
+
+1035
+01:00:56,199 --> 01:01:02,199
+Mereka pendekatannya mau pakai klo deras, kita nggak sempat masukin ini kesana.
+
+1036
+01:01:02,199 --> 01:01:06,199
+Tapi intinya itu kebutuhan atau pasarnya gitu, mas.
+
+1037
+01:01:06,199 --> 01:01:10,199
+Nah, di sini apa aja sih yang kita bangun?
+
+1038
+01:01:10,199 --> 01:01:17,199
+Yang pertama kita tuh mau membuat suatu data pipeline yang standar.
+
+1039
+01:01:17,199 --> 01:01:24,199
+Data source masuk ke data warehouse,
+
+1040
+01:01:24,199 --> 01:01:29,199
+data warehouse dibikin datamart, nanti datamart-nya dikonsumsi sama
+
+1041
+01:01:29,199 --> 01:01:33,199
+entah itu superset, lokar, sama dashboard lah ya,
+
+1042
+01:01:33,199 --> 01:01:38,199
+atau bahkan sama application, seperti itu.
+
+1043
+01:01:38,199 --> 01:01:44,199
+Nah, kemudian setiap prosesnya ini harus menghasilkan
+
+1044
+01:01:44,199 --> 01:01:52,199
+suatu metadata, metadata yang dimaksud itu seperti data lineage gitu.
+
+1045
+01:01:52,199 --> 01:01:57,199
+Saya bisa tunjukin nggak ya sebentar?
+
+1046
+01:02:05,199 --> 01:02:08,199
+Dari bentar ya, mas ya.
+
+1047
+01:02:09,199 --> 01:02:11,199
+Oke.
+
+1048
+01:02:11,199 --> 01:02:16,199
+Mas Amam, sampai jam berapa, mas Amam?
+
+1049
+01:02:16,199 --> 01:02:20,199
+Saya sampai 10.30 paling, mas Miskat.
+
+1050
+01:02:20,199 --> 01:02:22,199
+Sampai jumpa.
+
+1051
+01:02:22,199 --> 01:02:24,199
+Maafin ya, ya.
+
+1052
+01:02:24,199 --> 01:02:26,199
+Aman-aman.
+
+1053
+01:02:41,199 --> 01:02:43,199
+Oke.
+
+1054
+01:03:11,199 --> 01:03:35,199
+Mas Amam tuh seangkatan sama mas Ivo ya?
+
+1055
+01:03:35,199 --> 01:03:37,199
+Mas Ivo lebih tua.
+
+1056
+01:03:37,199 --> 01:03:40,199
+Oh, cutting.
+
+1057
+01:03:40,199 --> 01:03:42,199
+Cutting masih, po?
+
+1058
+01:03:47,199 --> 01:03:55,199
+Nah, masalahnya di perusahaan itu kadang kita nggak tahu tabel yang dibentuk itu
+
+1059
+01:03:55,199 --> 01:03:58,199
+sumbernya dari mana, mas Amam.
+
+1060
+01:03:58,199 --> 01:04:05,199
+Dengan seperti ini, dengan kita buat suatu data warehouse atau data pipeline yang standar,
+
+1061
+01:04:05,199 --> 01:04:12,199
+yang sudah terintegrasi dengan metadata, nanti secara visual dia bisa tahu
+
+1062
+01:04:12,199 --> 01:04:18,199
+kalau tabel ini, ini suatu tabel, itu sebetulnya pembentuknya dari mana gitu.
+
+1063
+01:04:18,199 --> 01:04:23,199
+Ini diteres lagi ke belakang dari mana, itu bisa nanti bisa ketahuan.
+
+1064
+01:04:23,199 --> 01:04:29,199
+Dan kalau misalnya ada perubahan di sumber, impactnya ke mana aja, ke depannya bisa diteres juga.
+
+1065
+01:04:30,199 --> 01:04:36,199
+Jadi dari sisi pengelolaan data pipeline rapi, standar,
+
+1066
+01:04:36,199 --> 01:04:43,199
+terus metadata-nya juga bisa kita manfaatkan, bisa kita generate seperti ini.
+
+1067
+01:04:43,199 --> 01:04:51,199
+Itu sih kalau dari sisi apa namanya, napaatnya gitu ya.
+
+1068
+01:04:51,199 --> 01:04:52,199
+Oke.
+
+1069
+01:04:52,199 --> 01:04:55,199
+Di teknis lagi apa aja yang dibangun.
+
+1070
+01:04:56,199 --> 01:05:04,199
+Nah, jadi kita memanfaatkan platform dari open source untuk membangun pipeline ini.
+
+1071
+01:05:04,199 --> 01:05:11,199
+Kita install Apache Airflow, kita install Apache Airbyte, kita install misalnya
+
+1072
+01:05:11,199 --> 01:05:14,199
+Data Hub dan lain-lain, kita rangkais demikian terupa.
+
+1073
+01:05:14,199 --> 01:05:19,199
+Data yang mau dialirkannya agnostik tergantung industri masing-masing.
+
+1074
+01:05:19,199 --> 01:05:21,199
+Itu sih intinya ya untuk yang ini.
+
+1075
+01:05:23,199 --> 01:05:25,199
+Sebentar aku baca dulu, mas.
+
+1076
+01:05:34,199 --> 01:05:36,199
+Ini tuh udah running di BRI, mas?
+
+1077
+01:05:36,199 --> 01:05:38,199
+Di Bang Raya, mas.
+
+1078
+01:05:38,199 --> 01:05:40,199
+Di Bang Raya, oke.
+
+1079
+01:05:41,199 --> 01:05:46,199
+Sorry, kalau aku izin konfirmasi tadi ya, pembahaman aku bener apa enggak.
+
+1080
+01:05:46,199 --> 01:05:50,199
+Apa enggak berarti kan kita tuh, karena data source tuh macem-macem ya untuk data.
+
+1081
+01:05:50,199 --> 01:05:53,199
+Kita tuh intinya ngerapihin pool itu bukan sih?
+
+1082
+01:05:54,199 --> 01:05:59,199
+Kita tuh merapikan yang ada di sisi data warehouse-nya.
+
+1083
+01:05:59,199 --> 01:06:00,199
+Oke.
+
+1084
+01:06:00,199 --> 01:06:04,199
+Jadi kan selama ini aplikasi itu datanya udah ditarik mas, ke data warehouse.
+
+1085
+01:06:06,199 --> 01:06:11,199
+Tapi di sisi data warehouse-nya itu masih belum standar pengelolaannya.
+
+1086
+01:06:12,199 --> 01:06:16,199
+Terus penarikan data itu kan butuh data pipeline.
+
+1087
+01:06:17,199 --> 01:06:25,199
+Data pipeline-nya pun masih istilahnya enggak rapi gitu, masih susah di maintain.
+
+1088
+01:06:26,199 --> 01:06:31,199
+Misalnya kita mau tahu tabel ini dibikin dari tabel mana aja, itu juga susah.
+
+1089
+01:06:32,199 --> 01:06:38,199
+Kita tuh sering banget ketika memigrasikan, ini kan kita bangun ulang di BigQuery, mas.
+
+1090
+01:06:38,199 --> 01:06:41,199
+Klien kita mau pakai click-house, enggak apa-apa bisa.
+
+1091
+01:06:41,199 --> 01:06:44,199
+Mau pakai PostgreSQL bisa.
+
+1092
+01:06:44,199 --> 01:06:48,199
+Kita tinggal ganti teknologi di sini aja enggak masalah.
+
+1093
+01:06:48,199 --> 01:06:51,199
+Tapi pipeline-nya ini udah ready gitu.
+
+1094
+01:06:52,199 --> 01:06:53,199
+Oke.
+
+1095
+01:06:54,199 --> 01:06:58,199
+Terus data tuh banyak tulisannya ini, aku paling, itu biasa paling blank, mas.
+
+1096
+01:07:00,199 --> 01:07:02,199
+Dibanding yang tadi kayaknya agak lebih lengkap.
+
+1097
+01:07:04,199 --> 01:07:05,199
+Apa lagi pertanyaannya ya?
+
+1098
+01:07:05,199 --> 01:07:06,199
+Apa lagi pertanyaannya ya?
+
+1099
+01:07:07,199 --> 01:07:13,199
+Ini tuh kan ada bedanya sama data management apa, mas?
+
+1100
+01:07:14,199 --> 01:07:20,199
+Data management itu yang tadi, mas, yang tadi saya lihat, kelihatan screenshot-nya itu data management.
+
+1101
+01:07:22,199 --> 01:07:25,199
+Nah, begini tuh data management artinya apa?
+
+1102
+01:07:25,199 --> 01:07:30,199
+Setelah datanya ditarik ke data warehouse, datanya diklasifikasikan, betul ya mas ya?
+
+1103
+01:07:30,199 --> 01:07:40,199
+Data management itu misalnya data ini tuh sebetulnya masuk domain namanya domain saving misalnya.
+
+1104
+01:07:40,199 --> 01:07:46,199
+Ini domain landing, owner-nya siapa, data steward-nya siapa.
+
+1105
+01:07:46,199 --> 01:07:49,199
+Terus untuk setiap kolomnya diidentifikasi.
+
+1106
+01:07:50,199 --> 01:07:54,199
+Kolomnya itu misalnya dia PII atau bukan gitu ya.
+
+1107
+01:07:54,199 --> 01:08:01,199
+Itu semua, data management itu bisa enable kalau lebih optimal.
+
+1108
+01:08:01,199 --> 01:08:08,199
+Kalau data warehouse-nya itu sudah rapi dan terintegrasi dengan tools ini, metadata management.
+
+1109
+01:08:08,199 --> 01:08:09,199
+Oke.
+
+1110
+01:08:10,199 --> 01:08:14,199
+Nah, pertanyaan gue maksudnya, ini akan emang ada irisan ya fitur itu?
+
+1111
+01:08:14,199 --> 01:08:16,199
+Data management dengan data platform yang dibangun, mas?
+
+1112
+01:08:18,199 --> 01:08:19,199
+Oke.
+
+1113
+01:08:19,199 --> 01:08:27,199
+Kan ada kerja yang dikerjain mas Noval nih, data management dan betul ada terkait mapping terkolom, steward-nya siapa, ini siapa.
+
+1114
+01:08:28,199 --> 01:08:29,199
+Oke.
+
+1115
+01:08:29,199 --> 01:08:31,199
+Itu kan udah di lokal Noval tuh.
+
+1116
+01:08:31,199 --> 01:08:32,199
+Betul.
+
+1117
+01:08:33,199 --> 01:08:37,199
+Ada irisannya dia komponen mas, salah satu dari komponen.
+
+1118
+01:08:37,199 --> 01:08:38,199
+Oke.
+
+1119
+01:08:49,199 --> 01:08:55,199
+Jadi salah satu komponen yang kita deploy di sana adalah tools data management-nya.
+
+1120
+01:08:56,199 --> 01:09:01,199
+Yang dia nanti bisa mengelola atau bisa menampilkan data lineage, data lineage itu yang tadi.
+
+1121
+01:09:01,199 --> 01:09:02,199
+Oke.
+
+1122
+01:09:02,199 --> 01:09:06,199
+Kalau mengen soal data, data profile, gitu ya.
+
+1123
+01:09:06,199 --> 01:09:09,199
+Data engineering dan business glossary.
+
+1124
+01:09:09,199 --> 01:09:10,199
+Oke.
+
+1125
+01:09:10,199 --> 01:09:16,199
+Itu salah satu komponen yang kita deploy di pipeline ini, di pipeline ini.
+
+1126
+01:09:16,199 --> 01:09:19,199
+Kita tuh pakai tools-nya yang tadi data hub.
+
+1127
+01:09:19,199 --> 01:09:20,199
+Oke.
+
+1128
+01:09:20,199 --> 01:09:24,199
+Tapi sebetulnya kan sharing vision punya juga AEDM yang dibangun mas Noval.
+
+1129
+01:09:24,199 --> 01:09:25,199
+Oke.
+
+1130
+01:09:25,199 --> 01:09:31,199
+Nah, untuk ke depannya kalau AEDM udah mature, mungkin kita komponen itunya mau pakai AEDM.
+
+1131
+01:09:31,199 --> 01:09:33,199
+Oh.
+
+1132
+01:09:33,199 --> 01:09:34,199
+Komponen itunya.
+
+1133
+01:09:34,199 --> 01:09:37,199
+Tapi pipeline ini dan lain-lain tetap pakai yang di sini.
+
+1134
+01:09:37,199 --> 01:09:43,199
+Iya, misalnya memang ini ya, akan saling melengkapi, akan memperbaiki,
+
+1135
+01:09:43,199 --> 01:09:47,199
+ini ya, akan saling melengkapi ya mas ya.
+
+1136
+01:09:47,199 --> 01:09:48,199
+Betul.
+
+1137
+01:09:48,199 --> 01:09:50,199
+Oke, clear, clear, clear.
+
+1138
+01:09:51,199 --> 01:09:52,199
+Oke.
+
+1139
+01:09:53,199 --> 01:10:01,199
+Pertanyaan, ini kayaknya aku belum ada pertanyaan lebih lanjut karena context wise aku kayaknya perlu banyak baca mas Niskat, sorry.
+
+1140
+01:10:01,199 --> 01:10:03,199
+Aman mas.
+
+1141
+01:10:03,199 --> 01:10:08,199
+Jadi mungkin aku akan review recording-nya dulu, baru ada pertanyaan lebih lanjut, mohon izin aku coleg mas Niskat.
+
+1142
+01:10:09,199 --> 01:10:13,199
+Pertanyaan terakhirnya, mas kata kalau tadi FBS kerja ini tak akan dikirim mas Niskat ya?
+
+1143
+01:10:13,199 --> 01:10:19,199
+Kalau yang D.P. sama Kapasitas Tepul yang ini, ada ini gak?
+
+1144
+01:10:19,199 --> 01:10:20,199
+Ada semuanya sekarang gak?
+
+1145
+01:10:20,199 --> 01:10:22,199
+Kalau gak ada, apakah ada git yang bisa aku tarik sehingga aku serius-serius juga?
+
+1146
+01:10:22,199 --> 01:10:23,199
+Gak apa-apa gitu.
+
+1147
+01:10:24,199 --> 01:10:28,199
+Nah, yang ini tuh pengembangannya baru inisiasi banget mas.
+
+1148
+01:10:28,199 --> 01:10:29,199
+Oh, jadi gue ngeliat.
+
+1149
+01:10:29,199 --> 01:10:42,199
+Jadi kalau yang di Raya sih udah jadi, cuman kita di setbarnya SP itu, aku tadi bikin catatan singkat biar aku gak lupa juga sih udah sampai mana.
+
+1150
+01:10:44,199 --> 01:10:51,199
+Nah, untuk yang data platform ini, kita tuh baru set up infrastrukturnya di sisi SP mas.
+
+1151
+01:10:51,199 --> 01:10:52,199
+Oke.
+
+1152
+01:10:52,199 --> 01:10:53,199
+Kubernetes-nya udah.
+
+1153
+01:10:53,199 --> 01:10:54,199
+Oke.
+
+1154
+01:10:54,199 --> 01:11:00,199
+Terus kita perlu install tools-tools yang tadi aku mention, misalnya ada Argo CD, ada Kubernetes.
+
+1155
+01:11:00,199 --> 01:11:03,199
+Ini yang perlu kita install, Airflow, Airbyte.
+
+1156
+01:11:04,199 --> 01:11:08,199
+Setelah semua tools yang terinstall, nanti kita set up data pipeline-nya.
+
+1157
+01:11:08,199 --> 01:11:09,199
+Oke.
+
+1158
+01:11:09,199 --> 01:11:14,199
+Nah, ini memang baru di awal banget, kita baru set up infrastrukturnya aja.
+
+1159
+01:11:15,199 --> 01:11:16,199
+Oke.
+
+1160
+01:11:17,199 --> 01:11:22,199
+Notate-notate, ya ini cukup teknis dan aku belum pernah.
+
+1161
+01:11:22,199 --> 01:11:25,199
+Kan kalau FDS ada konteks visisnya aja deh, aku lebih paham.
+
+1162
+01:11:25,199 --> 01:11:28,199
+Cuma kalau ini kayaknya aku agak, agak ini mas, agak ngehing.
+
+1163
+01:11:29,199 --> 01:11:35,199
+Ya, mas, mungkin nanti kalau udah ada gambarannya, udah ada barangnya nanti nanti kita ngobrol lagi.
+
+1164
+01:11:35,199 --> 01:11:38,199
+Aku juga mungkin review lagi recording-nya mas.
+
+1165
+01:11:39,199 --> 01:11:44,199
+Kalau yang tadi sih bisa aku kasih aksesnya mas, yang capacity planning-nya.
+
+1166
+01:11:44,199 --> 01:11:47,199
+Oke, biar aku sering cocin kali ya.
+
+1167
+01:11:47,199 --> 01:11:48,199
+Oke deh.
+
+1168
+01:11:50,199 --> 01:11:51,199
+Dari aku.
+
+1169
+01:11:52,199 --> 01:11:57,199
+Sorry mas, aku kalau boleh tau, existing itu pengarjaan yang capacity planning sama data platform itu
+
+1170
+01:11:57,199 --> 01:12:00,199
+kerjaannya berapa lama, pressing-nya seperti apa?
+
+1171
+01:12:00,199 --> 01:12:01,199
+Tahu nggak mas?
+
+1172
+01:12:02,199 --> 01:12:11,199
+Kalau yang existing, yang data platform ini kita bundling mas, di Raya itu kan kita project-nya tahunan ya.
+
+1173
+01:12:11,199 --> 01:12:15,199
+Jadi bundling aja sih, ngetungnya main days gitu mas.
+
+1174
+01:12:16,199 --> 01:12:25,199
+Jadi di Raya itu kita ada 16 talent di sana selama setahun, ya udah project-nya segitu gitu mas, ngetungnya.
+
+1175
+01:12:25,199 --> 01:12:30,199
+Jadi nggak, si talent ini kan ngerjainnya macam-macam nih, salah satu pekerjaannya dia,
+
+1176
+01:12:30,199 --> 01:12:33,199
+di Bang Raya itu ya bangun data platform ini gitu.
+
+1177
+01:12:34,199 --> 01:12:42,199
+Nah, tapi kalau mau data platform ini kan sekarang kita lagi jualan ke biaya cukai juga mas.
+
+1178
+01:12:42,199 --> 01:12:53,199
+Di biaya cukai itu, itu udah ada harganya di sana, mungkin bisa diturunin dari situ, cuma perlu saya lihat dulu sih.
+
+1179
+01:12:54,199 --> 01:13:00,199
+Oke, soalnya kalau Raya mah agak ini ya, karena dijualnya main days, cuma ada scope data platform itu ya.
+
+1180
+01:13:00,199 --> 01:13:02,199
+Jadi kita harus membuatin oke-notet.
+
+1181
+01:13:03,199 --> 01:13:10,199
+Terus kalau yang kapasitas planning, mungkin mas Oktah deh yang tahu ini ya.
+
+1182
+01:13:10,199 --> 01:13:11,199
+Oke, siap.
+
+1183
+01:13:13,199 --> 01:13:17,199
+Thank you, berat mas Miskat, ini-nya induksinya.
+
+1184
+01:13:18,199 --> 01:13:19,199
+Semoga berkah.
+
+1185
+01:13:20,199 --> 01:13:23,199
+Ya, semoga-mudahan membantu juga mas.
+
+1186
+01:13:23,199 --> 01:13:32,199
+Saya juga, apa namanya, berkewajiban untuk mengaselerasi.
+
+1187
+01:13:33,199 --> 01:13:37,199
+Jadi jangan, mudah-mudahan nggak stak di saya gitu, kayak CFDS tadi gitu.
+
+1188
+01:13:37,199 --> 01:13:43,199
+Kalau ada mas amam kan, berarti dari sisi finansial, dari sisi produknya juga, mungkin nanti ada insight gitu ya.
+
+1189
+01:13:43,199 --> 01:13:48,199
+Ada peluang-peluang lain, supaya lebih berkah si produk-produknya.
+
+1190
+01:13:48,199 --> 01:13:50,199
+Ya, Bismillah, mas.
+
+1191
+01:13:50,199 --> 01:13:52,199
+Aku penasaran yang pricing sih.
+
+1192
+01:13:53,199 --> 01:13:56,199
+Nanti CFDS aku coba align sama Sazi dulu ya, terutama CFDS.
+
+1193
+01:13:56,199 --> 01:14:01,199
+Tadi kan udah paling ready tuh, dan memang sama temen tuh udah ada, oh ada CFDS,
+
+1194
+01:14:01,199 --> 01:14:04,199
+ada beberapa yang kayaknya dia bisa kenalin ke klien gitu.
+
+1195
+01:14:04,199 --> 01:14:08,199
+Jadi kalau ada pricing standar kayaknya menarik.
+
+1196
+01:14:11,199 --> 01:14:16,199
+Terus oke, makasih banyak mas Miskat waktunya, maaf nih menggantung.
+
+1197
+01:14:16,199 --> 01:14:18,199
+Siap, saming-sami.
+
+1198
+01:14:18,199 --> 01:14:20,199
+Salamualaikum.
+
+1199
+01:14:20,199 --> 01:14:22,199
+Wassalamualaikum.
+

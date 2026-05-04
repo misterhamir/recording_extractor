@@ -6,10 +6,6 @@
 *.mkv
 *.webm
 *.flv
-*.srt
-*.json
-*_segments.txt
-*_transcript.txt
 .venv/
 __pycache__/
 *.pyc

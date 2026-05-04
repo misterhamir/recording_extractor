@@ -1,0 +1,3597 @@
+[00:00:00 → 00:00:02]
+Kalau di Jakarta dimana mas sininya?
+
+[00:00:02 → 00:00:04]
+Di Green Palace mas.
+
+[00:00:04 → 00:00:08]
+Di sewa apartemen disini.
+
+[00:00:08 → 00:00:10]
+Oke.
+
+[00:00:10 → 00:00:12]
+Ijin mas, langsung mulai ya saya ya.
+
+[00:00:12 → 00:00:14]
+Siap mas, sama kamu.
+
+[00:00:14 → 00:00:17]
+Oke. Pertama, Nuhun Pisahan mas.
+
+[00:00:17 → 00:00:19]
+Miskat waktunya pun tenga kalau gak ganggu.
+
+[00:00:19 → 00:00:21]
+Ya.
+
+[00:00:21 → 00:00:23]
+Intinya sih pengen,
+
+[00:00:23 → 00:00:26]
+saya pengen bikin slide khusus untuk FDS-nya ya.
+
+[00:00:26 → 00:00:28]
+Kemarin tuh kayaknya
+
+[00:00:28 → 00:00:30]
+kayaknya nanya temen-temen saya yang
+
+[00:00:30 → 00:00:32]
+kerja di beberapa kantor tuh kayaknya
+
+[00:00:32 → 00:00:33]
+oh ada FDS boleh lihat dong gitu.
+
+[00:00:33 → 00:00:35]
+Kalau misalnya jadi pengen tau sih, terutama.
+
+[00:00:35 → 00:00:37]
+Coba, honest-nya sih sebenarnya
+
+[00:00:37 → 00:00:38]
+bukan cuma FDS ya.
+
+[00:00:38 → 00:00:41]
+Kemarin kayak aku dapatin info dari Butami.
+
+[00:00:41 → 00:00:43]
+Itu ada yang biasanya project based
+
+[00:00:43 → 00:00:44]
+pengen jadi produkan.
+
+[00:00:44 → 00:00:46]
+Mungkin jadi bayar percayaan atau gimana.
+
+[00:00:46 → 00:00:49]
+Nah itu, saya mau coba bantu juga sih ke arah sana mas Miskat.
+
+[00:00:49 → 00:00:52]
+Jadi bukan hanya FDS-nya, tapi memang kalau ada
+
+[00:00:52 → 00:00:54]
+sekarang yang produk-produk yang
+
+[00:00:54 → 00:00:56]
+apa, ada potensi,
+
+[00:00:56 → 00:00:58]
+project yang dulunya project based
+
+[00:00:58 → 00:01:00]
+sekarang mau jadi produk, mau disesuaikan,
+
+[00:01:00 → 00:01:02]
+dibikin kata apa, dibikin semacam slide-nya gitu sih.
+
+[00:01:02 → 00:01:04]
+Iya, iya.
+
+[00:01:04 → 00:01:06]
+Oke, oke.
+
+[00:01:06 → 00:01:08]
+Mungkin izin karena awalnya FDS,
+
+[00:01:08 → 00:01:10]
+saya minta
+
+[00:01:10 → 00:01:12]
+penjelasan terkait FDS dulu ya mas ya.
+
+[00:01:12 → 00:01:14]
+Dia tuh use case-nya apa saja, apakah
+
+[00:01:14 → 00:01:16]
+bank doang, kalau bank
+
+[00:01:16 → 00:01:18]
+FDS di sebelah mana, kalau misalnya
+
+[00:01:18 → 00:01:20]
+misalnya, ini contoh pertama tanyaan aku
+
+[00:01:20 → 00:01:22]
+mungkin untuk nge-trigger mas Miskat,
+
+[00:01:22 → 00:01:24]
+persen-persennya ke arah mana ya.
+
+[00:01:24 → 00:01:26]
+Sama mungkin kalau ada use case
+
+[00:01:26 → 00:01:28]
+di luar banking atau
+
+[00:01:28 → 00:01:30]
+FSI gitu,
+
+[00:01:30 → 00:01:32]
+fasilabel apa, nggak mungkin itu sih
+
+[00:01:32 → 00:01:34]
+kalau saya trigger-trigger question-nya, cuma
+
+[00:01:34 → 00:01:36]
+kalau ada yang mau disampaikan general
+
+[00:01:36 → 00:01:38]
+produknya, mau gue mas Miskat?
+
+[00:01:38 → 00:01:40]
+Iya, FDS ini karena
+
+[00:01:40 → 00:01:42]
+dibanding yang
+
+[00:01:42 → 00:01:44]
+dua lainnya, udah kelihatan
+
+[00:01:44 → 00:01:46]
+barangnya lah ya, ini mungkin
+
+[00:01:46 → 00:01:48]
+better sambil saya show aja
+
+[00:01:48 → 00:01:50]
+mas Amam ya, produk yang sekarang
+
+[00:01:50 → 00:01:52]
+seperti apa dan yang nanti
+
+[00:01:52 → 00:01:54]
+perlu di-develop kedepannya
+
+[00:01:54 → 00:01:56]
+seperti apa gitu ya, biar
+
+[00:01:56 → 00:01:58]
+kebayang, saya
+
+[00:01:58 → 00:02:00]
+run dulu sebentar mas, izin
+
+[00:02:00 → 00:02:02]
+satu menit ya.
+
+[00:02:22 → 00:02:24]
+Terima kasih.
+
+[00:02:52 → 00:02:54]
+Terima kasih.
+
+[00:03:22 → 00:03:30]
+Sudah terlihat screennya mas Amam?
+
+[00:03:30 → 00:03:32]
+Sudah mas.
+
+[00:03:32 → 00:03:34]
+Oke.
+
+[00:03:38 → 00:03:40]
+Oke, pertama
+
+[00:03:40 → 00:03:42]
+kalau di FDS ini
+
+[00:03:42 → 00:03:44]
+role-nya ada dua mas Amam.
+
+[00:03:44 → 00:03:46]
+Yang pertama fraud
+
+[00:03:46 → 00:03:48]
+analis, yang kedua itu
+
+[00:03:48 → 00:03:50]
+customer service.
+
+[00:03:50 → 00:03:52]
+Kalau fraud analis itu ibaratnya
+
+[00:03:52 → 00:03:54]
+admin ya mas, dia bisa melakukan
+
+[00:03:54 → 00:03:56]
+semua fitur lah ya,
+
+[00:03:56 → 00:03:58]
+bisa melakukan
+
+[00:03:58 → 00:04:00]
+semua kapal beri cas FDS, dia bisa
+
+[00:04:00 → 00:04:02]
+akses. Kalau yang tadi customer
+
+[00:04:02 → 00:04:04]
+service itu, dia hanya mencatat
+
+[00:04:04 → 00:04:06]
+laporan fraud dari Nasaba.
+
+[00:04:06 → 00:04:08]
+Nah konteksnya, si
+
+[00:04:08 → 00:04:10]
+fraud yang dimaksud disini itu
+
+[00:04:10 → 00:04:12]
+adalah fraud diperbankan.
+
+[00:04:12 → 00:04:14]
+Fraud diperbankan itu
+
+[00:04:14 → 00:04:16]
+mostly ada
+
+[00:04:16 → 00:04:18]
+dua, dibagi dua
+
+[00:04:18 → 00:04:20]
+atau memang secara umum sih,
+
+[00:04:20 → 00:04:22]
+dibagi dua, ada fraud internal
+
+[00:04:22 → 00:04:24]
+dan fraud external.
+
+[00:04:24 → 00:04:26]
+Fraud internal itu, ya
+
+[00:04:26 → 00:04:28]
+pelakunya
+
+[00:04:28 → 00:04:30]
+karyawan itu istilahnya ya, entah
+
+[00:04:30 → 00:04:32]
+itu terjadi di kantor pusat, entah
+
+[00:04:32 → 00:04:34]
+terjadi di kantor cabang,
+
+[00:04:34 → 00:04:36]
+tapi itu punya lagunaan.
+
+[00:04:36 → 00:04:38]
+Pemenang misalnya, atau
+
+[00:04:38 → 00:04:40]
+tidak sesuai SOP,
+
+[00:04:40 → 00:04:42]
+itu yang fraud internal
+
+[00:04:42 → 00:04:44]
+yang akhirnya menyebabkan
+
+[00:04:44 → 00:04:46]
+kerugian juga.
+
+[00:04:46 → 00:04:48]
+Kalau yang sekarang kita
+
+[00:04:48 → 00:04:50]
+bahas disini, ini fraudnya external
+
+[00:04:50 → 00:04:52]
+jadi pelakunya
+
+[00:04:52 → 00:04:54]
+dari luar entitas
+
+[00:04:54 → 00:04:56]
+bank itu sendiri.
+
+[00:04:56 → 00:04:58]
+Dari luar ini,
+
+[00:04:58 → 00:05:00]
+ada beberapa jenis fraud juga.
+
+[00:05:00 → 00:05:02]
+Fraud yang pertama
+
+[00:05:02 → 00:05:04]
+adalah account takeover.
+
+[00:05:04 → 00:05:06]
+Account takeover itu
+
+[00:05:06 → 00:05:08]
+pengambil alihannya, ini konteksnya
+
+[00:05:08 → 00:05:10]
+mobile banking ya mas Amam ya.
+
+[00:05:10 → 00:05:12]
+Pengambil alihannya
+
+[00:05:12 → 00:05:14]
+akun bank, itu akun
+
+[00:05:14 → 00:05:16]
+akun mobile banking oleh fraudster.
+
+[00:05:16 → 00:05:18]
+Entah itu caranya
+
+[00:05:18 → 00:05:20]
+misalnya dia hack, atau
+
+[00:05:20 → 00:05:22]
+caranya pakai social engineering,
+
+[00:05:22 → 00:05:24]
+pakai cara apapun.
+
+[00:05:24 → 00:05:26]
+Nah, ini yang
+
+[00:05:26 → 00:05:28]
+sekarang kita develop itu untuk
+
+[00:05:28 → 00:05:30]
+mendeteksi kayak tadi mas
+
+[00:05:30 → 00:05:32]
+kejadian fraud account takeover.
+
+[00:05:32 → 00:05:34]
+Jadi mobile bankingnya, mas Ambatu
+
+[00:05:34 → 00:05:36]
+diambil alih.
+
+[00:05:36 → 00:05:38]
+Kalau ada yang kurang jelas boleh
+
+[00:05:38 → 00:05:40]
+langsung ya mas Amam ya.
+
+[00:05:40 → 00:05:42]
+Oke, nah kemudian yang kedua,
+
+[00:05:42 → 00:05:44]
+account takeover, itu ada juga yang
+
+[00:05:44 → 00:05:46]
+namanya onboarding, onboarding
+
+[00:05:46 → 00:05:48]
+fraud. Onboarding fraud itu
+
+[00:05:48 → 00:05:50]
+adalah, nah Sabah yang
+
+[00:05:50 → 00:05:52]
+daftar ke bank, itu
+
+[00:05:52 → 00:05:54]
+nggak legit istilahnya gitu ya.
+
+[00:05:54 → 00:05:56]
+Dia daftar pakai
+
+[00:05:56 → 00:05:58]
+identitas curian misalnya.
+
+[00:05:58 → 00:06:00]
+Jadi kalaupun banknya berhasil
+
+[00:06:00 → 00:06:02]
+terbentuk, ya dia bisa gunakan tuh
+
+[00:06:02 → 00:06:04]
+untuk aktivitas kejahatan,
+
+[00:06:04 → 00:06:06]
+penampungan, dan lain-lain.
+
+[00:06:06 → 00:06:08]
+Misalnya jemir kening judul,
+
+[00:06:08 → 00:06:10]
+dan lain-lain. Nah yang
+
+[00:06:10 → 00:06:12]
+onboarding itu, kita bukan
+
+[00:06:12 → 00:06:14]
+mendeteksi transaksi, tapi mendeteksinya
+
+[00:06:14 → 00:06:16]
+account berarti kan, ini account-nya legit
+
+[00:06:16 → 00:06:18]
+atau nggak sih, gitu.
+
+[00:06:18 → 00:06:20]
+Nah onboarding itu sempat kita
+
+[00:06:20 → 00:06:22]
+kerjakan juga di raya,
+
+[00:06:22 → 00:06:24]
+tapi di produk kita yang ini,
+
+[00:06:24 → 00:06:26]
+belum, kita baru fokus
+
+[00:06:26 → 00:06:28]
+account takeover.
+
+[00:06:28 → 00:06:30]
+Dari sisi fraud-nya.
+
+[00:06:30 → 00:06:32]
+Nah, account takeover itu
+
+[00:06:32 → 00:06:34]
+dia melakukan scoring terhadap apa?
+
+[00:06:34 → 00:06:36]
+Dia melakukan scoring terhadap transaksi.
+
+[00:06:36 → 00:06:38]
+Jadi nanti dashboardnya
+
+[00:06:38 → 00:06:40]
+seperti ini.
+
+[00:06:50 → 00:06:52]
+Jadi untuk setiap
+
+[00:06:52 → 00:06:54]
+transaksi yang terjadi di bank, nanti
+
+[00:06:54 → 00:06:56]
+muncul di sini dia auto update
+
+[00:06:56 → 00:06:58]
+gitu ya live, kalau ada data
+
+[00:06:58 → 00:07:00]
+tersesai, tambah kesini, berapa
+
+[00:07:00 → 00:07:02]
+amount-nya, label-nya,
+
+[00:07:02 → 00:07:04]
+normal atau warning, atau danger.
+
+[00:07:04 → 00:07:06]
+Ini mah summary-nya aja.
+
+[00:07:06 → 00:07:08]
+Kemudian ini ditampilkan juga
+
+[00:07:08 → 00:07:10]
+kalau yang danger itu
+
+[00:07:10 → 00:07:12]
+lokasinya dimana. Dengan catatan
+
+[00:07:12 → 00:07:14]
+bank-nya provide informasi
+
+[00:07:14 → 00:07:16]
+lokasinya gitu ya, Mas.
+
+[00:07:18 → 00:07:20]
+Itu secara umum.
+
+[00:07:20 → 00:07:22]
+Nah kemudian, ada
+
+[00:07:22 → 00:07:24]
+apa lagi fiturnya
+
+[00:07:24 → 00:07:26]
+yang pertama itu, di sini
+
+[00:07:26 → 00:07:28]
+ada yang namanya blacklist, Mas.
+
+[00:07:28 → 00:07:30]
+Kalau DLS itu, seiring-iringan
+
+[00:07:30 → 00:07:32]
+berjalannya waktu, kita
+
+[00:07:32 → 00:07:34]
+biasanya dapat list of
+
+[00:07:34 → 00:07:36]
+device ID
+
+[00:07:36 → 00:07:38]
+punya fraudster, gitu, Mas.
+
+[00:07:38 → 00:07:40]
+Phone number-nya punya fraudster.
+
+[00:07:40 → 00:07:42]
+Phone number, penampungan
+
+[00:07:42 → 00:07:44]
+dari fraudster. Informasi-informasi
+
+[00:07:44 → 00:07:46]
+tersebut kita collect, gitu.
+
+[00:07:46 → 00:07:48]
+Kita inputkan di sini.
+
+[00:07:48 → 00:07:50]
+Jadi bank data, kita bisa
+
+[00:07:50 → 00:07:52]
+inputkan.
+
+[00:07:52 → 00:07:54]
+Data-nya belum ada kayaknya.
+
+[00:07:54 → 00:07:56]
+Kita bisa inputkan sehingga nanti kita
+
+[00:07:56 → 00:07:58]
+manfaatkan kalau muncul lagi device
+
+[00:07:58 → 00:08:00]
+ID-nya, phone number-nya, phone number-nya
+
+[00:08:00 → 00:08:02]
+kita alert, gitu.
+
+[00:08:04 → 00:08:06]
+Dan, menu transaksi
+
+[00:08:06 → 00:08:08]
+yang melihat lebih detail dari
+
+[00:08:08 → 00:08:10]
+transaksi yang di scoring,
+
+[00:08:10 → 00:08:12]
+gitu ya, kalau ini.
+
+[00:08:12 → 00:08:14]
+Kalau misalnya
+
+[00:08:14 → 00:08:16]
+mau cari
+
+[00:08:16 → 00:08:18]
+transaksi
+
+[00:08:18 → 00:08:20]
+dari, misalnya untuk investigasi
+
+[00:08:20 → 00:08:22]
+gitu, si
+
+[00:08:22 → 00:08:24]
+account number ini transaksi yang apain aja?
+
+[00:08:24 → 00:08:26]
+Level-nya seperti apa?
+
+[00:08:26 → 00:08:28]
+Ini bisa di-check di sini.
+
+[00:08:28 → 00:08:30]
+Oke. Kalau yang transaksi
+
+[00:08:30 → 00:08:32]
+yang ini, nyambung sama yang case tadi,
+
+[00:08:32 → 00:08:34]
+account takeover tadi ya, Mas, ya, sebenarnya?
+
+[00:08:34 → 00:08:36]
+Ya, ini semua konteksnya
+
+[00:08:36 → 00:08:38]
+terkait dengan account takeover.
+
+[00:08:38 → 00:08:40]
+Kita baru account takeover.
+
+[00:08:40 → 00:08:42]
+Siap.
+
+[00:08:42 → 00:08:44]
+Sorry, Mas.
+
+[00:08:44 → 00:08:46]
+Account takeover itu sebenarnya nggak harus
+
+[00:08:46 → 00:08:48]
+account-nya benar-benar di takeover, kan? Bisa
+
+[00:08:48 → 00:08:50]
+satu transaksi yang dipake orang lain, ya?
+
+[00:08:50 → 00:08:52]
+Betul, betul.
+
+[00:08:52 → 00:08:54]
+Konteksnya bisa whole account diambil
+
+[00:08:54 → 00:08:56]
+atau satu transaksi, credit card
+
+[00:08:56 → 00:08:58]
+di-copy orang, gitu ya? Itu
+
+[00:08:58 → 00:09:00]
+possible ya, Mas?
+
+[00:09:00 → 00:09:02]
+Oke. Betul. Yang tadi
+
+[00:09:02 → 00:09:04]
+contoh credit card juga itu
+
+[00:09:04 → 00:09:06]
+termasuk ke contact cover. Betul sekali, Mas.
+
+[00:09:06 → 00:09:08]
+Walaupun hanya satu transaksi, gitu ya?
+
+[00:09:08 → 00:09:10]
+Iya, iya. Oke.
+
+[00:09:10 → 00:09:12]
+Jadi, scope-nya
+
+[00:09:12 → 00:09:14]
+nggak
+
+[00:09:14 → 00:09:16]
+spesifik untuk whole account diambil ya?
+
+[00:09:16 → 00:09:18]
+Oke, Mas. Thank you, Mas.
+
+[00:09:18 → 00:09:20]
+Tapi untuk saat ini,
+
+[00:09:20 → 00:09:22]
+sebetulnya kita tuh support
+
+[00:09:24 → 00:09:26]
+support
+
+[00:09:26 → 00:09:28]
+transaksi jenis apapun, entah itu
+
+[00:09:28 → 00:09:30]
+credit card, entah itu transfer,
+
+[00:09:30 → 00:09:32]
+atau apapun, gitu ya? Sebetulnya kita
+
+[00:09:32 → 00:09:34]
+kenapa, Mas?
+
+[00:09:34 → 00:09:36]
+Tiba-tiba ada tarik tunai dari orang
+
+[00:09:36 → 00:09:38]
+tempat lain itu masuk juga, ya?
+
+[00:09:38 → 00:09:40]
+Iya, betul.
+
+[00:09:40 → 00:09:42]
+Sebetulnya kita support. Kenapa support?
+
+[00:09:42 → 00:09:44]
+Karena si
+
+[00:09:44 → 00:09:46]
+rules-nya, nanti kita lihat
+
+[00:09:46 → 00:09:48]
+rules-nya itu generic, kita bisa bikin
+
+[00:09:48 → 00:09:50]
+sedepikian rupa, mau kita
+
+[00:09:50 → 00:09:52]
+kita maunya kayak gimana, istilahnya.
+
+[00:09:52 → 00:09:54]
+Rules-nya.
+
+[00:09:54 → 00:09:56]
+Oke.
+
+[00:09:56 → 00:09:58]
+Oke. Tapi
+
+[00:09:58 → 00:10:00]
+dalam development
+
+[00:10:00 → 00:10:02]
+ini, ini kita bayangkan
+
+[00:10:02 → 00:10:04]
+semua transaksinya dari mobile banking,
+
+[00:10:04 → 00:10:06]
+gitu, Mas. Jadi transaksinya
+
+[00:10:06 → 00:10:08]
+saat ini sih kalau
+
+[00:10:08 → 00:10:10]
+dilihat ada BVAS,
+
+[00:10:10 → 00:10:12]
+gitu ya, transfer, gitu. Belum ada
+
+[00:10:12 → 00:10:14]
+tarik tunai, gitu, Mas.
+
+[00:10:14 → 00:10:16]
+Tapi sebetulnya kedepannya support-support
+
+[00:10:16 → 00:10:18]
+aja. Iya, iya, iya.
+
+[00:10:18 → 00:10:20]
+Oke. Nah, kemudian
+
+[00:10:20 → 00:10:22]
+bagaimana sih
+
+[00:10:22 → 00:10:24]
+bisa menghasilkan label, process
+
+[00:10:24 → 00:10:26]
+scoring-nya bagaimana? Process
+
+[00:10:26 → 00:10:28]
+scoring di pro detection itu
+
+[00:10:28 → 00:10:30]
+terbagi dua. Yang pertama, rule-based.
+
+[00:10:30 → 00:10:32]
+Yang kedua, berbasis
+
+[00:10:32 → 00:10:34]
+machine learning. Yang
+
+[00:10:34 → 00:10:36]
+berbasis machine learning itu, dia sangat
+
+[00:10:36 → 00:10:38]
+mengandalkan data, kan ya, Mas, ya? Karena
+
+[00:10:38 → 00:10:40]
+supervise, ya? Dia perlu
+
+[00:10:40 → 00:10:42]
+label, gitu. Ada data
+
+[00:10:42 → 00:10:44]
+kejadian fraud, dia gunakan
+
+[00:10:44 → 00:10:46]
+sebagai data latih, nanti
+
+[00:10:46 → 00:10:48]
+dia mesinnya belajar.
+
+[00:10:48 → 00:10:50]
+Nah, dalam hal ini,
+
+[00:10:50 → 00:10:52]
+kenyataannya, selama kita
+
+[00:10:52 → 00:10:54]
+ngerjain di Raya,
+
+[00:10:54 → 00:10:56]
+itu belum
+
+[00:10:56 → 00:10:58]
+sebanyak itu data yang bisa digunakan
+
+[00:10:58 → 00:11:00]
+untuk mesin belajar, sebetulnya.
+
+[00:11:00 → 00:11:02]
+Untuk kasus, seperti Kova.
+
+[00:11:02 → 00:11:04]
+Dulu waktu di BRI,
+
+[00:11:04 → 00:11:06]
+kita berhasil buat yang versi
+
+[00:11:06 → 00:11:08]
+machine learning, karena
+
+[00:11:08 → 00:11:10]
+dulu skimming itu cukup banyak,
+
+[00:11:10 → 00:11:12]
+lah. Skimming itu di BRI,
+
+[00:11:12 → 00:11:14]
+sehingga data latihnya
+
+[00:11:14 → 00:11:16]
+memadai, gitu.
+
+[00:11:16 → 00:11:18]
+Nah, ini belum,
+
+[00:11:18 → 00:11:20]
+belum ada lah. Jadi kita
+
+[00:11:20 → 00:11:22]
+propose, yang kita
+
+[00:11:22 → 00:11:24]
+utamakan
+
+[00:11:24 → 00:11:26]
+di sini itu rule-based, dan kita
+
+[00:11:26 → 00:11:28]
+berikan kemudahan.
+
+[00:11:28 → 00:11:30]
+Si Bang itu untuk bikin rules-nya
+
+[00:11:30 → 00:11:32]
+terserah dia, ibaratnya. Mau dia gimana-gimana
+
+[00:11:32 → 00:11:34]
+ya, silahkan. Aku boleh
+
+[00:11:34 → 00:11:36]
+masuk ke lagi nggak, Mas, Miskat?
+
+[00:11:36 → 00:11:38]
+Kan tadi kalau Bang, seharusnya punya
+
+[00:11:38 → 00:11:40]
+ini sendiri, ya. Punya
+
+[00:11:40 → 00:11:42]
+behavior sendiri lah, punya data sendiri
+
+[00:11:42 → 00:11:44]
+kan untuk di-training, ya.
+
+[00:11:44 → 00:11:46]
+Seharusnya kita tuh ada model yang
+
+[00:11:46 → 00:11:48]
+cukup jentrik, nggak, Mas? Misalnya,
+
+[00:11:48 → 00:11:50]
+ya udah, itu model-based dulu.
+
+[00:11:50 → 00:11:52]
+Jadi, apapun, walaupun Bang
+
+[00:11:52 → 00:11:54]
+Raya tadi, case-nya dia nggak bisa,
+
+[00:11:54 → 00:11:56]
+nggak punya data, at least
+
+[00:11:56 → 00:11:58]
+dari model itu udah
+
+[00:11:58 → 00:12:00]
+misalnya, nggak apa-apa
+
+[00:12:00 → 00:12:02]
+nanti banyak false positive-nya
+
+[00:12:02 → 00:12:04]
+gitu, tapi kan lumayan tuh ngamanin ya, Mas, ya.
+
+[00:12:04 → 00:12:06]
+Nanti untuk ngurangin false
+
+[00:12:06 → 00:12:08]
+negative, apa, false positive-nya mungkin
+
+[00:12:08 → 00:12:10]
+baru, sambil
+
+[00:12:10 → 00:12:12]
+berjalan ya, pakai, apa, meningkatin
+
+[00:12:12 → 00:12:14]
+behavioral score-nya gitu. Itu
+
+[00:12:14 → 00:12:16]
+ada nggak, Mas? Perdukannya sepakat
+
+[00:12:16 → 00:12:18]
+itu, sekarang nggak tahu tadi kayak tadi, Mas, Miskat.
+
+[00:12:18 → 00:12:20]
+Memang full rule-based dulu aja, kalau memang
+
+[00:12:20 → 00:12:22]
+pelanggan baru yang datanya sedikit.
+
+[00:12:22 → 00:12:24]
+Oke, notate-notate, Mas.
+
+[00:12:24 → 00:12:26]
+Ke depannya bisa
+
+[00:12:26 → 00:12:28]
+seperti yang Mas Hama pesampaikan tadi
+
+[00:12:28 → 00:12:30]
+dengan catatan, kita sudah punya
+
+[00:12:30 → 00:12:32]
+data awal untuk
+
+[00:12:32 → 00:12:34]
+training. Oke.
+
+[00:12:34 → 00:12:36]
+Untuk bikin model yang jentrik tadi itu kan
+
+[00:12:36 → 00:12:38]
+tetap perlu label untuk training.
+
+[00:12:38 → 00:12:40]
+Kita nggak bisa
+
+[00:12:40 → 00:12:42]
+training tanpa
+
+[00:12:42 → 00:12:44]
+label, gitu ya. Ya, ya, ya.
+
+[00:12:44 → 00:12:46]
+Nah, kalau sudah ada
+
+[00:12:46 → 00:12:48]
+sebetulnya bisa
+
+[00:12:48 → 00:12:50]
+dimanfaatkan di
+
+[00:12:50 → 00:12:52]
+secara jentrik gitu ya, di bank lain
+
+[00:12:52 → 00:12:54]
+gitu, entah itu nanti kompatibel
+
+[00:12:54 → 00:12:56]
+atau tidak, perlu dilihat, gitu.
+
+[00:12:56 → 00:12:58]
+Cuman, memang syarat awalnya
+
+[00:12:58 → 00:13:00]
+itu kita perlu training
+
+[00:13:00 → 00:13:02]
+dan perlu label. Untuk saat ini kita
+
+[00:13:02 → 00:13:04]
+belum punya, sih, Mas.
+
+[00:13:04 → 00:13:06]
+Model yang di-berry kemarin nggak bisa di-berry.
+
+[00:13:06 → 00:13:08]
+Mas, izin sebentar aja.
+
+[00:13:08 → 00:13:10]
+Padi meeting, kita pun. Iya, ya.
+
+[00:13:14 → 00:13:16]
+Nanti nasibnya
+
+[00:13:16 → 00:13:18]
+...
+
+[00:13:30 → 00:13:32]
+Nah, dari violation
+
+[00:13:32 → 00:13:34]
+потерuna antsain.
+
+[00:13:38 → 00:13:39]
+Pada
+
+[00:19:09 → 00:19:36]
+Maafin, ternyata lama, Mas Miskat. Oke, sorry lanjut, Mas.
+
+[00:19:36 → 00:19:41]
+Sama-sama, sama-sama. Tadi juga pasangnya saya ada telepon.
+
+[00:19:41 → 00:19:49]
+Sama-sama, tadi itu terkait dengan model yang di BRI, bisa dipakai nggak gitu ya?
+
+[00:19:49 → 00:19:57]
+Model yang di BRI itu dulu kita developnya untuk mendeteksi skimming.
+
+[00:19:57 → 00:20:00]
+Artinya channelnya ATM gitu ya.
+
+[00:20:00 → 00:20:09]
+Kalau yang sekarang, kita itu fokusnya atau transaksinya kebanyakan dari mobile banking channelnya berbeda.
+
+[00:20:09 → 00:20:16]
+Sebetulnya secara umum itu tuh ada behavior yang mirip-mirip gitu ya, Mas.
+
+[00:20:16 → 00:20:29]
+Misalnya kalau orang yang kena fraud itu, dia sama-sama duitnya ditarik banyak dalam waktu singkat gitu ya.
+
+[00:20:29 → 00:20:33]
+Sebetulnya beberapa rules mirip, tapi ada juga yang spesifik.
+
+[00:20:34 → 00:20:45]
+Misalnya kalau di mobile banking itu, kalau dia transaksinya seaneh apapun, tapi di device-nya milik dia,
+
+[00:20:45 → 00:20:53]
+yaitu legit sih sebenarnya gitu, mau dia seaneh apapun, karena itu device-nya sudah kita ketahui milik dia gitu.
+
+[00:20:53 → 00:20:56]
+WTM mungkin nggak relevan ya.
+
+[00:20:56 → 00:21:06]
+Jadi memang ada beberapa yang sama, ada beberapa yang itu tuh spesifik di masing-masing channel kalau saya bilang.
+
+[00:21:06 → 00:21:19]
+Nah itu mungkin ya, mungkin bisa sih dicoba, at least rules-rules yang tadi genericnya itu mungkin bisa compatible di sini ya.
+
+[00:21:19 → 00:21:22]
+Mungkin bisa dicoba sih.
+
+[00:21:23 → 00:21:26]
+Oke, ntarik-ntarik.
+
+[00:21:26 → 00:21:29]
+Ntarik, aku jadinya pengen ntarik ke kondisi existing.
+
+[00:21:29 → 00:21:31]
+Kalau kondisi existing, tapi masih rule-based itu ya, Mas Misbah.
+
+[00:21:31 → 00:21:33]
+Ya, rule-based.
+
+[00:21:33 → 00:21:36]
+Siap-siap, oke.
+
+[00:21:38 → 00:21:40]
+Oke, boleh lanjut Mas, makin.
+
+[00:21:40 → 00:21:46]
+Kemudian bagaimana cara kita mendefinisikan rules-nya sekarang, Mas.
+
+[00:21:47 → 00:21:51]
+Oke, sebelum ke sana ada satu yang namanya profile.
+
+[00:21:51 → 00:22:03]
+Profile itu, dia digunakan sebagai baseline untuk menentukan account number ini tuh normalnya behavior-nya seperti apa gitu, Mas Amam.
+
+[00:22:03 → 00:22:14]
+Misalnya, account number ini tuh selama 3 bulan terakhir, rata-rata transaksi hariannya 1.500.
+
+[00:22:14 → 00:22:17]
+Mediannya 1.200.
+
+[00:22:17 → 00:22:23]
+Percentil 95-nya selama 3 bulan tuh dia 5 juta gitu.
+
+[00:22:23 → 00:22:28]
+Artinya setiap account itu punya profile-nya masing-masing.
+
+[00:22:28 → 00:22:29]
+Oh, keren ya.
+
+[00:22:29 → 00:22:31]
+Ya, biar tau anomali transaksi ya.
+
+[00:22:31 → 00:22:34]
+Biasanya kok sedih, tiba-tiba ada yang lebih banget gitu.
+
+[00:22:34 → 00:22:35]
+Ya.
+
+[00:22:35 → 00:22:36]
+Ya, ya, ya, ya.
+
+[00:22:36 → 00:22:41]
+Tapi tidak semua account dia punya profile.
+
+[00:22:41 → 00:22:45]
+Profile itu kan perlu waktu untuk membentuk 3 bulan biasanya.
+
+[00:22:45 → 00:22:46]
+Ya, oke.
+
+[00:22:46 → 00:22:50]
+Kalau misalnya dia tidak punya profile, ya ada yang generic-nya gitu.
+
+[00:22:50 → 00:22:54]
+Generic ini nasabah secara umum lah gitu.
+
+[00:22:54 → 00:22:59]
+Ini sebenarnya agak irisan sama AIDM ya, data management.
+
+[00:22:59 → 00:23:03]
+Karena kalau data management juga punya profile-nya, cuma profile keseluruhan ya.
+
+[00:23:03 → 00:23:08]
+Data profiling di data management itu keseluruhan, betul.
+
+[00:23:08 → 00:23:09]
+Ya, ya, ya, ya, oke, oke.
+
+[00:23:09 → 00:23:10]
+Betul banget.
+
+[00:23:10 → 00:23:17]
+Nah kemudian yang tidak kalah penting di profile ini kita catat.
+
+[00:23:17 → 00:23:21]
+Account number ini device-nya mana aja sih yang punya dia gitu mas.
+
+[00:23:21 → 00:23:23]
+Device ID-nya.
+
+[00:23:23 → 00:23:30]
+Karena kalau device ID-nya milik dia tadi mau seaneh apapun ya udah itu mah trusted gitu.
+
+[00:23:30 → 00:23:31]
+Ya, ya.
+
+[00:23:31 → 00:23:32]
+Gitu kan.
+
+[00:23:32 → 00:23:34]
+Oh, pasti juga.
+
+[00:23:34 → 00:23:36]
+Kemudian trusted destination.
+
+[00:23:36 → 00:23:39]
+Trusted destination ini belesarkan pengalaman kita.
+
+[00:23:39 → 00:23:47]
+Kita tahu bahwa kalau sebelumnya dia pernah transfer ke nomor rekening itu,
+
+[00:23:47 → 00:23:51]
+ke depannya dan dia tidak melaporkannya itu sebagai fraud ya.
+
+[00:23:51 → 00:23:56]
+Ke depannya mau seaneh apapun terhasil dia, sebesar apapun, secepat apapun,
+
+[00:23:56 → 00:23:59]
+ke nomor tersebut ya itu mah legit gitu.
+
+[00:23:59 → 00:24:01]
+Ya memang orang itu.
+
+[00:24:01 → 00:24:02]
+Oke.
+
+[00:24:03 → 00:24:05]
+Bukan fraud star.
+
+[00:24:05 → 00:24:12]
+Jadi kita catat mana aja sih destinasi yang pernah dia transfer sebelumnya gitu ya.
+
+[00:24:13 → 00:24:14]
+Oke.
+
+[00:24:14 → 00:24:15]
+Ya gitu.
+
+[00:24:15 → 00:24:23]
+Nah sekarang berbekal informasi profile, kemudian trusted device, trusted destination, blacklist.
+
+[00:24:23 → 00:24:26]
+Berbekal itu kita bisa membangun rules.
+
+[00:24:26 → 00:24:30]
+Nah rules-nya ada di sini scoring engine.
+
+[00:24:30 → 00:24:35]
+Kita bisa bikin rules tadi spesifik per channel misalnya mas.
+
+[00:24:35 → 00:24:42]
+Karena untuk setiap channel itu biasanya tadi ada beda dikit gitu ya.
+
+[00:24:42 → 00:24:46]
+Ada spesifik kalau trustednya di ATM, saya mau deteksinya kayak gini.
+
+[00:24:46 → 00:24:49]
+Kalau trustednya di mobile banking seperti apa.
+
+[00:24:49 → 00:24:56]
+Jadi kita bisa bikin per channel, kita bisa pisahkan scoring engine-nya.
+
+[00:24:56 → 00:24:59]
+Contohnya ini ada satu scoring engine.
+
+[00:25:00 → 00:25:07]
+Nah, yang pertama di scoring engine itu, kita tentukan di sini tentunya namanya.
+
+[00:25:07 → 00:25:09]
+Nama scoring-nya apa?
+
+[00:25:09 → 00:25:13]
+Contact cover rules, misalnya mobile banking lebih tepatnya sih kayak gini.
+
+[00:25:13 → 00:25:17]
+Karena kita idealnya bikin per channel.
+
+[00:25:18 → 00:25:23]
+Kemudian data source-nya apakah kita mau mendeteksi dari transaction atau activity.
+
+[00:25:23 → 00:25:27]
+Sekarang belum bisa activity, activity itu dari clickstream.
+
+[00:25:27 → 00:25:30]
+Waktu di Raya kita pakai IXP.
+
+[00:25:30 → 00:25:35]
+Kalau nggak salah, Brimo juga pakenya sama IXP untuk track behavior-nya nasa bayar.
+
+[00:25:35 → 00:25:37]
+Nggak klik apa, nggak klik apa.
+
+[00:25:37 → 00:25:40]
+Dia nggak transaksi sih, tapi kecatat dia login.
+
+[00:25:40 → 00:25:42]
+Dia klik ganti password gitu ya.
+
+[00:25:42 → 00:25:46]
+Dia klik, misalnya lupa password dan lain-lain.
+
+[00:25:46 → 00:25:50]
+Nah ini bisa kita manfaatkan, cuman saat ini belum.
+
+[00:25:50 → 00:25:51]
+Kita baru dari transaksi.
+
+[00:25:51 → 00:25:54]
+Jadi kalau yang activity-nya case-by-case ya,
+
+[00:25:54 → 00:26:00]
+kalau si company-nya dia memang punya logger baru bisa dipakai ya?
+
+[00:26:00 → 00:26:02]
+Iya, betul.
+
+[00:26:04 → 00:26:06]
+Kemudian apakah real-time atau batching.
+
+[00:26:06 → 00:26:10]
+Batching itu kadang juga, Bang pengennya batching,
+
+[00:26:10 → 00:26:15]
+kadang nggak apa-apa lah, yang penting setiap 3 jam sekali di scoring gitu.
+
+[00:26:15 → 00:26:17]
+Saya nggak mau real-time misalnya.
+
+[00:26:17 → 00:26:21]
+Itu ke depannya kita bisa support, cuman sekarang belum kita support.
+
+[00:26:21 → 00:26:26]
+Pertanyaanku, Mas, ini kan ada variable nih di visual,
+
+[00:26:26 → 00:26:28]
+kan dia no code platform, kalau lihat.
+
+[00:26:28 → 00:26:32]
+Cuman kan kadang variable name di bank-nya sama di kita beda ya.
+
+[00:26:32 → 00:26:36]
+Berarti ada integration effort, ada mapping variable dulu ya?
+
+[00:26:36 → 00:26:38]
+Betul, betul.
+
+[00:26:38 → 00:26:42]
+Ini singkat aja saya bahas, karena tadi Mas Anwar menerima itu,
+
+[00:26:42 → 00:26:48]
+kita coba bayangkan ini flow dari sisi datanya ya, Mas Amam ya.
+
+[00:26:48 → 00:26:51]
+Ini singkat aja.
+
+[00:26:58 → 00:27:02]
+Ini kita bilang PRX yang raw, yang dari bank, gitu Mas Amam.
+
+[00:27:02 → 00:27:05]
+Bang bisa beda-beda.
+
+[00:27:05 → 00:27:11]
+Nah, di sini, ini ada proses yang namanya enrichment dan standarisasi.
+
+[00:27:11 → 00:27:25]
+Nah, setelah melalui tahapan itu baru dia bisa di scoring.
+
+[00:27:25 → 00:27:29]
+Oke.
+
+[00:27:29 → 00:27:31]
+Nah, kenapa ada enrichment?
+
+[00:27:31 → 00:27:35]
+Saya bilang nanti kita lihat ada beberapa fitur yang itu tuh hasil enrichment.
+
+[00:27:36 → 00:27:48]
+Jadi si transaksi itu awalnya dia bisa hanya misalnya 10 fitur atau 10 atribut ya, Mas ya.
+
+[00:27:48 → 00:27:50]
+10 misalnya.
+
+[00:27:50 → 00:27:56]
+Tapi kita akan enrich lagi di feature engineering, kan.
+
+[00:27:56 → 00:28:01]
+Ini kita jadi totalnya di sini bisa jadi 50, gitu.
+
+[00:28:01 → 00:28:09]
+Nah, ini secara teknis sebetulnya Mas, yang berat itu di sini sebetulnya.
+
+[00:28:09 → 00:28:19]
+Enrichment ini yang sebetulnya secara performance berat dan secara engineering,
+
+[00:28:19 → 00:28:26]
+bagaimana supaya kita bisa lakukan itu dengan optimal, challenge-nya itu sebetulnya di sini.
+
+[00:28:26 → 00:28:32]
+Pada scoring kan kita bikin rules, ya sudah silahkan cocokan aja dengan rules-nya gitu ya.
+
+[00:28:32 → 00:28:34]
+Bantaku tip sederhana itu.
+
+[00:28:34 → 00:28:40]
+Tapi challenge kita, kalau kita mau bilang teknisnya, challenge-nya sebenarnya di sini.
+
+[00:28:40 → 00:28:44]
+Bagaimana enrichment dan standarisasi ini bisa dilakukan dengan cepat, karena ini berat.
+
+[00:28:44 → 00:28:47]
+Oke. Aku izin langsung lagi, Mas.
+
+[00:28:47 → 00:28:54]
+Terpengaruh standarisasi apakah dia derivasi dari varian transaksi raw
+
+[00:28:54 → 00:28:58]
+atau kita memang menyambungin pakai data point lain?
+
+[00:28:58 → 00:29:02]
+Kalau mostly sih dari sini, Mas.
+
+[00:29:02 → 00:29:03]
+Dari patient?
+
+[00:29:03 → 00:29:07]
+Ya, karena yang 10 ini itu umum tadi ya.
+
+[00:29:07 → 00:29:11]
+Terus kita sambungin dengan data point lain itu misalnya tadi di sini kita enrich
+
+[00:29:11 → 00:29:14]
+apakah dia ada di backlist atau tidak, gitu, Mas.
+
+[00:29:14 → 00:29:17]
+Terus kita tambahin lagi profile-nya, Mas.
+
+[00:29:17 → 00:29:20]
+50 ini mungkin 10-nya profile-nya dia, gitu, Mas.
+
+[00:29:20 → 00:29:22]
+Bayangin.
+
+[00:29:22 → 00:29:23]
+Ya, ya, ya.
+
+[00:29:23 → 00:29:26]
+Tadi kan kita ada profile, profile-nya kita sambungin di sini.
+
+[00:29:26 → 00:29:28]
+Jadi 10 ini nambah ada informasi programnya.
+
+[00:29:28 → 00:29:34]
+Oh, betul, betul. Jadi tiap transaksi selalu untuk berperfalan sama duplikat gitu ya.
+
+[00:29:34 → 00:29:36]
+Per transaksi di noted ya.
+
+[00:29:36 → 00:29:39]
+Ya, per transaksi itu ditambahin.
+
+[00:29:39 → 00:29:44]
+Misalnya transaksi ini kan ada amount, gitu ya, ada lokasi, kemudian ada channel-nya apa.
+
+[00:29:44 → 00:29:47]
+Terus ditambahin di enrichment ini.
+
+[00:29:47 → 00:29:50]
+Profile-nya dia tuh selama 3 bulan terakhir seperti ini loh.
+
+[00:29:50 → 00:29:53]
+Jadi scoring-nya ini lebih kaya informasinya kan.
+
+[00:29:53 → 00:30:01]
+Kemudian di sini juga dia bandingkan transaksi sebelumnya berapa menit yang lalu, gitu, Mas.
+
+[00:30:01 → 00:30:02]
+Okay.
+
+[00:30:02 → 00:30:06]
+Transaksi sebelumnya dimana, itu kan harus di sini, di enrichment.
+
+[00:30:06 → 00:30:07]
+Oke.
+
+[00:30:07 → 00:30:13]
+Kita look up ke historical-nya, terus dia tambahkan informasinya di 50 fitur ini.
+
+[00:30:13 → 00:30:14]
+Oke.
+
+[00:30:14 → 00:30:15]
+Gitu.
+
+[00:30:15 → 00:30:18]
+Oke. Noted.
+
+[00:30:18 → 00:30:23]
+Sehingga di scoring ini dia sudah punya lengkap, tinggal dia silahkan, rules-nya mau kaya gimana.
+
+[00:30:23 → 00:30:27]
+Nah, pertanyaannya, kalau misalnya, Mas, saya mau bikin rules baru, ya silahkan.
+
+[00:30:27 → 00:30:32]
+Tapi kalau yang kamu butuhkan itu tidak ada, berarti kan harus ada pengembangan lagi di sini.
+
+[00:30:32 → 00:30:33]
+Betul, betul.
+
+[00:30:33 → 00:30:34]
+Gitu.
+
+[00:30:34 → 00:30:39]
+Yang kemarin kita sampaikan, Azizi kan sempat nawarin ke Bang Simpo.
+
+[00:30:39 → 00:30:40]
+Betul.
+
+[00:30:40 → 00:30:42]
+Atau Nindul kalau nggak salah, Azizi.
+
+[00:30:42 → 00:30:44]
+Mas, nanti kalau ada pengembangan rules gimana?
+
+[00:30:45 → 00:30:50]
+Gini aja, kalau pengembangan rules-nya di sini, ya free, silahkan. Ini kan fitur dari aplikasi kita.
+
+[00:30:50 → 00:30:58]
+Tapi kalau misalnya harus sampai nyentuh di sini, ya itung aja main list-nya kita butuh berapa untuk kembangin di sini.
+
+[00:30:58 → 00:30:59]
+Oh, oke.
+
+[00:30:59 → 00:31:00]
+Bisa kaya gitu, gitu.
+
+[00:31:00 → 00:31:02]
+Noted, noted. Siap.
+
+[00:31:02 → 00:31:06]
+Oke, kita lanjut yang tadi.
+
+[00:31:06 → 00:31:10]
+Nah, yang pertama struktur dari scoring engine itu ada filter.
+
+[00:31:10 → 00:31:20]
+Filter ini kita gunakan untuk transaksi seperti apa sih yang mau kita scoring, gitu, Mas.
+
+[00:31:20 → 00:31:23]
+Karena tidak semua transaksi biasanya perlu di-scoring.
+
+[00:31:23 → 00:31:27]
+Misalnya transaksi di bawah 100 ribu, ya udahlah kita anggap normal.
+
+[00:31:27 → 00:31:32]
+Kalau dibayar itu saking banyaknya transaksi, biasanya kita kaya gitu untuk mengurangi transaksi.
+
+[00:31:32 → 00:31:38]
+Kalau dibayar itu saking banyaknya transaksi, biasanya kita kaya gitu untuk mengurangi jumlah transaksi yang di-scoring, ya, Mas.
+
+[00:31:38 → 00:31:41]
+Kalau dibawah 50 ribu, kita anggap normal lah, gitu.
+
+[00:31:41 → 00:31:44]
+Karena itu banyak banget yang dibawah 50 ribu aja.
+
+[00:31:44 → 00:31:49]
+Ini kita menentukan mau yang seperti apa yang kita scoring.
+
+[00:31:49 → 00:31:56]
+Kalau di sini, yang kita scoring itu adalah yang di atas 100 ribu, yang current device is trusted-nya false,
+
+[00:31:56 → 00:32:00]
+artinya device ID-nya itu tidak trusted, gitu, Mas.
+
+[00:32:00 → 00:32:04]
+Tidak trusted itu artinya device baru, tidak ada di profilnya dia.
+
+[00:32:04 → 00:32:11]
+Destination trusted-nya false, artinya ini destinasi baru, kaya gitu.
+
+[00:32:11 → 00:32:17]
+Ini bisa juga kalau lebih nyaman bikinnya pakai kode juga bisa dibikin kaya gini.
+
+[00:32:20 → 00:32:26]
+Kemudian tadi kalau dia nggak lalas filter, udah otomatis dia nanti normal.
+
+[00:32:26 → 00:32:31]
+Nah, terus di sini ada rules-nya. Rules-nya bisa lebih dari satu nih.
+
+[00:32:31 → 00:32:34]
+Yang pertama saya bikin device mencurigakan.
+
+[00:32:34 → 00:32:40]
+Jika current device-nya tidak trusted, maka saya kasih score 30, gitu, Mas.
+
+[00:32:40 → 00:32:43]
+Kalau dia true, ya udah, score-nya 0.
+
+[00:32:43 → 00:32:45]
+Terus destinasi-nya kita cek lagi.
+
+[00:32:45 → 00:32:52]
+Jika destinasi-nya mencurigakan, jika trusted-nya false, artinya destinasi-nya baru,
+
+[00:32:52 → 00:32:57]
+kemudian destinasi-nya itu bukan phone number-nya dia sendiri.
+
+[00:32:57 → 00:33:01]
+Kadang kita top up ke nomor handphone kita sendiri, gitu, kan?
+
+[00:33:01 → 00:33:02]
+Betul.
+
+[00:33:02 → 00:33:04]
+Up up, wallet atau apa, gitu.
+
+[00:33:04 → 00:33:06]
+Iya, iya, iya.
+
+[00:33:06 → 00:33:11]
+Terus nomor tujuannya, namanya tujuannya itu tidak memiliki similarity dengan namanya dia.
+
+[00:33:11 → 00:33:15]
+Kadang kita transfer ke nomor ke-nanya kita di bang lain.
+
+[00:33:15 → 00:33:21]
+Kalau bukan ke-dari-nya sendiri, bukan ke handphone dia, dan tidak pernah dari wire-nya ke sana,
+
+[00:33:21 → 00:33:24]
+kita anggap itu mencurigakan, 30.
+
+[00:33:24 → 00:33:26]
+Iya, iya, iya.
+
+[00:33:26 → 00:33:30]
+Kemudian jika dia ada di blacklist, nah ini udah pasti.
+
+[00:33:30 → 00:33:36]
+Pokoknya kalau ada di blacklist, baik kita device apapun destinasi-nya, dikasih 100 aja langsung, score-nya.
+
+[00:33:36 → 00:33:38]
+Oh, iya, iya, iya.
+
+[00:33:38 → 00:33:40]
+Nah, baru di sini berkaitan dengan nominal.
+
+[00:33:40 → 00:33:43]
+Nominalnya di luar kebiasaan dia, enggak, gitu, Mas.
+
+[00:33:43 → 00:33:46]
+Oh, udah ada ya, ini variable statistiknya, ya?
+
+[00:33:46 → 00:33:48]
+Iya, betul.
+
+[00:33:48 → 00:33:50]
+Ini kan ambil dari profile.
+
+[00:33:50 → 00:33:53]
+Yang ini yang hasil enrichment tadi, Mas.
+
+[00:33:53 → 00:33:57]
+TRXO sum last 24 jam.
+
+[00:33:57 → 00:33:59]
+Ya, ya, iya.
+
+[00:33:59 → 00:34:06]
+Ya, sum dari 24 jam terakhir dia itu melebihi 3 kali mainnya dia selama 3 bulan, enggak?
+
+[00:34:06 → 00:34:07]
+Iya, iya, iya.
+
+[00:34:07 → 00:34:10]
+Kalau iya, dia enggak mencurigakan 30 score-nya.
+
+[00:34:10 → 00:34:14]
+Oh, sorry, Mas Niskat, aku berarti balik ke yang flow tadi.
+
+[00:34:14 → 00:34:18]
+Seharusnya itu udah ada di default feature enrichment, ya, yang pasti ada dari data existing mereka, ya?
+
+[00:34:18 → 00:34:20]
+Betul.
+
+[00:34:20 → 00:34:26]
+Oh, makanya tadi kata Mas Niskat, kalau dia minta feature enrichment tambahan di luar yang kita punya, ada enrichment, ya?
+
+[00:34:26 → 00:34:27]
+Betul.
+
+[00:34:27 → 00:34:28]
+Oh, siap, ya, ya.
+
+[00:34:28 → 00:34:30]
+Aku baru klik, sorry, sorry.
+
+[00:34:30 → 00:34:32]
+Lanjut, Mas.
+
+[00:34:32 → 00:34:35]
+Nanti coba kita lihat fiturnya apa aja ya, Mas, yang kita punya.
+
+[00:34:35 → 00:34:36]
+Siap.
+
+[00:34:36 → 00:34:42]
+Kemudian, mohon kalau dia 3 kali lebih besar, 30 score-nya.
+
+[00:34:42 → 00:34:47]
+Kalau 2 kali, ya udah, misalnya, ini ya, 20, gitu.
+
+[00:34:47 → 00:34:51]
+Ini tergantung nanti dia bikinnya gimana.
+
+[00:34:51 → 00:34:59]
+Velocity, jika interval dari transaksi sebelumnya itu, kurang dari 30 detik, langsung dikasih 20, gitu.
+
+[00:34:59 → 00:35:01]
+Terlalu cepat.
+
+[00:35:01 → 00:35:06]
+Kalau dalam 1 menit dia 3 kali transaksi, 30, gitu, Mas.
+
+[00:35:06 → 00:35:11]
+Dan sebagainya, gitu ya, dari sisi velocity.
+
+[00:35:11 → 00:35:13]
+Nah, nanti dijumlahkan yang tadi itu, Mas.
+
+[00:35:13 → 00:35:19]
+Ini dari sisi waktu, misalnya kalau transaksi tengah malam, dari jam 22 sampai jam 5 subuh, score-nya berapa?
+
+[00:35:19 → 00:35:21]
+Oke.
+
+[00:35:21 → 00:35:25]
+Lokasi, apakah lokasinya ini termasuk lokasinya yang blacklist?
+
+[00:35:25 → 00:35:33]
+Karena kita tuh udah tahu, kalau lokasinya Roadster itu di Indonesia ada 2 yang paling terkenal, lah.
+
+[00:35:33 → 00:35:35]
+Skidrap sama Tulung Selapan.
+
+[00:35:35 → 00:35:38]
+Jadi kita bisa bikin GPS fence, gitu ya.
+
+[00:35:38 → 00:35:46]
+Kalau dia ada di dalam situ, berarti dia GPS-nya kita anggap mencurigakan, gitu.
+
+[00:35:46 → 00:35:48]
+Mas, aku boleh potong nggak?
+
+[00:35:48 → 00:35:51]
+Mas, itu kah kalau rule-nya tabrakan?
+
+[00:35:51 → 00:35:55]
+Trusted Device, ya. Tapi dia di blacklist, itu apa?
+
+[00:35:55 → 00:35:57]
+Oke, nice, nice.
+
+[00:35:57 → 00:36:04]
+Kalau kita lihat di yang sekarang, karena dia Trusted Device, di sini, Mas.
+
+[00:36:04 → 00:36:11]
+Karena dia Trusted Device-nya di awal udah true, berarti dia nggak akan masuk ke filter, Mas.
+
+[00:36:11 → 00:36:13]
+Dia nggak akan diteruskan ke rules.
+
+[00:36:13 → 00:36:15]
+Paham, paham, paham.
+
+[00:36:15 → 00:36:20]
+Karena filter ini benar-benar menentukan apakah dia lanjut atau nggak filter, ya.
+
+[00:36:20 → 00:36:23]
+Karena serial, ya, dia di depan, ya.
+
+[00:36:23 → 00:36:25]
+Kalau di workload itu dia di depan duluan, ya.
+
+[00:36:25 → 00:36:27]
+Ya, kalau filter seperti itu.
+
+[00:36:27 → 00:36:30]
+Tapi kalau rules, nggak masalah, Mas. Ada yang tabrakan.
+
+[00:36:30 → 00:36:34]
+Kalau rules ini, nanti kan ada jumlahnya. Dijumlahin aja.
+
+[00:36:34 → 00:36:38]
+Oh gitu. Ya, ya, ya. Makes sense, makes sense.
+
+[00:36:38 → 00:36:41]
+Nanti dari sisi device-nya dia dapat score berapa?
+
+[00:36:41 → 00:36:44]
+Dari sisi apa, dia dapat score berapa?
+
+[00:36:44 → 00:36:46]
+Oke, oke. Keren, keren.
+
+[00:36:46 → 00:36:48]
+Kalau filter, dia cut off.
+
+[00:36:48 → 00:36:50]
+Kalau nggak sesuai filter, ya udah.
+
+[00:36:50 → 00:36:53]
+Karena tujuannya kan mau mengurangi yang di scoring, ya.
+
+[00:36:53 → 00:36:55]
+Ya.
+
+[00:36:55 → 00:36:57]
+Gitu.
+
+[00:36:57 → 00:36:59]
+Oke.
+
+[00:36:59 → 00:37:03]
+Nah, terakhir kita bisa tentukan nih.
+
+[00:37:03 → 00:37:10]
+Kalau score totalnya di atas 80, kita kasih label dia Danger.
+
+[00:37:10 → 00:37:12]
+Action-nya apa? Ini bisa kita linkan, Mas.
+
+[00:37:12 → 00:37:15]
+Misalnya send notification ke nasabahnya.
+
+[00:37:15 → 00:37:18]
+Kakaun gitu ya. Atau donasing gitu.
+
+[00:37:19 → 00:37:23]
+Kalau di atas berapa, score-nya nanti seperti apa?
+
+[00:37:23 → 00:37:25]
+Ya, ya, ya.
+
+[00:37:25 → 00:37:27]
+Nah, terakhir di sini kita bisa tes.
+
+[00:37:27 → 00:37:31]
+Kalau kita punya data historical tuh, kalau scoring engine udah jalan,
+
+[00:37:31 → 00:37:35]
+kita download aja, Mas, data transaksi yang tadi kita lihat di sini nih.
+
+[00:37:35 → 00:37:37]
+Ya, ya, ya.
+
+[00:37:37 → 00:37:39]
+Kita test aja, gitu.
+
+[00:37:39 → 00:37:41]
+Oke.
+
+[00:37:41 → 00:37:44]
+Sambilnya, aku boleh nanya, Mas?
+
+[00:37:44 → 00:37:45]
+Siap, aman, Mas.
+
+[00:37:45 → 00:37:49]
+Tadi kan ada data transaksi, aku, again, tadi nanya terkait variable name.
+
+[00:37:49 → 00:37:51]
+Itu tuh auto-discover, ya, Mas?
+
+[00:37:51 → 00:37:54]
+Misalnya udah ada data transaksi dari klien,
+
+[00:37:54 → 00:37:58]
+itu apakah di auto-mapping dan auto-discover, oh, variable ini di klien,
+
+[00:37:58 → 00:38:00]
+di FDS-nya ini.
+
+[00:38:00 → 00:38:04]
+Misalnya AMP di bank, kita mount, itu udah auto-discover apa?
+
+[00:38:04 → 00:38:06]
+Tetap manual mapping, Mas?
+
+[00:38:06 → 00:38:08]
+Manual mapping, Mas.
+
+[00:38:08 → 00:38:11]
+Tapi itu perlu kita buat configurable.
+
+[00:38:11 → 00:38:13]
+Dalam arti, nggak perlu coding, ya.
+
+[00:38:13 → 00:38:16]
+Kita kayak bikin mapping-nya aja kayak CSV, gitu, Mas.
+
+[00:38:16 → 00:38:18]
+CSV mapping.
+
+[00:38:18 → 00:38:20]
+Itu perlu kita implementasikan seperti itu.
+
+[00:38:20 → 00:38:22]
+Sekarang sih belum, ya. Sekarang...
+
+[00:38:22 → 00:38:25]
+Upload, ya, misalnya data dictionary-nya kita tinggal assign aja, ya, ke...
+
+[00:38:25 → 00:38:26]
+Iya.
+
+[00:38:26 → 00:38:27]
+Oh, clear, clear.
+
+[00:38:27 → 00:38:29]
+Mapping-nya seperti apa, gitu.
+
+[00:38:29 → 00:38:30]
+Oh, pakai, ini, Mas.
+
+[00:38:30 → 00:38:35]
+Pakai small model auto-discover, tapi nanti tetap kita verify.
+
+[00:38:35 → 00:38:37]
+Oh, bisa, bisa, bisa.
+
+[00:38:37 → 00:38:38]
+Bener.
+
+[00:38:38 → 00:38:39]
+Jadi...
+
+[00:38:39 → 00:38:41]
+Iya, iya, iya.
+
+[00:38:41 → 00:38:44]
+Kita model kecil buat auto-discover dulu, based on existing data.
+
+[00:38:44 → 00:38:46]
+Tapi kan pasti ada salahnya, ya.
+
+[00:38:46 → 00:38:49]
+Nanti baru verifikasinya, jadi orang nggak makan waktu inputnya kali, nggak tahu sih.
+
+[00:38:49 → 00:38:51]
+Nggak tahu sih. Nggak tahu se...
+
+[00:38:53 → 00:38:54]
+Ini apa.
+
+[00:38:54 → 00:38:55]
+Iya, iya.
+
+[00:38:55 → 00:38:59]
+Kalau mau ke arah situ bisa.
+
+[00:38:59 → 00:39:01]
+Tapi kalau pandanganku...
+
+[00:39:03 → 00:39:07]
+Karena bisa, misalnya, karena biasanya basic feature itu kan...
+
+[00:39:07 → 00:39:09]
+Cuma 10, gitu, Mas.
+
+[00:39:09 → 00:39:10]
+Oh, iya, iya, nggak ini, ya.
+
+[00:39:10 → 00:39:11]
+Ya, 10.
+
+[00:39:11 → 00:39:12]
+Betul, betul, betul.
+
+[00:39:12 → 00:39:16]
+Dan perlu dipastikan benar-benar, gitu, ya.
+
+[00:39:16 → 00:39:18]
+Jadi kayaknya...
+
+[00:39:18 → 00:39:21]
+Meskipun selalu auto-discover, tadi kan perlu dicek satu-satu.
+
+[00:39:21 → 00:39:24]
+Itu cuma 10, gitu, misalnya.
+
+[00:39:24 → 00:39:25]
+Iya, iya, iya.
+
+[00:39:25 → 00:39:27]
+Sense, sense, sense. Betul, Mas, betul, betul.
+
+[00:39:27 → 00:39:29]
+Oh, inget nih, 50-nya, betul. Sorry, sorry.
+
+[00:39:29 → 00:39:31]
+Iya.
+
+[00:39:31 → 00:39:33]
+Lupa kalau 50-nya banyak, banyak condition.
+
+[00:39:33 → 00:39:35]
+Iya, benar, benar, benar.
+
+[00:39:38 → 00:39:42]
+Nah, ini kita pilih CSP-nya nanti ke deteksi, Mas.
+
+[00:39:43 → 00:39:46]
+Ini dia, berdasarkan rule sini tadi atas,
+
+[00:39:46 → 00:39:49]
+dapat skor 30 dan dia normal, gitu.
+
+[00:39:50 → 00:39:53]
+Kemudian, misalnya, ini harusnya warna, ya.
+
+[00:39:53 → 00:39:56]
+Normal, warning, danger, ini harusnya ada warnanya,
+
+[00:39:56 → 00:39:58]
+cuma ada bugs, jadi nggak muncul.
+
+[00:39:58 → 00:39:59]
+Oke.
+
+[00:39:59 → 00:40:00]
+Semuanya abu.
+
+[00:40:00 → 00:40:02]
+Misalnya warning, gitu.
+
+[00:40:02 → 00:40:03]
+Ya, kenapa warning?
+
+[00:40:03 → 00:40:04]
+Kita bisa check juga di sini, Mas.
+
+[00:40:04 → 00:40:06]
+Nah, rules apa yang kena?
+
+[00:40:06 → 00:40:09]
+Dia kena device mencurigakan, dapat skor 30.
+
+[00:40:09 → 00:40:12]
+Dia kena waktu mencurigakan, dapat skor 10.
+
+[00:40:12 → 00:40:14]
+Totalnya sekian.
+
+[00:40:14 → 00:40:17]
+Gitu. Yang 100, kenapa sih dia 100?
+
+[00:40:17 → 00:40:19]
+Bisa juga kita lihat kayak gini.
+
+[00:40:24 → 00:40:25]
+Kayak gitu.
+
+[00:40:25 → 00:40:28]
+After itu, ya udah, tinggal di-save, gitu.
+
+[00:40:29 → 00:40:32]
+Mas, kalau, nah, kan udah ada rule nih, Mas.
+
+[00:40:32 → 00:40:35]
+Terus ternyata ada yang kena nih, satu orang.
+
+[00:40:35 → 00:40:39]
+Itu tuh jadi auto-learning buat mesin FDS-nya,
+
+[00:40:39 → 00:40:42]
+atau tetap perlu ada effort training sendiri?
+
+[00:40:42 → 00:40:43]
+Oke.
+
+[00:40:44 → 00:40:46]
+Untuk itu belum auto, Mas.
+
+[00:40:47 → 00:40:49]
+Kalau kita biasanya,
+
+[00:40:51 → 00:40:53]
+atau saya sempat reset, lah ya.
+
+[00:40:53 → 00:40:57]
+Saya sempat reset kalau yang di luaran sana itu,
+
+[00:40:57 → 00:41:01]
+katanya sih arahnya kesana, auto-learning yang tadi kata sama-sama.
+
+[00:41:01 → 00:41:06]
+Tapi tetap melibatkan human ya, kayak validasinya, dia accept atau enggak.
+
+[00:41:06 → 00:41:08]
+Aranya memang kesana.
+
+[00:41:08 → 00:41:11]
+Cuman, kita selama ini belum pernah.
+
+[00:41:11 → 00:41:13]
+Mungkin arahnya kesana sih.
+
+[00:41:13 → 00:41:14]
+Oke.
+
+[00:41:17 → 00:41:18]
+Menarik, menarik.
+
+[00:41:19 → 00:41:22]
+Dan itu ada satu, Mas, yang belum,
+
+[00:41:22 → 00:41:25]
+saya, belum kita implementasikan.
+
+[00:41:25 → 00:41:29]
+Dan itu mungkin di versi selanjutnya.
+
+[00:41:29 → 00:41:33]
+Karena kan ini basicnya udah lah ya.
+
+[00:41:33 → 00:41:36]
+Kita pengen coba release dulu ke Mitra kita, gitu.
+
+[00:41:36 → 00:41:38]
+Biar nanti belajar.
+
+[00:41:38 → 00:41:42]
+Satu fitur yang belum saya, belum kita develop itu adalah,
+
+[00:41:42 → 00:41:46]
+kita mau lihat sebaran dari setiap rules-nya.
+
+[00:41:46 → 00:41:49]
+Artinya gini, rules mana sih yang paling sering kena, gitu, Mas?
+
+[00:41:49 → 00:41:50]
+Oke.
+
+[00:41:50 → 00:41:52]
+Jika kita lihat tuh satu-satu ya.
+
+[00:41:52 → 00:41:53]
+Iya, iya.
+
+[00:41:53 → 00:41:55]
+Terus tanya apa, terasa sih, lu kena.
+
+[00:41:55 → 00:41:57]
+Nah, kita tuh maunya secara keseluruhan,
+
+[00:41:57 → 00:42:01]
+rules apa sih yang sering kena dan trend-nya bagaimana.
+
+[00:42:01 → 00:42:04]
+Karena sebagai fraud analyst itu,
+
+[00:42:04 → 00:42:06]
+dia perlu cari titik tengah.
+
+[00:42:06 → 00:42:10]
+Rules ini nggak boleh terlalu banyak false positives, gitu, misalnya, Mas.
+
+[00:42:10 → 00:42:11]
+Iya, iya, iya, iya.
+
+[00:42:11 → 00:42:13]
+Rules ini, ini terlalu banyak orang kena nih.
+
+[00:42:13 → 00:42:17]
+Rules ini tuh jarang ada yang kena ya, misalnya.
+
+[00:42:17 → 00:42:20]
+Dan itu belum ada helicopter view untuk melihat itu.
+
+[00:42:20 → 00:42:26]
+Sehingga, apa, ya tadi, untuk melakukan
+
+[00:42:26 → 00:42:29]
+maintenance ada rules-nya itu,
+
+[00:42:29 → 00:42:33]
+masih belum bisa dilakukan dengan mudah lah pengambilan keputusannya.
+
+[00:42:33 → 00:42:36]
+Iya, iya, iya, iya.
+
+[00:42:36 → 00:42:39]
+Tapi itu butuh data existing dulu kan, Mas?
+
+[00:42:39 → 00:42:40]
+Nggak ya? Atau setelah itu udah bisa?
+
+[00:42:40 → 00:42:42]
+Betul, butuh data existing.
+
+[00:42:42 → 00:42:44]
+Dijalanin dulu.
+
+[00:42:44 → 00:42:46]
+Berapa, enam, berapa, empat itu kita bikin kan.
+
+[00:42:46 → 00:42:47]
+Kenapa, Mas?
+
+[00:42:47 → 00:42:51]
+Iya, diraning dulu berapa lama, gitu, baru buat kan.
+
+[00:42:51 → 00:42:52]
+Iya, betul, betul.
+
+[00:42:52 → 00:42:55]
+Iya, iya, iya, iya. Menarik, menarik.
+
+[00:42:55 → 00:42:56]
+Oke.
+
+[00:42:56 → 00:43:02]
+Aku mungkin kalau fitur untuk sales deck sih kayaknya cukup, Mas,
+
+[00:43:02 → 00:43:04]
+udah cukup paham, udah cukup daurannya.
+
+[00:43:04 → 00:43:08]
+Aku pengen tahu pricingnya tuh udah ada di quote-nya belum ya, Mas?
+
+[00:43:08 → 00:43:13]
+Nah, mungkin kalau saya, kemarin belum, Mas,
+
+[00:43:13 → 00:43:16]
+belum ke arah sana, fully di technical.
+
+[00:43:16 → 00:43:19]
+Kalau yang sempat ke arah sana tuh Azizi deh.
+
+[00:43:19 → 00:43:22]
+Azizi sempat nawarin ke BPR kan.
+
+[00:43:22 → 00:43:26]
+Jadi dia menyesuaikan pricing BPR, kalau Azizi konteksnya itu.
+
+[00:43:26 → 00:43:31]
+Nah, itu mungkin bisa ke beliau, mungkin.
+
+[00:43:31 → 00:43:34]
+Mungkin beliau kan udah ngobrol juga dengan Mas Ali, mungkin.
+
+[00:43:34 → 00:43:36]
+Iya, iya, iya.
+
+[00:43:36 → 00:43:37]
+Oke deh, kalau gitu.
+
+[00:43:37 → 00:43:41]
+Aku boleh minta nomornya, nanti abis itu aku izin celek buat ini ya,
+
+[00:43:41 → 00:43:43]
+minta nomor Mas Azazi, Mas Miskat.
+
+[00:43:43 → 00:43:44]
+Siap, boleh, boleh.
+
+[00:43:44 → 00:43:46]
+Ini terakhir, Mas. Ini yang belum ke-mention.
+
+[00:43:46 → 00:43:48]
+Kalau di-mention, kira udah beres, maaf, maaf.
+
+[00:43:48 → 00:43:51]
+Aman, aman, Mas. Saya juga lupa nih.
+
+[00:43:51 → 00:43:56]
+Front report ini dia menampilkan laporan dari Nesaba.
+
+[00:44:01 → 00:44:08]
+Nah, ini untuk user, apa namanya, user customer service, gitu ya.
+
+[00:44:08 → 00:44:16]
+Karena si bank itu juga nggak banyak yang dia sudah punya database front gitu, Mas.
+
+[00:44:17 → 00:44:24]
+Waktu dulu kita di BRI, bahkan belum ada, ya kita yang dulu akhirnya bikin gitu,
+
+[00:44:24 → 00:44:26]
+bareng-bareng sama teman-teman BRI.
+
+[00:44:26 → 00:44:30]
+Kalau nggak di-collect, kita susah untuk belajar, betul ya, Mas ya.
+
+[00:44:30 → 00:44:35]
+Nanti data training itu harus nyari manual lagi, mana sih yang throat.
+
+[00:44:35 → 00:44:36]
+Ya, iya, iya.
+
+[00:44:36 → 00:44:38]
+Makanya ini dia otomat kayak gini.
+
+[00:44:38 → 00:44:45]
+Yang pentingnya di sini dia bisa melaporkan lah, nama, misalnya siapa, misalnya yang dilaporkan.
+
+[00:44:45 → 00:44:49]
+Oh, ini buat ini ya, buat L0 langsung laporin ya?
+
+[00:44:49 → 00:44:50]
+Ya, betul.
+
+[00:44:50 → 00:44:52]
+Ya, iya, iya, iya.
+
+[00:44:52 → 00:44:57]
+Tapi berarti L0 mah cuma ini ya, buat dia ter-report database dan dia nginput
+
+[00:44:57 → 00:45:00]
+animal activity yang dia tahu dulu kan, untuk sekarang.
+
+[00:45:00 → 00:45:04]
+Sesuai laporannya aja, Mas, dia terima laporan, dia input kan.
+
+[00:45:04 → 00:45:11]
+Jadi nanti Nesabanya lapor, dia itu kena throat misalnya di jam berapa,
+
+[00:45:11 → 00:45:14]
+terus account yang mana, nanti dipilihin.
+
+[00:45:14 → 00:45:17]
+Krasasinya mana aja yang ternyata itu throat, gitu loh, Mas.
+
+[00:45:17 → 00:45:21]
+Oh, berarti perlu penampingan juga ya untuk bikin SOP ke banknya ya?
+
+[00:45:21 → 00:45:24]
+Ya, betul, betul, betul.
+
+[00:45:24 → 00:45:27]
+Itu perlu ini.
+
+[00:45:27 → 00:45:30]
+Ada training nggak sih, Mas, biasanya kalau implementasi FDS ini?
+
+[00:45:30 → 00:45:33]
+Harusnya ada sih kalau kita product ya.
+
+[00:45:33 → 00:45:35]
+Harusnya ada sih, Mas.
+
+[00:45:35 → 00:45:36]
+Oke, oke.
+
+[00:45:36 → 00:45:38]
+Nah, ini belum jalan ini ya.
+
+[00:45:38 → 00:45:42]
+Cuman intinya nanti dia bisa inputin lah laporan seperti apa gitu ya.
+
+[00:45:42 → 00:45:47]
+Laporan transaksi mana aja yang dilaporkan throat, dia input.
+
+[00:45:47 → 00:45:54]
+Kemudian nanti dari sisi adminnya, si analis tadi, dia bisa ngevalidasi, Mas.
+
+[00:45:54 → 00:45:56]
+Nanti masuk ke sini.
+
+[00:45:56 → 00:45:58]
+Masuk ke throat report, dia validasi.
+
+[00:45:58 → 00:46:01]
+Oh iya, ini benar, diakui sebagai throat.
+
+[00:46:01 → 00:46:03]
+Kalau diakui kan nanti ada tindak selanjutnya ya.
+
+[00:46:03 → 00:46:05]
+Entah itu digantur lagi atau gimana.
+
+[00:46:05 → 00:46:07]
+Iya, iya, iya.
+
+[00:46:07 → 00:46:09]
+Kayak gitu sih.
+
+[00:46:09 → 00:46:11]
+Seru, seru, seru.
+
+[00:46:11 → 00:46:15]
+Aku dulu sempat bikinin screenshot-annya, Mas.
+
+[00:46:15 → 00:46:17]
+Dulu diminta Aziz di sama Mas Waisal.
+
+[00:46:17 → 00:46:18]
+Iya.
+
+[00:46:18 → 00:46:20]
+Minta screenshotnya, nanti aku kirim ke Mas juga ya.
+
+[00:46:20 → 00:46:23]
+Barangkali perlu comot-comot itunya.
+
+[00:46:23 → 00:46:25]
+Oke, siap.
+
+[00:46:25 → 00:46:27]
+Pertunjannya Mas Aziz sudah punya slide-nya lagi.
+
+[00:46:27 → 00:46:29]
+Nanti aku cek dulu deh.
+
+[00:46:29 → 00:46:31]
+Dulu tuh konteksnya mau menawarin.
+
+[00:46:31 → 00:46:34]
+Terus minta tolong, Mas, aku minta screenshotnya aja.
+
+[00:46:34 → 00:46:36]
+Oke, aja kata Aziz.
+
+[00:46:36 → 00:46:39]
+Nanti beliau yang bikin untuk menawaranya.
+
+[00:46:39 → 00:46:41]
+Tapi nggak tahu udah sampai mana.
+
+[00:46:41 → 00:46:43]
+Oke, kalau gitu.
+
+[00:46:43 → 00:46:45]
+Seru.
+
+[00:46:45 → 00:46:49]
+Tapi kalau konteks project-based tuh BRI kan?
+
+[00:46:49 → 00:46:51]
+Customernya sama Bang Raya, ada 2.
+
+[00:46:51 → 00:46:53]
+Iya, 2 itu.
+
+[00:46:53 → 00:46:54]
+Betul.
+
+[00:46:54 → 00:46:58]
+Yang menarik itu, kalau kita mau masuk ke ini Mas,
+
+[00:46:58 → 00:47:02]
+throat internal, itu juga sebetulnya engine-nya kan sama-sama aja.
+
+[00:47:02 → 00:47:07]
+Dan throat internal itu juga sebetulnya dari sisi kerubian itu
+
+[00:47:07 → 00:47:10]
+lumayan sih Mas, kalau pengalaman kita di project ya.
+
+[00:47:10 → 00:47:13]
+Kerubian yang mereka dari itu itu lumayan besar juga.
+
+[00:47:13 → 00:47:16]
+Lo throat internal itu, bahkan bukan banking bisa malah kan Mas ya?
+
+[00:47:16 → 00:47:18]
+Bisa, bener.
+
+[00:47:18 → 00:47:20]
+Kayak di biaya cukai gitu misalnya.
+
+[00:47:20 → 00:47:23]
+Kan kalau non-banking,
+
+[00:47:23 → 00:47:25]
+kalau internal bacanya dokumen kan?
+
+[00:47:25 → 00:47:27]
+Bukan transaksi kan?
+
+[00:47:28 → 00:47:33]
+Itu biasanya dokumen dan log aktivitas itu misalnya.
+
+[00:47:33 → 00:47:37]
+Kalau ada aplikasi nge-log itu misalnya, kita bacanya dari log-nya.
+
+[00:47:37 → 00:47:39]
+Jadi memang,
+
+[00:47:39 → 00:47:43]
+maksud aku kalau internal malah lebih
+
+[00:47:45 → 00:47:47]
+industri agnostik kan?
+
+[00:47:47 → 00:47:48]
+Iya, betul.
+
+[00:47:48 → 00:47:51]
+Cuman, kita ya rules-nya,
+
+[00:47:51 → 00:47:55]
+sorry, penarikan datanya juga akhirnya di kita juga
+
+[00:47:55 → 00:47:57]
+perlu dibikin.
+
+[00:47:57 → 00:47:59]
+Kalau balik lagi ke yang tadi sebentar.
+
+[00:48:02 → 00:48:05]
+Nah, ininya itu juga kan, macem-macem ya.
+
+[00:48:05 → 00:48:09]
+Angka industri agnostik memang heavy di sininya gitu.
+
+[00:48:09 → 00:48:11]
+Tapi kita punya udah default ininya Mas.
+
+[00:48:13 → 00:48:15]
+Hasil enrichment-nya udah ada default belum?
+
+[00:48:15 → 00:48:20]
+Belum, karena kan industri agnostik tadi ya, di perbankan itu yang disebut throat internal itu misalnya
+
+[00:48:20 → 00:48:23]
+kayak tiba-tiba ini ada Menteri
+
+[00:48:23 → 00:48:27]
+yang dia dapat transferan dari nasabah setelah dia cair gitu loh Mas.
+
+[00:48:27 → 00:48:31]
+Itu kan indikasinya dibantu pencairan gitu.
+
+[00:48:31 → 00:48:33]
+Tapi itu ya di bank gitu kan.
+
+[00:48:33 → 00:48:36]
+Kalau di tempat lain kan, nggak mungkin nggak applicable.
+
+[00:48:36 → 00:48:40]
+Tapi secara scoring, ya interface-nya kayak tadi aja gitu kan.
+
+[00:48:40 → 00:48:47]
+Iya, tapi maksudnya, sorry, kalau aku jual, kemarin tuh soalnya ada yang nanyain Mas, misalnya petro si ya.
+
+[00:48:48 → 00:48:51]
+Ada FDS nggak buat internal?
+
+[00:48:51 → 00:48:57]
+Kemarin aku bilangnya buat banking doang, berarti kalau aku cuap-cuap bilang internal bisa tuh oke ya?
+
+[00:48:58 → 00:49:04]
+Oke, dengan catatan tadi produk kita memang bisa, tapi ya perlu customisasi lah.
+
+[00:49:04 → 00:49:11]
+Karena industri-nya lebih beragam gitu kan, kalau internal tuh, kalau bank, relatively sama kan.
+
+[00:49:11 → 00:49:14]
+Tapi kalau transaction financial procurement harusnya sama kan Mas?
+
+[00:49:15 → 00:49:18]
+Ya, kalau itu sama.
+
+[00:49:19 → 00:49:21]
+Kalau procurement.
+
+[00:49:21 → 00:49:22]
+Clear, clear, clear.
+
+[00:49:22 → 00:49:24]
+Menarik Mas, seru-seru.
+
+[00:49:27 → 00:49:31]
+Terus ini fitur yang tadi aku bilang yang di Enrich ada apa aja gitu ya.
+
+[00:49:31 → 00:49:33]
+Ini yang warna biru nih.
+
+[00:49:34 → 00:49:36]
+Ada penjelasannya juga gitu.
+
+[00:49:36 → 00:49:38]
+Itu artinya apa?
+
+[00:49:40 → 00:49:42]
+Gitu sih Mas, lumayan banyak.
+
+[00:49:42 → 00:49:44]
+Oke.
+
+[00:49:44 → 00:49:47]
+Oke, mungkin itu untuk yang FDS.
+
+[00:49:48 → 00:49:50]
+Siap.
+
+[00:49:52 → 00:49:55]
+Apa lagi ya? Berarti lanjut ke ini Mas ya.
+
+[00:49:55 → 00:49:57]
+Mas, Mas, waktunya masih banyak nggak?
+
+[00:49:57 → 00:50:02]
+Aku aman sih Mas, sampai jam setengah 12.
+
+[00:50:02 → 00:50:04]
+Oke.
+
+[00:50:06 → 00:50:10]
+Boleh Mas ke data platform dan capacity planning, eh pertanyaan tuh ntar.
+
+[00:50:10 → 00:50:14]
+Capacity planning tools itu dijual apa untuk bantu consulting Mas?
+
+[00:50:15 → 00:50:18]
+Konceptnya sama seperti tadi.
+
+[00:50:18 → 00:50:23]
+Kita mau jual Mas dari hasil selama kita ngeproject gitu.
+
+[00:50:24 → 00:50:25]
+Oke deh, oke.
+
+[00:50:25 → 00:50:30]
+Nah soalnya kan umurnya Bu Tami sempat mention beberapa poin, tapi sebenarnya bukan untuk directly jualan.
+
+[00:50:30 → 00:50:34]
+Tapi untuk supporting tools kalau mau jual service consultingnya gitu.
+
+[00:50:35 → 00:50:40]
+Berarti kalau ini dua-duanya memang untuk ini ya, external ya, external pake ya.
+
+[00:50:42 → 00:50:44]
+Sorry, sorry, gimana Mas?
+
+[00:50:44 → 00:50:48]
+Kemarin tuh Bu Tami sempat menyebutin beberapa inisiatif untuk dukungan,
+
+[00:50:48 → 00:50:52]
+tapi ada beberapa inisiatif yang sebenarnya bukan untuk dijual ke external, tapi untuk internal.
+
+[00:50:52 → 00:50:54]
+Iya, iya, iya, iya.
+
+[00:50:54 → 00:50:55]
+Kalau gitu.
+
+[00:50:55 → 00:50:58]
+Itu kayaknya tools-tools assessment kalau nggak salah yang seperti itu ya.
+
+[00:50:58 → 00:51:00]
+Iya betul, betul, betul.
+
+[00:51:00 → 00:51:02]
+Kalau dua ini mah untuk external ya?
+
+[00:51:02 → 00:51:04]
+Iya, betul.
+
+[00:51:04 → 00:51:06]
+Oke Mas, selanjutnya beritahannya.
+
+[00:51:06 → 00:51:07]
+Siap.
+
+[00:51:07 → 00:51:16]
+Nah yang major sih memang yang tadi Mas ya, kalau yang dua ini saya baru mau inisiasi.
+
+[00:51:16 → 00:51:17]
+Oke.
+
+[00:51:17 → 00:51:21]
+Kebaik yang sebentar saya cari dulu.
+
+[00:51:21 → 00:51:26]
+Sambil nyari boleh tahu nggak Mas ini inspirasinya dari project sama siapa?
+
+[00:51:26 → 00:51:28]
+Yang capacity planning dulu ya Mas ya.
+
+[00:51:28 → 00:51:29]
+Boleh.
+
+[00:51:29 → 00:51:35]
+Capacity planning ini Mas Street Key tim kita, dia terlibat di pengembangan,
+
+[00:51:35 → 00:51:40]
+di project capacity planning sama Pegadayan dan Brinz.
+
+[00:51:40 → 00:51:41]
+Oke, oh dua, udah dua, oke.
+
+[00:51:41 → 00:51:42]
+Iya, dua.
+
+[00:51:42 → 00:51:49]
+Dan memang, apa namanya, penambahannya dari Pegadayan tuh simpel,
+
+[00:51:49 → 00:51:52]
+sekarang di Brinz ini lebih kompleks lah.
+
+[00:51:53 → 00:51:58]
+Jadi ada listren yang, atau penambahan value yang signifikan dari si ini tuh.
+
+[00:51:58 → 00:52:04]
+Nah tapi saya sendiri belum paham terlalu mendetail sebetulnya.
+
+[00:52:04 → 00:52:08]
+Ini coba saya lihatin aja produk yang sudah dibikin ya Mas ya.
+
+[00:52:08 → 00:52:09]
+Oke.
+
+[00:52:15 → 00:52:18]
+Ini tools yang kemarin kita develop di Brinz Mas.
+
+[00:52:19 → 00:52:27]
+Jadi pada intinya, kalau di Pegadayan itu kita simply hanya collect data,
+
+[00:52:27 → 00:52:34]
+data operasional server, seperti penggunaan dari CPU-nya,
+
+[00:52:34 → 00:52:39]
+kemudian storage-nya gitu ya, kemudian memory usage-nya seperti apa.
+
+[00:52:39 → 00:52:46]
+Kita collect, setelah di collect, kemudian kita lakukan forecasting.
+
+[00:52:46 → 00:52:50]
+Berdasarkan historical, memory segini, CPU-nya segini,
+
+[00:52:50 → 00:52:55]
+berdasarkan setiap itu, before case, nanti memory penggunaannya seperti apa,
+
+[00:52:55 → 00:53:00]
+berapa tahun ke depan, CPU juga sama, sederhana itu.
+
+[00:53:00 → 00:53:05]
+Jadi kita istilahnya meng-automasi yang selama ini mereka lakukan manual,
+
+[00:53:05 → 00:53:06]
+kalau di Pegadayan.
+
+[00:53:08 → 00:53:13]
+Nah di Brinz ada nilai tambahnya adalah, dari data yang kita collect itu,
+
+[00:53:13 → 00:53:18]
+dilakukan analisis, dilakukan analisis lebih mendalam,
+
+[00:53:18 → 00:53:23]
+jadi nggak serta merta langsung ke forecasting, tapi dilakukan analisis.
+
+[00:53:23 → 00:53:28]
+Sebetulnya bottleneck-nya dimana, jangan-jangan CPU-nya aman,
+
+[00:53:28 → 00:53:36]
+memori-nya aman, tapi disk-nya nih yang lambat di situ, gitu misalnya.
+
+[00:53:36 → 00:53:42]
+Oh ternyata ketahuan tuh, disk-nya yang lambat, berarti dia perlu di,
+
+[00:53:42 → 00:53:46]
+apa, dinaik lanjutnya hanya di disk-nya aja, gitu misalnya.
+
+[00:53:46 → 00:53:48]
+Kayak gitu.
+
+[00:53:48 → 00:53:52]
+Nah terus terang ini aku belum terlalu tahu mendalam, mas,
+
+[00:53:52 → 00:53:59]
+gitu-gitu, seperti apa, tapi pada intinya si aplikasi ini itu,
+
+[00:53:59 → 00:54:01]
+tujuannya itu sih, mas.
+
+[00:54:01 → 00:54:08]
+Dan dia propose solution gitu ya, sama forecasting.
+
+[00:54:10 → 00:54:13]
+Ini kalau di IBM digabung sama ini, mas, APM, mas,
+
+[00:54:13 → 00:54:15]
+Application Portfolio Management.
+
+[00:54:15 → 00:54:20]
+Oh, oke, oke, oke, paham, paham.
+
+[00:54:20 → 00:54:22]
+Jadi dia dilihat dari sisi infra-nya juga, gitu ya?
+
+[00:54:22 → 00:54:24]
+Ya, infra-nya ngasih tau usage-nya,
+
+[00:54:24 → 00:54:26]
+cuma kalau IBM tuh ada yang sama penggunaan cloud ya,
+
+[00:54:26 → 00:54:28]
+supaya bisa ngatur penggunaan cloud.
+
+[00:54:28 → 00:54:34]
+Tapi nanti juga ada sisi insight dari sisi aplikasinya mana yang perlu dimatiin, kan?
+
+[00:54:34 → 00:54:37]
+Karena matiin aplikasi ngaruh ke usage, kan, mas?
+
+[00:54:37 → 00:54:39]
+Ya, benar, benar, benar.
+
+[00:54:39 → 00:54:42]
+Cuma nggak tau apakah, tapi oke sih,
+
+[00:54:42 → 00:54:44]
+kalau bisa plug and play, mainnya doang ini,
+
+[00:54:44 → 00:54:46]
+kalau mau dua-duanya boleh, gitu.
+
+[00:54:46 → 00:54:49]
+Iya, iya, iya, iya.
+
+[00:54:49 → 00:54:53]
+Ini tuh konsepnya nanti mau kita bikin generic.
+
+[00:54:53 → 00:54:56]
+Jadi saya bicara teknis aja, mas, ya, karena kemarin
+
+[00:54:56 → 00:54:59]
+saya sama Fidkey lebih diskusi ke teknisnya,
+
+[00:54:59 → 00:55:02]
+saya belum mempelajari sisi aplikasinya.
+
+[00:55:02 → 00:55:05]
+Nanti mau saya pelajari sih, cuman belum sampai.
+
+[00:55:05 → 00:55:09]
+Jadi pada untinya, bottleneck kita itu,
+
+[00:55:09 → 00:55:12]
+atau challenge kita itu,
+
+[00:55:12 → 00:55:14]
+ini kan sumber data infra tuh banyak,
+
+[00:55:14 → 00:55:16]
+pada soalan Ruby ini makin.
+
+[00:55:16 → 00:55:20]
+Mungkin ada juga dari Prometheus, gitu.
+
+[00:55:20 → 00:55:25]
+Mungkin ada juga, ya, ambil dari Zabix, misalnya.
+
+[00:55:25 → 00:55:31]
+Nah, kita tuh pinginnya, pinginnya itu kita,
+
+[00:55:31 → 00:55:34]
+disini tetap satu aja, gitu ya,
+
+[00:55:34 → 00:55:36]
+ini namanya misalnya tadi
+
+[00:55:36 → 00:55:40]
+Dena Application, ya, client, lah.
+
+[00:55:40 → 00:55:47]
+Disini tuh interface, si user-nya tuh satu aja ini,
+
+[00:55:47 → 00:55:49]
+tapi kita kayak bikin adapter, gitu loh, mas.
+
+[00:55:49 → 00:55:52]
+Kita bisa konekin dia ke SolarWind,
+
+[00:55:52 → 00:55:54]
+kita bisa konekin dia ke Prometheus.
+
+[00:55:54 → 00:55:59]
+Jadi, seiring dengan waktu, kita develop-nya develop adapter aja, gitu, mas.
+
+[00:55:59 → 00:56:04]
+Di bagian sini, dibikin generic, ini konsepnya kayak gitu.
+
+[00:56:04 → 00:56:09]
+Jadi kita generikan ke satu tipe data yang disepakati, ya,
+
+[00:56:09 → 00:56:10]
+model data yang disepakati,
+
+[00:56:10 → 00:56:13]
+nanti kita tinggal mapping-mapping aja.
+
+[00:56:13 → 00:56:16]
+Konsepnya pinginnya seperti itu. Sekarang, masih belum.
+
+[00:56:16 → 00:56:19]
+Sekarang itu ketika kita query,
+
+[00:56:19 → 00:56:21]
+mau lihat CPU Utilization,
+
+[00:56:21 → 00:56:23]
+yang disimpan disini tuh,
+
+[00:56:23 → 00:56:26]
+kalau dia dari SolarWind, ya, tabel SolarWind ada disini.
+
+[00:56:26 → 00:56:29]
+Harusnya kita bikin yang generic, gitu, supaya tinggal bikin adapter-nya aja.
+
+[00:56:29 → 00:56:35]
+Pertanyaanku, mas, apa justifikasi perusahaan
+
+[00:56:35 → 00:56:40]
+Paymore untuk suatu interface yang nge-satuin tiga itu, mas?
+
+[00:56:40 → 00:56:44]
+Oke, kalau saat ini,
+
+[00:56:44 → 00:56:49]
+bukan ke arah menyatukannya, mungkinnya yang saya pahami,
+
+[00:56:49 → 00:56:51]
+tapi ada kebutuhan untuk melakukan
+
+[00:56:51 → 00:56:56]
+analysis dan capacity planning yang belum ada disini, gitu, mas.
+
+[00:56:56 → 00:57:01]
+Oke, berarti itu ya si value propositionnya malah disitunya ya
+
+[00:57:01 → 00:57:07]
+untuk capacity planningnya ya setelah melihat
+
+[00:57:07 → 00:57:09]
+current situation seperti apa, gitu ya?
+
+[00:57:09 → 00:57:11]
+Dari tiga data source itu?
+
+[00:57:11 → 00:57:15]
+Iya, jadi biasanya perusahaan itu satu aja sih entah ini atau ini.
+
+[00:57:16 → 00:57:20]
+Entah ini, pokoknya salah satu aja biasanya perusahaan itu, mas.
+
+[00:57:20 → 00:57:24]
+Jadi tools kita tuh disini ya nggak usah ada perubahan lagi, gitu ya.
+
+[00:57:24 → 00:57:27]
+Kalau misalnya ada klien baru yang mau pakai,
+
+[00:57:27 → 00:57:29]
+ya tinggal kita bikin adapter-nya aja.
+
+[00:57:29 → 00:57:31]
+Oke.
+
+[00:57:31 → 00:57:33]
+Oke.
+
+[00:57:33 → 00:57:37]
+Pertanyaan lagi, mas, mas ada data nggak misalnya
+
+[00:57:37 → 00:57:40]
+economically,
+
+[00:57:41 → 00:57:44]
+apapun yang paling gagal tuh kerugian plus sana
+
+[00:57:44 → 00:57:46]
+ada cerita-cerita gitu nggak?
+
+[00:57:46 → 00:57:49]
+Mungkin menarik nih kalau kita tumpahkan ke slide-nya, gitu.
+
+[00:57:51 → 00:57:54]
+Aku terus terang nggak terlibat di project capelin-nya ini, mas.
+
+[00:57:54 → 00:58:00]
+Jadi, situnya belum terlalu mendalami sih sebetulnya, mas.
+
+[00:58:00 → 00:58:05]
+Tapi mungkin bisa diskusi sama tim konsultannya, mas Ofta.
+
+[00:58:05 → 00:58:07]
+Oke.
+
+[00:58:07 → 00:58:11]
+Mas Ofta yang biasanya dari konsultan-nya.
+
+[00:58:11 → 00:58:13]
+Siap.
+
+[00:58:14 → 00:58:17]
+Gitu sih, mas. Jadi yang tadi,
+
+[00:58:19 → 00:58:21]
+ini produknya udah ada,
+
+[00:58:21 → 00:58:25]
+juga saya sebetulnya PR saya itu adalah saya coba pahami dulu nih,
+
+[00:58:25 → 00:58:30]
+sebetulnya fitur ini tuh apa aja supaya saya bisa bikin satu interface yang jenere
+
+[00:58:30 → 00:58:34]
+supaya ke depannya pengembangannya adapter-based aja.
+
+[00:58:34 → 00:58:36]
+Oke.
+
+[00:58:36 → 00:58:38]
+Oh, seru-seru.
+
+[00:58:40 → 00:58:42]
+Apa lagi ya?
+
+[00:58:44 → 00:58:46]
+Berarti ini ya sementara, mas,
+
+[00:58:46 → 00:58:50]
+nanti pelajarin dulu, nanti aku mungkin colek lagi kalau butuh detail lebih lanjut ya.
+
+[00:58:50 → 00:58:53]
+Iya, mungkin gitu sih. Belum terlalu mendalam.
+
+[00:58:53 → 00:58:55]
+Oke, aman, mas. Kalau yang satu lagi juga sama?
+
+[00:58:55 → 00:59:00]
+Yang satu lagi lumayan lah. Saya bisa jelasin lagi, mas.
+
+[00:59:00 → 00:59:02]
+Sementara.
+
+[00:59:02 → 00:59:04]
+Itu tuh,
+
+[00:59:07 → 00:59:09]
+Oke, ntar.
+
+[00:59:09 → 00:59:12]
+Saya rupa dimana ya?
+
+[00:59:13 → 00:59:15]
+Hmm, oke.
+
+[00:59:22 → 00:59:24]
+Hmm, hmm, hmm, hmm.
+
+[00:59:36 → 00:59:40]
+Nah, untuk yang data platform ini,
+
+[00:59:40 → 00:59:45]
+kebetulan saya terlibat di projeknya langsung, mas, di Bang Raya.
+
+[00:59:45 → 00:59:53]
+Jadi bisa, apa namanya, bisa menjelaskan lah tujuannya dan challenge-nya seperti apa.
+
+[00:59:53 → 00:59:57]
+Jadi, project ini atau produk ini,
+
+[00:59:57 → 01:00:01]
+itu tuh menjawab tantangan di perusahaan,
+
+[01:00:01 → 01:00:09]
+data warehouse existing mereka itu bisa dibilang tidak ideal gitu, mas, kondisinya.
+
+[01:00:09 → 01:00:17]
+Jadi beberapa klien kita itu migrasi, bangun lagi data warehouse dengan arsitektur yang ideal.
+
+[01:00:17 → 01:00:19]
+Seperti itu.
+
+[01:00:19 → 01:00:22]
+Nah, contohnya di Bang Raya dia sama.
+
+[01:00:22 → 01:00:24]
+Sebelumnya kan dia berdasarkan data warehouse,
+
+[01:00:24 → 01:00:26]
+dia berdasarkan data warehouse,
+
+[01:00:26 → 01:00:28]
+seperti itu.
+
+[01:00:28 → 01:00:30]
+Nah, contohnya di Bang Raya dia sama.
+
+[01:00:30 → 01:00:32]
+Sebelumnya kan dia pakai SQL Server,
+
+[01:00:32 → 01:00:36]
+dia bangun ulang pakai arsitektur ini yang nanti kita jelaskan.
+
+[01:00:36 → 01:00:40]
+Di Becukai, Becukai lagi inisiasi RFI.
+
+[01:00:40 → 01:00:44]
+Dia juga sama data warehouse-nya, belum ideal.
+
+[01:00:44 → 01:00:49]
+Ada beberapa penpoin, mau dibangun sesuai dengan best practice gitu.
+
+[01:00:49 → 01:00:53]
+Dan di PNM,
+
+[01:00:53 → 01:00:56]
+PNM juga mereka lagi mau bangun ulang.
+
+[01:00:56 → 01:01:02]
+Mereka pendekatannya mau pakai klo deras, kita nggak sempat masukin ini kesana.
+
+[01:01:02 → 01:01:06]
+Tapi intinya itu kebutuhan atau pasarnya gitu, mas.
+
+[01:01:06 → 01:01:10]
+Nah, di sini apa aja sih yang kita bangun?
+
+[01:01:10 → 01:01:17]
+Yang pertama kita tuh mau membuat suatu data pipeline yang standar.
+
+[01:01:17 → 01:01:24]
+Data source masuk ke data warehouse,
+
+[01:01:24 → 01:01:29]
+data warehouse dibikin datamart, nanti datamart-nya dikonsumsi sama
+
+[01:01:29 → 01:01:33]
+entah itu superset, lokar, sama dashboard lah ya,
+
+[01:01:33 → 01:01:38]
+atau bahkan sama application, seperti itu.
+
+[01:01:38 → 01:01:44]
+Nah, kemudian setiap prosesnya ini harus menghasilkan
+
+[01:01:44 → 01:01:52]
+suatu metadata, metadata yang dimaksud itu seperti data lineage gitu.
+
+[01:01:52 → 01:01:57]
+Saya bisa tunjukin nggak ya sebentar?
+
+[01:02:05 → 01:02:08]
+Dari bentar ya, mas ya.
+
+[01:02:09 → 01:02:11]
+Oke.
+
+[01:02:11 → 01:02:16]
+Mas Amam, sampai jam berapa, mas Amam?
+
+[01:02:16 → 01:02:20]
+Saya sampai 10.30 paling, mas Miskat.
+
+[01:02:20 → 01:02:22]
+Sampai jumpa.
+
+[01:02:22 → 01:02:24]
+Maafin ya, ya.
+
+[01:02:24 → 01:02:26]
+Aman-aman.
+
+[01:02:41 → 01:02:43]
+Oke.
+
+[01:03:11 → 01:03:35]
+Mas Amam tuh seangkatan sama mas Ivo ya?
+
+[01:03:35 → 01:03:37]
+Mas Ivo lebih tua.
+
+[01:03:37 → 01:03:40]
+Oh, cutting.
+
+[01:03:40 → 01:03:42]
+Cutting masih, po?
+
+[01:03:47 → 01:03:55]
+Nah, masalahnya di perusahaan itu kadang kita nggak tahu tabel yang dibentuk itu
+
+[01:03:55 → 01:03:58]
+sumbernya dari mana, mas Amam.
+
+[01:03:58 → 01:04:05]
+Dengan seperti ini, dengan kita buat suatu data warehouse atau data pipeline yang standar,
+
+[01:04:05 → 01:04:12]
+yang sudah terintegrasi dengan metadata, nanti secara visual dia bisa tahu
+
+[01:04:12 → 01:04:18]
+kalau tabel ini, ini suatu tabel, itu sebetulnya pembentuknya dari mana gitu.
+
+[01:04:18 → 01:04:23]
+Ini diteres lagi ke belakang dari mana, itu bisa nanti bisa ketahuan.
+
+[01:04:23 → 01:04:29]
+Dan kalau misalnya ada perubahan di sumber, impactnya ke mana aja, ke depannya bisa diteres juga.
+
+[01:04:30 → 01:04:36]
+Jadi dari sisi pengelolaan data pipeline rapi, standar,
+
+[01:04:36 → 01:04:43]
+terus metadata-nya juga bisa kita manfaatkan, bisa kita generate seperti ini.
+
+[01:04:43 → 01:04:51]
+Itu sih kalau dari sisi apa namanya, napaatnya gitu ya.
+
+[01:04:51 → 01:04:52]
+Oke.
+
+[01:04:52 → 01:04:55]
+Di teknis lagi apa aja yang dibangun.
+
+[01:04:56 → 01:05:04]
+Nah, jadi kita memanfaatkan platform dari open source untuk membangun pipeline ini.
+
+[01:05:04 → 01:05:11]
+Kita install Apache Airflow, kita install Apache Airbyte, kita install misalnya
+
+[01:05:11 → 01:05:14]
+Data Hub dan lain-lain, kita rangkais demikian terupa.
+
+[01:05:14 → 01:05:19]
+Data yang mau dialirkannya agnostik tergantung industri masing-masing.
+
+[01:05:19 → 01:05:21]
+Itu sih intinya ya untuk yang ini.
+
+[01:05:23 → 01:05:25]
+Sebentar aku baca dulu, mas.
+
+[01:05:34 → 01:05:36]
+Ini tuh udah running di BRI, mas?
+
+[01:05:36 → 01:05:38]
+Di Bang Raya, mas.
+
+[01:05:38 → 01:05:40]
+Di Bang Raya, oke.
+
+[01:05:41 → 01:05:46]
+Sorry, kalau aku izin konfirmasi tadi ya, pembahaman aku bener apa enggak.
+
+[01:05:46 → 01:05:50]
+Apa enggak berarti kan kita tuh, karena data source tuh macem-macem ya untuk data.
+
+[01:05:50 → 01:05:53]
+Kita tuh intinya ngerapihin pool itu bukan sih?
+
+[01:05:54 → 01:05:59]
+Kita tuh merapikan yang ada di sisi data warehouse-nya.
+
+[01:05:59 → 01:06:00]
+Oke.
+
+[01:06:00 → 01:06:04]
+Jadi kan selama ini aplikasi itu datanya udah ditarik mas, ke data warehouse.
+
+[01:06:06 → 01:06:11]
+Tapi di sisi data warehouse-nya itu masih belum standar pengelolaannya.
+
+[01:06:12 → 01:06:16]
+Terus penarikan data itu kan butuh data pipeline.
+
+[01:06:17 → 01:06:25]
+Data pipeline-nya pun masih istilahnya enggak rapi gitu, masih susah di maintain.
+
+[01:06:26 → 01:06:31]
+Misalnya kita mau tahu tabel ini dibikin dari tabel mana aja, itu juga susah.
+
+[01:06:32 → 01:06:38]
+Kita tuh sering banget ketika memigrasikan, ini kan kita bangun ulang di BigQuery, mas.
+
+[01:06:38 → 01:06:41]
+Klien kita mau pakai click-house, enggak apa-apa bisa.
+
+[01:06:41 → 01:06:44]
+Mau pakai PostgreSQL bisa.
+
+[01:06:44 → 01:06:48]
+Kita tinggal ganti teknologi di sini aja enggak masalah.
+
+[01:06:48 → 01:06:51]
+Tapi pipeline-nya ini udah ready gitu.
+
+[01:06:52 → 01:06:53]
+Oke.
+
+[01:06:54 → 01:06:58]
+Terus data tuh banyak tulisannya ini, aku paling, itu biasa paling blank, mas.
+
+[01:07:00 → 01:07:02]
+Dibanding yang tadi kayaknya agak lebih lengkap.
+
+[01:07:04 → 01:07:05]
+Apa lagi pertanyaannya ya?
+
+[01:07:05 → 01:07:06]
+Apa lagi pertanyaannya ya?
+
+[01:07:07 → 01:07:13]
+Ini tuh kan ada bedanya sama data management apa, mas?
+
+[01:07:14 → 01:07:20]
+Data management itu yang tadi, mas, yang tadi saya lihat, kelihatan screenshot-nya itu data management.
+
+[01:07:22 → 01:07:25]
+Nah, begini tuh data management artinya apa?
+
+[01:07:25 → 01:07:30]
+Setelah datanya ditarik ke data warehouse, datanya diklasifikasikan, betul ya mas ya?
+
+[01:07:30 → 01:07:40]
+Data management itu misalnya data ini tuh sebetulnya masuk domain namanya domain saving misalnya.
+
+[01:07:40 → 01:07:46]
+Ini domain landing, owner-nya siapa, data steward-nya siapa.
+
+[01:07:46 → 01:07:49]
+Terus untuk setiap kolomnya diidentifikasi.
+
+[01:07:50 → 01:07:54]
+Kolomnya itu misalnya dia PII atau bukan gitu ya.
+
+[01:07:54 → 01:08:01]
+Itu semua, data management itu bisa enable kalau lebih optimal.
+
+[01:08:01 → 01:08:08]
+Kalau data warehouse-nya itu sudah rapi dan terintegrasi dengan tools ini, metadata management.
+
+[01:08:08 → 01:08:09]
+Oke.
+
+[01:08:10 → 01:08:14]
+Nah, pertanyaan gue maksudnya, ini akan emang ada irisan ya fitur itu?
+
+[01:08:14 → 01:08:16]
+Data management dengan data platform yang dibangun, mas?
+
+[01:08:18 → 01:08:19]
+Oke.
+
+[01:08:19 → 01:08:27]
+Kan ada kerja yang dikerjain mas Noval nih, data management dan betul ada terkait mapping terkolom, steward-nya siapa, ini siapa.
+
+[01:08:28 → 01:08:29]
+Oke.
+
+[01:08:29 → 01:08:31]
+Itu kan udah di lokal Noval tuh.
+
+[01:08:31 → 01:08:32]
+Betul.
+
+[01:08:33 → 01:08:37]
+Ada irisannya dia komponen mas, salah satu dari komponen.
+
+[01:08:37 → 01:08:38]
+Oke.
+
+[01:08:49 → 01:08:55]
+Jadi salah satu komponen yang kita deploy di sana adalah tools data management-nya.
+
+[01:08:56 → 01:09:01]
+Yang dia nanti bisa mengelola atau bisa menampilkan data lineage, data lineage itu yang tadi.
+
+[01:09:01 → 01:09:02]
+Oke.
+
+[01:09:02 → 01:09:06]
+Kalau mengen soal data, data profile, gitu ya.
+
+[01:09:06 → 01:09:09]
+Data engineering dan business glossary.
+
+[01:09:09 → 01:09:10]
+Oke.
+
+[01:09:10 → 01:09:16]
+Itu salah satu komponen yang kita deploy di pipeline ini, di pipeline ini.
+
+[01:09:16 → 01:09:19]
+Kita tuh pakai tools-nya yang tadi data hub.
+
+[01:09:19 → 01:09:20]
+Oke.
+
+[01:09:20 → 01:09:24]
+Tapi sebetulnya kan sharing vision punya juga AEDM yang dibangun mas Noval.
+
+[01:09:24 → 01:09:25]
+Oke.
+
+[01:09:25 → 01:09:31]
+Nah, untuk ke depannya kalau AEDM udah mature, mungkin kita komponen itunya mau pakai AEDM.
+
+[01:09:31 → 01:09:33]
+Oh.
+
+[01:09:33 → 01:09:34]
+Komponen itunya.
+
+[01:09:34 → 01:09:37]
+Tapi pipeline ini dan lain-lain tetap pakai yang di sini.
+
+[01:09:37 → 01:09:43]
+Iya, misalnya memang ini ya, akan saling melengkapi, akan memperbaiki,
+
+[01:09:43 → 01:09:47]
+ini ya, akan saling melengkapi ya mas ya.
+
+[01:09:47 → 01:09:48]
+Betul.
+
+[01:09:48 → 01:09:50]
+Oke, clear, clear, clear.
+
+[01:09:51 → 01:09:52]
+Oke.
+
+[01:09:53 → 01:10:01]
+Pertanyaan, ini kayaknya aku belum ada pertanyaan lebih lanjut karena context wise aku kayaknya perlu banyak baca mas Niskat, sorry.
+
+[01:10:01 → 01:10:03]
+Aman mas.
+
+[01:10:03 → 01:10:08]
+Jadi mungkin aku akan review recording-nya dulu, baru ada pertanyaan lebih lanjut, mohon izin aku coleg mas Niskat.
+
+[01:10:09 → 01:10:13]
+Pertanyaan terakhirnya, mas kata kalau tadi FBS kerja ini tak akan dikirim mas Niskat ya?
+
+[01:10:13 → 01:10:19]
+Kalau yang D.P. sama Kapasitas Tepul yang ini, ada ini gak?
+
+[01:10:19 → 01:10:20]
+Ada semuanya sekarang gak?
+
+[01:10:20 → 01:10:22]
+Kalau gak ada, apakah ada git yang bisa aku tarik sehingga aku serius-serius juga?
+
+[01:10:22 → 01:10:23]
+Gak apa-apa gitu.
+
+[01:10:24 → 01:10:28]
+Nah, yang ini tuh pengembangannya baru inisiasi banget mas.
+
+[01:10:28 → 01:10:29]
+Oh, jadi gue ngeliat.
+
+[01:10:29 → 01:10:42]
+Jadi kalau yang di Raya sih udah jadi, cuman kita di setbarnya SP itu, aku tadi bikin catatan singkat biar aku gak lupa juga sih udah sampai mana.
+
+[01:10:44 → 01:10:51]
+Nah, untuk yang data platform ini, kita tuh baru set up infrastrukturnya di sisi SP mas.
+
+[01:10:51 → 01:10:52]
+Oke.
+
+[01:10:52 → 01:10:53]
+Kubernetes-nya udah.
+
+[01:10:53 → 01:10:54]
+Oke.
+
+[01:10:54 → 01:11:00]
+Terus kita perlu install tools-tools yang tadi aku mention, misalnya ada Argo CD, ada Kubernetes.
+
+[01:11:00 → 01:11:03]
+Ini yang perlu kita install, Airflow, Airbyte.
+
+[01:11:04 → 01:11:08]
+Setelah semua tools yang terinstall, nanti kita set up data pipeline-nya.
+
+[01:11:08 → 01:11:09]
+Oke.
+
+[01:11:09 → 01:11:14]
+Nah, ini memang baru di awal banget, kita baru set up infrastrukturnya aja.
+
+[01:11:15 → 01:11:16]
+Oke.
+
+[01:11:17 → 01:11:22]
+Notate-notate, ya ini cukup teknis dan aku belum pernah.
+
+[01:11:22 → 01:11:25]
+Kan kalau FDS ada konteks visisnya aja deh, aku lebih paham.
+
+[01:11:25 → 01:11:28]
+Cuma kalau ini kayaknya aku agak, agak ini mas, agak ngehing.
+
+[01:11:29 → 01:11:35]
+Ya, mas, mungkin nanti kalau udah ada gambarannya, udah ada barangnya nanti nanti kita ngobrol lagi.
+
+[01:11:35 → 01:11:38]
+Aku juga mungkin review lagi recording-nya mas.
+
+[01:11:39 → 01:11:44]
+Kalau yang tadi sih bisa aku kasih aksesnya mas, yang capacity planning-nya.
+
+[01:11:44 → 01:11:47]
+Oke, biar aku sering cocin kali ya.
+
+[01:11:47 → 01:11:48]
+Oke deh.
+
+[01:11:50 → 01:11:51]
+Dari aku.
+
+[01:11:52 → 01:11:57]
+Sorry mas, aku kalau boleh tau, existing itu pengarjaan yang capacity planning sama data platform itu
+
+[01:11:57 → 01:12:00]
+kerjaannya berapa lama, pressing-nya seperti apa?
+
+[01:12:00 → 01:12:01]
+Tahu nggak mas?
+
+[01:12:02 → 01:12:11]
+Kalau yang existing, yang data platform ini kita bundling mas, di Raya itu kan kita project-nya tahunan ya.
+
+[01:12:11 → 01:12:15]
+Jadi bundling aja sih, ngetungnya main days gitu mas.
+
+[01:12:16 → 01:12:25]
+Jadi di Raya itu kita ada 16 talent di sana selama setahun, ya udah project-nya segitu gitu mas, ngetungnya.
+
+[01:12:25 → 01:12:30]
+Jadi nggak, si talent ini kan ngerjainnya macam-macam nih, salah satu pekerjaannya dia,
+
+[01:12:30 → 01:12:33]
+di Bang Raya itu ya bangun data platform ini gitu.
+
+[01:12:34 → 01:12:42]
+Nah, tapi kalau mau data platform ini kan sekarang kita lagi jualan ke biaya cukai juga mas.
+
+[01:12:42 → 01:12:53]
+Di biaya cukai itu, itu udah ada harganya di sana, mungkin bisa diturunin dari situ, cuma perlu saya lihat dulu sih.
+
+[01:12:54 → 01:13:00]
+Oke, soalnya kalau Raya mah agak ini ya, karena dijualnya main days, cuma ada scope data platform itu ya.
+
+[01:13:00 → 01:13:02]
+Jadi kita harus membuatin oke-notet.
+
+[01:13:03 → 01:13:10]
+Terus kalau yang kapasitas planning, mungkin mas Oktah deh yang tahu ini ya.
+
+[01:13:10 → 01:13:11]
+Oke, siap.
+
+[01:13:13 → 01:13:17]
+Thank you, berat mas Miskat, ini-nya induksinya.
+
+[01:13:18 → 01:13:19]
+Semoga berkah.
+
+[01:13:20 → 01:13:23]
+Ya, semoga-mudahan membantu juga mas.
+
+[01:13:23 → 01:13:32]
+Saya juga, apa namanya, berkewajiban untuk mengaselerasi.
+
+[01:13:33 → 01:13:37]
+Jadi jangan, mudah-mudahan nggak stak di saya gitu, kayak CFDS tadi gitu.
+
+[01:13:37 → 01:13:43]
+Kalau ada mas amam kan, berarti dari sisi finansial, dari sisi produknya juga, mungkin nanti ada insight gitu ya.
+
+[01:13:43 → 01:13:48]
+Ada peluang-peluang lain, supaya lebih berkah si produk-produknya.
+
+[01:13:48 → 01:13:50]
+Ya, Bismillah, mas.
+
+[01:13:50 → 01:13:52]
+Aku penasaran yang pricing sih.
+
+[01:13:53 → 01:13:56]
+Nanti CFDS aku coba align sama Sazi dulu ya, terutama CFDS.
+
+[01:13:56 → 01:14:01]
+Tadi kan udah paling ready tuh, dan memang sama temen tuh udah ada, oh ada CFDS,
+
+[01:14:01 → 01:14:04]
+ada beberapa yang kayaknya dia bisa kenalin ke klien gitu.
+
+[01:14:04 → 01:14:08]
+Jadi kalau ada pricing standar kayaknya menarik.
+
+[01:14:11 → 01:14:16]
+Terus oke, makasih banyak mas Miskat waktunya, maaf nih menggantung.
+
+[01:14:16 → 01:14:18]
+Siap, saming-sami.
+
+[01:14:18 → 01:14:20]
+Salamualaikum.
+
+[01:14:20 → 01:14:22]
+Wassalamualaikum.
+

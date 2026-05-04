@@ -1,0 +1,3075 @@
+[00:00:00 → 00:00:03]
+Ini udah ngomongin waktu, maaf meeting-nya jadi aku geser 1 jam.
+
+[00:00:03 → 00:00:06]
+Alhamdulillah pada biswa, jadi makasih banget.
+
+[00:00:06 → 00:00:14]
+Mungkin S tadi udah disampaikan, perkaitan agenda mau tanya-tanya sedikit terkait
+
+[00:00:14 → 00:00:22]
+SmartDoc sama AIDM ya. Kenapa SmartDoc dan kenapa AIDM?
+
+[00:00:22 → 00:00:26]
+Mungkin kasih konteks dulu. Kalau SmartDoc pribadi dulu, kan aku umarin sempat S2
+
+[00:00:26 → 00:00:32]
+dan terus beres S2 beberapa lama nggak ngapa-ngapain.
+
+[00:00:32 → 00:00:36]
+Jadinya aku sempat putar-putar ke kantor teman-teman ku.
+
+[00:00:36 → 00:00:41]
+Dan seolah punya produk terkait dokumen processing-nya.
+
+[00:00:41 → 00:00:48]
+Ternyata case-nya banyak perusahaan terutama kayak BUMN atau swasta besar
+
+[00:00:48 → 00:00:58]
+itu masih dokumen heavy ya mereka. Jadi kalau ada solusi terkait dokumen management
+
+[00:00:58 → 00:01:02]
+itu mereka tertarik sekali. Bukan dokumen management tapi kayak dokumen processing ya.
+
+[00:01:02 → 00:01:06]
+Mungkin nanti detail case-nya kalau bisa aku jelasin di belakang.
+
+[00:01:06 → 00:01:11]
+Yang kedua AIDM itu aku tertarik cuma kurang paham-paham amat setelah meeting kemarin
+
+[00:01:11 → 00:01:16]
+sama Bu Dewi di hari Jumat pagi. Jadi mungkin kalau terkait pencerahan
+
+[00:01:16 → 00:01:21]
+aku pasti lebih banyak tanya-tanya terkait AIDM dulu ya. Mungkin itu secara konteks ya.
+
+[00:01:21 → 00:01:28]
+Kalau boleh langsung sih, aku mau langsung minta diserahkan panggungnya
+
+[00:01:28 → 00:01:33]
+ke Mas Renner atau ke Mas Noval untuk mungkin startnya dari ngejelasin AIDM itu seperti apa,
+
+[00:01:33 → 00:01:38]
+solusinya kayak gimana, problem yang indisolve di customer seperti apa.
+
+[00:01:38 → 00:01:40]
+Mungkin itu dulu sih dari aku.
+
+[00:01:40 → 00:01:44]
+Oke, Mas. Aku share screen ke lagi, Mas.
+
+[00:01:46 → 00:01:59]
+Oke, udah kelihatan, Mas, sama...
+
+[00:01:59 → 00:02:01]
+Udah.
+
+[00:02:01 → 00:02:07]
+Oke, aku kasih link-nya, Mas, mungkin kalau mau explore sendiri. Apa udah punya, Mas?
+
+[00:02:07 → 00:02:08]
+Belum.
+
+[00:02:08 → 00:02:15]
+Oke, aku cek itu ya di chat ya, Mas. Admin ke...
+
+[00:02:15 → 00:02:18]
+Ini open-versal ya? Bisa dibuka langsung, mantap.
+
+[00:02:18 → 00:02:22]
+Ini di Kubernetes-nya SV gitu, Mas, di deploy-nya.
+
+[00:02:22 → 00:02:23]
+Oh, nice.
+
+[00:02:23 → 00:02:32]
+Oke, jadi AIDM itu adalah Enterprise Data Manager Platform gitu, Mas.
+
+[00:02:32 → 00:02:38]
+Untuk fiturnya, ini ada 4 yang diatasin. Ini ada data catalog, data profile,
+
+[00:02:38 → 00:02:44]
+quality, sama maturity untuk koneksinya dan semua konfigurasinya dilakukan
+
+[00:02:44 → 00:02:47]
+di comment center ini gitu. Tapi mungkin langsung.
+
+[00:02:47 → 00:02:56]
+Jadi, kliennya nanti koneksi ke data source-nya via halaman-halaman yang ada
+
+[00:02:56 → 00:03:00]
+di comment center ini dan mengaktifkan job-jobnya juga di comment center ini
+
+[00:03:00 → 00:03:06]
+gitu, Mas. Untuk fitur pertama, mungkin diinterusi aja, Mas, kalau ada yang mau ditanya.
+
+[00:03:06 → 00:03:09]
+Sorry, Mas, untuk job tuh apa? Maksudnya stream data atau...?
+
+[00:03:10 → 00:03:16]
+Oke, kalau data catalog, job-nya adalah scanner metadata gitu ya, Mas.
+
+[00:03:16 → 00:03:21]
+Jadi kalau di PLindo pakenya Impala, berarti Impala Scanner.
+
+[00:03:21 → 00:03:25]
+Terus L-tools-nya pakai Naify, berarti Naify Scanner gitu, Mas.
+
+[00:03:25 → 00:03:30]
+Kalau yang punya Renat, Renat ngerjain yang quality itu ada data quality job.
+
+[00:03:30 → 00:03:35]
+Kalau data quality job, pertama kita ambil sampling datanya, seribu raw gitu.
+
+[00:03:35 → 00:03:42]
+Kemudian menggunakan registri kualitas yang udah dikasih klien, kita coba cek.
+
+[00:03:42 → 00:03:49]
+Udah comply dengan ketentuan kualitas tersebut atau belum, gitu, Mas.
+
+[00:03:49 → 00:03:52]
+Oke, jadi tiap perusahaan ada ini ya, ada standar mereka, quality data itu
+
+[00:03:52 → 00:03:53]
+disebut-sebut seperti apa ya?
+
+[00:03:53 → 00:03:58]
+Betul, bahkan tiap atribut, ya Renat ya, tiap atribut tuh punya rule masing-masing
+
+[00:03:58 → 00:04:00]
+cara mecek kualitasnya gimana gitu, Mas.
+
+[00:04:01 → 00:04:08]
+Berarti part fitur satu untuk pertama konekin data sama quality health check ya.
+
+[00:04:08 → 00:04:09]
+Kualitasnya bagus apa enggak?
+
+[00:04:11 → 00:04:14]
+Oke, biasanya ini paralel sih, Mas.
+
+[00:04:14 → 00:04:18]
+Jadi katalog, profile, quality, sama maturity itu bisa jalan masing-masing
+
+[00:04:18 → 00:04:20]
+gak saling tergantung gitu.
+
+[00:04:20 → 00:04:25]
+Jadi kalau kayak PLindo misalnya mereka gak terlalu tertarik sama data profile,
+
+[00:04:25 → 00:04:29]
+jadi kita fokusnya dikatalog sama quality aja gitu,
+
+[00:04:29 → 00:04:33]
+nanti misalnya di Raya dia data katalog udah punya, pake data hub gitu,
+
+[00:04:33 → 00:04:37]
+mungkin perlunya data quality doang, ya berarti nanti kita komponen katalog
+
+[00:04:37 → 00:04:41]
+profile maturity-nya kita ilangin, jadi AEDM-nya cuma buat data quality doang.
+
+[00:04:43 → 00:04:47]
+Mantep, ini udah langsung produk ya, gak spesifik per klien ya?
+
+[00:04:49 → 00:04:53]
+Harusnya bisa, tinggal di adjust sama registrinya mereka aja gitu, Mas.
+
+[00:04:53 → 00:04:56]
+Mantep, oke, boleh lanjut Mas, tadi banyak dipotong.
+
+[00:04:57 → 00:05:01]
+Cukup, untuk data katalognya, error gak, Ray?
+
+[00:05:02 → 00:05:08]
+Oh enggak, oke, data katalog ini pake, ini NDA ya Mas, pake data PLindo,
+
+[00:05:10 → 00:05:16]
+terus ini kalau dari PLindo itu dia pengennya ada dua hierarki,
+
+[00:05:16 → 00:05:19]
+jadi ada hierarki governance sama hierarki technicals-nya,
+
+[00:05:19 → 00:05:25]
+kalau hierarki governance mereka nyebutnya ada data tuh ada domain, ada subdomain gitu,
+
+[00:05:26 → 00:05:30]
+mereka pengennya tabel-tabel tuh tersusun sama ini,
+
+[00:05:30 → 00:05:34]
+mereka sebenarnya udah punya atlas untuk data katalognya,
+
+[00:05:34 → 00:05:38]
+tapi mereka gak suka pake karena UI-nya jelek sama pohon domain-nya ini
+
+[00:05:38 → 00:05:45]
+gak bisa ditampilkan gitu di mereka, jadi AEDM ini selling point ke PLindo-nya
+
+[00:05:45 → 00:05:49]
+ada pohon domain ini, kan masing-masing domain mungkin owner-nya beda,
+
+[00:05:49 → 00:05:51]
+RBAC-nya beda gitu, Mas.
+
+[00:05:52 → 00:05:54]
+Domain itu ada di metadata ya Mas, ya?
+
+[00:05:56 → 00:06:01]
+Setiap tabel nanti di-mapping ke suatu subdomain dan domain gitu, Mas.
+
+[00:06:04 → 00:06:09]
+Nah hasil, ini semua konsolidasi dari hasil Impala Scanner,
+
+[00:06:09 → 00:06:15]
+Naive-5 Scanner dan governance registry tadi, kita coba buka salah satu gitu ya.
+
+[00:06:15 → 00:06:17]
+Sorry Mas, aku boleh motong lagi ya?
+
+[00:06:17 → 00:06:23]
+Govern-registry itu betul, kalau dia AI berarti dia konteks ya buat AI-nya ngebaca dan nge-mapping, betul gak?
+
+[00:06:23 → 00:06:27]
+Betul, tapi untuk AEDM ini PLindo pengennya di POC gak usah ada AI dulu,
+
+[00:06:27 → 00:06:33]
+jadi betul AI bisa bantu bikin registry tadi, cuma di sini gak jadi manual semua.
+
+[00:06:33 → 00:06:38]
+Jadi di sini ada mapping tiap AC itu domain-nya apa, subdomainnya apa gitu Mas,
+
+[00:06:38 → 00:06:40]
+beneran Excel gitu di-upload kesini.
+
+[00:06:41 → 00:06:46]
+Tapi kalau misalnya kita punya, kita udah pulling, misalnya kita implement si governance registry-nya,
+
+[00:06:46 → 00:06:49]
+AI bisa bantu mapping-in kan? Mimpinya itu kan ya?
+
+[00:06:50 → 00:06:56]
+Kalau mereka lebih prefer itu iya, tapi kalau AI-nya kayaknya mereka mau dikarahin ke glossary, Mas.
+
+[00:06:56 → 00:07:01]
+Kayaknya kalau domain mungkin mereka merasa mereka jauh lebih paham tabel ini,
+
+[00:07:01 → 00:07:03]
+domain-nya yang mana daripada gemini gitu.
+
+[00:07:03 → 00:07:08]
+Kalau gemininya mau dipercayainya mungkin buat glossary ini.
+
+[00:07:09 → 00:07:16]
+Jadi untuk kolom ini tuh, tiap kolom yang ada di tabel-tabel PLindo itu nanti dibuatkan data glossary-nya
+
+[00:07:16 → 00:07:18]
+sama definition-nya gitu.
+
+[00:07:18 → 00:07:21]
+Untuk domain dia bebas, kalau mereka mau dibantu AI juga bisa,
+
+[00:07:21 → 00:07:24]
+tapi kalau mereka mau mapping sendiri juga bisa gitu.
+
+[00:07:25 → 00:07:28]
+Oke, sorry. Sebelum lanjut dulu Mas,
+
+[00:07:28 → 00:07:31]
+seperti si governance either pakai AI atau enggak, tapi dia jadi ini kan,
+
+[00:07:31 → 00:07:35]
+semacam guidance kan untuk implement ke bawahnya, betul gak sih?
+
+[00:07:36 → 00:07:41]
+Gak harus Mas, kita bikin AI itu benar-benar scope-nya kita perjelas
+
+[00:07:41 → 00:07:47]
+dan bisa diaktifkan dan nonaktifkan, kan gak semua enterprise pengen datanya dilihat AI,
+
+[00:07:47 → 00:07:52]
+jadi AI-nya benar-benar bisa dinonaktifkan semua, AIDM-nya tetap bisa jalan gitu Mas.
+
+[00:07:52 → 00:07:55]
+Sorry, bukan pertanyaanku, kan kita punya governance registry ini Mas,
+
+[00:07:55 → 00:08:01]
+governance registry itu buat ini kan, buat kita cuma nge-save oh governance-nya ini,
+
+[00:08:01 → 00:08:04]
+maka kalau audit nanti nge-check-nya based on itu kan, betul gak?
+
+[00:08:06 → 00:08:08]
+Kemahaman gue governance registry betul gak Mas?
+
+[00:08:09 → 00:08:15]
+Gak tahu, coba kalau di sini governance registry itu isinya governance tag untuk tiap table,
+
+[00:08:15 → 00:08:19]
+jadi tiap asset ini domennya siapa, subdomennya apa,
+
+[00:08:19 → 00:08:25]
+owner-nya siapa, steward-nya siapa, kemudian aplikasi yang pakai tabel itu apa gitu.
+
+[00:08:25 → 00:08:31]
+Nanti kalau audit-nya berdasarkan governance metadata tersebut ya betul,
+
+[00:08:31 → 00:08:33]
+berarti bisa pakai registry ini.
+
+[00:08:33 → 00:08:38]
+Jadi governance itu kayak template-nya, cuma mapping-nya bisa pakai AI atau bisa manual ya.
+
+[00:08:41 → 00:08:47]
+Dan ini tiap enterprise mungkin beda-beda ya, mungkin kalau Pellindo ada yang concern
+
+[00:08:47 → 00:08:53]
+tokoh utamanya di governance registry ini ada domain, subdomen, owner, steward,
+
+[00:08:53 → 00:08:59]
+sama aplikasi pemakai siapa aja gitu misalnya, jadi mungkin kalau di klien lain mungkin beda
+
+[00:08:59 → 00:09:01]
+karena apa, tag utamanya.
+
+[00:09:03 → 00:09:08]
+Nanti kalau AI diaktifkan berarti ini konsolidasi dari Impala Scanner,
+
+[00:09:08 → 00:09:08]
+Nav
+
+[00:09:08 → 00:09:11]
+I scanner, governance registry, sama AI gitu.
+
+[00:09:12 → 00:09:14]
+Kita coba lihat salah satu.
+
+[00:09:18 → 00:09:22]
+Ini misalnya Mas, jadi ini tanpa kita,
+
+[00:09:23 → 00:09:28]
+gak usah ngomong gitu deh, oke ini hasil Impala Scanner-nya untuk tabel Ina PPKS,
+
+[00:09:28 → 00:09:35]
+jadi tabel Ina PPKS itu di Pellindo tuh dipake tiap adanya kedatengan kapal di port gitu.
+
+[00:09:35 → 00:09:42]
+Nanti ada, mungkin dari awal ya tabel ini kolomnya ada 25, ini kolom-kolomnya gitu,
+
+[00:09:42 → 00:09:48]
+data glossary-nya masih kosong karena AI-nya gak dijalankan dan belum ada tagging-nya dari governance-nya.
+
+[00:09:49 → 00:09:57]
+Itu terus kalau mau tahu perjalanan teknisnya, jadi ini tiap ada tabel itu nanti ada,
+
+[00:09:59 → 00:10:04]
+tiap ada kapal datang nanti tabel source ini tuh nambah satu row,
+
+[00:10:04 → 00:10:09]
+terus kalau nambah satu row itu nanti dikirim suatu Kafka message gitu.
+
+[00:10:09 → 00:10:12]
+Nah Kafka message-nya ini kemudian diproses di Naivy,
+
+[00:10:13 → 00:10:21]
+di cleaning, transformasi seterusnya, sampai ujungnya tersimpan di tabel di cloud era ini.
+
+[00:10:24 → 00:10:31]
+Mas, saya mau tanya, aku agak playing terkait data glossary-glossary itu lebih kayak kamus datanya kan ya?
+
+[00:10:31 → 00:10:32]
+Betul.
+
+[00:10:32 → 00:10:35]
+Jadi misalnya ini 0.
+
+[00:10:38 → 00:10:44]
+Betul, biasanya data glossary itu setiap nama kolom ini dimapingkan ke kamus,
+
+[00:10:44 → 00:10:51]
+ke suatu business term yang udah disepakati seluruh pelindo gitu, misalnya derma gakot,
+
+[00:10:51 → 00:10:57]
+kalau di bisnisnya itu istilahnya kode dermaga gitu, jadi nanti kita harus secara eksplisit
+
+[00:10:57 → 00:11:04]
+kalau kolom derma gakot ini tuh mapping-nya ke glossary kode dermaga yang definisinya adalah ini
+
+[00:11:04 → 00:11:09]
+dan data value yang validnya tuh harus ini gitu misalnya.
+
+[00:11:09 → 00:11:15]
+Berarti untuk bantu nanti internal parties yang mau pakai datanya kan?
+
+[00:11:15 → 00:11:16]
+Betul.
+
+[00:11:16 → 00:11:18]
+Oh, siap, siap.
+
+[00:11:18 → 00:11:23]
+Transparansi buat baik onernya maupun si enginernya kalau mau bikin model
+
+[00:11:23 → 00:11:26]
+juga jadi tahu kolom ini sebenarnya isinya apa?
+
+[00:11:26 → 00:11:27]
+Notate, notate.
+
+[00:11:27 → 00:11:28]
+Oh, oke bagus ya.
+
+[00:11:29 → 00:11:34]
+Ini teknikal sih mas, kalau biar tahu data engineer di sana ya biar tahu
+
+[00:11:34 → 00:11:38]
+soalnya di pelindo ada yang kudu, ada yang parket, jadi ketahuan,
+
+[00:11:38 → 00:11:43]
+terus lokasinya exactly di mesin yang mana, ketahuan di sini, IP-nya,
+
+[00:11:43 → 00:11:46]
+terus partisinya gimana gitu. Ini masih kosong.
+
+[00:11:46 → 00:11:48]
+Kudu parket apa ya mas, sorry?
+
+[00:11:48 → 00:11:52]
+Kudu parket tuh data format mas, data structure format,
+
+[00:11:52 → 00:11:58]
+jadi tiap tabel ini kan disimpen di clouderanya, di HDFS,
+
+[00:11:58 → 00:12:02]
+aku nggak tahu clouderanya pakai apa, mungkin di HDFS-nya tuh kan dalam suatu file gitu,
+
+[00:12:02 → 00:12:06]
+file-nya bisa .kudu, aku nggak tahu sih extension-nya apa,
+
+[00:12:06 → 00:12:11]
+tapi bisa .kudu, bisa .parket, kayak kita xlsx sama CSV gitu,
+
+[00:12:11 → 00:12:14]
+kalau di big data kudu parket gitu.
+
+[00:12:14 → 00:12:16]
+Oh, notate, notate, oke, oke.
+
+[00:12:17 → 00:12:22]
+Dan mungkin handling-nya beda gitu, kalau kudu dia, engineer-nya gimana,
+
+[00:12:22 → 00:12:26]
+kalau parket gimana, jadi ini metadata yang penting untuk ditampilkan juga.
+
+[00:12:26 → 00:12:32]
+Terus ini APK sama partisinya di kolomana ketahuan juga mas, dari impala skenario.
+
+[00:12:32 → 00:12:33]
+Oke.
+
+[00:12:33 → 00:12:39]
+Paling ini masih, apa ya, yang masih isunya masih technical heavy gitu,
+
+[00:12:39 → 00:12:42]
+padahal audiens-nya mau ada bisnis juga,
+
+[00:12:42 → 00:12:45]
+mungkin somehow harus di adjust ke arah,
+
+[00:12:45 → 00:12:50]
+karena kita diskusinya sama orang data terus, jadi ini data engineer oriented banget gitu,
+
+[00:12:50 → 00:12:54]
+mungkin nanti mau dibawa ke arah lebih bisnis friendly gitu.
+
+[00:12:54 → 00:12:56]
+Iya, iya, iya, nanti.
+
+[00:12:57 → 00:13:00]
+Terus, ada apa lagi Rey? Udah Rey?
+
+[00:13:01 → 00:13:07]
+Kayaknya udah, kalau itu, kalau yang quality kayaknya Renat aja yang kelasin.
+
+[00:13:07 → 00:13:12]
+Oke, itu data catalog mas, sama ada yang mau di diskusikan dulu?
+
+[00:13:12 → 00:13:16]
+So far sih fitur wise cukup dipahami sih mas, normal.
+
+[00:13:16 → 00:13:21]
+Nanti di explore aja mas, pakai apa, web apa, link tadi mas.
+
+[00:13:21 → 00:13:26]
+Btw, aku misalnya mau bikin PPP, ini belum ada kan ya, di perdakat alokan ya,
+
+[00:13:26 → 00:13:29]
+untuk punya SV nih, boleh aku screenshot gak sih?
+
+[00:13:29 → 00:13:32]
+Tapi kan datanya data ini ya, datanya...
+
+[00:13:32 → 00:13:34]
+Iya, gak boleh mas, jangan sih mas.
+
+[00:13:34 → 00:13:38]
+Aku, kalau mau, gimana Rey?
+
+[00:13:39 → 00:13:44]
+Pakai data dummy ya, harus diganti dulu sih mas nanti.
+
+[00:13:44 → 00:13:46]
+Oh, baiklah, oke.
+
+[00:13:46 → 00:13:49]
+Tapi kalau itu jadi, dicata dulu aja Rey,
+
+[00:13:49 → 00:13:56]
+mau dibikin ini peer data dummy biar bisa di sell ke tempat lain gitu ya mas.
+
+[00:13:56 → 00:13:58]
+Betul.
+
+[00:13:58 → 00:14:00]
+Di notulen ya Rey.
+
+[00:14:01 → 00:14:05]
+Aku bisa sih notulen, aku kirim ke grup juga.
+
+[00:14:05 → 00:14:08]
+Oke.
+
+[00:14:08 → 00:14:12]
+Itu data catalog gitu mas, lanjut quality mungkin.
+
+[00:14:12 → 00:14:14]
+Renat, Monggo, gimana Renat?
+
+[00:14:14 → 00:14:18]
+Sorry, sebelum ke mas Renat, aku ingin mensummarikan fitur data catalog dulu,
+
+[00:14:18 → 00:14:21]
+sebagai pemahaman aku kalau salah tolong dibentukin ya.
+
+[00:14:21 → 00:14:27]
+Jadi data catalog itu intinya ngebantu existing sekarang data yang ada di company itu apa,
+
+[00:14:27 → 00:14:31]
+dan dirapihin, formatnya dikasih tau, dan ujungnya bisa ada glossary-nya ya.
+
+[00:14:31 → 00:14:34]
+Gimana cara pakai datanya per ini nya,
+
+[00:14:34 → 00:14:40]
+sehingga memudahkan ya untuk external parties atau potential user di internal company,
+
+[00:14:40 → 00:14:44]
+data ini cara manggilnya gimana, datanya buat apa, business value nya apa, betul gak?
+
+[00:14:44 → 00:14:47]
+Betul, sama satu lagi, eksplorasi mas.
+
+[00:14:47 → 00:14:52]
+Jadi kalau engineer kan tabelnya udah 7000 nih di PLindo,
+
+[00:14:52 → 00:14:55]
+engineernya lupa tabelnya ada dimana, itu harusnya itu.
+
+[00:14:55 → 00:14:58]
+Fitur utama data catalog memudahkan pencarian.
+
+[00:14:58 → 00:15:02]
+Kalau tanpa AI, berarti pencarianya string-based gitu mas,
+
+[00:15:02 → 00:15:07]
+jadi cuman milip elastic search gitu. Ini rusak Renat, wewe.
+
+[00:15:07 → 00:15:15]
+Kalau AI nya nyala bisa dibuosting by, bisa pakai konteks RAG gitu.
+
+[00:15:15 → 00:15:16]
+Oke, notir.
+
+[00:15:16 → 00:15:22]
+Mungkin itu mas fitur utamanya, jadi kalau yang tadi setelah tabelnya ketemu,
+
+[00:15:22 → 00:15:25]
+terus mau tau metadata nya itu fitur kedua,
+
+[00:15:25 → 00:15:30]
+tapi fitur pertama biasanya data exploration ya, kalau data catalog tuh.
+
+[00:15:30 → 00:15:32]
+Nice, mas oke.
+
+[00:15:34 → 00:15:36]
+Mungkin mau nambahin juga,
+
+[00:15:36 → 00:15:40]
+kalau sebenarnya di data catalog itu kita ada AI assistant juga,
+
+[00:15:40 → 00:15:44]
+tapi kebetulan karena di PLindo itu gak mau pakai AI,
+
+[00:15:44 → 00:15:47]
+jadi kita gak nyalain begitu sih.
+
+[00:15:47 → 00:15:52]
+Boleh di laburate gak AI assistant nya untuk API?
+
+[00:15:52 → 00:16:01]
+Ini AI assistant nya jadi lebih, kita bisa chat sama AI nya
+
+[00:16:01 → 00:16:03]
+terkait data-data yang ada di data catalog,
+
+[00:16:03 → 00:16:09]
+jadi kita bisa kayak ngobrol dengan konteks data-data kita gitu.
+
+[00:16:09 → 00:16:13]
+Jadi kita bisa tau tentang kita. Kenapa?
+
+[00:16:13 → 00:16:15]
+Ini masih pakai Gemini, sorry tadi.
+
+[00:16:15 → 00:16:17]
+Biasa pakai Gemini mas.
+
+[00:16:17 → 00:16:25]
+Ya, jadi lebih ke kita bisa nanya-nanya terkait data-data kita gitu sih.
+
+[00:16:25 → 00:16:28]
+Bisa query recommendation juga ya.
+
+[00:16:30 → 00:16:34]
+Ininya udah include biaya, sorry kita ngomongin bisnis sedikit,
+
+[00:16:34 → 00:16:37]
+atau ntar di belakang, aku not dulu.
+
+[00:16:37 → 00:16:42]
+Kalau biaya harus ada promonitorin, harus ada lengthfuse nya gitu,
+
+[00:16:42 → 00:16:46]
+kalau mau di monitor token usage nya, cost usage nya gitu.
+
+[00:16:46 → 00:16:49]
+Sekarang udah implementasi itu belum?
+
+[00:16:49 → 00:16:54]
+Di SVC ada, di PLindo juga ada, jadi aman.
+
+[00:16:54 → 00:16:59]
+Tapi ya itu berarti kita kalau mau deploy ke enterprise berarti ya harus.
+
+[00:16:59 → 00:17:06]
+Soalnya enterprise itu agak keberatan kalau kita deploy kebanyakan hal gitu.
+
+[00:17:06 → 00:17:10]
+Kalau IDM doang kan kita cuma deploy front-end, back-end sama worker gitu,
+
+[00:17:10 → 00:17:12]
+cuma 3 komponen plus database gitu.
+
+[00:17:12 → 00:17:17]
+Kalau ada lengthfuse juga, itu lengthfuse di dalamnya itu ada elastic search nya,
+
+[00:17:17 → 00:17:21]
+ada post-grain nya, ada minion nya, dan lain-lain gitu tuh biasanya
+
+[00:17:21 → 00:17:27]
+iya nanti meeting nya harus sama orang banyak gitu, nanti jadi bottleneck gitu.
+
+[00:17:27 → 00:17:35]
+Bagusnya sih lang pakai promanager yang udah existing di enterprise nya.
+
+[00:17:35 → 00:17:38]
+Tapi ya Mas, balik lagi, kalau mau di monitor token nya,
+
+[00:17:38 → 00:17:44]
+usagenya itu biasanya pakai promanagement system kayak lengthfuse gitu.
+
+[00:17:44 → 00:17:47]
+Oke, not yet.
+
+[00:17:47 → 00:17:49]
+Lengthfuse nya mau lihat juga gitu Mas.
+
+[00:17:49 → 00:17:53]
+Lengthfuse, kok mati Rey?
+
+[00:17:53 → 00:17:57]
+Lengthfuse, SVI, ko ID.
+
+[00:17:57 → 00:17:59]
+Gimana ya Rey?
+
+[00:17:59 → 00:18:02]
+Gak jadi Mas. Oh, salah IOPS.
+
+[00:18:05 → 00:18:09]
+Kita juga punya IOPS Mas, kalau mau di itu juga.
+
+[00:18:09 → 00:18:12]
+Udah di itu buut kami juga Mas IOPS.
+
+[00:18:12 → 00:18:16]
+Belum detail, cuma nanti boleh aku tambahin sesi gak apa ya,
+
+[00:18:16 → 00:18:19]
+dipanjangin aja meeting sekarang buat ngomongin IOPS.
+
+[00:18:19 → 00:18:26]
+Ini apa, produknya SP juga buat monitoring lifecycle nya model machine learning
+
+[00:18:26 → 00:18:31]
+sama AI model gitu agar govern gitu kan sekarang.
+
+[00:18:31 → 00:18:36]
+Kayak di Pellindo itu smartdocs itu kan governnya ya internal smartdocs aja gitu,
+
+[00:18:36 → 00:18:42]
+gak ada centralized governance system untuk memonitor semua AI model yang dideploy.
+
+[00:18:42 → 00:18:45]
+Dan ini harapannya dengan ini bisa centralized gitu.
+
+[00:18:45 → 00:18:49]
+Dan framework nya pakai ISO, tapi ini nanti.
+
+[00:18:49 → 00:18:54]
+Oke, balik ke lengthfuse nya, tampilannya kayak gini Mas nanti bisa ketauan
+
+[00:18:54 → 00:19:01]
+ketauan tiap kita melakukan API call ke LLM itu cost nya ke track,
+
+[00:19:01 → 00:19:04]
+token nya ke track, respons nya ke track gitu Mas.
+
+[00:19:04 → 00:19:08]
+Oke, itu lengthfuse nya kalau di OJK memang dikasih ke OJK nya ya?
+
+[00:19:11 → 00:19:16]
+Ini semua punya SV semua Mas, kita belum ngasih OJK apa-apa.
+
+[00:19:16 → 00:19:18]
+Ini buat POC aja.
+
+[00:19:18 → 00:19:19]
+Siap, siap.
+
+[00:19:21 → 00:19:26]
+Kalau ya kecuali mereka mau ya lengthfuse nya di SV mau gak kayaknya gak mau.
+
+[00:19:26 → 00:19:30]
+Gak tau sih, kayak gitu biasanya mereka sensitif data disimpan dimana gitu.
+
+[00:19:30 → 00:19:33]
+Kalau Pellindo udah punya lengthfuse.
+
+[00:19:34 → 00:19:38]
+Sorry aku kalau ngobrol loncat-loncat Mas gimana colong diarahin gimana,
+
+[00:19:38 → 00:19:40]
+lagi ngomongin apa kita Mas?
+
+[00:19:40 → 00:19:44]
+Gak apa, gak apa. Aku mau tanya sorry, ini juga loncat-loncat, aku juga sama sih Mas loncat-loncat.
+
+[00:19:44 → 00:19:49]
+Kalau tadi model buat monitoring berarti kita skema nya semasa sekarang BYOK ya,
+
+[00:19:49 → 00:19:51]
+key nya sendiri ya.
+
+[00:19:53 → 00:19:55]
+Build your own apa, K nya Mas?
+
+[00:19:55 → 00:19:56]
+Build your own key.
+
+[00:19:58 → 00:20:03]
+Jadi kalau misalnya tadi AI nya udah nyalain nih buat chatting tadi yang Mas Reynard highlight tuh
+
+[00:20:03 → 00:20:08]
+buat katalog pengen chatting sama AI kan, monitoring nya bisa di sendiri itu, bisa di enterprise sendiri.
+
+[00:20:08 → 00:20:18]
+Berarti skema nya begitu dinyalain fitur chat AI nya, key nya pake key nya mereka ya, udah gak lewat kita kan?
+
+[00:20:18 → 00:20:25]
+Bebas sebenernya Mas, tapi biasanya pengalaman kita mereka lebih suka pake key nya mereka sendiri gitu.
+
+[00:20:25 → 00:20:33]
+Oke, noted, oke, oke, sip-sip.
+
+[00:20:34 → 00:20:40]
+Lanjut quality Mas Reynard, di office ini ada tepunya omong gak Re?
+
+[00:20:42 → 00:20:46]
+Harusnya bisa sih Mas di sini, ganti di...
+
+[00:20:46 → 00:20:47]
+Gimana nih Re?
+
+[00:20:48 → 00:20:55]
+Jadi di data quality ini, ini lebih ke evaluasi kualitas data yang ada.
+
+[00:21:00 → 00:21:06]
+Untuk scope nya sendiri itu dia di evaluasinya pas skema jadinya, pas satu skema data.
+
+[00:21:06 → 00:21:08]
+Sorry Re, aku potong.
+
+[00:21:08 → 00:21:14]
+Sorry Re, biar Reynard share sendiri aja kali ya biar leluasa explore.
+
+[00:21:47 → 00:21:49]
+Oke.
+
+[00:21:58 → 00:22:05]
+Oke, jadi buat data quality itu tadi, dia itu, scope nya itu pas skema.
+
+[00:22:05 → 00:22:11]
+Jadi dia itu bakal di evaluasi pas skema, itu yang satu.
+
+[00:22:11 → 00:22:14]
+Jadi disini itu dia ada beberapa metric.
+
+[00:22:14 → 00:22:22]
+Jadi bisa dilihat ini ada 22 metric, ada kayak completeness, konsistensi, resenability dan lain-lain.
+
+[00:22:22 → 00:22:26]
+Nah, metric-metric ini itu diambil dari DMBOK.
+
+[00:22:26 → 00:22:39]
+Jadi kita ambil dari DMBOK, abis itu juga kita yang dari tim SV yang define juga logika nya dan scoring nya juga, logic dan scoring, cara FL nya gimana.
+
+[00:22:39 → 00:22:45]
+Nah, tapi kalau misalkan untuk yang di Perlindo, jadi sebenarnya itu pertama EIDM hanya ada 20 metric.
+
+[00:22:45 → 00:22:49]
+Tapi karena di Perlindo itu juga ada beberapa metric yang mereka udah pakai,
+
+[00:22:49 → 00:22:55]
+jadi kita ada tambahin dan kita ada adjust beberapa metric di EIDM untuk ke Perlindo gitu sih.
+
+[00:22:55 → 00:23:02]
+Jadi balik lagi sebenarnya kalau dari EIDM ini udah menyediakan 20 metric yang diambil dari DMBOK.
+
+[00:23:02 → 00:23:11]
+Tapi kalau misalkan emang dari client nanti atau dari enterprise nanti ada perbedaan definisi misalnya,
+
+[00:23:11 → 00:23:18]
+misalkan completeness harusnya gimana kalau di mereka atau mereka ada tambahan-tambahan metric, misalkan tadi resenability gitu,
+
+[00:23:18 → 00:23:22]
+itu bisa di akumodir juga sih, tinggal dikustom aja kayak gitu.
+
+[00:23:22 → 00:23:27]
+Nah, disini juga ada primary sama supplementary metric.
+
+[00:23:27 → 00:23:37]
+Jadi ada beberapa primary metric yang, balik lagi kalau misalkan di EIDM pertamanya itu harusnya ada 6,
+
+[00:23:37 → 00:23:41]
+tapi di Perlindo itu ada 10, jadi kita sesuaikan juga seperti itu sih.
+
+[00:23:41 → 00:23:48]
+Nah, disini juga ada per skema nya nanti bisa kita cek, disini ada quality transkore nya juga,
+
+[00:23:48 → 00:23:51]
+ada juga quality issue nya ada apa aja.
+
+[00:23:51 → 00:23:56]
+Nah, ini misalkan kita coba cek detail per skema nya.
+
+[00:23:57 → 00:24:04]
+Nah, di per skema juga mirip sebenarnya ada primary, ada supplementary juga untuk skema itu,
+
+[00:24:04 → 00:24:07]
+habis itu kita bisa cek per table.
+
+[00:24:07 → 00:24:16]
+Jadi untuk evaluasi skor nya itu kebanyakan ada di level column, column ataupun table.
+
+[00:24:16 → 00:24:25]
+Tapi nanti misalkan di per skema kan ada skor juga atau di dashboard tadi ada skor juga itu hasil aggregate dari per column dan per table nya tadi, seperti itu.
+
+[00:24:25 → 00:24:33]
+Misalkan di full name ada masing-masing metriknya, misalkan di akurasi ini kita kasih tahu skor calculation nya gimana,
+
+[00:24:33 → 00:24:39]
+habis itu skor detail nya gimana dan juga fail nya itu di raw mana aja, misalkan ada yang fail.
+
+[00:24:39 → 00:24:45]
+Ini ada ID nya, ada value nya, ada reason nya kenapa, habis itu ada recommendation nya.
+
+[00:24:45 → 00:24:52]
+Nah, untuk meta-fimetric ini, beberapa itu ada yang menggunakan AI, jadi ada beberapa yang,
+
+[00:24:52 → 00:24:56]
+nanti kita kejauhkan saja.
+
+[00:24:56 → 00:25:00]
+Ya, disini seperti itu jadi kita bisa lihat.
+
+[00:25:00 → 00:25:06]
+Oh, sorry, sorry, aku penasaran, Ray, fail draw nya aku lihat.
+
+[00:25:06 → 00:25:10]
+Oke, siap, lanjut Mas Amom.
+
+[00:25:11 → 00:25:13]
+Lanjut, Ray.
+
+[00:25:13 → 00:25:22]
+Oh, ya, seperti itu. Jadi untuk di data quality kita bisa cek sampai per metric, per column nya seperti itu.
+
+[00:25:22 → 00:25:27]
+Nah, untuk metrik-metriknya sendiri itu ada beberapa macam.
+
+[00:25:27 → 00:25:31]
+Coba kita kejauhkan ini cek sebentar.
+
+[00:25:43 → 00:25:58]
+Nah, jadi ada beberapa metric yang tidak butuh konfigurasi apapun.
+
+[00:25:58 → 00:26:05]
+Jadi benar-benar pokoknya kita add data source nya tadi per schema nya di comment center,
+
+[00:26:05 → 00:26:11]
+habis itu kita langsung lakuin table scan langsung ke data quality evaluation job ini,
+
+[00:26:11 → 00:26:15]
+kita langsung pilih aja udah, misalnya completeness, integrity, redundancy, dan lain-lain.
+
+[00:26:15 → 00:26:18]
+Itu bisa langsung di evaluation.
+
+[00:26:18 → 00:26:23]
+Nah, tapi ada juga beberapa yang butuh konfigurasi secara manual gitu.
+
+[00:26:23 → 00:26:28]
+Jadi misalkan reliability dan lain-lain, oh ini karena tadi saya pilih banyak table nya.
+
+[00:26:28 → 00:26:38]
+Ya, intinya ada beberapa metric yang butuh konfigurasi dari si pengguna aplikasinya.
+
+[00:26:38 → 00:26:42]
+Nah, ada juga beberapa metric yang butuh AI.
+
+[00:26:42 → 00:26:47]
+Jadi ada yang butuh AI optional, ada juga yang benar-benar butuh AI.
+
+[00:26:47 → 00:26:58]
+Jadi kalau misalkan dia nggak mau pakai AI, ya berarti nggak akan bisa dipilih metricnya kayak gitu sih untuk sekarang.
+
+[00:26:58 → 00:27:02]
+Oke, si data quality ini kan tadi ada action point ya.
+
+[00:27:02 → 00:27:09]
+Misalnya perlu apa, itu tuh begitu ditindak lanjuti, dia auto scoring lagi?
+
+[00:27:09 → 00:27:17]
+Nah, kalau untuk sekarang, misalkan sudah ditindak lanjuti, itu harus dijalaniin lagi jobnya sih, Mas.
+
+[00:27:17 → 00:27:20]
+Oh, di sini, di dashboard ini kan?
+
+[00:27:20 → 00:27:26]
+Nggak, dijalaniin di job manager tadi lagi, jadi kayak dijalaniin jobnya lagi.
+
+[00:27:26 → 00:27:29]
+Kalau sekarang kayak gitu.
+
+[00:27:29 → 00:27:35]
+Oke, notate, notate. Sip, menarik, menarik.
+
+[00:27:35 → 00:27:39]
+Mungkin untuk quality kayak gitu, habis itu juga ada profile.
+
+[00:27:39 → 00:27:45]
+Profile itu sebenarnya lebih ke statistik gitu sih, Mas.
+
+[00:27:45 → 00:27:56]
+Jadi untuk per kolomnya misalkan ini ada, misalkan ini ada kolom age,
+
+[00:27:56 → 00:28:02]
+jadi kita bisa tahu statistik dari kolom-kolom tersebut seperti itu.
+
+[00:28:02 → 00:28:08]
+Dan misalkan kalau ini untuk yang integer, ada count distinct, value distribution, dan lain-lain.
+
+[00:28:08 → 00:28:17]
+Kalau yang string ini bakal lebih beda, dia ada top values-nya, ada string line distribution, ada modus-nya, gitu-gitu.
+
+[00:28:17 → 00:28:24]
+Oh, kalau kalau Pak Bisa, ini ya, data informasi statistik dari katalognya juga ya?
+
+[00:28:24 → 00:28:27]
+Bener nggak kalau pengomong gitu?
+
+[00:28:27 → 00:28:37]
+Kalau ini lebih ke statistik dari datanya sih, Mas.
+
+[00:28:37 → 00:28:49]
+Ya, jadi dari data yang ada di data source tadi, kita nanti laran job data profile ini bakal ada statistiknya.
+
+[00:28:49 → 00:28:58]
+Nah, mungkin sebenarnya ke depannya itu kalau mau di-enhance, itu bisa ke anomaly detection sebenarnya, mungkin.
+
+[00:28:58 → 00:29:07]
+Tapi balik lagi, karena waktu itu dari Perindo itu lebih tertarik ke katalog dan quality,
+
+[00:29:07 → 00:29:11]
+jadi kita belum melakuin untuk yang ini sih, kayak gitu.
+
+[00:29:11 → 00:29:17]
+Oke, aku kalau katalog sama quality, aku udah cukup nangkep value propositionnya nih.
+
+[00:29:17 → 00:29:23]
+Kalau profile, tadi tahu statistik terus, then what? Gitu. Jadi pengen di elaborate itunya sih.
+
+[00:29:23 → 00:29:27]
+Data profile itu goals-nya pengen selain menjelaskan statistik dari datanya.
+
+[00:29:27 → 00:29:39]
+Kalau aku pengalaman di credit scoring dulu ya, Mas, itu kadang data owner itu nggak tahu sebenarnya,
+
+[00:29:39 → 00:29:47]
+tabel mereka itu datanya itu distribusinya kayak apa, jadi mereka lihat sistogram tersebut, lihat percentil-presentilnya,
+
+[00:29:47 → 00:29:55]
+karena itu tuh untuk data owner harusnya langsung notice nih, kenapa P5-nya bisa segitu, ini ada anomaly nih, gitu harusnya, Mas.
+
+[00:29:55 → 00:30:01]
+Tapi kalau ini kan quality-nya masih basic ya, masih descriptive analytics aja,
+
+[00:30:01 → 00:30:12]
+mungkin bisa diperdalam lagi dan bisa diarahkan ke yang business actionable-able lagi juga bisa mungkin anomaly detection gitu, Mas.
+
+[00:30:12 → 00:30:15]
+Cuma kita nggak, oh sorry, Mas, gimana, Mas?
+
+[00:30:15 → 00:30:19]
+Aku munji keren-keren. Lanjut, lanjut, sorry, sorry.
+
+[00:30:19 → 00:30:26]
+Oh iya, siap. Kalau extensinya ya, kalau pelinduannya tuh seneng sama profile ini,
+
+[00:30:26 → 00:30:31]
+soalnya mereka dari awal langsung, ini buat apa, Mas, kita udah punya lebih keren kesannya gitu.
+
+[00:30:31 → 00:30:39]
+Mereka udah punya core BI, analytics-nya lebih kompleks gitu, mereka nggak lihat value dari page ini, jadi kita nggak perdalam lagi.
+
+[00:30:39 → 00:30:48]
+Tapi sebenarnya untuk yang enterprise lain mungkin ya, yang tahu pentingnya data owner tuh perlu tahu distribusi di dalam tabelnya,
+
+[00:30:48 → 00:30:50]
+ini bisa lebih di enhance lagi, gitu, Mas.
+
+[00:30:50 → 00:30:58]
+Tapi berarti ini ya, perlu user atau data owner atau business owner yang memang punya domain knowledge yang bagus ya?
+
+[00:30:58 → 00:31:08]
+Kayak dulu aku credit scoring di loan product ya di Bank Raya, tuh ada yang income-nya tuh nulis 100 triliun gitu,
+
+[00:31:08 → 00:31:14]
+dan itu gol-gol aja dan akhirnya NPL gitu, itu kan ya itu flag banget, kok bisa lolos gitu.
+
+[00:31:14 → 00:31:22]
+Dan itu ketahuannya setelah aku bikin histogram, setelah aku tunjukin percentilnya, yang sebelumnya itu onernya nggak tahu.
+
+[00:31:22 → 00:31:28]
+Berarti buat evaluasi existing platform mereka ya, kok ada anomaly ini bisa lolos, kok...
+
+[00:31:29 → 00:31:37]
+ID juga Mas, mungkin mereka udah punya rule, kalau kapal ID itu harus depannya, SH, strip, gitu, taunya,
+
+[00:31:37 → 00:31:41]
+disitu ada yang nggak kayak gitu, itu juga bisa kelihatan disitu.
+
+[00:31:41 → 00:31:46]
+Redundan juga sih sama yang Renat, mungkin Renat di validity juga ada kayak gitu juga ya Renat ya?
+
+[00:31:46 → 00:31:47]
+Iya.
+
+[00:31:47 → 00:31:55]
+Tapi ya itu menurutku informasi itu kalau tentang data redundan, it's okay kayak nggak harus,
+
+[00:31:55 → 00:32:01]
+nggak harus apa ya, skapnya nggak harus kuat banget gitu antara katalog, quality, sama profile gitu,
+
+[00:32:01 → 00:32:02]
+saling melengkapi aja.
+
+[00:32:02 → 00:32:03]
+Siap-siap.
+
+[00:32:03 → 00:32:04]
+Oke.
+
+[00:32:04 → 00:32:06]
+Menarik-menarik.
+
+[00:32:06 → 00:32:15]
+Iya, paling itu sih balik lagi tadi, kalau yang profile mungkin value propositionnya lebih ke tadi apa,
+
+[00:32:15 → 00:32:20]
+dia bisa tahu kalau ada yang aneh, dan itu mungkin kalau sekarang kan berarti misalkan dia kayak gini,
+
+[00:32:20 → 00:32:22]
+dia harus bisa, harus lihat manual.
+
+[00:32:22 → 00:32:26]
+Mungkin ke depannya kalau emang mau di enhance ya bisa itu apa, anomaly detection,
+
+[00:32:26 → 00:32:31]
+jadi justru dari ADM-nya yang kasih tahu mana yang anomaly gitu sih.
+
+[00:32:31 → 00:32:38]
+Pertanyaan, pertanyaanku ada arah ke sini nggak sih atau lebih ke anomaly detection aja kan banyak,
+
+[00:32:38 → 00:32:42]
+kalau di produk meninjaukan itu ada, ada aku lupa nolong format dulu, mahal-mahal,
+
+[00:32:42 → 00:32:51]
+yang buat bantu business decision gitu loh, misalnya bikin produk user profile,
+
+[00:32:51 → 00:32:58]
+ternyata yang paling, ternyata user group yang paling laku di company kita,
+
+[00:32:58 → 00:33:02]
+yang beli produk kita tuh user group yang ini itu tuh ada keharasan nggak untuk data profile?
+
+[00:33:02 → 00:33:09]
+Bisa aja sih mas, kalau mau ini nggak ada interseks, kayak aku ngerti tadi kayak clustering gitu, segmen trasi gitu.
+
+[00:33:09 → 00:33:18]
+Ini bisa dipush ke mana pun yang enterprise mau, tapi ini belum, karena belum ada arahnya,
+
+[00:33:18 → 00:33:22]
+belum ada yang interest, jadi kita masih basic descriptive analytics.
+
+[00:33:22 → 00:33:24]
+Oh, mix panel, aduh ya Allah.
+
+[00:33:24 → 00:33:26]
+Mix panel, iya.
+
+[00:33:26 → 00:33:32]
+Tapi itu perlu AI kayaknya, buat fitur selection-nya,
+
+[00:33:32 → 00:33:37]
+soalnya kan untuk segmentasi customer ya fitur mana aja yang mau dipake gitu kan,
+
+[00:33:37 → 00:33:47]
+kalau descriptive kan bisa naif gitu ya, bisa dumb algorithm aja ya udah semua dicek rata-ratanya gitu berdasarkan data types.
+
+[00:33:47 → 00:33:49]
+Oke, lanjut.
+
+[00:33:49 → 00:33:51]
+Oke, oke, notate dulu.
+
+[00:33:51 → 00:33:55]
+Lanjut ke data maturity ya, Pati ya, habis ini.
+
+[00:33:55 → 00:34:01]
+Nah, iya, paling nyatakan data maturity, ini lebih ke despatnya.
+
+[00:34:01 → 00:34:05]
+Oh, disini belum ada, Mas.
+
+[00:34:05 → 00:34:08]
+Sambil nunggu lagi, nggak muncul, Re.
+
+[00:34:08 → 00:34:11]
+Sambil nunggu lagi ke office tuh ya, Re.
+
+[00:34:15 → 00:34:18]
+Kita biar nggak clash, bedain office gitu, Mas.
+
+[00:34:18 → 00:34:20]
+Oh, siap.
+
+[00:34:21 → 00:34:25]
+Yang tadi apa yang Re? Oh, itu yang dikerjain sama Re ya, beda.
+
+[00:34:27 → 00:34:32]
+Beda office aja sih. Nah, ini untuk maturity-nya, jadi
+
+[00:34:33 → 00:34:37]
+mungkin kita langsung ke yang contoh mission-nya ya.
+
+[00:34:39 → 00:34:42]
+Ini basisnya, apa, debok juga ya?
+
+[00:34:44 → 00:34:48]
+Iya, ini basisnya debok juga.
+
+[00:34:48 → 00:34:50]
+Nah, berseluruhkan yang ini.
+
+[00:34:50 → 00:35:05]
+Nah, jadi itu lebih ke melakukan
+
+[00:35:07 → 00:35:11]
+apa ya, assessment, melakukan assessment secara digital gitu sih, Mas, paling.
+
+[00:35:11 → 00:35:15]
+Jadi, dalam bentuk itu, bentuknya itu pertanyaan-pertanyaan assessment gitu.
+
+[00:35:15 → 00:35:21]
+Jadi, dibagi ke 12 domain, ada data governance sampai big data and data science.
+
+[00:35:21 → 00:35:27]
+Habis itu, masing-masing itu ada topik teka proses, people, dan tech.
+
+[00:35:27 → 00:35:33]
+Habis itu, nanti ini bisa dijawab-jawab gitu sih, dan juga bisa upload evidence.
+
+[00:35:33 → 00:35:43]
+Dan nanti, bakal kalau misalnya sudah di-submit, bisa di-review dan ya itu jadi di dashboard gitu sih, Mas.
+
+[00:35:43 → 00:35:51]
+Jadi, ini lebih ke assessment data maturity secara digital kayak gitu.
+
+[00:35:56 → 00:36:01]
+Ini berarti tetap manual upload ya, evidence-nya, bukan auto discovery gitu.
+
+[00:36:01 → 00:36:09]
+Masih, ya, di sini belum ada AI-nya sama sekali sih, Mas. Jadi, masih manual full.
+
+[00:36:09 → 00:36:13]
+Oke, question, sorry, ada pertanyaan. Untuk data maturity itu,
+
+[00:36:13 → 00:36:20]
+memang biasanya ada yang minta dashboard-nya atau setelahnya, sorry, kan kalian lebih lama di SV nih.
+
+[00:36:20 → 00:36:23]
+At least berapa bulan, nggak tahu, mungkin Nasa Nova lebih lama lagi.
+
+[00:36:23 → 00:36:28]
+Ada project terpisah nggak sih? Biasanya orang minta di access maturity datanya gitu.
+
+[00:36:29 → 00:36:34]
+Betul, Mas, biasanya ada project terpisah buat ngecek data maturity, ini buat helper.
+
+[00:36:34 → 00:36:40]
+Biasanya yang melakukan data maturity itu kan konsultan-nya, biasanya Pelindo hire konsultan SV gitu,
+
+[00:36:40 → 00:36:45]
+buat ngecek data maturity-nya. Dengan adanya data maturity udah ada di IDM ini,
+
+[00:36:45 → 00:36:53]
+Pelindo bisa self-assess gitu. Sebelum nanti real maturity assessment-nya nanti tetap official-nya nanti,
+
+[00:36:53 → 00:36:59]
+cuma ini buat mereka biar self-aware, sebenarnya mereka sudah se-mature apa gitu.
+
+[00:36:59 → 00:37:05]
+Oh, oke. Berarti kalau offering itu lebih menarik ini ya dibanding konsultasi assessment maturity-nya ya,
+
+[00:37:05 → 00:37:08]
+daripada digabungin ke IDM-nya mungkin?
+
+[00:37:08 → 00:37:17]
+Gak tahu, soalnya IDM itu pas sampai di tangan saya sama Rena itu menu utamanya itu maturity ini gitu.
+
+[00:37:17 → 00:37:21]
+Oh, maksudnya kita tambahin katalog, quality gitu ya, Rie?
+
+[00:37:21 → 00:37:22]
+Iya.
+
+[00:37:23 → 00:37:30]
+Jadi ini awalnya consultant tools gitu, I guess gimana caranya client itu comply sama DamaBok,
+
+[00:37:30 → 00:37:36]
+makanya pertamanya data maturity, terus karena pasarnya tuh sekarang lebih suka data katalog,
+
+[00:37:36 → 00:37:41]
+fiturnya baru kita tambahin gitu, sekarang data maturity-nya malah jadi anak tiring ya.
+
+[00:37:41 → 00:37:44]
+Awalnya malah dijual data maturity-nya ya pas ke ini.
+
+[00:37:44 → 00:37:46]
+Iya.
+
+[00:37:46 → 00:37:49]
+Oke, lucu ya, keren-keren.
+
+[00:37:49 → 00:37:51]
+Story-nya seru.
+
+[00:37:51 → 00:37:56]
+Oke, aku boleh tanyain produk manager seperti maksudnya yang manage fitra yang tambahin so far berdua ini ya,
+
+[00:37:56 → 00:37:58]
+Mas Noval sama Mas Renard?
+
+[00:37:58 → 00:38:03]
+Pindah tangan gitu, pindah tangan sih Mas, tapi source code sekarang di tangan kita berdua.
+
+[00:38:03 → 00:38:07]
+Oh, so sebelumnya bukan Mas Noval, bukan Mas Renard yang pegang?
+
+[00:38:07 → 00:38:11]
+Bukan, ada Mas Bagus, Mas Siapa, aku gak tahu siapa aja.
+
+[00:38:11 → 00:38:15]
+Oke, menarik nih produknya.
+
+[00:38:15 → 00:38:21]
+Berarti nanti kalau aku mau screenshot-screenshot nunggu di-populate data Dami dulu ya?
+
+[00:38:21 → 00:38:28]
+Iya Mas, nanti kita siap, satu sign in kali ya Re, isinya data Dami semua gitu Re, satu office.
+
+[00:38:28 → 00:38:35]
+Oke, thank you. Pertanyaanku dia tuh modelnya gimana ya untuk sekarang existing tuh,
+
+[00:38:35 → 00:38:38]
+kan aku pengen tahu, kalau gak tahu gak apa-apa dijawab gak tahu aja,
+
+[00:38:38 → 00:38:41]
+terus mungkin perlu nanya ke siapa nanti direkta aja. Aku pertanyaan,
+
+[00:38:41 → 00:38:46]
+sekarang tuh bisa modelnya kayak gimana ya si AIDM itu apakah implement terus ini atau
+
+[00:38:46 → 00:38:49]
+beli license bulanan atau rencananya gimana? Ada dauburannya belum?
+
+[00:38:49 → 00:38:52]
+Lepas Mas, jadi proyek lepas.
+
+[00:38:52 → 00:38:54]
+Lepas?
+
+[00:38:54 → 00:39:03]
+Jadi, sekitar, aku deploy sekali di PLindo, mereka bayar 500, 1, terus kita kerjakan selama 3 bulan,
+
+[00:39:03 → 00:39:07]
+terus lepas gitu, kalau mereka mau enhance, ya jadikan proyekan lagi gitu.
+
+[00:39:07 → 00:39:12]
+Mirip smart docks gitu Mas, kalau bisnisnya yang waktu itu aku ikutan sama Pak Adim gitu ya,
+
+[00:39:12 → 00:39:15]
+kesannya gitu, bukan subscription gitu.
+
+[00:39:15 → 00:39:17]
+Bukan subscription based.
+
+[00:39:17 → 00:39:24]
+Memang dari awal PLindo pengen gitu atau kita sempat offering gak kalau bulanan gak gitu?
+
+[00:39:24 → 00:39:31]
+Soalnya bulanan tuh imply SAAS gitu betul Mas, jadi infra nya di kita gitu atau gimana Mas?
+
+[00:39:31 → 00:39:34]
+Infra nya di mereka cuma license nya tahunan misalnya gitu.
+
+[00:39:34 → 00:39:40]
+Oh, ya enggak, enggak, soalnya pilihannya waktu itu mau, infra nya mau pake SV sama PLindo,
+
+[00:39:40 → 00:39:45]
+kan PLindo bilang gitu, terus saya bilang bisa dua-duanya, terus habis itu mereka bilang,
+
+[00:39:45 → 00:39:49]
+oke kita maunya kalau di PLindo, kalau di SV kita gak mau soalnya datanya kan itu,
+
+[00:39:49 → 00:39:55]
+tapi kalau masalah pembayarannya itu langsung diasumsikan bahwa itu bayar lepas.
+
+[00:39:55 → 00:39:59]
+Mas, tapi kan SAP pun di, misalnya SAP tuh, di install di ini kan?
+
+[00:39:59 → 00:40:00]
+Di mereka betul.
+
+[00:40:00 → 00:40:02]
+BRI, tapi kan license nya bayar tahunan ya?
+
+[00:40:02 → 00:40:04]
+Iya, betul Mas.
+
+[00:40:04 → 00:40:08]
+Iya, oke, oke. Berarti sekarang belum ada fixed pricing ya untuk ini ya?
+
+[00:40:08 → 00:40:09]
+Belum.
+
+[00:40:09 → 00:40:10]
+Berarti, berarti.
+
+[00:40:10 → 00:40:11]
+Oke.
+
+[00:40:11 → 00:40:18]
+Kalau user, kalau misalnya ditanya misalnya terkait dia bisa berapa TPS,
+
+[00:40:18 → 00:40:20]
+berapa konkurren user itu udah ada jawaban nya?
+
+[00:40:20 → 00:40:26]
+Tergantung infra nya mereka, karena infra nya di mereka ya Mas,
+
+[00:40:26 → 00:40:31]
+kalau RAM nya mereka cuma ngasih 2GB ya berarti, ya berarti concurrent user nya lebih terbatas,
+
+[00:40:31 → 00:40:35]
+concurrent task nya lebih terbatas, kalau kita gitu gak,
+
+[00:40:35 → 00:40:41]
+I guess gak ngaruh ke kompleksitas aplikasi kita itu tinggal masalah mereka di Kubernetes nya,
+
+[00:40:41 → 00:40:43]
+auto scaling nya berapa gitu Mas?
+
+[00:40:43 → 00:40:49]
+Oke. Kita tapi gak punya ini ya, gak punya pegangan ya?
+
+[00:40:49 → 00:40:51]
+Kalau misalnya user nanya, ini bisa berapa konkurren user?
+
+[00:40:51 → 00:40:56]
+Belum, saat ini belum punya, tapi bisa kita tes untuk punya.
+
+[00:40:56 → 00:40:58]
+Oke.
+
+[00:40:58 → 00:40:59]
+Oke.
+
+[00:40:59 → 00:41:03]
+Concurrent tuh imply user yang login atau concurrent?
+
+[00:41:03 → 00:41:08]
+Iya, imply user yang login atau user login, atau misalnya tadi pengen liat katalog berapa user bisnis kan,
+
+[00:41:08 → 00:41:11]
+mungkin ada bisnis user punya developer masing-masing,
+
+[00:41:11 → 00:41:15]
+berapa yang bisa access data katalog itu at one time.
+
+[00:41:15 → 00:41:20]
+Itu malah lebih bisa ribuan gitu, yang susah tuh yang worker nya Mas,
+
+[00:41:20 → 00:41:27]
+yang job nya, kalau ada seribu job bareng-bareng gitu ya itu lebih PR daripada orang login doang,
+
+[00:41:27 → 00:41:29]
+view doang gitu harusnya malah aman.
+
+[00:41:29 → 00:41:33]
+Tapi job nya biasanya di super owner kan?
+
+[00:41:33 → 00:41:37]
+Iya, gitu ya Mas. Jadi mikirnya yang concurrent user login nya aja ya,
+
+[00:41:37 → 00:41:42]
+kalau job nya ya teratur ngantri rapih dari admin nya aja gitu ya Mas?
+
+[00:41:42 → 00:41:46]
+Kan gak boleh kan, maksudnya kalau semua orang bisa bikin job kan hancuran gak?
+
+[00:41:46 → 00:41:50]
+Harusnya sih concurrent ini sih login view aja,
+
+[00:41:50 → 00:41:56]
+kalau job kayaknya biasanya di yang pengadaan ini kan, EDM ya?
+
+[00:41:56 → 00:42:03]
+Terus mungkin kalau internal app gitu mereka gak pernah nanya tentang concurrent,
+
+[00:42:03 → 00:42:05]
+soalnya internal kan imply yang access sedikit gitu,
+
+[00:42:05 → 00:42:09]
+paling dibawah seribu orang, dibawah seratus orang versus customer gitu,
+
+[00:42:09 → 00:42:12]
+kalau brimo gitu kan pasti ditanya concurrentnya ini kuat berapa,
+
+[00:42:12 → 00:42:16]
+tapi kalau smartdoc semarinya juga gak ditanya, tapi bisa kita tes,
+
+[00:42:16 → 00:42:20]
+nanti kita kalau udah di tes kita kasih ke Mas Hamad.
+
+[00:42:20 → 00:42:23]
+Gak perlu sangat, takutnya kan kalau itu kan kita pengen coba,
+
+[00:42:23 → 00:42:28]
+ini ya mimpi-mimpah pengennya kita coba productize nih, jangan satu one-off one-off terus gitu,
+
+[00:42:28 → 00:42:32]
+kalau productize kan takutnya ada yang nanya, gak tahu sih aku cuma aja.
+
+[00:42:32 → 00:42:34]
+Biar ada pegangan ya Mas?
+
+[00:42:34 → 00:42:39]
+Biar ada pegangan, begitu one-off one-off kan emang betul itu responsibility IT nya mereka gitu,
+
+[00:42:39 → 00:42:43]
+cuma kan begitu dia productize kan harusnya kita lebih tau.
+
+[00:42:43 → 00:42:49]
+Oke, aku, nah untuk smartdoc pun pertanyaannya sama Mas,
+
+[00:42:49 → 00:42:52]
+berarti kemarin gak ada ini ya concurrent user nya ya?
+
+[00:42:52 → 00:42:59]
+Gak, tapi so far aman, belum ada lebih mala ini AI nya lama banget gitu,
+
+[00:42:59 → 00:43:02]
+bukan masalah mereka susah login gitu.
+
+[00:43:02 → 00:43:03]
+AI nya Jemina ya?
+
+[00:43:03 → 00:43:06]
+Jemina ya, terus ngantri, dua-dua gitu Mas.
+
+[00:43:06 → 00:43:09]
+Dua-dua, berarti ngantri tuh ngantri upload nya ya?
+
+[00:43:09 → 00:43:17]
+Ngantri, iya ngantri submit ke Jemina nya, kenapa cuma dua-dua karena OOM,
+
+[00:43:17 → 00:43:21]
+karena apa, container yang dikasih ke smartdocs nya terbatas gitu,
+
+[00:43:21 → 00:43:24]
+kalau lebih dari itu out of memory gitu ke crash.
+
+[00:43:24 → 00:43:28]
+Oh sorry, Mas Akwan, kemarin udah install di aku tuh, udah aku running,
+
+[00:43:28 → 00:43:31]
+pas Mas bilang key nya, kemarin aku udah ke download,
+
+[00:43:31 → 00:43:36]
+cuma pas Mas bilang, aku baru running banget tuh, baru docker compost up gitu loh.
+
+[00:43:36 → 00:43:37]
+Gak berani ya?
+
+[00:43:37 → 00:43:42]
+Kan gak, udah ke docker compost up, terus Mas Noval bilang key nya jangan dipake,
+
+[00:43:42 → 00:43:44]
+yaudah aku matiin gak, aku apa-apain.
+
+[00:43:44 → 00:43:46]
+Aku show lagi kali ya Mas?
+
+[00:43:46 → 00:43:48]
+Aku show boleh?
+
+[00:43:48 → 00:43:50]
+Boleh, boleh, si smartdocs.
+
+[00:43:50 → 00:43:54]
+Nah pertanyaan gue tuh, boleh jelasin bisnis prosesnya smartdoc gak Mas?
+
+[00:43:54 → 00:43:59]
+Yang di PLindo khususnya, tadi kan dua upload, berarti bisnis susah nya siapa tuh yang upload?
+
+[00:43:59 → 00:44:00]
+Aku pengen tau itu.
+
+[00:44:00 → 00:44:07]
+Jadi kalau yang di PLindo sendiri, itu, kalau yang di PLindo sendiri malah gak ada.
+
+[00:44:08 → 00:44:14]
+Aku bikin slide, iya aku weekend kemarin bikin yang generalnya gitu.
+
+[00:44:14 → 00:44:15]
+Oke.
+
+[00:44:15 → 00:44:23]
+Kan gak bisa nih, kalau yang PLindo gak adjustable nya susah ke client lain,
+
+[00:44:23 → 00:44:24]
+jadi harus diubah.
+
+[00:44:24 → 00:44:28]
+Oke, kita bikin dynamic slide aja ya.
+
+[00:44:29 → 00:44:37]
+Oke, jadi kalau yang kemarin tuh Mas, kita Naify, ini deteksi building baru,
+
+[00:44:37 → 00:44:44]
+terus yang masuk scope tuh ada 6, yaitu ada PAJAK, PNBP,
+
+[00:44:44 → 00:44:45]
+PNBP itu apa?
+
+[00:44:45 → 00:44:48]
+Apa ya, apa Rey? PNBP cari Rey.
+
+[00:44:48 → 00:44:49]
+PNBP.
+
+[00:44:49 → 00:44:57]
+PNBP, Padi tuh UMKM nya mereka, terus ada afiliasi PDF,
+
+[00:44:57 → 00:45:02]
+ini buat vendor, sama, SV juga dibayar sama afiliasi PDS itu,
+
+[00:45:02 → 00:45:07]
+sama pit travel, buat travel-travel nya SDM mereka,
+
+[00:45:07 → 00:45:09]
+kalau mereka bisnis trip dan lain-lain gitu.
+
+[00:45:09 → 00:45:11]
+Afiliasi PDS.
+
+[00:45:11 → 00:45:15]
+Nah namanya afiliasi PDS, ini buat bayar vendor.
+
+[00:45:15 → 00:45:18]
+Kalau SV nagih gitu, itu lewat sini.
+
+[00:45:18 → 00:45:21]
+Oke, oh ini procurement berarti ya mungkin ya.
+
+[00:45:22 → 00:45:28]
+Oke, terus abis itu dari Naify ini deteksi per satu jam.
+
+[00:45:28 → 00:45:30]
+Sorry, Naify itu apa ya Mas?
+
+[00:45:30 → 00:45:33]
+Naify itu ETL tools Mas, kayak air flow gitu,
+
+[00:45:33 → 00:45:38]
+kayak datanya di transformasi, di cleaning, di kirim,
+
+[00:45:38 → 00:45:42]
+di alirkan itu via Naify, dari source ke target.
+
+[00:45:42 → 00:45:46]
+Banyak tools nya, aku gak tau ya, dari tadi juga Atlas Ambul.
+
+[00:45:47 → 00:45:48]
+Sorry ya Mas ya.
+
+[00:45:48 → 00:45:52]
+Gapapa, dia open tools gitu, di Pellindo pakenya Naify.
+
+[00:45:52 → 00:45:58]
+Terus kalau udah, nanti apabila ada billing baru,
+
+[00:46:00 → 00:46:02]
+kirim ke,
+
+[00:46:04 → 00:46:09]
+ini biar ada line nya gimana deh, line, ini ya, kayak
+
+[00:46:10 → 00:46:16]
+ada billing baru, API call ke SmartDocs itu.
+
+[00:46:16 → 00:46:18]
+SmartDocs apa jamanan?
+
+[00:46:18 → 00:46:22]
+SmartDocs, nanti SmartDocs nya kirim ke Gemini.
+
+[00:46:24 → 00:46:30]
+SmartDocs nya itu ada orchestrator, ada
+
+[00:46:31 → 00:46:36]
+ada classifier, ada extractor,
+
+[00:46:36 → 00:46:45]
+ada matcher, sama ada logger.
+
+[00:46:45 → 00:46:49]
+Yang ada hubungannya sama Gemini,
+
+[00:46:49 → 00:46:52]
+ini API call, ini ke Gemini ya, berarti ya,
+
+[00:46:52 → 00:46:57]
+yang ada hubungannya sama Gemini, itu cuma classifier sama extractor nya aja.
+
+[00:46:57 → 00:47:01]
+Oke. Karena matcher nya cuma compare value ya?
+
+[00:47:01 → 00:47:05]
+Betul. Tadinya mau pake Gemini juga, tapi malah salah gitu.
+
+[00:47:05 → 00:47:09]
+Oke, string matching aja kan?
+
+[00:47:09 → 00:47:14]
+Soalnya gak cuma gitu, ada yang exact match, ada yang fuzzy match,
+
+[00:47:14 → 00:47:22]
+ada yang kayak header nya surat ini harus match sama isi surat yang disana gitu,
+
+[00:47:22 → 00:47:23]
+kira-kira gitu.
+
+[00:47:23 → 00:47:28]
+Itu kan saya coba pake Gemini, ternyata jauh lebih less reliable
+
+[00:47:28 → 00:47:33]
+daripada saya bikin custom, misi Python buat itu gitu ya.
+
+[00:47:35 → 00:47:38]
+Nah API call ke SmartDocs itu lewat orchestrator ini,
+
+[00:47:38 → 00:47:42]
+terus nanti orchestratornya bakal ngalirin datanya sesuai urutan,
+
+[00:47:42 → 00:47:47]
+mulai dari classifier, dicek dulu, soalnya tiap billing tuh attachment nya banyak,
+
+[00:47:47 → 00:47:54]
+jadi pajak tuh ada berita acaranya, ada nota dinasnya, ada billing recapnya,
+
+[00:47:54 → 00:47:58]
+dan lain-lain, dan itu tuh prefix nya tuh salah biasanya,
+
+[00:47:58 → 00:48:02]
+udah diarahin untuk pake prefix depannya, BA, ND gitu,
+
+[00:48:02 → 00:48:08]
+biar gak usah diklasifikasi, tapi gak comply si orang SDM nya,
+
+[00:48:08 → 00:48:12]
+si orang keuangannya gak comply, jadi bukan mereka SDM sih yang salah,
+
+[00:48:12 → 00:48:16]
+siapapun yang nagih pelindonya, siapapun yang nagih pelindonya ini
+
+[00:48:16 → 00:48:21]
+pas upload billing dokumen ini gak comply, tapi mau kita akomodasi,
+
+[00:48:21 → 00:48:25]
+itu pake classifier ini, jadi Gemini nya ngecek dari antara PDF ini,
+
+[00:48:25 → 00:48:31]
+nota dinasnya yang mana, billingnya yang mana, sama berita acaranya yang mana.
+
+[00:48:31 → 00:48:34]
+Berarti use case nya ini procurement banget ya, Mas?
+
+[00:48:34 → 00:48:37]
+Procurement apa, Mas?
+
+[00:48:37 → 00:48:42]
+Pengadaan kan tadi Fendor, Fendor nge-upload untuk dibaca di sisi Pelindo kan?
+
+[00:48:42 → 00:48:48]
+I guess itu kalau afiliasi berarti Fendor, tapi kalau Padi UMKM berarti yang nagih Pelindo,
+
+[00:48:48 → 00:48:54]
+ini procurement juga, tapi kalau pajak PNBP konsesi kayaknya kementeriannya gitu,
+
+[00:48:54 → 00:48:58]
+kementerian nagih Pelindo buat bayar ini gitu.
+
+[00:48:58 → 00:49:00]
+Tapi kan pajak atas transaksi Fendor juga kan?
+
+[00:49:00 → 00:49:05]
+Pajaknya pajak tahunan Pelindo as a company gitu.
+
+[00:49:05 → 00:49:08]
+Oh bukan PPN transaksi dari ini ya?
+
+[00:49:08 → 00:49:12]
+Kalau itu udah nyatu di attachment di masing-masing procurement nya,
+
+[00:49:12 → 00:49:16]
+ini masing-masing ada faktor pajaknya gitu, di salah satu attachment nya.
+
+[00:49:16 → 00:49:25]
+Tapi kalau yang ini, literally Pelindo bayar ke menteri buat mereka as perusahaan gitu.
+
+[00:49:25 → 00:49:32]
+Kalau pay travel isinya tiket, terus tiket hotel, tiket pesawat, tiket kereta api gitu.
+
+[00:49:32 → 00:49:37]
+Nah, terus kira-kira gini, Mas.
+
+[00:49:37 → 00:49:43]
+Aku mau ngomong apa ya, karena sistemnya bentuknya kayak gini,
+
+[00:49:43 → 00:49:48]
+ini demininya prom nya ya sangat-sangat spesifik buat 6 dokumen ini,
+
+[00:49:48 → 00:49:51]
+cara ngalirnya juga sesuai dokumen ini.
+
+[00:49:51 → 00:49:55]
+Nah, makanya karena ini kalau mau dijual ke Telkom, BRI gitu kan,
+
+[00:49:55 → 00:50:00]
+ya belum tentu mereka dokumen nya tentang billing, bisa aja buat dokumen HR, dokumen,
+
+[00:50:00 → 00:50:03]
+I don't know, kontrak something gitu.
+
+[00:50:03 → 00:50:08]
+Aku tanya AI, dia nyaranin lebih general framework nya.
+
+[00:50:08 → 00:50:16]
+Jadi yang tadinya pipeline nya gini, jadi dari dokumen type, terus ke ekstraksi, terus matching gitu,
+
+[00:50:16 → 00:50:23]
+diubah jadi lebih global, jadi understand dulu, jadi AI nya harus tahu dokumen itu dokumen apa gitu,
+
+[00:50:23 → 00:50:28]
+terus harus bisa mengubah dari dokumen itu jadi bentuk yang terstruktur,
+
+[00:50:28 → 00:50:33]
+terus harus bisa divalidasi hasil ekstraksinya, terus baru act.
+
+[00:50:33 → 00:50:36]
+Kalau di Pelindo kebetulan act nya adalah matching,
+
+[00:50:36 → 00:50:41]
+tapi mungkin act nya ada yang dijadikan bahan buat chatbot, ada yang dibadikan,
+
+[00:50:41 → 00:50:44]
+aku gak tau act nya apa aja, smartdocs.
+
+[00:50:44 → 00:50:53]
+Kalau act nya tergantung use-nya sih, misalnya claim management kan dia claim nya di approve atau enggak.
+
+[00:50:53 → 00:50:55]
+Approve atau enggak, ya oke.
+
+[00:50:55 → 00:51:03]
+Kalau claim, credit sama revenue cycle, kan revenue juga kita mau posting ke ERP nih di accounting,
+
+[00:51:03 → 00:51:14]
+kita bayar vendor, terus item biaya ini kita akui jadi cost, enggak di bulan ini itu juga approve apa enggak,
+
+[00:51:14 → 00:51:19]
+karena harus lihat dulu dokumen apa enggak, jadi sama sih mirip-mirip, maksudnya apakah banyaknya.
+
+[00:51:19 → 00:51:28]
+Artinya tiga ini tuh sifatnya lebih universal gitu, kita bikin scope dokumen apa aja yang mau dikenali sama smartdocs kita,
+
+[00:51:28 → 00:51:38]
+dan masing-masing dokumen itu bentuk terstrukturnya kayak apa, nanti act nya tinggal disesuaikan sama use case masing-masing klien.
+
+[00:51:38 → 00:51:48]
+Menarik. Aku seharusnya udah coret-coret UI nya sih, ini yang dibuat sama demo nya, ceritanya sama Mas Noval weekend ini.
+
+[00:51:48 → 00:51:52]
+Oh, coret-coret UI nya tuh react nya bisa di deploy gitu Mas?
+
+[00:51:52 → 00:51:56]
+Nggak, ya enggak, bukan. Tadi itu yang lokal hal sebilenya kayaknya bukan, ini UI yang mana nih?
+
+[00:51:56 → 00:51:59]
+Beda lagi, aku suruh cloud code bikin baru.
+
+[00:51:59 → 00:52:01]
+Oh, oke.
+
+[00:52:01 → 00:52:17]
+Nah, jadi kalau aku berusaha mengekspresikan ini jadi suatu app gitu, bentuknya kira-kira kayak gini, jadi nanti di tampilan kita sebagai admin itu nanti ada global drop down nya,
+
+[00:52:17 → 00:52:24]
+jadi harus terisolasi antara Palindo sama klien lain, kalau di Palindo ini kebetulan ada tiga use case,
+
+[00:52:24 → 00:52:33]
+ada tentang billing sama kayak kita tadi, ini ada kalau billing berarti di ekstrasi terus di matching gitu dibandingkan sama ground truth,
+
+[00:52:33 → 00:52:40]
+ada HR screening gitu, kalau HR ya berarti ini kalau ini di matching sama kebutuhan job desk nya,
+
+[00:52:40 → 00:52:44]
+ya enggak sih, enggak tahu ini cloud yang bikin.
+
+[00:52:44 → 00:52:52]
+Ya, ini kalau orang kayak gini katanya cocoknya jadi general manager terminal operation katanya dan seterusnya, itu lagi vendor contract gitu.
+
+[00:52:52 → 00:52:58]
+Ini mau menunjukkan bahwa tiap dokumen bisa punya act nya bisa beda-beda gitu.
+
+[00:52:58 → 00:53:01]
+Oh, aku boleh show ini enggak?
+
+[00:53:01 → 00:53:03]
+Kemarin aku sempat ngoprek cuma UI yang puang ya.
+
+[00:53:03 → 00:53:04]
+Siap, siap, siap.
+
+[00:53:04 → 00:53:06]
+Oke, aku off dulu.
+
+[00:53:06 → 00:53:10]
+Ya, entah yang screen, screen mana ya, screen 2 kali, screen 1.
+
+[00:53:14 → 00:53:16]
+Ntar aku lupa dimana brandingnya.
+
+[00:53:16 → 00:53:18]
+Oh, ini sorry.
+
+[00:53:22 → 00:53:28]
+Index.
+
+[00:53:28 → 00:53:32]
+Oh, ternyata dibuatnya disini.
+
+[00:53:32 → 00:53:34]
+Ntar aku ganti dulu, sebentar, sebentar.
+
+[00:53:34 → 00:53:36]
+Stop sharing.
+
+[00:53:36 → 00:53:42]
+Setara udah sama sih mas, terkait generalisasinya kayaknya mirip-mirip,
+
+[00:53:42 → 00:53:50]
+cuma aku enggak tahu fiturnya butuh apa enggak, jadi kayaknya kita perlu develop fitur yang single dulu untuk bisa di show,
+
+[00:53:50 → 00:53:52]
+nanti kalau ada tambahan kan kita butuh feedback ya.
+
+[00:53:52 → 00:54:00]
+Oke, fiturnya mau apa aja mas, actionnya mau apa aja, sama scope dokumennya, billing dulu aja.
+
+[00:54:00 → 00:54:05]
+Nah, aku tuh udah punya training invoice, BHA stack, contract, jadi kalau data wise udah bisa training itu sih mas.
+
+[00:54:05 → 00:54:09]
+Oke, itu datanya enggak kena NDA bebas?
+
+[00:54:09 → 00:54:11]
+Enggak, soalnya data punya istriku.
+
+[00:54:11 → 00:54:14]
+Oke, NDA-nya ke istri mas.
+
+[00:54:14 → 00:54:25]
+Jadi misalnya ini mungkin beberapa UI-nya enggak uniform karena masih prom base ya,
+
+[00:54:25 → 00:54:27]
+jadi ada yang kok jadi guru begini gisat-gisat.
+
+[00:54:27 → 00:54:32]
+Jadi awalnya aku pengen schema manager, ini admin Ciu ya, admin Ciu itu jadi kita bisa ngetrain,
+
+[00:54:32 → 00:54:35]
+jadi tanpa harus coding ya udah training aja disini.
+
+[00:54:35 → 00:54:41]
+Misalnya create schema sama nanti upload dokumennya berapa biji yang ini dibilang invoice semua gitu.
+
+[00:54:42 → 00:54:48]
+Setelah itu mungkin bisa keluar hasilnya tadi yang tadi di show.
+
+[00:54:48 → 00:54:51]
+Jadi dia fitur pertama sih aku pengen bisa auto-detect ya,
+
+[00:54:51 → 00:54:55]
+kalau dokumen baru dia bisa ngetraining tanpa ada custom lagi.
+
+[00:54:55 → 00:55:00]
+Cuma disilain juga mungkin kita udah nyeriain pre-define schema ya,
+
+[00:55:00 → 00:55:04]
+apakah ada invoice, kan tadi juga mas udah nyeriain pre-define schema ya,
+
+[00:55:04 → 00:55:06]
+dan juga disilain yang kita punya gitu.
+
+[00:55:06 → 00:55:12]
+Cuma aku tuh ini fiturnya terlalu, yang kedua tuh workflow,
+
+[00:55:12 → 00:55:14]
+cuma aku tuh nggak tau ini dibutuhkan apa nggak,
+
+[00:55:14 → 00:55:18]
+jadi dan menurut aku effortnya tetap kegedean dan ini butuh divalidasi,
+
+[00:55:18 → 00:55:22]
+waktu itu apa, kan kita udah bikin invoice, udah bikin ura pas schema ya mas ya.
+
+[00:55:22 → 00:55:28]
+Nah ini kan tapi admin Ciu ya, harapanasuh nanti dia bisa ngatur user roles,
+
+[00:55:28 → 00:55:32]
+mungkin 2 L0 atau L1, kan kalau di generalisasi,
+
+[00:55:32 → 00:55:35]
+at least di semua business process ada L0 atau L1 ya,
+
+[00:55:35 → 00:55:38]
+misalnya L0 yang input, L1 yang verifikasi kan,
+
+[00:55:38 → 00:55:40]
+emang L2 yang bikin decision.
+
+[00:55:40 → 00:55:46]
+Menurut aku generalisasi seperti itu, mau di claim, mau di revenue cycle,
+
+[00:55:46 → 00:55:51]
+mau di co-cycle tadi, posting ERP, mau di insurance dia,
+
+[00:55:51 → 00:55:55]
+mungkin sampai L2 ya, L0 atau L2, maksimal L2 gitu.
+
+[00:55:55 → 00:55:57]
+Nah dia itu nanti punya login sendiri,
+
+[00:55:57 → 00:56:01]
+cuma login fitur apa yang dia punya diaturnya di workflow,
+
+[00:56:01 → 00:56:07]
+misalnya kita udah nge-training, tadi harapanya di kiri ini tuh,
+
+[00:56:07 → 00:56:11]
+yang anggap yang ungu tuh ini, si schema managernya,
+
+[00:56:11 → 00:56:13]
+ngebandingin schema apa sama schema apa,
+
+[00:56:13 → 00:56:16]
+dan diatur user-nya siapa yang bisa pakai,
+
+[00:56:16 → 00:56:20]
+terlalu extra nggak mas aku ngomongnya, sorry.
+
+[00:56:20 → 00:56:23]
+Enggak, udah lanjut mas, masih ikutan.
+
+[00:56:23 → 00:56:29]
+Jadi misalnya kita define workflow, nanti per ini AI-nya nge-extract dokumen apa,
+
+[00:56:29 → 00:56:33]
+harapannya, atau misalnya dia classifier, dia classifier-nya, inputnya,
+
+[00:56:33 → 00:56:37]
+terima bundle di link, misalnya anggap ini not classifier mas ya,
+
+[00:56:37 → 00:56:43]
+nanti kita define dia harusnya classify ke schema apa aja gitu.
+
+[00:56:43 → 00:56:49]
+Habis itu nanti input itu mungkin ambil ke, let's say ini manual entry tuh,
+
+[00:56:49 → 00:56:52]
+manual verifikasi, pakai mungkin sebelumnya ada if else rules
+
+[00:56:52 → 00:56:56]
+terus kalau confidence level-nya di atas sekian dia auto kirim ke L1,
+
+[00:56:56 → 00:57:00]
+kalau nggak kita kirim ke L2 gitu, biasa seperti itu.
+
+[00:57:00 → 00:57:06]
+Nah terus, misalnya ini manual entry, karena dia ada manual entry
+
+[00:57:06 → 00:57:11]
+untuk manual verifikasi, maka di user tadi, ada di L0-nya,
+
+[00:57:11 → 00:57:16]
+kalau ada L0 yang login, dia ada menu itu, menu verify queue gitu.
+
+[00:57:17 → 00:57:26]
+Jadi ada nodes yang memang untuk AI, ada nodes yang nanti ngatur UI-nya si operator atau verifier ya mas.
+
+[00:57:26 → 00:57:32]
+So far sih, conceptually seperti itu yang gue bayang, based on ngobrol sama 2 klien,
+
+[00:57:32 → 00:57:36]
+cuma kan mungkin kalau di demo inputnya beda lagi ya,
+
+[00:57:36 → 00:57:42]
+jadi kalau untuk demo sih so far kayaknya fitur yang menurut aku perlu dibangun,
+
+[00:57:42 → 00:57:48]
+di cover sama ini, jadi kalau kita upload KPI, dia udah bisa langsung baca
+
+[00:57:48 → 00:57:50]
+ngeeluarin schema JSON-nya apa gitu.
+
+[00:57:50 → 00:57:55]
+Mungkin 2 itu dulu ya, yang untuk minimum buat demo-nya sih mas.
+
+[00:57:55 → 00:57:59]
+Ada pertanyaan nggak dari mas Noval atau mas Rimo?
+
+[00:57:59 → 00:58:07]
+Kalau aku, oke, kalau apa, as a stand alone application, tadi end to end-nya
+
+[00:58:07 → 00:58:11]
+aku setuju udah sophisticated banget, ada workflows-nya juga,
+
+[00:58:11 → 00:58:19]
+paling aku bayangin realistisnya kemudian workflow ini di jahitin ke enterprise-nya gimana?
+
+[00:58:19 → 00:58:20]
+Iya betul.
+
+[00:58:20 → 00:58:27]
+Kalau dari Pellindo tadi kan yang jahit naifanya, kirim API, API-nya juga bukan file,
+
+[00:58:27 → 00:58:31]
+API-nya link untuk download file tersebut gitu.
+
+[00:58:31 → 00:58:38]
+Nah itu tiap jahitan apakah custom aja, ya itu adjustment period buat kita setiap enterprise kita yang jahit gitu,
+
+[00:58:38 → 00:58:44]
+atau udah kita siapkan dulu sama output-nya mas, berarti ini output-nya di dashboard ini,
+
+[00:58:44 → 00:58:51]
+kadang mereka pengennya output-nya ya udah sampai dijahit di tempat mereka juga gitu, jahitan depan belakangnya.
+
+[00:58:51 → 00:58:55]
+Setuju mas Noval, mungkin kalau workflow itu masih ngawang karena betul kata mas Noval,
+
+[00:58:55 → 00:58:58]
+tiap enterprise beda, jadi kayaknya memang harus validasi nih,
+
+[00:58:58 → 00:59:01]
+workflow ini betul-betul butuh atau akan custom tiap client ya,
+
+[00:59:01 → 00:59:08]
+jadi mungkin balik lagi kalau fitur yang untuk demo sih kayaknya yang udah align sih ini ya,
+
+[00:59:08 → 00:59:14]
+terkait autodeckertor skema, klasifikasi sama extract jadi something structured schema JSON gitu ya,
+
+[00:59:14 → 00:59:15]
+aku sih banganya gitu ya.
+
+[00:59:15 → 00:59:18]
+Tapi chaining-nya bagusan yang worthwhile menurutku mas,
+
+[00:59:18 → 00:59:22]
+soalnya kalau yang ini kesannya satu-satu gitu, kalau workflow kan berarti nalir gitu,
+
+[00:59:22 → 00:59:26]
+menurutku alirannya tetap perlu didemokan,
+
+[00:59:26 → 00:59:31]
+bahwa hasil dari classify-nya terus selanjut ke extract, terus selanjut di review gitu,
+
+[00:59:31 → 00:59:35]
+menurut itu bagus, tinggal masalah jahit depan belakangnya aja.
+
+[00:59:35 → 00:59:41]
+Soalnya kalau stand alone, cuman ini extracti doang, ini ini doang gitu,
+
+[00:59:41 → 00:59:46]
+lebih nggak kelihatan value, business value-nya versus workflow ini, menurut aku ini bagus.
+
+[00:59:46 → 00:59:50]
+Make sense. Ya aku bayangkan yang atas tuh part training-nya mas,
+
+[00:59:50 → 00:59:54]
+jadi nggak usah taklokan banyak ke kita untuk training tiap dokumen,
+
+[00:59:54 → 00:59:58]
+jadi dia udah upload dan auto discovery ya, yang bawah tuh lebih ke operator,
+
+[00:59:58 → 01:00:02]
+apa ngatur operator-nya ya, mimpinya gitu sih.
+
+[01:00:02 → 01:00:08]
+Tinggal AI-nya mas, AI-nya tuh kan jemina ya, itu nggak semua company oke with jemina ya,
+
+[01:00:08 → 01:00:10]
+kalau dari mas Hamam gimana mas?
+
+[01:00:10 → 01:00:14]
+Mimpiku tuh gini mas, aku tuh lagi ongoing ngelabelin data mas.
+
+[01:00:19 → 01:00:22]
+Supaya bisa mungkin diinstall quen tiga setengah,
+
+[01:00:22 → 01:00:27]
+ya seingat gedean, nggak tau deh kalau bisa nggak pake GPU ya yang agak kecil, sebentar.
+
+[01:00:27 → 01:00:32]
+Gak, ya kalau, pikiranku malah at least 7B gitu mas,
+
+[01:00:32 → 01:00:37]
+soalnya kalau dibawah gitu se fine tune apapun emang optimis nggak deh,
+
+[01:00:37 → 01:00:41]
+kalau 1B, 3B gitu buat multimodal gitu.
+
+[01:00:44 → 01:00:46]
+Kita multimodal berarti ya?
+
+[01:00:46 → 01:00:51]
+Multimodal kan baca gambar mas, aku nggak optimis mas,
+
+[01:00:51 → 01:00:55]
+kalau kekecilan sih, tapi belum dicoba juga sih.
+
+[01:00:55 → 01:00:59]
+Ini idea temenku sih, mungkin ada beberapa, mungkin klasifikasi agak berat ya,
+
+[01:00:59 → 01:01:06]
+cuma kayaknya kalau extraction tuh skima dia, kemarin tuh temenku pakai apa ya?
+
+[01:01:07 → 01:01:09]
+Ini sebenarnya idea temenku sih mas,
+
+[01:01:09 → 01:01:14]
+jadi dan dia membuktikan untuk extraction tuh pakai quen yang kecil tuh bisa ya.
+
+[01:01:14 → 01:01:19]
+Oke, mungkin kalau di fine tune dengan baik, mungkin terus bisa gitu ya.
+
+[01:01:19 → 01:01:23]
+Cuma ini full distillation sih mas, maksudnya aku, entar mana ya,
+
+[01:01:23 → 01:01:25]
+aku mau buka kliennya lupa nih.
+
+[01:01:25 → 01:01:28]
+Didistill pakai teacher-nya apa mas?
+
+[01:01:28 → 01:01:34]
+Pakai codec yang gede, codec yang gede, apa codec yang 4 sih ya.
+
+[01:01:36 → 01:01:38]
+Oh ini dia.
+
+[01:01:38 → 01:01:43]
+Jadi itu untuk ngeluarin JSON-nya udah pakai codec yang 4,
+
+[01:01:43 → 01:01:46]
+terus sekarang aku lagi manual labeling ya.
+
+[01:01:47 → 01:01:49]
+Eh kok gak ada sih?
+
+[01:01:49 → 01:01:52]
+UV, HD, HD.
+
+[01:01:55 → 01:01:57]
+Aku lupa ya.
+
+[01:01:59 → 01:02:05]
+Sama paling latensi sih mas, kalau kita non-GPU artinya kan prosesnya lama,
+
+[01:02:05 → 01:02:08]
+apakah berarti jangan singkron menurut aku,
+
+[01:02:08 → 01:02:10]
+jadi mereka submit terus habis itu,
+
+[01:02:10 → 01:02:16]
+terus mereka tinggal, terus kalau udah selesai kita email atau whatsapp gitu,
+
+[01:02:16 → 01:02:19]
+versus buat UX-nya biar gak muter terus gitu.
+
+[01:02:19 → 01:02:21]
+Bisa mas, bisa bisa.
+
+[01:02:21 → 01:02:25]
+Atau sebenarnya jangan pakai, atau jangan terlalu ini sih mas,
+
+[01:02:25 → 01:02:33]
+kan aku tuh udah ada, pokoknya sempat megang pricing dari company lain ya,
+
+[01:02:33 → 01:02:38]
+Asis X, nama companynya tuh, dia udah ngeluarin hal yang sama,
+
+[01:02:38 → 01:02:43]
+mirip pricingnya 60 juta per bulan, dan dia ala GPU,
+
+[01:02:43 → 01:02:45]
+maksudnya dan GPU-nya asratus, sebenarnya kalau kita,
+
+[01:02:45 → 01:02:49]
+asal kita bisa pakai GPU di bawah asratus tuh udah gutinah menurut aku ya,
+
+[01:02:49 → 01:02:52]
+jadi gak usah CPU banget gitu.
+
+[01:02:55 → 01:02:57]
+Gitu sih, kalau aku banyak yang mau lah, cuma, I don't know,
+
+[01:02:57 → 01:03:00]
+probably, aku kan bukan orang teknis banget ya,
+
+[01:03:00 → 01:03:02]
+ini cuma karena ngobrol aja sih.
+
+[01:03:02 → 01:03:08]
+Tentenku, iya, tentenku, 3 itu tadi yang jahit ke enterprise-nya depan belakang,
+
+[01:03:08 → 01:03:11]
+LLM yang kita pakai apa, pakai,
+
+[01:03:11 → 01:03:14]
+terus kalau concurrent job, kalau kita GPU-nya cuma 1,
+
+[01:03:14 → 01:03:17]
+artinya ngantri, apakah itu gak apa-apa, itu aja sih.
+
+[01:03:17 → 01:03:20]
+Kalau sisanya tengahnya menurut aku, konsepnya mas,
+
+[01:03:20 → 01:03:24]
+hammam, visible untuk di aktualisasi kan.
+
+[01:03:24 → 01:03:27]
+Nah, atau ini mas, misalnya tadi kan,
+
+[01:03:27 → 01:03:31]
+kalau concurrentnya gak tahu, kita bisa, tadi gak yang pertanyaanku?
+
+[01:03:32 → 01:03:36]
+Bisa kita kasih spek gak? Untuk sekian user, maka butuh hardware seperti apa gitu.
+
+[01:03:36 → 01:03:38]
+Oke, bisa.
+
+[01:03:38 → 01:03:42]
+Jadi, pricing tier-nya kita beda-beda,
+
+[01:03:42 → 01:03:45]
+kalau kita lihat dia kebutuhannya gak banyak, apa,
+
+[01:03:45 → 01:03:50]
+kan ngapain kita kasih rekomenasi hardware yang mahal gitu.
+
+[01:03:50 → 01:03:55]
+Terus kita 2 mode of deployment gitu, mas, 1 SAS, full di kita,
+
+[01:03:55 → 01:03:59]
+inference-nya 1 deploy di mereka gitu, atau full deploy di mereka atau gimana?
+
+[01:03:59 → 01:04:02]
+Aku tuh keharapannya kalau misalnya kejaran enterprise Indonesia,
+
+[01:04:02 → 01:04:06]
+apalagi BFSI mas, kita deploy di sana, cuma tetap bisa tracking usage ya.
+
+[01:04:06 → 01:04:09]
+Jadi ada fitur tracking usage yang kita butuhin ya, dia udah beralpage gitu.
+
+[01:04:11 → 01:04:16]
+Berarti tetap gak lepas ya, berarti tetap somehow tetap ke track ke kita gitu.
+
+[01:04:16 → 01:04:17]
+Betul.
+
+[01:04:17 → 01:04:23]
+Biasanya lepas ya mas, kecuali lupa di-revoke, kayak smart, kayak pelindo gitu.
+
+[01:04:23 → 01:04:27]
+Akunnya lupa di-revoke masih bisa ngecek, cuman biasanya lepas.
+
+[01:04:27 → 01:04:31]
+Ya itu harus dibuat clear dari awal, berarti kita tetap perlu,
+
+[01:04:31 → 01:04:33]
+kenapa kita perlu tracking itu mas?
+
+[01:04:34 → 01:04:38]
+Supaya bayaran atau bulanan, jadi bukan dia beli proyek.
+
+[01:04:40 → 01:04:45]
+Kayaknya SV belum pernah punya proyek bulanan gitu,
+
+[01:04:45 → 01:04:49]
+yang ongoing proyek yang bulanan, jadi bisa perdana.
+
+[01:04:50 → 01:04:51]
+Ya aku penasaran.
+
+[01:04:51 → 01:04:56]
+Ini either talent setahun sekali diperpanjang atau lepasan gitu.
+
+[01:04:56 → 01:04:59]
+Jadi kalau mulai ada yang subscription menarik.
+
+[01:05:00 → 01:05:03]
+Supaya ada cash flow bulanan gitu, saya bayangin ya mas,
+
+[01:05:03 → 01:05:08]
+kalau sekarang nungguin lagi tahunan, aku gak tau sih detail existing businessnya seperti apa.
+
+[01:05:08 → 01:05:11]
+Tapi kalau di enterprise dari networknya mas,
+
+[01:05:11 → 01:05:18]
+mereka tuh subscribe ke banyak service, udah biasa ya mas?
+
+[01:05:19 → 01:05:21]
+Kalau harusnya biasa ya mas.
+
+[01:05:22 → 01:05:25]
+Insya Allah ya, aku gak belum validasi sih.
+
+[01:05:27 → 01:05:34]
+Seenggaknya aku dengar dari Microsoft tuh punya kabilitas ini dan mereka bisa bulanan ya.
+
+[01:05:39 → 01:05:44]
+Paling instruksikan ke kita ROI, kan udah banyak nih,
+
+[01:05:44 → 01:05:49]
+ROI activity yang aku sama Renat perlu lakukan apa gitu mas?
+
+[01:05:49 → 01:05:53]
+Yang ditunggu mas Hamam apa aja, yang paling ditunggu gitu.
+
+[01:05:53 → 01:05:57]
+Takutnya kita fokus ke hal yang sebenarnya itu buat demo gak perlu gitu.
+
+[01:06:01 → 01:06:03]
+Sekarang mungkin aku slide dulu mas.
+
+[01:06:06 → 01:06:08]
+Ini kalau workflow, misalnya aku nanya workflow,
+
+[01:06:08 → 01:06:14]
+mungkin base nya satu workflow simple dulu itu ada pengaruhnya berapa lama ya mas?
+
+[01:06:15 → 01:06:17]
+I don't know butuhnya kapan mas.
+
+[01:06:17 → 01:06:20]
+Gak kan mungkin masih sebulan kali ya,
+
+[01:06:20 → 01:06:22]
+kan sekarang masih lempar prosesal dulu, jadi gak secepat.
+
+[01:06:22 → 01:06:25]
+Minggu depan kita udah selesai bisa.
+
+[01:06:25 → 01:06:27]
+Oh canggih banget.
+
+[01:06:27 → 01:06:32]
+Ada fungsi requirement yang aku butuh define gak?
+
+[01:06:32 → 01:06:34]
+Dari Mas Noval atau gimana?
+
+[01:06:34 → 01:06:36]
+Kasih kaku source code tadi.
+
+[01:06:36 → 01:06:38]
+Oke, tadi HTML sih murni banyaknya.
+
+[01:06:38 → 01:06:39]
+Nggak apa-apa.
+
+[01:06:39 → 01:06:43]
+Jadi gak ada back-endnya, nanti aku push ke git biar di download.
+
+[01:06:43 → 01:06:48]
+Sama IDM berarti dami aja gak usah ada perubahan apa-apa.
+
+[01:06:48 → 01:06:52]
+Mas Hamam cukup tampilan yang isinya dami data semuanya.
+
+[01:06:52 → 01:06:53]
+Betul-betul.
+
+[01:06:53 → 01:06:59]
+Nanti kalau udah ada slide nya, takutnya aku wording nya gak apa sih aneh gitu,
+
+[01:06:59 → 01:07:01]
+tolong nanti tri-view aja kali ya.
+
+[01:07:01 → 01:07:03]
+Oke, not yet mas.
+
+[01:07:03 → 01:07:07]
+Sorry, tadi AIOps jadi mau dijelasin gak mas?
+
+[01:07:07 → 01:07:08]
+Boleh.
+
+[01:07:13 → 01:07:17]
+Jadi AIOps ini produknya...
+
+[01:07:17 → 01:07:21]
+Kalau PL itu bayarnya berapa tau gak? Yang SmartDock?
+
+[01:07:21 → 01:07:25]
+Yang SmartDock 400-500 gitu mas, pekerjaan 3 bulan.
+
+[01:07:31 → 01:07:35]
+Dan mau di-enhance kayaknya mau ada feed tuh kalau jadi.
+
+[01:07:35 → 01:07:37]
+Oh nice.
+
+[01:07:37 → 01:07:42]
+Aku mau ngapain mas? Oh OJK.
+
+[01:07:42 → 01:07:45]
+Agak ya dia sih.
+
+[01:07:45 → 01:07:47]
+Mas Fahal di Bandung di Jakarta mas?
+
+[01:07:47 → 01:07:49]
+Saya lagi di Bandung mas.
+
+[01:07:49 → 01:07:51]
+Tapi suka ke Jakarta?
+
+[01:07:51 → 01:07:55]
+Iya hampir tiap minggu ada waktu ke Jakarta mas.
+
+[01:07:55 → 01:07:57]
+Apalagi apa boleh mas kopi, makin kenal.
+
+[01:07:57 → 01:07:59]
+Daira mana mas?
+
+[01:07:59 → 01:08:02]
+Aku di Bangka mas.
+
+[01:08:02 → 01:08:05]
+Nanti barong renak juga.
+
+[01:08:05 → 01:08:10]
+Oke mas, jadi ini tuh concernnya tentang...
+
+[01:08:10 → 01:08:15]
+Jadi kalau cerita awalnya sih OJK pengen ISO 42001 ini mas.
+
+[01:08:15 → 01:08:20]
+Nah buat mengakomodasi biar compliance ke ISO...
+
+[01:08:20 → 01:08:22]
+Ini kosong ya Rey?
+
+[01:08:22 → 01:08:24]
+Ya udah ini kosong.
+
+[01:08:24 → 01:08:29]
+Biar compliance sama semua klausul disini itu bisa terukur secara sistematis.
+
+[01:08:29 → 01:08:32]
+Itu sekalian dibikinin platform buat monitoringnya.
+
+[01:08:32 → 01:08:37]
+Yang dimonitor itu ada machine learning model sama AI model.
+
+[01:08:37 → 01:08:40]
+Yang inginnya sih dimonitornya bener-bener end to end.
+
+[01:08:40 → 01:08:44]
+Dari mulai si data scientist nya tuh nge-develop di Jupiternya.
+
+[01:08:44 → 01:08:46]
+Atau di VS code nya.
+
+[01:08:46 → 01:08:50]
+Kemudian mereka eksperimennya tuh modelnya berapa versi.
+
+[01:08:50 → 01:08:53]
+Pake data set, tipu apa aja.
+
+[01:08:53 → 01:08:54]
+Itu ketrek semua.
+
+[01:08:54 → 01:08:59]
+Terus sampai akhirnya si DS ini sepakat sama bisnisnya gitu ya untuk deploy.
+
+[01:08:59 → 01:09:05]
+Habis deploy itu baru mulai masuk ke governance gate.
+
+[01:09:05 → 01:09:15]
+Governance gate ini memastikan bahwa modelnya udah layak deploy di OJK.
+
+[01:09:15 → 01:09:18]
+Yang dicek apa aja tergantung custom rule nya di OJK.
+
+[01:09:18 → 01:09:21]
+Kalau disini ada risk nya.
+
+[01:09:21 → 01:09:26]
+Jadi machine learning ini tuh bisnis disruptif atau enggak.
+
+[01:09:26 → 01:09:28]
+Analitik doang.
+
+[01:09:28 → 01:09:30]
+Kalau disruptif harus lebih strict.
+
+[01:09:30 → 01:09:37]
+Karena kan bisa bikin misalnya, aku nggak tahu kalau OJK concern nya apa.
+
+[01:09:37 → 01:09:41]
+Tapi kalau credit scoring itu kan disruptif ya.
+
+[01:09:41 → 01:09:46]
+Soalnya itu menentukan loan mana yang dikrimah, loan mana yang enggak.
+
+[01:09:46 → 01:09:51]
+Berarti itu kan guardrail nya harus lebih kenceng daripada yang analytics aja.
+
+[01:09:52 → 01:09:58]
+Habis selesai, terus habis itu diregister modelnya.
+
+[01:09:58 → 01:10:01]
+Jadi, ini kok kosong ya Rey? Yang nggak kosong yang mana ya Rey?
+
+[01:10:01 → 01:10:14]
+A-I-OPS, OJK, SvEcoID, OJK, SvEcoID, IMS.
+
+[01:10:17 → 01:10:19]
+Oh ini yang nggak kosong.
+
+[01:10:19 → 01:10:26]
+Oke, semua model itu harus diregister semua.
+
+[01:10:26 → 01:10:33]
+Kemudian di dalam dashboard ini ada pipeline dari draft.
+
+[01:10:33 → 01:10:37]
+Jadi pas register jadi draft, terus nanti under review, nanti di assign suatu orang governance
+
+[01:10:37 → 01:10:39]
+buat ngecek modelnya.
+
+[01:10:39 → 01:10:43]
+Terus nanti habis itu di approve, baru boleh di deploy.
+
+[01:10:43 → 01:10:47]
+Nah, setelah di deploy, setelah boleh di deploy sama governance nya,
+
+[01:10:47 → 01:10:51]
+itu berarti nanti DS nya baru, CICD nya baru jalan.
+
+[01:10:51 → 01:10:57]
+Misalnya modelnya di deploy ke kserve atau ke Kubernetes atau apapun
+
+[01:10:57 → 01:11:01]
+yang mereka pakai, setelah di deploy, ini harus di monitor.
+
+[01:11:01 → 01:11:05]
+Apakah performance nya masih oke? Apakah drift?
+
+[01:11:05 → 01:11:08]
+Apakah performance nya oke tapi datanya drift?
+
+[01:11:08 → 01:11:10]
+Itu harus ke monitor semua.
+
+[01:11:10 → 01:11:12]
+Gitu sih mas, sampai situ dulu gimana mas?
+
+[01:11:12 → 01:11:20]
+Ini OJK itu untuk semua fintech yang mau deploy model atau untuk internal nya dia?
+
+[01:11:20 → 01:11:22]
+Internal dia, kalau ini?
+
+[01:11:22 → 01:11:24]
+Oh dia bikin model ya, aku baru tahu juga.
+
+[01:11:24 → 01:11:26]
+Akhirnya turun-terun orang aja.
+
+[01:11:26 → 01:11:29]
+Nah, nggak tahu ini mereka greenfield atau...
+
+[01:11:29 → 01:11:34]
+Ini nggak tahu mereka greenfield atau beneran modelnya udah ada.
+
+[01:11:34 → 01:11:37]
+Kalau greenfield ya berarti mereka baru berencana bikin model.
+
+[01:11:37 → 01:11:43]
+Kalau modelnya udah ada, berarti mereka pengen modelnya itu termonitor dengan baik.
+
+[01:11:43 → 01:11:48]
+Nanti kalau monitornya nanti bisa kelihatan akurasinya,
+
+[01:11:48 → 01:11:51]
+performance yang sesuai dengan machine learning nya gitu,
+
+[01:11:51 → 01:11:57]
+performance trend nya turun atau naik, ada error analisis nya,
+
+[01:11:57 → 01:12:01]
+jadi true positifnya berapa, true negatifnya berapa,
+
+[01:12:01 → 01:12:06]
+data set waktu itu dipakai buat bikin machine learning nya apa gitu.
+
+[01:12:06 → 01:12:13]
+Oke, ini straightforward ya buat monitor ini ya, model deployment doang ya?
+
+[01:12:13 → 01:12:17]
+Cuman kita tuh nggak jual dashboard nya aja mas,
+
+[01:12:17 → 01:12:21]
+jadi bongkar pasang sih kalau mereka perlu aja.
+
+[01:12:21 → 01:12:29]
+Jadi kalau mereka pengen di entire lifecycle ini didesain sama SV semua,
+
+[01:12:29 → 01:12:31]
+berarti nanti kita deploy MLflow juga,
+
+[01:12:32 → 01:12:38]
+buat tracking modelnya, deploy like FS buat tracking data setnya,
+
+[01:12:38 → 01:12:44]
+terus mungkin ada evidently AI buat monitoring AI nya dan seterusnya gitu mas.
+
+[01:12:44 → 01:12:46]
+Jadi nggak cuma dashboard ini doang,
+
+[01:12:46 → 01:12:50]
+kalau dashboard ini doang kan untuk passive governance aja gitu ya.
+
+[01:12:50 → 01:12:54]
+Sama kalau yang AI ini lebih kompleks lagi,
+
+[01:12:54 → 01:12:58]
+karena AI ada yang butuh vector database, ada yang agentic,
+
+[01:12:58 → 01:13:01]
+ada yang stand alone LLM gitu,
+
+[01:13:01 → 01:13:05]
+kalau mereka mau dideploy-in bareng semua platformnya juga,
+
+[01:13:05 → 01:13:08]
+berarti kita deploy line fuse, deploy kidrun, gitu.
+
+[01:13:08 → 01:13:12]
+Berarti ini biasanya dibanding sama work consultation nya kan,
+
+[01:13:12 → 01:13:16]
+dirapihin juga kan itunya si governance deployment nya?
+
+[01:13:16 → 01:13:20]
+Biasanya consultation dulu, biasanya kita kajian dulu,
+
+[01:13:20 → 01:13:24]
+kondisi exiting gimana, sama end state nya pengennya gimana,
+
+[01:13:24 → 01:13:29]
+terus abis itu next phase nya, solusinya dipas-pasin,
+
+[01:13:29 → 01:13:36]
+solusinya hasil kajian itu semoga pas sama IOPS yang kita buat ini,
+
+[01:13:36 → 01:13:38]
+terus implementasi IOPS ini.
+
+[01:13:38 → 01:13:40]
+Itu bukan yang ditanya, Ntri?
+
+[01:13:40 → 01:13:42]
+Iya, betul.
+
+[01:13:42 → 01:13:47]
+Tapi kayaknya OJK cenderung loncat, kayaknya nggak tau harus nanya Bu Tamie,
+
+[01:13:47 → 01:13:52]
+mungkin mereka pengen langsung solusi aja, nggak usah kajian dulu.
+
+[01:13:52 → 01:13:57]
+Oh, berarti kalau solusi kita cuma bikin monitoring dasar sesuai governance mereka ya?
+
+[01:13:57 → 01:14:00]
+Betul, kalau mereka nggak mau diganggu,
+
+[01:14:00 → 01:14:04]
+kalau mereka, soalnya gini Mas, kalau mau beneran govern,
+
+[01:14:04 → 01:14:07]
+itu tiap model machine learning sama AI itu harus direp
+
+[01:14:07 → 01:14:14]
+sama suatu framework yang secara aktif bisa nge-expose metrik-metrik ini,
+
+[01:14:14 → 01:14:19]
+soalnya kalau model machine learning dideploy custom kan ya,
+
+[01:14:19 → 01:14:22]
+belum tentu semua metrik ini ke monitor,
+
+[01:14:22 → 01:14:26]
+belum tentu datanya lengkap untuk memonitor metrik-metrik ini gitu ya Mas.
+
+[01:14:26 → 01:14:29]
+Jadi sebenarnya kalau mereka pengen metriknya nggak kosong gitu,
+
+[01:14:29 → 01:14:35]
+kita bisa desainin wrapper-nya juga, jadi deploy ulang semua model mereka.
+
+[01:14:35 → 01:14:40]
+Tapi kalau mereka nggak mau, apa adanya aja ya berarti kita passive monitoring aja.
+
+[01:14:40 → 01:14:45]
+Berarti filoprocesnya utamanya untuk monitoring ya?
+
+[01:14:45 → 01:14:49]
+Monitoring governance-nya dan performansi modelnya ya Mas?
+
+[01:14:49 → 01:14:53]
+Iya, kayaknya menu apa fitur utamanya itu Mas.
+
+[01:14:53 → 01:14:55]
+Clear, oke.
+
+[01:14:55 → 01:14:59]
+Iso-nya ada, ini sih Mas, klausulnya,
+
+[01:14:59 → 01:15:05]
+kalau mau baca, ini aku kasih ke Mas, dan ham-ham juga,
+
+[01:15:05 → 01:15:08]
+di-chat ya Mas?
+
+[01:15:11 → 01:15:14]
+Oke, kayaknya nggak login Mas, langsung masuk aja.
+
+[01:15:14 → 01:15:19]
+Kayaknya semangat utamanya OJK pengen comply sama klausul-klausul ISO itu.
+
+[01:15:19 → 01:15:24]
+Gitu Mas, 3 itu produk dari saya sama Renat, 3 itu Mas.
+
+[01:15:24 → 01:15:26]
+Oke, mantep.
+
+[01:15:27 → 01:15:31]
+Kalau AI paling ada prom safety Mas, lebih complex nih ya,
+
+[01:15:31 → 01:15:34]
+prom-nya juga ada toxic nggak, misalnya ada prom,
+
+[01:15:34 → 01:15:39]
+gimana cara ngancurin infra-nya OJK, nanti keflaks, sebagai ini toxic nih.
+
+[01:15:39 → 01:15:45]
+Oh, dia ngamonitoring interface apa Mas, untuk ngeliat prom-nya?
+
+[01:15:45 → 01:15:49]
+Dari Langfuse, semua prom harus ada di Langfuse,
+
+[01:15:49 → 01:15:56]
+terus nanti harus ada interface dimana seorang task force di governance-nya OJK
+
+[01:15:56 → 01:16:01]
+itu beneran satu-satu dilihat prom-nya, ada yang toxic nggak gitu.
+
+[01:16:01 → 01:16:06]
+Nggak masalah, user-nya pakai interface apa untuk masukin prom?
+
+[01:16:06 → 01:16:08]
+Custom.
+
+[01:16:08 → 01:16:09]
+Custom.
+
+[01:16:09 → 01:16:13]
+Kalau yang, kalau yang apa?
+
+[01:16:13 → 01:16:19]
+Kalau mau disatuin di dashboard ini juga bisa, belum ada tapi,
+
+[01:16:19 → 01:16:28]
+tapi kalau mau pakai terpisah gitu, ada aplikasi custom buat menilai prom-nya bisa juga.
+
+[01:16:28 → 01:16:30]
+Gimana Mas pertanyaannya, maaf.
+
+[01:16:30 → 01:16:34]
+Maksud aku, itu si data prom-nya dari mana ya?
+
+[01:16:34 → 01:16:36]
+Dia narik dari mana?
+
+[01:16:36 → 01:16:38]
+Dari Langfuse.
+
+[01:16:38 → 01:16:42]
+Yang ngefiding ke Langfuse-nya siapa?
+
+[01:16:42 → 01:16:45]
+Oh, developer-nya, si DS-nya.
+
+[01:16:45 → 01:16:51]
+Di si DS atau yang bikin agentik AI-nya, kan mereka kalau mau bikin,
+
+[01:16:51 → 01:16:56]
+kan pasti mereka bikin app AI pasti bikin instruksinya juga.
+
+[01:16:56 → 01:17:03]
+Instruksinya harus mereka stor di Langfuse untuk kemudian dicek keamanannya sama governance gitu.
+
+[01:17:03 → 01:17:07]
+Distor ke Langfuse-nya via UI atau ada endpoint sendiri?
+
+[01:17:07 → 01:17:15]
+Langsung di Langfuse-nya bisa Mas, pakai kalau Langfuse lumayan, sorry.
+
+[01:17:15 → 01:17:22]
+Kalau Langfuse itu bisa, misalnya prom gitu, bisa langsung new prom disini gitu.
+
+[01:17:22 → 01:17:29]
+Per project bisa juga by res API, bisa juga kita bikinin UI-nya.
+
+[01:17:29 → 01:17:31]
+Siap.
+
+[01:17:31 → 01:17:33]
+Buat nambah prom barunya.
+
+[01:17:33 → 01:17:38]
+Kalau Langfuse-nya terlalu bikin mumet gitu, terlalu kompleks gitu.
+
+[01:17:38 → 01:17:44]
+Tapi belum ada Mas, jadi UI yang udah siap cuma dashboard ini doang gitu.
+
+[01:17:44 → 01:17:45]
+Noted, noted.
+
+[01:17:45 → 01:17:48]
+Oke, cukup bisa dipahami.
+
+[01:17:48 → 01:17:51]
+Sama human feedback Mas, selain prom, kalau prom-nya udah oke,
+
+[01:17:51 → 01:17:55]
+terus nanti dilihat juga antara prom sama respons-nya ada halusinasi nggak,
+
+[01:17:55 → 01:18:01]
+terus jawabannya ada yang bermasalah nggak, ada PII yang leakage nggak gitu-gitu.
+
+[01:18:01 → 01:18:03]
+Oke, oke.
+
+[01:18:03 → 01:18:05]
+Clear, clear.
+
+[01:18:05 → 01:18:07]
+Siap, udah Mas dari aku.
+
+[01:18:07 → 01:18:12]
+So far cukup sih, aku paling ngedraft dulu, tadi kan ya nggak boleh tinggal screenshot-nya ya,
+
+[01:18:12 → 01:18:15]
+cuma mungkin aku blank slide dulu ya untuk screenshot-screenshot-nya.
+
+[01:18:15 → 01:18:21]
+Bikin, I guess link-nya di-share ke kit aku sama Renat juga aja.
+
+[01:18:21 → 01:18:22]
+Clear, oke.
+
+[01:18:22 → 01:18:23]
+Blank slide-nya.
+
+[01:18:23 → 01:18:27]
+Oke, makasih banyak ya waktunya Mas Noval, Mas Renat ternyata agak manjang,
+
+[01:18:27 → 01:18:29]
+ngomong-ngomong cuma sejam, ternyata sejam 20 menit.
+
+[01:18:29 → 01:18:31]
+Menarik sih soalnya bahasanya.
+
+[01:18:31 → 01:18:33]
+Aku thank you banget waktunya.
+
+[01:18:33 → 01:18:37]
+Sebelum aku tutup, ada tambahan mungkin dari Mas Noval sama Mas Renat.
+
+[01:18:37 → 01:18:40]
+Aku udah, Mas. Thank you, Mas sama.
+
+[01:18:40 → 01:18:44]
+Mungkin itu sih, Mas, apa yang kayak tadi di AIOps juga,
+
+[01:18:44 → 01:18:49]
+selain monitoring kayak tadi hasilnya gimana aja, misalkan yang Emil tadi,
+
+[01:18:49 → 01:18:54]
+itu juga ada salah satu yang menurutku pribadi cukup penting, itu kayak explainability-nya.
+
+[01:18:54 → 01:18:59]
+Jadi kalau misalkan sekarang kan kebanyakan, terutama Emil ya, bukan yang agent,
+
+[01:18:59 → 01:19:02]
+itu kan kebanyakan kayak rada black box.
+
+[01:19:02 → 01:19:09]
+Nah, di sana kita bisa tambahin kayak explainability-nya, jadi kayak suatu model itu,
+
+[01:19:09 → 01:19:16]
+dia menghasilkan result itu atau keputusan itu kenapa, itu bisa dicek juga di sana.
+
+[01:19:16 → 01:19:20]
+Oke, itu ada fitur, boleh di up lagi nggak, Mas Renat?
+
+[01:19:20 → 01:19:24]
+Mas Renat yang share mungkin. Aku pengen di-lembakkan.
+
+[01:19:30 → 01:19:34]
+Lebih ke yang...
+
+[01:19:39 → 01:19:41]
+Di sini sih.
+
+[01:19:41 → 01:19:49]
+Nah, kalau yang ini kan sebenarnya ini lebih ke fitur yang penting.
+
+[01:19:49 → 01:19:53]
+Sebenarnya kalau misalkan memang nanti mau di...
+
+[01:19:53 → 01:19:57]
+Emang itu suatu hal yang penting, misalkan untuk OJK gitu,
+
+[01:19:57 → 01:20:03]
+itu bisa di-drill down lebih lanjut lagi, kalau misalkan untuk kayak explainability-nya gitu sih, Mas.
+
+[01:20:03 → 01:20:10]
+Oke. Kayaknya aku harus baca CDSM yang part ini, tapi so far, Mas.
+
+[01:20:11 → 01:20:15]
+Ada teman lagi ya, Mas? Mas Renat sama Mas Noval.
+
+[01:20:15 → 01:20:17]
+Nah, misalnya aman, Mas.
+
+[01:20:17 → 01:20:21]
+Oke. Sekali lagi makasih banyak, mas. Sebetulnya Mas Renat, Mas Noval, maaf nih,
+
+[01:20:21 → 01:20:28]
+nge-read, kayak extend 22 menit, dari aku cukup. Thank you, selamat siang.
+
+[01:20:28 → 01:20:30]
+Siam, Mas. Terima kasih.
+
+[01:20:30 → 01:20:32]
+Terima kasih, Mas.
+

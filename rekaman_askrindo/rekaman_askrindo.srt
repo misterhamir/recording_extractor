@@ -1,0 +1,3692 @@
+1
+00:00:00,000 --> 00:00:06,440
+Mungkin mau ini dulu sih Pak, jadi kan belum kemarin-kemarin ngobrol, belum pengen tau dulu
+
+2
+00:00:06,440 --> 00:00:10,839
+kursi proses di sini seperti apa kan, sekarang kalau secara dokumentasi itu valid kan ya
+
+3
+00:00:10,839 --> 00:00:17,600
+ada banyak dokumentasi, tapi kata orang-orang banyak exceptionnya yaitu apa
+
+4
+00:00:17,600 --> 00:00:22,519
+kalau misal, kalau lancar mah sebenernya nggak masalah, cuma begitu ada perlukan kerenikasi X
+
+5
+00:00:22,519 --> 00:00:29,120
+kerenikasi X itu yang secara peluang mungkin saya mau diajarin dulu ya Pak
+
+6
+00:00:29,160 --> 00:00:36,520
+mungkin nanti begitu, jadi aplikasinya bisa saya bangun sesuai apa, udah cocok sama flow dari SRI
+
+7
+00:00:37,359 --> 00:00:38,799
+oke, jadi..
+
+8
+00:00:38,799 --> 00:00:40,560
+saya mau belajar itu, oke
+
+9
+00:00:41,179 --> 00:00:46,260
+jadi di kita itu kan kalau kaya pinjaman itu kan persis..
+
+10
+00:00:48,320 --> 00:00:50,120
+oke, saya buat ada dua
+
+11
+00:00:50,960 --> 00:00:55,719
+ada yang otomatis, ada yang case by case
+
+12
+00:00:55,719 --> 00:00:56,219
+oke
+
+13
+00:00:56,219 --> 00:00:58,680
+jadi sepemohonan itu ada yang case by case, ada otomatis
+
+14
+00:00:58,719 --> 00:01:04,400
+ini lebih pas kepada yang otomatis, jadi yang sudah baku
+
+15
+00:01:04,400 --> 00:01:04,900
+ya
+
+16
+00:01:06,000 --> 00:01:08,359
+sebentar Pak, askinot itu positioningnya apa ya?
+
+17
+00:01:08,359 --> 00:01:09,799
+sebagai penjamin
+
+18
+00:01:09,799 --> 00:01:10,439
+penjamin
+
+19
+00:01:10,439 --> 00:01:10,939
+ya
+
+20
+00:01:10,939 --> 00:01:11,840
+penjamin itu..
+
+21
+00:01:12,480 --> 00:01:16,120
+jadi penjamin itu kalau bang..
+
+22
+00:01:19,159 --> 00:01:23,120
+bang sama nasabah, nasabah mengajukan
+
+23
+00:01:23,120 --> 00:01:23,799
+ya
+
+24
+00:01:23,799 --> 00:01:27,000
+nasabah mengajukan pinjaman
+
+25
+00:01:27,400 --> 00:01:31,840
+pinjaman ini sebagian dijamin oleh askinot saya
+
+26
+00:01:31,840 --> 00:01:33,120
+oh..
+
+27
+00:01:34,680 --> 00:01:36,879
+jadi kita ini dapat..
+
+28
+00:01:38,879 --> 00:01:39,540
+dapat..
+
+29
+00:01:39,540 --> 00:01:41,079
+dapat..
+
+30
+00:01:41,079 --> 00:01:42,640
+tugas atau..
+
+31
+00:01:43,719 --> 00:01:45,960
+dapat tugas lah atau dapat bisnis
+
+32
+00:01:45,960 --> 00:01:46,460
+hmm..
+
+33
+00:01:46,460 --> 00:01:48,740
+contoh yang gampang itu kur
+
+34
+00:01:48,740 --> 00:01:49,420
+oke
+
+35
+00:01:50,159 --> 00:01:52,240
+kur itu harus dijamin
+
+36
+00:01:52,240 --> 00:01:52,939
+ya
+
+37
+00:01:53,519 --> 00:01:56,359
+karena gunanya kurang dan sebagainya, jadi dijamin lah sama..
+
+38
+00:01:58,000 --> 00:01:59,000
+kan begitu
+
+39
+00:01:59,000 --> 00:01:59,500
+tuh..
+
+40
+00:02:00,840 --> 00:02:02,840
+bayar premium berarti bang kasirin lalu ya?
+
+41
+00:02:02,840 --> 00:02:04,280
+bang harus bayar premium
+
+42
+00:02:04,280 --> 00:02:07,000
+kalau si nasabahnya default
+
+43
+00:02:07,000 --> 00:02:09,919
+tidak, dari awal harus udah harus harus bayar
+
+44
+00:02:09,919 --> 00:02:13,039
+kalau premium nanti akan ditanggung begitu default ya Pak ya?
+
+45
+00:02:13,039 --> 00:02:13,539
+ya
+
+46
+00:02:13,539 --> 00:02:14,039
+oh..
+
+47
+00:02:19,439 --> 00:02:19,939
+jadi..
+
+48
+00:02:19,939 --> 00:02:20,439
+hmm..
+
+49
+00:02:20,439 --> 00:02:20,939
+hmm..
+
+50
+00:02:21,639 --> 00:02:24,599
+ada dua pembayaran premium semua
+
+51
+00:02:25,599 --> 00:02:26,599
+terus..
+
+52
+00:02:28,919 --> 00:02:31,199
+pembayaran apabila ada default
+
+53
+00:02:31,199 --> 00:02:31,699
+hmm..
+
+54
+00:02:33,799 --> 00:02:37,319
+jadi ada dua jenis yang berhubungan
+
+55
+00:02:37,319 --> 00:02:37,819
+oke
+
+56
+00:02:37,819 --> 00:02:41,519
+sekarang Mas Shana mau ambil yang mana ini
+
+57
+00:02:41,519 --> 00:02:42,019
+ya
+
+58
+00:02:43,799 --> 00:02:47,919
+yang permohonan atau yang pembayaran claim
+
+59
+00:02:47,919 --> 00:02:50,919
+ini bagus juga ini kalau yang pembayaran claim ini
+
+60
+00:02:50,919 --> 00:02:51,419
+oh..
+
+61
+00:02:51,419 --> 00:02:52,879
+askinot ini bukan broker Pak ya?
+
+62
+00:02:52,879 --> 00:02:53,879
+broker
+
+63
+00:02:53,879 --> 00:02:55,719
+broker bukan bukan bukan broker
+
+64
+00:02:55,719 --> 00:02:56,359
+bukan broker
+
+65
+00:02:56,359 --> 00:02:58,359
+bukan broker, kalau broker..
+
+66
+00:02:58,359 --> 00:03:00,359
+kayaan medika gitu kaya brisma
+
+67
+00:03:00,359 --> 00:03:01,799
+kaya brisma itu broker
+
+68
+00:03:01,799 --> 00:03:02,299
+oh..
+
+69
+00:03:02,599 --> 00:03:04,280
+ini broker, kalau itu broker
+
+70
+00:03:04,280 --> 00:03:05,400
+kalau broker..
+
+71
+00:03:05,879 --> 00:03:07,359
+kerjanya adalah..
+
+72
+00:03:07,359 --> 00:03:07,859
+hmm..
+
+73
+00:03:09,840 --> 00:03:10,639
+sama..
+
+74
+00:03:12,879 --> 00:03:13,759
+satu-satunya
+
+75
+00:03:15,319 --> 00:03:16,759
+bang dengan nasabah
+
+76
+00:03:16,759 --> 00:03:17,259
+hmm..
+
+77
+00:03:17,879 --> 00:03:20,560
+asuransi itu di belakang broker
+
+78
+00:03:20,560 --> 00:03:21,560
+oh..
+
+79
+00:03:21,960 --> 00:03:23,719
+jadi verifikasi dokumen di broker ya?
+
+80
+00:03:23,719 --> 00:03:24,219
+ya..
+
+81
+00:03:24,840 --> 00:03:26,039
+payoutnya dia di dia
+
+82
+00:03:26,039 --> 00:03:26,539
+ya..
+
+83
+00:03:26,879 --> 00:03:29,080
+ini cuma bilang oh ini verifikasinya seperti ini
+
+84
+00:03:29,080 --> 00:03:29,580
+dia..
+
+85
+00:03:29,580 --> 00:03:30,080
+dia mau tukar..
+
+86
+00:03:30,080 --> 00:03:32,080
+permintaannya seperti apa ini
+
+87
+00:03:32,080 --> 00:03:33,520
+ini kan tinggal copy paste kesini
+
+88
+00:03:33,520 --> 00:03:34,020
+ya..
+
+89
+00:03:35,020 --> 00:03:36,479
+inilah yang dijual
+
+90
+00:03:36,479 --> 00:03:36,979
+oke..
+
+91
+00:03:39,840 --> 00:03:42,039
+kalau yang sifatnya sebut seperti ini
+
+92
+00:03:42,039 --> 00:03:43,640
+harusnya yang case by case
+
+93
+00:03:43,640 --> 00:03:44,140
+eh..
+
+94
+00:03:44,140 --> 00:03:44,640
+saya..
+
+95
+00:03:44,640 --> 00:03:45,560
+automatic cover
+
+96
+00:03:45,560 --> 00:03:46,560
+automatic cover
+
+97
+00:03:46,560 --> 00:03:47,060
+ya..
+
+98
+00:03:47,060 --> 00:03:48,719
+kenapa automatic cover?
+
+99
+00:03:48,719 --> 00:03:50,560
+karena supaya lebih mudah
+
+100
+00:03:50,560 --> 00:03:51,060
+praktis
+
+101
+00:03:51,060 --> 00:03:51,560
+kalau..
+
+102
+00:03:51,860 --> 00:03:53,060
+CBC itu case by case
+
+103
+00:03:53,060 --> 00:03:54,780
+harus pijaman-pijaman per apa..
+
+104
+00:03:54,780 --> 00:03:55,539
+korporasi
+
+105
+00:03:55,539 --> 00:03:56,039
+oke..
+
+106
+00:03:56,039 --> 00:03:57,039
+perorangan..
+
+107
+00:03:57,539 --> 00:03:58,819
+perorangan produktif
+
+108
+00:03:58,819 --> 00:03:59,539
+itu-itu
+
+109
+00:03:59,539 --> 00:04:00,180
+oh..
+
+110
+00:04:00,180 --> 00:04:02,060
+tapi kalau yang..
+
+111
+00:04:02,060 --> 00:04:03,580
+sifatnya tidak masal
+
+112
+00:04:03,580 --> 00:04:05,740
+nah itu pasti case by case
+
+113
+00:04:05,740 --> 00:04:07,659
+nggak lewat broker ya? lewat Sona ya?
+
+114
+00:04:07,659 --> 00:04:08,180
+nggak
+
+115
+00:04:08,180 --> 00:04:09,740
+kalau broker itu semua
+
+116
+00:04:09,740 --> 00:04:10,379
+oh semua
+
+117
+00:04:10,379 --> 00:04:12,740
+semua semua bisa lewat broker
+
+118
+00:04:12,740 --> 00:04:13,240
+oh..
+
+119
+00:04:13,659 --> 00:04:15,140
+mau case by case
+
+120
+00:04:15,140 --> 00:04:16,139
+mau..
+
+121
+00:04:17,060 --> 00:04:17,899
+mau case by case
+
+122
+00:04:17,899 --> 00:04:19,259
+di sini ada case by case
+
+123
+00:04:19,259 --> 00:04:19,860
+ada..
+
+124
+00:04:20,060 --> 00:04:21,060
+automatic..
+
+125
+00:04:21,060 --> 00:04:22,060
+CAC
+
+126
+00:04:22,060 --> 00:04:23,060
+CAC..
+
+127
+00:04:23,660 --> 00:04:24,160
+oh..
+
+128
+00:04:24,160 --> 00:04:26,460
+apa yang membedakan CAC?
+
+129
+00:04:27,060 --> 00:04:29,060
+CAC itu automatic cover
+
+130
+00:04:29,560 --> 00:04:32,460
+kayak kredit-kredit consumer potong gaji itu CAC
+
+131
+00:04:32,460 --> 00:04:33,460
+oh..
+
+132
+00:04:34,660 --> 00:04:35,860
+tapi kalau..
+
+133
+00:04:35,860 --> 00:04:37,460
+kredit-kredit produktif
+
+134
+00:04:37,460 --> 00:04:37,960
+oh..
+
+135
+00:04:37,960 --> 00:04:40,460
+misalnya WA, konstruksi
+
+136
+00:04:40,460 --> 00:04:42,460
+itu nggak bisa automatic cover
+
+137
+00:04:42,460 --> 00:04:44,860
+itu harus case by case, harus ada analisannya
+
+138
+00:04:44,860 --> 00:04:45,660
+iya iya iya iya..
+
+139
+00:04:45,660 --> 00:04:47,259
+nah yang membuat..
+
+140
+00:04:47,259 --> 00:04:48,860
+CBC sama CAC itu
+
+141
+00:04:48,860 --> 00:04:51,060
+adalah simplifikasi saja
+
+142
+00:04:51,060 --> 00:04:52,060
+hmm..
+
+143
+00:04:52,259 --> 00:04:56,259
+baik simplifikasi permohonan maupun simplifikasi claim
+
+144
+00:04:56,259 --> 00:04:57,259
+oke..
+
+145
+00:04:57,860 --> 00:05:00,060
+itu yang membedakan automatic
+
+146
+00:05:00,060 --> 00:05:01,060
+sama..
+
+147
+00:05:01,860 --> 00:05:02,860
+CBC.. case by case
+
+148
+00:05:02,860 --> 00:05:03,860
+iya..
+
+149
+00:05:04,259 --> 00:05:05,259
+mungkin..
+
+150
+00:05:05,259 --> 00:05:07,460
+boleh dijelaskan dulu aja pak, apa flow-nya ya
+
+151
+00:05:07,460 --> 00:05:08,860
+permohonan dan..
+
+152
+00:05:08,860 --> 00:05:09,860
+dan ini ya?
+
+153
+00:05:09,860 --> 00:05:10,259
+baik-baik
+
+154
+00:05:10,259 --> 00:05:12,660
+ini sebagai broker atau mau langsung?
+
+155
+00:05:12,660 --> 00:05:16,660
+mungkin Askrindo dulu kan, setidaknya broker cuma case by case apa cuma..
+
+156
+00:05:16,660 --> 00:05:17,660
+tambahan aja kan
+
+157
+00:05:17,660 --> 00:05:20,260
+jadi mungkin normalnya dulu tanpa broker pak
+
+158
+00:05:20,260 --> 00:05:21,260
+tanpa broker
+
+159
+00:05:22,060 --> 00:05:26,060
+kalau tanpa broker, saya kasih contoh yang paling mudah yang untuk di..
+
+160
+00:05:26,060 --> 00:05:28,060
+bisa dikerjakan adalah..
+
+161
+00:05:28,060 --> 00:05:29,060
+ini CAC?
+
+162
+00:05:29,860 --> 00:05:30,860
+CAC
+
+163
+00:05:31,460 --> 00:05:34,260
+CAC misalnya credit consumer
+
+164
+00:05:34,260 --> 00:05:35,060
+hmm..
+
+165
+00:05:35,060 --> 00:05:36,860
+konsumer apa potong gaji
+
+166
+00:05:36,860 --> 00:05:37,860
+oke..
+
+167
+00:05:38,860 --> 00:05:42,260
+berarti sudah ada dari bank sudah punya standar nih
+
+168
+00:05:42,260 --> 00:05:43,260
+hmm..
+
+169
+00:05:43,860 --> 00:05:46,460
+sorry, dari bank sudah punya ada standar sama..
+
+170
+00:05:46,459 --> 00:05:48,659
+nasabah ini standar nasabah apa
+
+171
+00:05:48,659 --> 00:05:49,659
+iya..
+
+172
+00:05:50,060 --> 00:05:51,659
+formulir..
+
+173
+00:05:52,259 --> 00:05:53,659
+formulirnya misalnya..
+
+174
+00:05:54,459 --> 00:05:56,259
+berperol di bank
+
+175
+00:05:56,259 --> 00:05:57,259
+hmm..
+
+176
+00:05:57,859 --> 00:06:00,859
+ada SK, ada pengangkatan
+
+177
+00:06:00,859 --> 00:06:02,659
+ada PKS
+
+178
+00:06:02,659 --> 00:06:03,259
+iya..
+
+179
+00:06:03,259 --> 00:06:06,459
+mungkin PKS antara instansinya nasabah ini sama..
+
+180
+00:06:07,459 --> 00:06:07,859
+yang..
+
+181
+00:06:07,859 --> 00:06:08,859
+oh oke..
+
+182
+00:06:10,859 --> 00:06:12,859
+istana pengangkatan, oke itu untuk..
+
+183
+00:06:12,859 --> 00:06:15,060
+iya dokumen dan dokumen
+
+184
+00:06:15,060 --> 00:06:16,660
+nanti ada under rating ya pak?
+
+185
+00:06:16,660 --> 00:06:18,060
+hmm..
+
+186
+00:06:18,060 --> 00:06:21,860
+kalau under rating itu, kalau sudah CAC
+
+187
+00:06:22,860 --> 00:06:25,660
+sudah CAC nanti ada under rating sudah tersistem
+
+188
+00:06:25,660 --> 00:06:27,259
+oh jadi nggak ada orang lagi ya?
+
+189
+00:06:27,259 --> 00:06:28,459
+harus mesin
+
+190
+00:06:28,459 --> 00:06:29,660
+dari inputannya udah keluar berapa lah?
+
+191
+00:06:29,660 --> 00:06:32,860
+kalau sudah inputan itu misalnya gajinya sekian
+
+192
+00:06:32,860 --> 00:06:36,060
+dapatnya sekian, verifikasinya sekian
+
+193
+00:06:36,060 --> 00:06:37,060
+nah itu sudah harus
+
+194
+00:06:37,060 --> 00:06:38,060
+baik mesin
+
+195
+00:06:38,060 --> 00:06:40,860
+ini biasanya pinjamannya yang pinjaman cicilan berarti pak?
+
+196
+00:06:40,860 --> 00:06:41,860
+misalnya buat beli hp gitu?
+
+197
+00:06:41,860 --> 00:06:44,660
+iya yang cicilan yang konsumer potong gaji itu kan
+
+198
+00:06:44,660 --> 00:06:46,660
+bukan overdraft yang poiskansing kan?
+
+199
+00:06:46,660 --> 00:06:47,660
+bukan, bukan..
+
+200
+00:06:47,660 --> 00:06:50,660
+jadi kan kita tadi ngomong CAC
+
+201
+00:06:52,660 --> 00:06:54,660
+oleh sebab itu perlu nya..
+
+202
+00:06:54,660 --> 00:06:56,660
+ini nih apa tadi..
+
+203
+00:06:56,660 --> 00:06:59,660
+format yang baku yang disepakati antara..
+
+204
+00:07:00,660 --> 00:07:02,660
+bank sama asuransi
+
+205
+00:07:02,660 --> 00:07:03,660
+oke..
+
+206
+00:07:03,660 --> 00:07:07,660
+ini CAC menentukan pinjaman sekali disbers atau dapat platform juga pak?
+
+207
+00:07:08,660 --> 00:07:09,660
+sekali disbers
+
+208
+00:07:09,660 --> 00:07:10,660
+oh..
+
+209
+00:07:10,660 --> 00:07:13,660
+kan kayak potong gaji kan sekali disbers saja
+
+210
+00:07:13,660 --> 00:07:14,660
+iya iya iya
+
+211
+00:07:14,660 --> 00:07:15,660
+gajinya berapa?
+
+212
+00:07:15,660 --> 00:07:16,660
+berapa misalnya?
+
+213
+00:07:16,660 --> 00:07:18,660
+75% dari gaji maksimum
+
+214
+00:07:18,660 --> 00:07:20,660
+repelman kapasiti, pokok sama bunga
+
+215
+00:07:20,660 --> 00:07:21,660
+sudah
+
+216
+00:07:22,660 --> 00:07:23,660
+tapi nggak ada platform ya?
+
+217
+00:07:23,660 --> 00:07:25,660
+jadi kalau mau ini gajuin lagi dia?
+
+218
+00:07:25,660 --> 00:07:26,660
+sekali aja
+
+219
+00:07:26,660 --> 00:07:28,660
+platformnya cuma sekali
+
+220
+00:07:28,660 --> 00:07:30,660
+ditarik penuh langsung
+
+221
+00:07:30,660 --> 00:07:31,660
+oh gitu ya?
+
+222
+00:07:31,660 --> 00:07:33,660
+jadi bukan..
+
+223
+00:07:33,660 --> 00:07:34,660
+oh nggak?
+
+224
+00:07:34,660 --> 00:07:37,660
+bukan reken itu kan konsumptif itu kan langsung ditarik penuh
+
+225
+00:07:37,660 --> 00:07:39,660
+untuk beli mobil, untuk beli motor
+
+226
+00:07:39,660 --> 00:07:40,660
+jadi nggak bisa..
+
+227
+00:07:40,660 --> 00:07:42,660
+jadi kalau balik nggak nggak disulang?
+
+228
+00:07:42,660 --> 00:07:43,660
+nggak
+
+229
+00:07:43,660 --> 00:07:45,660
+jadi langsung yang turun, turun, turun, turun, turun
+
+230
+00:07:45,660 --> 00:07:47,660
+risikannya makin turun
+
+231
+00:07:50,660 --> 00:07:54,660
+nah sekarang dari dokumen tersebut akan menghasilkan CAC
+
+232
+00:07:55,660 --> 00:07:58,660
+tadi yang saya sampaikan, mulai dari potongga
+
+233
+00:07:58,660 --> 00:08:00,660
+apa slicknya dulu baik, nggak
+
+234
+00:08:00,660 --> 00:08:01,660
+iya
+
+235
+00:08:01,660 --> 00:08:03,660
+kalau slick jelek udah pasti tolak
+
+236
+00:08:03,660 --> 00:08:04,660
+iya
+
+237
+00:08:05,660 --> 00:08:06,660
+slick, slick jelek
+
+238
+00:08:06,660 --> 00:08:10,660
+kalau berapa kena apa itu harus ada dua tabel lah misalnya
+
+239
+00:08:11,660 --> 00:08:13,660
+nomor satu slick, terus
+
+240
+00:08:13,660 --> 00:08:16,660
+ya dokumen yang bisa disampaikan lah
+
+241
+00:08:18,660 --> 00:08:20,660
+ada PKS nggak?
+
+242
+00:08:20,660 --> 00:08:22,660
+nggak ada PKS
+
+243
+00:08:22,660 --> 00:08:24,660
+risikannya berarti agak gede
+
+244
+00:08:24,660 --> 00:08:26,660
+scoring berarti kan harus buat scoring
+
+245
+00:08:26,660 --> 00:08:28,660
+PKSnya PKS dengan bang maksudnya ya?
+
+246
+00:08:28,660 --> 00:08:29,660
+PKSnya PKS dengan bang?
+
+247
+00:08:29,660 --> 00:08:30,660
+iya bang, dengan ini kan?
+
+248
+00:08:30,660 --> 00:08:31,660
+NasaBah
+
+249
+00:08:31,660 --> 00:08:32,660
+NasaBah
+
+250
+00:08:32,660 --> 00:08:33,660
+iya iya iya
+
+251
+00:08:33,660 --> 00:08:35,660
+dengan instansinya, kalau ini kan saya hanya nyanyi amin
+
+252
+00:08:35,660 --> 00:08:36,660
+oh
+
+253
+00:08:36,660 --> 00:08:37,660
+saya kan hanya nyanyi amin
+
+254
+00:08:38,659 --> 00:08:40,659
+PKS antara bang dengan persaannya ya?
+
+255
+00:08:40,659 --> 00:08:41,659
+iya
+
+256
+00:08:41,659 --> 00:08:42,659
+oke oke
+
+257
+00:08:42,659 --> 00:08:45,659
+saya kan hanya nyanyi amin, misalnya bang Raya dengan
+
+258
+00:08:46,659 --> 00:08:47,659
+Telkom lah
+
+259
+00:08:47,659 --> 00:08:48,659
+sama Telkom
+
+260
+00:08:48,659 --> 00:08:49,659
+iya
+
+261
+00:08:49,659 --> 00:08:50,659
+iya kan?
+
+262
+00:08:50,659 --> 00:08:51,659
+iya
+
+263
+00:08:51,659 --> 00:08:56,659
+nah, disini kan bang Raya ngasih sarat tuh dokumennya apa aja kan
+
+264
+00:08:56,659 --> 00:08:59,659
+slick ini gaji dan sebagainya
+
+265
+00:08:59,659 --> 00:09:00,659
+iya
+
+266
+00:09:00,659 --> 00:09:06,659
+nah, terus gaji yang berapa, risikonya berapa misalnya anak punya berapa itu kan nanti CML yang nentuin
+
+267
+00:09:06,659 --> 00:09:08,659
+apa aja yang dinyintin
+
+268
+00:09:08,659 --> 00:09:10,659
+ada PKSnya enggak? kan enggak ada PKSnya
+
+269
+00:09:10,659 --> 00:09:12,659
+harus potongan diri soalnya
+
+270
+00:09:12,659 --> 00:09:13,659
+bukan
+
+271
+00:09:14,659 --> 00:09:16,659
+payroll kan harus di bang Raya
+
+272
+00:09:16,659 --> 00:09:17,659
+harus di bang Raya
+
+273
+00:09:17,659 --> 00:09:18,659
+harus ada PKS enggak?
+
+274
+00:09:19,659 --> 00:09:21,659
+bisa jadi, Telkom ngomong begini
+
+275
+00:09:21,659 --> 00:09:24,659
+ah, loe yang mau kok ngapain buat PKS?
+
+276
+00:09:24,659 --> 00:09:26,659
+terserah, gue enggak mau
+
+277
+00:09:26,659 --> 00:09:27,659
+kalau mau payroll silahkan
+
+278
+00:09:27,659 --> 00:09:29,659
+nah, itu yang seperti gitu kan
+
+279
+00:09:29,659 --> 00:09:31,659
+jadi PKS itu
+
+280
+00:09:32,659 --> 00:09:34,659
+ada yang bisa dilakukan, ada yang tidak
+
+281
+00:09:34,659 --> 00:09:35,659
+ada yang tidak
+
+282
+00:09:35,659 --> 00:09:36,659
+keuntungannya ada PKS apa?
+
+283
+00:09:36,659 --> 00:09:39,659
+kalau ada PKS kan disitu ada keterikatan
+
+284
+00:09:39,659 --> 00:09:41,659
+perusahaan Telkomnya
+
+285
+00:09:41,659 --> 00:09:44,659
+terhadap nasabah, eh, terhadap pegawainya
+
+286
+00:09:44,659 --> 00:09:46,659
+misalnya
+
+287
+00:09:46,659 --> 00:09:47,659
+oh iya
+
+288
+00:09:47,659 --> 00:09:49,659
+kalau pindah
+
+289
+00:09:49,659 --> 00:09:50,659
+misalnya
+
+290
+00:09:50,659 --> 00:09:52,659
+kalau pindah kota, pindah mutasi
+
+291
+00:09:52,659 --> 00:09:54,659
+di informasikan
+
+292
+00:09:54,659 --> 00:09:55,659
+ada resiko itunya
+
+293
+00:09:55,659 --> 00:09:57,659
+iya, ada resiko itu
+
+294
+00:09:57,659 --> 00:10:00,659
+tapi kalau enggak ada di PKS, enggak di bunuhkan
+
+295
+00:10:00,659 --> 00:10:02,659
+ya suka-suka ya kamu cari-cari sendiri gitu
+
+296
+00:10:02,659 --> 00:10:03,659
+iya
+
+297
+00:10:04,659 --> 00:10:07,659
+jadi saya menjaminkan juga beresiko
+
+298
+00:10:09,659 --> 00:10:10,659
+ini sambungannya itu
+
+299
+00:10:10,659 --> 00:10:11,659
+iya, iya, iya
+
+300
+00:10:13,659 --> 00:10:16,659
+nah, dari sini akan menghasilkan CRR kanan
+
+301
+00:10:16,659 --> 00:10:18,659
+resiko enggak masuklah disini
+
+302
+00:10:18,659 --> 00:10:19,659
+clear ya
+
+303
+00:10:19,659 --> 00:10:20,659
+clear
+
+304
+00:10:20,659 --> 00:10:23,659
+saya menjamin juga ngomong
+
+305
+00:10:25,659 --> 00:10:28,659
+kalau payrollnya pindah, aku enggak mau claim
+
+306
+00:10:29,659 --> 00:10:32,659
+kalau payrollnya pindah ke Telkom, mindahin loe ya
+
+307
+00:10:32,659 --> 00:10:33,659
+iya
+
+308
+00:10:33,659 --> 00:10:34,659
+enggak mau
+
+309
+00:10:35,659 --> 00:10:37,659
+misalnya PKS tau-tau
+
+310
+00:10:37,659 --> 00:10:39,659
+perol Telkom enggak mau
+
+311
+00:10:41,659 --> 00:10:43,659
+enggak mau melanjutkan PKS
+
+312
+00:10:45,659 --> 00:10:46,659
+gitu ya
+
+313
+00:10:46,659 --> 00:10:48,659
+seperti bagi itu
+
+314
+00:10:48,659 --> 00:10:49,659
+yang di luar
+
+315
+00:10:49,659 --> 00:10:51,659
+yang harus ada itu
+
+316
+00:10:51,659 --> 00:10:53,659
+nah, timbang mengajukan ke mana ya?
+
+317
+00:10:54,659 --> 00:10:55,659
+dari awal kan
+
+318
+00:10:55,659 --> 00:10:58,659
+ini kan dari awal harus sudah ada PKS semua, oke
+
+319
+00:10:59,659 --> 00:11:00,659
+oke
+
+320
+00:11:00,659 --> 00:11:01,659
+untuk itu kan
+
+321
+00:11:01,659 --> 00:11:02,659
+dia cari
+
+322
+00:11:02,659 --> 00:11:03,659
+bang kan cari
+
+323
+00:11:03,659 --> 00:11:04,659
+siapa yang mau jamin ini?
+
+324
+00:11:04,659 --> 00:11:06,659
+kalau dia nggak bayar
+
+325
+00:11:07,659 --> 00:11:08,659
+nah, cari asuransi kan
+
+326
+00:11:08,659 --> 00:11:09,659
+iya
+
+327
+00:11:09,659 --> 00:11:11,659
+temkondisinya kayak apa?
+
+328
+00:11:11,659 --> 00:11:12,659
+iya
+
+329
+00:11:12,659 --> 00:11:13,659
+di sini lah temkondisinya
+
+330
+00:11:13,659 --> 00:11:17,659
+saya sebagai masamam, sebagai penjamin kan harus
+
+331
+00:11:17,659 --> 00:11:19,659
+tau temkondisinya apa aja pak Eko
+
+332
+00:11:22,659 --> 00:11:23,659
+apa sarat claimnya?
+
+333
+00:11:23,659 --> 00:11:24,659
+iya, iya, iya
+
+334
+00:11:24,659 --> 00:11:25,659
+yang nggak claim seperti apa?
+
+335
+00:11:25,659 --> 00:11:26,659
+yang claim seperti apa?
+
+336
+00:11:26,659 --> 00:11:27,659
+itulah
+
+337
+00:11:28,659 --> 00:11:31,659
+berarti asuransi itu menjaminnya satu produk ya?
+
+338
+00:11:31,659 --> 00:11:32,659
+bukan satu
+
+339
+00:11:32,659 --> 00:11:33,659
+enggak, satu produk aja
+
+340
+00:11:33,659 --> 00:11:36,659
+satu case, satu produk
+
+341
+00:11:36,659 --> 00:11:37,659
+iya kan
+
+342
+00:11:37,659 --> 00:11:39,659
+satu produk dan supnya saja
+
+343
+00:11:39,659 --> 00:11:40,659
+iya, iya, iya
+
+344
+00:11:41,659 --> 00:11:43,659
+jadi nggak usah per ini bikin asuransi baru kan
+
+345
+00:11:43,659 --> 00:11:44,659
+per perlajuannya
+
+346
+00:11:44,659 --> 00:11:45,659
+enggak, enggak
+
+347
+00:11:45,659 --> 00:11:46,659
+udah satu grup kan
+
+348
+00:11:46,659 --> 00:11:47,659
+iya, satu grup produk
+
+349
+00:11:47,659 --> 00:11:48,659
+satu
+
+350
+00:11:49,659 --> 00:11:51,659
+jadi bukan kayak bilet depositus
+
+351
+00:11:51,659 --> 00:11:53,659
+enggak, ini grup kita ada
+
+352
+00:11:53,659 --> 00:11:54,659
+iya, iya
+
+353
+00:11:54,659 --> 00:11:56,659
+selama berapa tahun lah adanya
+
+354
+00:11:56,659 --> 00:11:57,659
+iya
+
+355
+00:12:00,659 --> 00:12:01,659
+kan begini kan
+
+356
+00:12:01,659 --> 00:12:02,659
+iya, iya
+
+357
+00:12:03,659 --> 00:12:04,659
+di sini ada underwriting lagi pak
+
+358
+00:12:04,659 --> 00:12:06,659
+setelah dapat info dari bang
+
+359
+00:12:06,659 --> 00:12:12,659
+nah underwriting saya kan saya membuat tabel CRR sendiri juga kan
+
+360
+00:12:12,659 --> 00:12:13,659
+oke
+
+361
+00:12:13,659 --> 00:12:16,659
+di sini punya CRR, di sini punya CRN
+
+362
+00:12:16,659 --> 00:12:19,659
+nah biasa kita klopkan nih CRN sama CRR-nya nih
+
+363
+00:12:19,659 --> 00:12:22,659
+supaya nggak beda opini
+
+364
+00:12:23,659 --> 00:12:25,659
+menurut dia 5 bagus
+
+365
+00:12:25,659 --> 00:12:27,659
+menurut kita 5 cukup kan nggak
+
+366
+00:12:27,659 --> 00:12:29,659
+iya, iya, iya
+
+367
+00:12:31,659 --> 00:12:34,659
+harus kita dekatkan gitu loh
+
+368
+00:12:34,659 --> 00:12:35,659
+iya
+
+369
+00:12:35,659 --> 00:12:37,659
+jangan terlalu bias gitu loh
+
+370
+00:12:38,659 --> 00:12:41,659
+misalnya usia kurang 5 tahun pensiun
+
+371
+00:12:41,659 --> 00:12:43,659
+beresiko, berarti kreditenya cuma 4 tahun
+
+372
+00:12:43,659 --> 00:12:45,659
+iya, iya, iya
+
+373
+00:12:46,659 --> 00:12:49,659
+preminya itu dibayar sekali di depan?
+
+374
+00:12:49,659 --> 00:12:50,659
+sekali
+
+375
+00:12:50,659 --> 00:12:51,659
+oh bukan bulanan?
+
+376
+00:12:51,659 --> 00:12:52,659
+bukan
+
+377
+00:12:52,659 --> 00:12:53,659
+oke
+
+378
+00:12:53,659 --> 00:12:54,659
+ini saya lihat-lihat
+
+379
+00:12:54,659 --> 00:12:57,659
+tapi di sini nanti pembukuhannya bulanan atau apa saya nggak ngerti
+
+380
+00:12:57,659 --> 00:12:58,659
+iya, iya, iya
+
+381
+00:12:58,659 --> 00:12:59,659
+di asuransinya
+
+382
+00:12:59,659 --> 00:13:00,659
+oke
+
+383
+00:13:02,659 --> 00:13:03,659
+oke
+
+384
+00:13:03,659 --> 00:13:04,659
+gitu ya
+
+385
+00:13:04,659 --> 00:13:05,659
+iya
+
+386
+00:13:05,659 --> 00:13:08,659
+ini saya, ini yang pasti ya seperti ini kalau mau dibuat sistem
+
+387
+00:13:08,659 --> 00:13:09,659
+ini permohonan ya?
+
+388
+00:13:09,659 --> 00:13:10,659
+permohonan
+
+389
+00:13:10,659 --> 00:13:11,659
+oke, kalau claim
+
+390
+00:13:11,659 --> 00:13:13,659
+nah kalau claim
+
+391
+00:13:16,659 --> 00:13:18,659
+claim ini harus masuk di TC kan
+
+392
+00:13:18,659 --> 00:13:19,659
+terdapat kondisinya
+
+393
+00:13:19,659 --> 00:13:20,659
+iya
+
+394
+00:13:20,659 --> 00:13:21,659
+apa syaratnya?
+
+395
+00:13:21,659 --> 00:13:22,659
+payrollnya masih
+
+396
+00:13:22,659 --> 00:13:23,659
+iya
+
+397
+00:13:23,659 --> 00:13:25,659
+semuanya masih
+
+398
+00:13:26,659 --> 00:13:28,659
+loh kok dia nggak bayar? kok nggak bisa ketage?
+
+399
+00:13:28,659 --> 00:13:30,659
+iya, begitu
+
+400
+00:13:30,659 --> 00:13:31,659
+oh
+
+401
+00:13:31,659 --> 00:13:33,659
+karena dia
+
+402
+00:13:35,659 --> 00:13:36,659
+gajinya turun
+
+403
+00:13:36,659 --> 00:13:41,659
+loh kenapa turun? karena dia sudah tidak menjabat fungsional lagi misalnya
+
+404
+00:13:41,659 --> 00:13:42,659
+iya
+
+405
+00:13:43,659 --> 00:13:44,659
+apa gimana ya?
+
+406
+00:13:44,659 --> 00:13:46,659
+masuk nggak di TC kita ini?
+
+407
+00:13:46,659 --> 00:13:47,659
+iya
+
+408
+00:13:47,659 --> 00:13:48,659
+ya itu aja
+
+409
+00:13:48,659 --> 00:13:49,659
+kalau memang
+
+410
+00:13:49,659 --> 00:13:51,659
+kita menjamin turun gaji
+
+411
+00:13:54,659 --> 00:13:55,659
+menunggak
+
+412
+00:13:55,659 --> 00:13:56,659
+ya kita claim
+
+413
+00:13:57,659 --> 00:13:59,659
+kita setuju ya kita terima claim yang kita bayarkan
+
+414
+00:13:59,659 --> 00:14:00,659
+oh iya, iya, iya
+
+415
+00:14:01,659 --> 00:14:02,659
+tetapi
+
+416
+00:14:03,659 --> 00:14:08,659
+kita ini antara ke asuransi dengan bank
+
+417
+00:14:08,659 --> 00:14:13,659
+kalau sudah kita claim, kita bayar claimnya
+
+418
+00:14:14,659 --> 00:14:15,659
+kalau dia ngangsur
+
+419
+00:14:16,659 --> 00:14:18,659
+harus masuk ke sini, ke asuransi
+
+420
+00:14:19,659 --> 00:14:25,659
+karena Mas Hamam sudah atas nunggaknya ayah misalnya
+
+421
+00:14:26,659 --> 00:14:27,659
+claim kan, oke
+
+422
+00:14:27,659 --> 00:14:28,659
+nggak
+
+423
+00:14:28,659 --> 00:14:29,659
+tak bayar
+
+424
+00:14:29,659 --> 00:14:30,659
+oke
+
+425
+00:14:30,659 --> 00:14:33,659
+tapi kalau ayah ngeceli terus ya, belum ya, setelah itu harus balik ke saya
+
+426
+00:14:33,659 --> 00:14:37,659
+oh, berarti claim itu bank yang minta ya?
+
+427
+00:14:37,659 --> 00:14:39,659
+bank yang minta, bank yang ngajuin
+
+428
+00:14:39,659 --> 00:14:43,659
+oh bank ngajuin, tapi begitu ternyata setelah ngajuin, sini masih bayar ngangsurannya
+
+429
+00:14:43,659 --> 00:14:44,659
+masih atau nggak kan? gitu kan
+
+430
+00:14:44,659 --> 00:14:45,659
+iya, iya
+
+431
+00:14:45,659 --> 00:14:47,659
+kalau masih bayar ya, proporsional dong
+
+432
+00:14:47,659 --> 00:14:48,659
+iya, iya
+
+433
+00:14:48,659 --> 00:14:51,659
+atas claim tersebut itu saya mau berapa? gitu kan
+
+434
+00:14:51,659 --> 00:14:55,659
+kenapa bank minta claim padahal masalah masih ngangsur pak?
+
+435
+00:14:56,659 --> 00:14:57,659
+bisa jadi begini
+
+436
+00:15:01,659 --> 00:15:07,659
+masak bank minta, sorry bank minta claim, masih diperan asal perbayar
+
+437
+00:15:08,659 --> 00:15:09,659
+bayarnya kan nggak bisa full
+
+438
+00:15:09,659 --> 00:15:10,659
+oh
+
+439
+00:15:11,659 --> 00:15:13,659
+kan tadi turun penghasil
+
+440
+00:15:13,659 --> 00:15:15,659
+iya, iya, iya, turun ngangsurannya
+
+441
+00:15:16,659 --> 00:15:23,659
+harus yang bayar 120, karena turun tundangan, dia hanya bayar 70
+
+442
+00:15:23,659 --> 00:15:27,659
+lungak-lungak terus kan, claim aja dah, dah, dah
+
+443
+00:15:27,659 --> 00:15:30,659
+ibarat claim itu minta talangan
+
+444
+00:15:30,659 --> 00:15:31,659
+iya, iya, iya
+
+445
+00:15:31,659 --> 00:15:33,659
+kan ditalangi, minta talang hidup
+
+446
+00:15:34,659 --> 00:15:36,659
+dibayarnya full berarti ya?
+
+447
+00:15:36,659 --> 00:15:40,659
+ah, ini tadi kesepakatan kan tadi
+
+448
+00:15:40,659 --> 00:15:44,659
+kesepakatan adalah, ya tentu sisanya
+
+449
+00:15:45,659 --> 00:15:49,659
+nggak boleh dari awal, kan udah dibayar mas amam udah bayar
+
+450
+00:15:49,659 --> 00:15:50,659
+beberapa
+
+451
+00:15:50,659 --> 00:15:53,659
+beberapa, ya claimnya ya sisanya
+
+452
+00:15:53,659 --> 00:15:59,659
+begitu nggak full, yang dibayar, yang didisberas oleh asuransi fullnya apa sisa dari nggak fullnya pak?
+
+453
+00:15:59,659 --> 00:16:02,659
+oh nggak, kalau claim itu sekaligus
+
+454
+00:16:02,659 --> 00:16:03,659
+oh sampai ujung
+
+455
+00:16:03,659 --> 00:16:05,659
+sampai ujung, sampai belakang
+
+456
+00:16:05,659 --> 00:16:08,659
+oh, cuma berarti nanti angsurannya belok
+
+457
+00:16:08,659 --> 00:16:10,659
+iya, angsurannya dibelok
+
+458
+00:16:11,659 --> 00:16:13,659
+terus yang kedua, ini tadi
+
+459
+00:16:13,659 --> 00:16:18,659
+berapa claim, kalau di kami, di penjaminan, claim itu nggak bisa 100%
+
+460
+00:16:18,659 --> 00:16:19,659
+iya, iya, iya
+
+461
+00:16:19,659 --> 00:16:21,659
+penjaminan itu berarti ada resering
+
+462
+00:16:21,659 --> 00:16:23,659
+30, 70
+
+463
+00:16:23,659 --> 00:16:24,659
+iya, iya, iya
+
+464
+00:16:24,659 --> 00:16:29,659
+jadi kalau ada sisa tugaan 1M misalnya
+
+465
+00:16:29,659 --> 00:16:31,659
+saya hanya 700
+
+466
+00:16:31,659 --> 00:16:33,659
+iya, iya, iya
+
+467
+00:16:35,659 --> 00:16:39,659
+kalau dokumennya, berarti apa aja pak yang dicek cerifikasi untuk pemahami dia
+
+468
+00:16:39,659 --> 00:16:41,659
+apa sesuai TNC ya pak?
+
+469
+00:16:42,659 --> 00:16:43,659
+TNC ya
+
+470
+00:16:43,659 --> 00:16:44,659
+ya TNC ya
+
+471
+00:16:45,659 --> 00:16:50,659
+yang pertama, ya ini saya sebagai asuransi
+
+472
+00:16:50,659 --> 00:16:52,659
+sama
+
+473
+00:16:55,659 --> 00:17:00,659
+bang, saya ini minta slicknya call berapa?
+
+474
+00:17:00,659 --> 00:17:01,659
+itu kan di awal pas pengen nanti
+
+475
+00:17:01,659 --> 00:17:04,659
+ya itu kan lancar, kalau claim berarti kan slicknya jelek
+
+476
+00:17:04,659 --> 00:17:05,659
+untuk bukti menunggak
+
+477
+00:17:05,659 --> 00:17:07,659
+iya, iya, oh minta lagi berarti
+
+478
+00:17:07,659 --> 00:17:08,659
+iya
+
+479
+00:17:08,660 --> 00:17:10,660
+minta slick lagi, oke
+
+480
+00:17:10,660 --> 00:17:12,660
+slick bukti nunggak
+
+481
+00:17:12,660 --> 00:17:15,660
+berarti kan slick, sudah berapa lama slicknya, modu atur
+
+482
+00:17:15,660 --> 00:17:18,660
+oh menunggak sudah call berapa? call 5
+
+483
+00:17:18,660 --> 00:17:19,660
+iya, iya, iya
+
+484
+00:17:19,660 --> 00:17:22,660
+claimnya call 5 apa call 2? itu tergantung kesepakatan
+
+485
+00:17:22,660 --> 00:17:23,660
+iya, iya, iya
+
+486
+00:17:23,660 --> 00:17:25,660
+kesepakatan asuransi sama pak
+
+487
+00:17:25,660 --> 00:17:26,660
+oh
+
+488
+00:17:26,660 --> 00:17:28,660
+slick apa lagi pak? misalnya, cuma slick aja?
+
+489
+00:17:28,660 --> 00:17:30,660
+slick terus
+
+490
+00:17:30,660 --> 00:17:32,660
+misalnya
+
+491
+00:17:32,660 --> 00:17:35,660
+kalau tadi turun gaji tidak ada apa?
+
+492
+00:17:35,660 --> 00:17:39,660
+tunjangan fungsinalnya, berarti slick gajinya kan harus dilanggar
+
+493
+00:17:39,660 --> 00:17:40,660
+oh
+
+494
+00:17:40,660 --> 00:17:42,660
+semula menjadi kan
+
+495
+00:17:42,660 --> 00:17:44,660
+iya
+
+496
+00:17:46,660 --> 00:17:47,660
+apa apa?
+
+497
+00:17:47,660 --> 00:17:51,660
+semula menjadi lagi slick, terus misalnya
+
+498
+00:17:51,660 --> 00:17:54,660
+dia menjabatkan, berarti ada SK
+
+499
+00:17:54,660 --> 00:17:57,660
+SK mutasi misalnya
+
+500
+00:17:57,660 --> 00:17:58,660
+iya
+
+501
+00:17:59,660 --> 00:18:01,660
+oke, ini yang CAC semua kan?
+
+502
+00:18:01,660 --> 00:18:03,660
+ini CAC, kita ngomong CAC
+
+503
+00:18:03,660 --> 00:18:04,660
+iya
+
+504
+00:18:05,660 --> 00:18:08,660
+berarti utama yang slick, ini verifikasinya sudah by machine ya?
+
+505
+00:18:08,660 --> 00:18:10,660
+jadi tinggal upload, sudah otomatis
+
+506
+00:18:10,660 --> 00:18:14,660
+iya, iya, harusnya makanya kan harus dibuat
+
+507
+00:18:14,660 --> 00:18:15,660
+oh
+
+508
+00:18:15,660 --> 00:18:19,660
+dibuat rumah gitu, jadi kalau ngajukan terkumpul syaratnya ini
+
+509
+00:18:19,660 --> 00:18:21,660
+ini layak claim, ini layak
+
+510
+00:18:21,660 --> 00:18:22,660
+sekarang pasti belum ada pak?
+
+511
+00:18:22,660 --> 00:18:23,660
+hmm?
+
+512
+00:18:23,660 --> 00:18:25,660
+boy system belum ada?
+
+513
+00:18:25,660 --> 00:18:27,660
+dia sering dodeh
+
+514
+00:18:28,660 --> 00:18:31,660
+untuk memeriksa ketentuan ini dengan
+
+515
+00:18:31,660 --> 00:18:35,660
+dengan TSTC dan dokumen terlambil untuk claim
+
+516
+00:18:38,660 --> 00:18:41,660
+sebentar, ada ya
+
+517
+00:18:48,660 --> 00:18:50,660
+apa pengembangan ya, saya nggak ngerti
+
+518
+00:18:50,660 --> 00:18:51,660
+oh iya
+
+519
+00:18:51,660 --> 00:18:52,660
+aku nggak ngerti
+
+520
+00:18:52,660 --> 00:18:54,660
+tapi kalau yang brisma
+
+521
+00:18:54,660 --> 00:18:57,660
+itu antara BRIN dan BRI
+
+522
+00:18:57,660 --> 00:18:59,660
+itu sudah
+
+523
+00:18:59,660 --> 00:19:01,660
+sudah upload-uploadnya sudah ada
+
+524
+00:19:01,660 --> 00:19:02,660
+oh
+
+525
+00:19:03,660 --> 00:19:05,660
+upload ini, di upload ini ya
+
+526
+00:19:05,660 --> 00:19:08,660
+tinggal persetujuan juga harus ada, disetujuan itu tidak
+
+527
+00:19:08,660 --> 00:19:09,660
+iya, iya
+
+528
+00:19:09,660 --> 00:19:10,660
+itu belum di BRIN?
+
+529
+00:19:10,660 --> 00:19:11,660
+belum
+
+530
+00:19:12,660 --> 00:19:13,660
+yang seperti itu belum
+
+531
+00:19:13,660 --> 00:19:14,660
+iya, iya, iya
+
+532
+00:19:15,660 --> 00:19:20,660
+jadi kalau yang paling menarik adalah
+
+533
+00:19:21,660 --> 00:19:25,660
+dari proses awal ini, harusnya di proses awal ini
+
+534
+00:19:26,660 --> 00:19:31,660
+sampai akhir, akhir itu kalau ada claim itu terus
+
+535
+00:19:32,660 --> 00:19:33,660
+tertres
+
+536
+00:19:33,660 --> 00:19:34,660
+tertres terus, harusnya
+
+537
+00:19:34,660 --> 00:19:35,660
+iya
+
+538
+00:19:35,660 --> 00:19:39,660
+bukan ini sampai ini selesai, oh nanti buat lagi ini kesini
+
+539
+00:19:39,660 --> 00:19:40,660
+orang claim
+
+540
+00:19:40,660 --> 00:19:41,660
+iya
+
+541
+00:19:41,660 --> 00:19:43,660
+jadi kalau saya
+
+542
+00:19:43,660 --> 00:19:46,660
+di, kalau saya apa di temak saya
+
+543
+00:19:47,660 --> 00:19:49,660
+terhadap pinjaman mas amam
+
+544
+00:19:50,660 --> 00:19:53,660
+dari lancar sampai lunas
+
+545
+00:19:54,660 --> 00:19:55,660
+itu ada
+
+546
+00:19:57,660 --> 00:19:59,660
+lancar sampai lunas karena
+
+547
+00:20:00,660 --> 00:20:01,660
+restaurant
+
+548
+00:20:02,660 --> 00:20:07,660
+atau karena sekedar bayar itu terangut dulu
+
+549
+00:20:07,660 --> 00:20:08,660
+oh, case baiknya banyak juga ya
+
+550
+00:20:08,660 --> 00:20:09,660
+apa?
+
+551
+00:20:09,660 --> 00:20:10,660
+ada case, ada case lancar
+
+552
+00:20:10,660 --> 00:20:13,660
+case, case lancarnya itu banyak, macem-macem
+
+553
+00:20:15,660 --> 00:20:16,660
+oke
+
+554
+00:20:18,660 --> 00:20:19,660
+oke
+
+555
+00:20:23,660 --> 00:20:25,660
+oh, claim kan sudah
+
+556
+00:20:27,660 --> 00:20:29,660
+terus bayarnya kemana, butinya apa
+
+557
+00:20:30,660 --> 00:20:32,660
+sudah bayar kan?
+
+558
+00:20:32,660 --> 00:20:33,660
+sudah
+
+559
+00:20:33,660 --> 00:20:35,660
+belum dapat bayar
+
+560
+00:20:37,660 --> 00:20:39,660
+pada waktu
+
+561
+00:20:39,660 --> 00:20:42,660
+dengan nasabah mas amam, nyi jel-nyi jel tadi
+
+562
+00:20:43,660 --> 00:20:44,660
+itu nanya-nanya subru
+
+563
+00:20:45,660 --> 00:20:47,660
+subru gasi atau recovery
+
+564
+00:20:48,660 --> 00:20:50,660
+mana setelahnya
+
+565
+00:20:50,660 --> 00:20:51,660
+iya
+
+566
+00:20:51,660 --> 00:20:54,660
+haknya tadi harus pecah dong 30 bank
+
+567
+00:20:54,660 --> 00:20:55,660
+iya
+
+568
+00:20:55,660 --> 00:20:56,660
+70 saya, iya
+
+569
+00:20:56,660 --> 00:20:57,660
+yang dari start itu itu
+
+570
+00:20:57,660 --> 00:20:58,660
+sampai dengan klop
+
+571
+00:20:59,660 --> 00:21:00,660
+klop itu apa?
+
+572
+00:21:00,660 --> 00:21:01,660
+klop sampai dengan lunas
+
+573
+00:21:01,660 --> 00:21:02,660
+oh lunas
+
+574
+00:21:02,660 --> 00:21:05,660
+saya, claim saya 70% saya terbayar
+
+575
+00:21:05,660 --> 00:21:06,660
+iya, iya, iya
+
+576
+00:21:08,660 --> 00:21:12,660
+nah, jadi dari proses awal, pengajuan
+
+577
+00:21:12,660 --> 00:21:13,660
+pengajuan
+
+578
+00:21:15,660 --> 00:21:18,660
+pengajuan penyaminan sampai dengan
+
+579
+00:21:20,660 --> 00:21:22,660
+clean, pengajuan clean
+
+580
+00:21:23,660 --> 00:21:25,660
+sampai dengan clean
+
+581
+00:21:27,660 --> 00:21:30,660
+terus pengajuan, perlaporan recovery
+
+582
+00:21:31,660 --> 00:21:33,660
+betul ya, sampai dengan lunas
+
+583
+00:21:34,660 --> 00:21:37,660
+nah, itu yang CHC berarti sudah selesai sekelnya pak ya
+
+584
+00:21:37,660 --> 00:21:38,660
+iya
+
+585
+00:21:38,660 --> 00:21:40,660
+nah, sekarang kalau kita tambah brisma yang beda apa pak
+
+586
+00:21:41,660 --> 00:21:44,660
+brisma yang di depan, brismanya di depan
+
+587
+00:21:44,660 --> 00:21:46,660
+ini tinggal kesininya saja
+
+588
+00:21:47,660 --> 00:21:50,660
+dia yang memverifikasi dokumen full
+
+589
+00:21:50,660 --> 00:21:53,660
+dia yang memverifikasi dokumen full
+
+590
+00:21:53,660 --> 00:21:56,660
+permohonan tapi dari bank ke langsung asuransi apa terhadap brisma
+
+591
+00:21:57,660 --> 00:22:02,660
+bisa langsung, bisa, bisa langsung, bisa melalui, tergantung kesepakatan
+
+592
+00:22:03,660 --> 00:22:04,660
+brisma untungnya dari mana pak?
+
+593
+00:22:05,660 --> 00:22:11,660
+untungnya adalah brisma ini dikasih brokerage fee
+
+594
+00:22:11,660 --> 00:22:12,660
+brokerage fee
+
+595
+00:22:12,660 --> 00:22:13,660
+bayarnya per apa pak?
+
+596
+00:22:13,660 --> 00:22:17,660
+bayarnya per police
+
+597
+00:22:17,660 --> 00:22:18,660
+bukan per claim
+
+598
+00:22:19,660 --> 00:22:20,660
+bukan, per pengajuan kan
+
+599
+00:22:21,660 --> 00:22:25,660
+ini hanya broker aja, broker ini cuma lumayan lewat
+
+600
+00:22:25,660 --> 00:22:27,660
+saya dapat brokernya sendiri saja
+
+601
+00:22:27,660 --> 00:22:30,660
+jadi brisma itu jualan juga pak untuk
+
+602
+00:22:30,660 --> 00:22:31,660
+jualan?
+
+603
+00:22:31,660 --> 00:22:34,660
+jualan barangnya dia, barangnya asuransi ini
+
+604
+00:22:34,660 --> 00:22:35,660
+barangnya asuransi
+
+605
+00:22:35,660 --> 00:22:38,660
+tapi dia verifikator juga, kalau
+
+606
+00:22:38,660 --> 00:22:39,660
+iya
+
+607
+00:22:43,660 --> 00:22:45,660
+kalau boleh tahu berapa fee nya?
+
+608
+00:22:45,660 --> 00:22:47,660
+fee nya kalau
+
+609
+00:22:47,660 --> 00:22:51,660
+kalau ya, kalau sekarang ketentuan OJK itu 10%
+
+610
+00:22:51,660 --> 00:22:52,660
+dari total police?
+
+611
+00:22:52,660 --> 00:22:53,660
+premium
+
+612
+00:22:53,660 --> 00:22:54,660
+10% premium?
+
+613
+00:22:54,660 --> 00:22:55,660
+iya
+
+614
+00:22:57,660 --> 00:22:58,660
+maksimum
+
+615
+00:22:58,660 --> 00:22:59,660
+maksimum
+
+616
+00:22:59,660 --> 00:23:00,660
+iya
+
+617
+00:23:01,660 --> 00:23:04,660
+tapi kosnya dia orang gaji biasa, overhead
+
+618
+00:23:04,660 --> 00:23:06,660
+oh iya, orang brokerage
+
+619
+00:23:06,660 --> 00:23:07,660
+fee nya dari
+
+620
+00:23:08,660 --> 00:23:12,660
+tapi kalau brisma berarti cuma produk asuransi bang aja pak ya? dia nggak tersehatan kan?
+
+621
+00:23:12,660 --> 00:23:13,660
+semua
+
+622
+00:23:13,660 --> 00:23:14,660
+semua? semua
+
+623
+00:23:15,660 --> 00:23:16,660
+oh itu beda-beda sama prosesnya?
+
+624
+00:23:17,660 --> 00:23:19,660
+oh prosesnya kurang lebih sama
+
+625
+00:23:19,660 --> 00:23:21,660
+oh itu? prosesnya kurang lebih sama
+
+626
+00:23:21,660 --> 00:23:22,660
+asuransi kesehatan sama pak?
+
+627
+00:23:22,660 --> 00:23:25,660
+asuransi kesehatan kan sama, tinggal formulirnya apa kan?
+
+628
+00:23:26,660 --> 00:23:32,660
+apa perlu lah asuransi keterangan, hasil laboratorium, cek apa laboratorium
+
+629
+00:23:33,660 --> 00:23:34,660
+oh yang beda jenis dokumennya aja pak?
+
+630
+00:23:34,660 --> 00:23:36,660
+iya kan dokumennya aja
+
+631
+00:23:36,660 --> 00:23:37,660
+iya iya iya
+
+632
+00:23:37,660 --> 00:23:39,660
+mau asuransi kebakaran berarti
+
+633
+00:23:39,660 --> 00:23:45,660
+berarti asuransi mobil ya berarti ada objeknya mobil, berarti STMK, ini BKB kan begitu
+
+634
+00:23:45,660 --> 00:23:46,660
+iya iya iya
+
+635
+00:23:47,660 --> 00:23:48,660
+disesuaikan
+
+636
+00:23:49,660 --> 00:23:52,660
+tapi sama ya permohonan, claim udah gitu aja prosesnya
+
+637
+00:23:52,660 --> 00:23:53,660
+permohonan
+
+638
+00:23:53,660 --> 00:23:54,660
+underwriting
+
+639
+00:23:55,660 --> 00:23:56,660
+underwriting
+
+640
+00:23:57,660 --> 00:23:58,660
+claim
+
+641
+00:23:59,660 --> 00:24:00,660
+periksa claim
+
+642
+00:24:00,660 --> 00:24:01,660
+setuju tidak
+
+643
+00:24:01,660 --> 00:24:02,660
+periksa claim itu apa?
+
+644
+00:24:02,660 --> 00:24:04,660
+claim, diperklaimnya, di setuju atau tidak
+
+645
+00:24:04,660 --> 00:24:05,660
+iya iya iya
+
+646
+00:24:06,660 --> 00:24:10,660
+misalnya tadi kesehatan karena dia bunuh diri, sudah enggak kan
+
+647
+00:24:11,660 --> 00:24:13,660
+atau kan minum racon dia, enggak
+
+648
+00:24:14,660 --> 00:24:18,660
+berarti intinya cuma membandingkan, pada intinya membandingkan TC sama dokumen
+
+649
+00:24:18,660 --> 00:24:20,660
+iya itu itu iya itu aja
+
+650
+00:24:20,660 --> 00:24:21,660
+iya itu aja benar juga pak
+
+651
+00:24:21,660 --> 00:24:22,660
+kesepakatan ini apa?
+
+652
+00:24:22,660 --> 00:24:25,660
+nah setelah claim, bayar
+
+653
+00:24:27,660 --> 00:24:34,660
+harus ada pengawasan atau register monitoring terhadap recovery-nya
+
+654
+00:24:35,660 --> 00:24:37,660
+jadi harus satu
+
+655
+00:24:37,660 --> 00:24:38,660
+recovery itu itu apa ya pak?
+
+656
+00:24:38,660 --> 00:24:41,660
+recovery adalah kalau orang yang bayar atau keluarganya bayar
+
+657
+00:24:41,660 --> 00:24:42,660
+oh iya iya
+
+658
+00:24:42,660 --> 00:24:44,660
+tapi kan asuransi kesehatan enggak ada recovery pak?
+
+659
+00:24:44,660 --> 00:24:47,660
+recovery ya asuransi kesehatan ada atau tidak
+
+660
+00:24:47,660 --> 00:24:52,660
+biasanya orang sudah dengan sadar dia asuransi terus dibayar ya udah gitu enggak ada recovery lagi kan
+
+661
+00:24:54,660 --> 00:24:55,660
+paling kopi
+
+662
+00:24:55,660 --> 00:24:56,660
+oh iya iya
+
+663
+00:24:56,660 --> 00:24:58,660
+kalau asuransi jiwa iya
+
+664
+00:24:58,660 --> 00:25:01,660
+kalau kalau asuransi bank ada ya recovery
+
+665
+00:25:01,660 --> 00:25:02,660
+ada
+
+666
+00:25:02,660 --> 00:25:04,660
+oh bedanya itu berarti iya iya pak
+
+667
+00:25:05,660 --> 00:25:09,660
+kalau kapal kerugian ya rugi, enggak ada recovery
+
+668
+00:25:15,660 --> 00:25:16,660
+jadi merger apa hari kemarin?
+
+669
+00:25:16,660 --> 00:25:17,660
+hmm?
+
+670
+00:25:17,660 --> 00:25:18,660
+jadi merger udah?
+
+671
+00:25:18,660 --> 00:25:19,660
+ini kalau
+
+672
+00:25:19,660 --> 00:25:21,660
+nunggu April ini
+
+673
+00:25:21,660 --> 00:25:22,660
+oh jadi April
+
+674
+00:25:22,660 --> 00:25:23,660
+April
+
+675
+00:25:25,660 --> 00:25:27,660
+due diligence-nya April
+
+676
+00:25:29,660 --> 00:25:32,660
+kalau jadi atau enggak, ini punya suka
+
+677
+00:25:32,660 --> 00:25:34,660
+pemerintah kayak gini
+
+678
+00:25:36,660 --> 00:25:39,660
+apa berarti dari 10% premium itu enggak dapat apa lagi udah?
+
+679
+00:25:39,660 --> 00:25:40,660
+enggak dapat
+
+680
+00:25:40,660 --> 00:25:44,660
+oh berarti harus selalu cari kontrak-kontrak baru ya?
+
+681
+00:25:44,660 --> 00:25:47,660
+oh iya kalau promen harus cari kontrak baru, bisnis baru juga
+
+682
+00:25:48,660 --> 00:25:49,660
+iya iya
+
+683
+00:25:53,660 --> 00:25:55,660
+harus harus cari baru juga
+
+684
+00:25:57,660 --> 00:26:01,660
+sorry pak izinkan lo brisma untuk misalnya asuransi jiwa
+
+685
+00:26:01,660 --> 00:26:03,660
+dia berarti dia yang tak tekan dengan rumah sakit ya?
+
+686
+00:26:03,660 --> 00:26:05,660
+kalau ada claim dari
+
+687
+00:26:05,660 --> 00:26:07,660
+tidak tidak
+
+688
+00:26:07,660 --> 00:26:11,660
+kalau asuransi jiwa dia itu
+
+689
+00:26:11,660 --> 00:26:13,660
+sebagai broker
+
+690
+00:26:13,660 --> 00:26:15,660
+eh gini
+
+691
+00:26:15,660 --> 00:26:17,660
+sorry asuransi jiwa
+
+692
+00:26:17,660 --> 00:26:19,660
+kalau brisma menang
+
+693
+00:26:19,660 --> 00:26:21,660
+ya kalau brisma menang
+
+694
+00:26:23,660 --> 00:26:24,660
+dia yang urusin
+
+695
+00:26:24,660 --> 00:26:26,660
+jadi urusin claim
+
+696
+00:26:26,660 --> 00:26:28,660
+jadi ada rip dari
+
+697
+00:26:28,660 --> 00:26:30,660
+kantor misalnya bang agro
+
+698
+00:26:30,660 --> 00:26:32,660
+agro pegawenya
+
+699
+00:26:33,660 --> 00:26:34,660
+itu
+
+700
+00:26:34,660 --> 00:26:36,660
+yang handle
+
+701
+00:26:37,660 --> 00:26:39,660
+yang handle broker
+
+702
+00:26:39,660 --> 00:26:41,660
+jadi dia yang oh brisma tuh jual ke bank ya?
+
+703
+00:26:41,660 --> 00:26:47,660
+bukan ke asuransi kan kalau misalnya kayak artmedica dia jual ke aliansi-nya
+
+704
+00:26:47,660 --> 00:26:49,660
+aliansi-nya iya aliansi-nya
+
+705
+00:26:50,660 --> 00:26:53,660
+saya nyari misalnya dana pensiun
+
+706
+00:26:53,660 --> 00:26:55,660
+atau perusahaannya dana pensiun
+
+707
+00:26:55,660 --> 00:26:58,660
+untuk asuransi kesehatan ya ada, saya cariin
+
+708
+00:26:59,660 --> 00:27:01,660
+saya cari
+
+709
+00:27:02,660 --> 00:27:05,660
+ke asuransi alian semua apa mau
+
+710
+00:27:06,660 --> 00:27:08,660
+tapi kontraknya dengan ini ya?
+
+711
+00:27:08,660 --> 00:27:13,660
+kontraknya brisma atau kontraknya dengan si perusahaan dana pensiun ya?
+
+712
+00:27:14,660 --> 00:27:16,660
+kontraknya
+
+713
+00:27:16,660 --> 00:27:18,660
+dapat uangnya dari dana pensiun kan?
+
+714
+00:27:18,660 --> 00:27:19,660
+oh iya
+
+715
+00:27:19,660 --> 00:27:21,660
+saya dapatnya dari alian
+
+716
+00:27:21,660 --> 00:27:22,660
+oh dari alian
+
+717
+00:27:22,660 --> 00:27:24,660
+karena saya nyariin dia kan?
+
+718
+00:27:24,660 --> 00:27:26,660
+oh
+
+719
+00:27:28,660 --> 00:27:29,660
+iya iya iya
+
+720
+00:27:29,660 --> 00:27:30,660
+kontraknya dengan aliansi juga?
+
+721
+00:27:30,660 --> 00:27:31,660
+apa?
+
+722
+00:27:31,660 --> 00:27:33,660
+kontraknya dengan aliansi juga ya kontraknya?
+
+723
+00:27:33,660 --> 00:27:34,660
+kontraknya
+
+724
+00:27:34,660 --> 00:27:38,660
+enggak kontraknya direct antara alian sama dana pensiun
+
+725
+00:27:38,660 --> 00:27:40,660
+tertanggung dana pensiun
+
+726
+00:27:40,660 --> 00:27:44,660
+oh cuma masalah claim aliansi-nya minta tolong brisma untuk mengurusinya
+
+727
+00:27:44,660 --> 00:27:47,660
+ee bukan aliansi yang minta tolong brisma
+
+728
+00:27:49,660 --> 00:27:53,660
+broker itu ber pihak
+
+729
+00:27:54,660 --> 00:27:58,660
+ke perusahaan
+
+730
+00:27:58,660 --> 00:28:01,660
+perusahaan saya atau tertanggung
+
+731
+00:28:03,660 --> 00:28:08,660
+jadi kalau sampai nggak dibayar-bayar saya harus memperjuangkan supaya dibayar
+
+732
+00:28:08,660 --> 00:28:11,660
+oh saya sebagai broker
+
+733
+00:28:12,660 --> 00:28:18,660
+soalnya kalau admedika kan dia ditunjuk alians untuk bantuin proses claim?
+
+734
+00:28:18,660 --> 00:28:20,660
+oh iya untuk bantu proses claim
+
+735
+00:28:20,660 --> 00:28:29,660
+ya sesuai dengan formula yang diminta sama si artisinya alian apa dengan dana pensiun kan
+
+736
+00:28:29,660 --> 00:28:36,660
+arti kan dia harus murni-murni apa aja formula nya apa surat apa aja nih masukin sini ya kan begitu
+
+737
+00:28:36,660 --> 00:28:41,660
+saya hanya simplifikasi saja apa yang kamu mau
+
+738
+00:28:41,660 --> 00:28:44,660
+rumah sakit misalnya alians misalnya
+
+739
+00:28:45,660 --> 00:28:52,660
+suratnya apa mas aman mau bayar kalau ada ini surat ketera dokternya ada tiketnya ada ini apa eko ya udah
+
+740
+00:28:52,660 --> 00:28:54,660
+mana format mirasi itu saya
+
+741
+00:28:54,660 --> 00:28:58,660
+saya yang minta aliansi
+
+742
+00:28:58,660 --> 00:29:02,660
+kalau alians pun yang perorangan tuh diurusnya sama
+
+743
+00:29:02,660 --> 00:29:04,660
+contoh admedika gitu
+
+744
+00:29:04,660 --> 00:29:08,660
+kalau ini kan tadi ada 3 parti ya yang dana pensiun sama alians
+
+745
+00:29:08,660 --> 00:29:13,660
+dana pensiunnya ngedis berapa dia cuma mengcover pegawainya untuk dapet alians
+
+746
+00:29:14,660 --> 00:29:15,660
+semua
+
+747
+00:29:15,660 --> 00:29:17,660
+maksudnya gini
+
+748
+00:29:17,660 --> 00:29:22,660
+misalnya mas aman nih kita sebagai dana pensiun
+
+749
+00:29:22,660 --> 00:29:23,660
+betul ya
+
+750
+00:29:23,660 --> 00:29:24,660
+pegawain
+
+751
+00:29:24,660 --> 00:29:25,660
+ya pegawain atau pengurus lah kita
+
+752
+00:29:25,660 --> 00:29:27,660
+pengurus dapet
+
+753
+00:29:27,660 --> 00:29:31,660
+kenapa kalau kita pakai asuransi misalnya
+
+754
+00:29:31,660 --> 00:29:37,660
+saya tanya mas aman kita bayar orang sakit berapa nih habisnya setahun
+
+755
+00:29:37,660 --> 00:29:40,660
+biaya penglebatan kita berapa saat gitu
+
+756
+00:29:41,660 --> 00:29:43,660
+1,3 m pak
+
+757
+00:29:43,660 --> 00:29:45,660
+ngomong begitu dan ngomong seperti itu
+
+758
+00:29:47,660 --> 00:29:51,660
+gimana pakai uang kita atau pakai uang asuransi nih
+
+759
+00:29:54,660 --> 00:29:59,660
+begitu ya mas aman menanya pakai uang kita atau pakai asuransi pakai eko
+
+760
+00:30:00,660 --> 00:30:03,660
+halok saya enak asuransi
+
+761
+00:30:04,660 --> 00:30:10,660
+saya kasih 1,3 uang saya yang anggaran saya
+
+762
+00:30:12,660 --> 00:30:20,660
+kalau kurang dari 1,3 asuransi mau ambil
+
+763
+00:30:21,660 --> 00:30:24,660
+kalau lebih dari 1,3 pasti kalah
+
+764
+00:30:24,660 --> 00:30:26,660
+kan begitu aja
+
+765
+00:30:26,660 --> 00:30:29,660
+ya sudah asuransi kan sesekit bergambling kan
+
+766
+00:30:30,660 --> 00:30:32,660
+minta data tahun lalu berapa
+
+767
+00:30:32,660 --> 00:30:35,660
+1,3
+
+768
+00:30:38,660 --> 00:30:40,660
+yang sakit siapa yang paling gede
+
+769
+00:30:42,660 --> 00:30:44,660
+berarti itu bisnisnya alian untuk b2b nya ya pak
+
+770
+00:30:44,660 --> 00:30:47,660
+b2b nya saya nyariin saya broker
+
+771
+00:30:49,660 --> 00:30:51,660
+saya dapet fee dari alian
+
+772
+00:30:51,660 --> 00:30:52,660
+karena saya nemuin ya
+
+773
+00:30:52,660 --> 00:30:56,660
+iya kejuali saya ngomong ke mas aman sebagai dana pensiun
+
+774
+00:30:56,660 --> 00:30:59,660
+ya usah aku kasih management fee setiap dapet fee
+
+775
+00:30:59,660 --> 00:31:03,660
+kasih uang administrasi tepung 1,000
+
+776
+00:31:03,660 --> 00:31:04,660
+oh bisa gitu juga
+
+777
+00:31:04,660 --> 00:31:06,660
+ya itu kan beratus pakatan
+
+778
+00:31:08,660 --> 00:31:09,660
+tapi berarti maksudnya gini
+
+779
+00:31:09,660 --> 00:31:11,660
+kan ada yang case nya bukan b2b ya pak
+
+780
+00:31:11,660 --> 00:31:12,660
+kan ini kan b2b ya
+
+781
+00:31:12,660 --> 00:31:15,660
+dada pen dengan alian
+
+782
+00:31:15,660 --> 00:31:19,660
+kalau kayak atmedika kan dia ngurusin pun administrasi event yang
+
+783
+00:31:20,660 --> 00:31:21,660
+yang sudah dalam tisi
+
+784
+00:31:21,660 --> 00:31:22,660
+yang b2c
+
+785
+00:31:22,660 --> 00:31:24,660
+yang sudah ada dalam tisi
+
+786
+00:31:25,660 --> 00:31:28,660
+jadi saya kan misalnya saya subscribe alian
+
+787
+00:31:28,660 --> 00:31:30,660
+itu nggak lewat perusahaan saya sendiri
+
+788
+00:31:30,660 --> 00:31:31,660
+nah itu tuh
+
+789
+00:31:31,660 --> 00:31:34,660
+serifikasi administrasi saya pun diurusin sama atmedika
+
+790
+00:31:34,660 --> 00:31:36,660
+nah kalau berisma itu main ke sana nggak pak
+
+791
+00:31:36,660 --> 00:31:37,660
+nggak
+
+792
+00:31:37,660 --> 00:31:39,660
+nggak jadi cuma yang b2b aja ya
+
+793
+00:31:39,660 --> 00:31:41,660
+untuk kontrak-kontrak besar
+
+794
+00:31:41,660 --> 00:31:43,660
+iya iya iya
+
+795
+00:31:43,660 --> 00:31:45,660
+oh berat semua ya
+
+796
+00:31:45,660 --> 00:31:46,660
+betul
+
+797
+00:31:46,660 --> 00:31:48,660
+karena atmedika dia
+
+798
+00:31:48,660 --> 00:31:51,660
+on behalf ngurusin semua
+
+799
+00:31:51,660 --> 00:31:52,660
+iya betul
+
+800
+00:31:52,660 --> 00:31:55,660
+jadi saya yang perorangan langsung ke alian semua diurusin
+
+801
+00:31:55,660 --> 00:31:56,660
+iya
+
+802
+00:31:59,660 --> 00:32:04,660
+berarti kan masama harus mendalikan alians kan
+
+803
+00:32:04,660 --> 00:32:06,660
+perusahaan-perusahaan yang seperti itu kan
+
+804
+00:32:08,660 --> 00:32:10,660
+cuma alian semua langsung urusin verifikasinya dia nunjuk sama
+
+805
+00:32:10,660 --> 00:32:12,660
+atmedika
+
+806
+00:32:12,660 --> 00:32:14,660
+tapi proses verifikasi sama ya
+
+807
+00:32:14,660 --> 00:32:16,660
+ngebandingin tisinya dengan
+
+808
+00:32:16,660 --> 00:32:18,660
+iya apa yang diminta kan
+
+809
+00:32:18,660 --> 00:32:19,660
+iya iya
+
+810
+00:32:19,660 --> 00:32:22,660
+jadi frame kerangka berpikirnya sih sama ya
+
+811
+00:32:22,660 --> 00:32:23,660
+iya
+
+812
+00:32:26,660 --> 00:32:28,660
+kalau yang kayak atmedika apa-apa
+
+813
+00:32:28,660 --> 00:32:29,660
+atau bisnis modelnya nggak?
+
+814
+00:32:29,660 --> 00:32:30,660
+biasanya kayak gimana?
+
+815
+00:32:30,660 --> 00:32:31,660
+yang semua diurus
+
+816
+00:32:31,660 --> 00:32:32,660
+apakah perklaim kan?
+
+817
+00:32:32,660 --> 00:32:33,660
+kalau gitu nggak ada kontrak
+
+818
+00:32:33,660 --> 00:32:34,660
+perklaim
+
+819
+00:32:34,660 --> 00:32:35,660
+oh perklaim
+
+820
+00:32:35,660 --> 00:32:36,660
+oh perklaim, nanti dia begitu
+
+821
+00:32:36,660 --> 00:32:37,660
+biasanya berapa pak?
+
+822
+00:32:39,660 --> 00:32:42,660
+nggak lebih dari 5%
+
+823
+00:32:42,660 --> 00:32:43,660
+oh
+
+824
+00:32:43,660 --> 00:32:44,660
+nggak lebih
+
+825
+00:32:45,660 --> 00:32:46,660
+itu nggak lebih
+
+826
+00:32:46,660 --> 00:32:48,660
+nggak lebih, nggak lebih itu mungkin
+
+827
+00:32:48,660 --> 00:32:53,660
+bisa dihitung perjasa, perlem, perklaim itu mungkin dikasih 15.000
+
+828
+00:32:53,660 --> 00:32:55,660
+atau biaya telpon atau apa
+
+829
+00:32:55,660 --> 00:32:56,660
+ini hanya itu
+
+830
+00:32:59,660 --> 00:33:01,660
+kalau di Grisma dulu pak
+
+831
+00:33:01,660 --> 00:33:03,660
+bisnis modelnya yang pernah terjadi apa aja pak?
+
+832
+00:33:03,660 --> 00:33:04,660
+yang mana?
+
+833
+00:33:04,660 --> 00:33:05,660
+kan tadi pertelkan 10.000 ya?
+
+834
+00:33:05,660 --> 00:33:07,660
+oh iya kalau itu nggak ada
+
+835
+00:33:07,660 --> 00:33:10,660
+itu management fee lah kalau kita mau diomong
+
+836
+00:33:10,660 --> 00:33:12,660
+saya hanya mau melolah, membantu melolah
+
+837
+00:33:12,660 --> 00:33:14,660
+saya hanya mau melolah, membantu melolah
+
+838
+00:33:16,660 --> 00:33:17,660
+management fee misalnya
+
+839
+00:33:17,660 --> 00:33:19,660
+oke mas Ammar aku minta management fee ya
+
+840
+00:33:19,660 --> 00:33:22,660
+nanti untuk nilpun-nilpun ini administrasi
+
+841
+00:33:22,660 --> 00:33:25,660
+ngirim apa aku, ngirim, gojek, gosen misalnya
+
+842
+00:33:27,660 --> 00:33:29,660
+dikasih anggaran berapa aku misalnya
+
+843
+00:33:29,660 --> 00:33:30,660
+perklaim, perklaim
+
+844
+00:33:31,660 --> 00:33:34,660
+ya 25.000 lah pak, itu oke misalnya
+
+845
+00:33:34,660 --> 00:33:36,660
+oh tapi janjian-janjian juga ada di sini
+
+846
+00:33:36,660 --> 00:33:37,660
+iya
+
+847
+00:33:42,660 --> 00:33:43,660
+baik pak Eko
+
+848
+00:33:45,660 --> 00:33:49,660
+sepertinya cukup ya pak untuk pembelajaran awalnya ya
+
+849
+00:33:49,660 --> 00:33:51,660
+iya, dikumpulkan
+
+850
+00:36:12,659 --> 00:36:14,659
+alert itu bahasa negara kita itu apa ya?
+
+851
+00:36:14,659 --> 00:36:15,659
+Indonesia ya?
+
+852
+00:36:17,659 --> 00:36:18,659
+alert
+
+853
+00:36:20,659 --> 00:36:21,659
+peringatan?
+
+854
+00:36:21,659 --> 00:36:22,659
+peringatan, betul pak
+
+855
+00:36:22,659 --> 00:36:25,659
+tapi kok peringatan tuh kayaknya nggak, peringat kali ya?
+
+856
+00:36:25,659 --> 00:36:26,659
+oh iya bisa
+
+857
+00:36:32,659 --> 00:36:33,659
+iya
+
+858
+00:36:33,659 --> 00:36:34,659
+iya
+
+859
+00:36:34,659 --> 00:36:35,659
+iya
+
+860
+00:36:35,659 --> 00:36:36,659
+iya
+
+861
+00:36:36,659 --> 00:36:37,659
+iya
+
+862
+00:36:37,659 --> 00:36:38,659
+iya
+
+863
+00:36:38,659 --> 00:36:39,659
+iya
+
+864
+00:36:39,659 --> 00:36:40,659
+iya
+
+865
+00:36:40,659 --> 00:36:41,659
+iya
+
+866
+00:36:41,659 --> 00:36:42,659
+iya
+
+867
+00:37:11,659 --> 00:37:12,659
+iya
+
+868
+00:37:12,659 --> 00:37:15,859
+siap, mamam
+
+869
+00:37:16,659 --> 00:37:17,659
+mau kemana mak?
+
+870
+00:37:17,659 --> 00:37:19,659
+jangan kemana kok
+
+871
+00:37:19,659 --> 00:37:20,659
+jangan kemana
+
+872
+00:37:20,659 --> 00:37:21,659
+jangan kemana
+
+873
+00:37:21,659 --> 00:37:22,659
+bahasa negara ini
+
+874
+00:37:22,659 --> 00:37:23,659
+iya
+
+875
+00:37:23,659 --> 00:37:24,659
+iya
+
+876
+00:37:24,659 --> 00:37:25,659
+iya
+
+877
+00:37:25,659 --> 00:37:26,659
+iya
+
+878
+00:37:26,659 --> 00:37:27,659
+iya
+
+879
+00:37:27,659 --> 00:37:28,659
+iya
+
+880
+00:37:29,659 --> 00:37:30,659
+iya
+
+881
+00:37:31,659 --> 00:37:32,659
+iya
+
+882
+00:37:32,659 --> 00:37:33,659
+iya
+
+883
+00:37:33,659 --> 00:37:34,659
+iya
+
+884
+00:37:34,659 --> 00:37:35,659
+iya
+
+885
+00:37:35,659 --> 00:37:36,659
+iya
+
+886
+00:37:36,659 --> 00:37:37,659
+iya
+
+887
+00:37:37,659 --> 00:37:38,659
+iya
+
+888
+00:37:38,659 --> 00:37:39,659
+iya
+
+889
+00:37:39,659 --> 00:37:40,659
+iya
+
+890
+00:37:40,659 --> 00:37:41,659
+iya
+
+891
+00:37:41,659 --> 00:37:42,659
+mau kemana mah?
+
+892
+00:37:43,259 --> 00:37:44,259
+sekarang tempat mah mah
+
+893
+00:37:44,259 --> 00:37:44,759
+oh siap
+
+894
+00:37:44,759 --> 00:37:46,359
+saya tetap tidak ada tasnya
+
+895
+00:37:46,759 --> 00:37:47,759
+oke
+
+896
+00:37:50,460 --> 00:37:51,759
+aduh, hal yang gila
+
+897
+00:37:51,759 --> 00:37:52,659
+masih ada lagi?
+
+898
+00:37:52,659 --> 00:37:53,859
+cukup pak, cukup ya
+
+899
+00:37:53,859 --> 00:37:54,960
+oke, saya terima kasih banyak pak
+
+900
+00:37:54,960 --> 00:37:58,659
+dapat rokot terus, dua pungkus, dua pungkus, sudah empat pungkus ini
+
+901
+00:37:59,859 --> 00:38:00,960
+tapi nggak bisa di islam
+
+902
+00:38:00,960 --> 00:38:02,460
+iya, nanti ya mah
+
+903
+00:38:02,859 --> 00:38:03,859
+nanti kita mau
+
+904
+00:38:04,960 --> 00:38:06,859
+beliau tau langsung pakai S264
+
+905
+00:38:06,859 --> 00:38:08,659
+oh iya kan, kanan kanan ini
+
+906
+00:38:08,659 --> 00:38:10,960
+kalau nggak, nggak tau pokoknya
+
+907
+00:38:12,059 --> 00:38:13,359
+ada2 lagi
+
+908
+00:38:13,359 --> 00:38:15,059
+iyacoh, bangsung gue juga
+
+909
+00:38:15,659 --> 00:38:16,559
+aduh
+
+910
+00:38:18,359 --> 00:38:19,359
+Hahaha
+
+911
+00:38:21,960 --> 00:38:27,719
+hah?
+
+912
+00:38:28,659 --> 00:38:30,059
+pirospor sebelah katanya
+
+913
+00:38:30,059 --> 00:38:34,859
+nyaproduksional
+
+914
+00:38:36,159 --> 00:38:38,099
+hehehe
+
+915
+00:42:08,099 --> 00:42:10,239
+ыл
+
+916
+00:43:38,099 --> 00:43:40,099
+Terima kasih.
+
+917
+00:44:08,099 --> 00:44:10,099
+Terima kasih.
+
+918
+00:44:38,099 --> 00:44:40,099
+Terima kasih.
+
+919
+00:45:08,099 --> 00:45:10,099
+Terima kasih.
+
+920
+00:45:38,099 --> 00:45:41,099
+Terima kasih.
+
+921
+00:46:08,099 --> 00:46:10,099
+Terima kasih.
+
+922
+00:46:38,099 --> 00:46:40,099
+Terima kasih atas tunjukannya.
+
+923
+00:46:40,099 --> 00:46:42,099
+Hati-hati di jalan.
+
